@@ -232,6 +232,36 @@ TRANSFER_EVENT_GENERIC = {
     "europa", "champions", "opponent", "tegenstander",
 }
 
+TRANSFER_ENTITY_STOPWORDS = {
+    # Club/mediacontext en terugkerende Ajax-actoren. Deze woorden mogen nooit
+    # het enige bewijs zijn dat twee transferkoppen over dezelfde deal gaan.
+    "ajax", "afc", "amsterdam", "amsterdamse", "amsterdammers",
+    "espn", "fcupdate", "voetbalprimeur", "voetbalzone", "telegraaf",
+    "ajaxshowtime", "showtime", "ad", "nos", "vi",
+    "jordi", "cruijff", "mike", "verweij", "michel", "sanchez",
+    "oranje", "uruguyaan", "bosnier", "marokkaan", "nederlander",
+    "club", "league", "conference", "europa", "champions",
+}
+
+
+def transfer_entities(title: str) -> set[str]:
+    """Haal naamachtige ankers uit een transferkop.
+
+    Dit is bewust conservatief. We gebruiken hoofdletterwoorden als indicatie
+    voor spelers/teams en filteren vaste media- en Ajax-context weg.
+    """
+    text = clean(title)
+    raw = re.findall(r"\b[A-ZÀ-ÖØ-Þ][A-Za-zÀ-ÖØ-öø-ÿ'’.-]{2,}\b", text)
+    out = set()
+    for token in raw:
+        norm = token.strip(".'’-–—").lower()
+        if not norm or norm in TRANSFER_ENTITY_STOPWORDS:
+            continue
+        if norm in STOPWORDS or norm in TRANSFER_EVENT_GENERIC:
+            continue
+        out.add(norm)
+    return out
+
 
 def clean(value: str | None) -> str:
     if not value:
@@ -506,6 +536,15 @@ def same_event(a: dict, b: dict, df: Counter, total_docs: int) -> bool:
     overlap = ta & tb
     sim = weighted_similarity(a, b, df, total_docs)
 
+    # Transfers krijgen eerst een harde entiteitscheck. Als beide koppen duidelijke
+    # naamankers bevatten en die zijn volledig verschillend, gaat het niet om
+    # dezelfde transfer. Dit voorkomt o.a. Lang <-> Rodríguez en Tahirovic <-> Gudelj.
+    if a["category"] == b["category"] == "Transfers":
+        entities_a = transfer_entities(a["title"])
+        entities_b = transfer_entities(b["title"])
+        if entities_a and entities_b and entities_a.isdisjoint(entities_b):
+            return False
+
     # Exact/near-exact titels.
     if sim >= 0.50:
         return True
@@ -656,11 +695,18 @@ def cluster_events(items: list[dict]) -> list[list[dict]]:
         target = None
         best_score = 0.0
         for cluster in clusters:
-            # Vergelijk met alle artikelen in het cluster. Dat vangt kopvarianten op
-            # die inhoudelijk via een tweede bron aan hetzelfde nieuwsfeit hangen.
             cluster_score = 0.0
             matched = False
-            for other in cluster:
+
+            if item["category"] == "Transfers":
+                # Voor transfers alleen tegen het clusteranker vergelijken. Zo kan
+                # een derde artikel niet als brug twee verschillende spelersdossiers
+                # aan elkaar plakken (transitieve false positive).
+                comparisons = cluster[:1]
+            else:
+                comparisons = cluster
+
+            for other in comparisons:
                 if same_event(item, other, df, total_docs):
                     matched = True
                     cluster_score = max(
@@ -742,7 +788,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.3",
+            "generator": "Ajax Nieuws collector 1.4",
             "raw_candidates": len(candidates),
             "feed_errors": errors,
         },
@@ -754,7 +800,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.3",
+            "generator": "Ajax Nieuws collector 1.4",
             "article_count": len(candidates),
             "event_count": len(visible_events),
             "discovered_event_count": len(events),
