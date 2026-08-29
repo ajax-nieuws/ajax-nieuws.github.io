@@ -29,11 +29,11 @@ ROOT = Path(__file__).resolve().parent
 CANDIDATES_OUTPUT = ROOT / "kandidaten.json"
 NEWS_OUTPUT = ROOT / "nieuws.json"
 
-USER_AGENT = "AjaxNieuwsBot/1.0 (+independent-news-aggregator)"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 MAX_AGE_HOURS = 96
 EVENT_WINDOW_HOURS = 48
 MAX_EVENTS = 60
-MAX_PER_SOURCE = 18
+MAX_PER_SOURCE = 24
 
 # Directe feeds waar mogelijk. Google News site-search wordt gebruikt voor bronnen
 # zonder praktische clubfeed en als discovery-laag voor de officiële clubsite.
@@ -49,6 +49,7 @@ SOURCES = [
     {
         "publisher": "Voetbal International",
         "mode": "rss",
+        "strict_title": False,
         "url": "https://www.vi.nl/feed/news.xml?tag=ajax",
         "weight": 3.6,
         "ajax_specific": True,
@@ -56,6 +57,7 @@ SOURCES = [
     {
         "publisher": "VoetbalPrimeur",
         "mode": "rss",
+        "strict_title": False,
         "url": "https://www.voetbalprimeur.nl/feed/news.xml?tag=ajax",
         "weight": 3.0,
         "ajax_specific": True,
@@ -63,6 +65,7 @@ SOURCES = [
     {
         "publisher": "AT5",
         "mode": "rss",
+        "strict_title": False,
         "url": "https://rss.at5.nl/rss/ajax",
         "weight": 3.1,
         "ajax_specific": True,
@@ -70,6 +73,7 @@ SOURCES = [
     {
         "publisher": "Ajax.supporters.nl",
         "mode": "rss",
+        "strict_title": False,
         "url": "https://ajax.supporters.nl/nieuws/rss.xml",
         "weight": 2.3,
         "ajax_specific": True,
@@ -77,6 +81,7 @@ SOURCES = [
     {
         "publisher": "NOS",
         "mode": "rss",
+        "strict_title": True,
         "url": "https://feeds.nos.nl/nosvoetbal",
         "weight": 3.7,
         "ajax_specific": False,
@@ -84,6 +89,7 @@ SOURCES = [
     {
         "publisher": "ESPN",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "espn.nl",
         "weight": 3.5,
         "ajax_specific": True,
@@ -91,6 +97,7 @@ SOURCES = [
     {
         "publisher": "Ajax Showtime",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "ajaxshowtime.com",
         "weight": 2.9,
         "ajax_specific": True,
@@ -98,6 +105,7 @@ SOURCES = [
     {
         "publisher": "De Telegraaf",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "telegraaf.nl",
         "weight": 3.2,
         "ajax_specific": True,
@@ -105,6 +113,7 @@ SOURCES = [
     {
         "publisher": "AD",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "ad.nl",
         "weight": 3.1,
         "ajax_specific": True,
@@ -112,6 +121,7 @@ SOURCES = [
     {
         "publisher": "NU.nl",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "nu.nl",
         "weight": 2.9,
         "ajax_specific": True,
@@ -119,6 +129,7 @@ SOURCES = [
     {
         "publisher": "Voetbalzone",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "voetbalzone.nl",
         "weight": 2.6,
         "ajax_specific": True,
@@ -126,6 +137,7 @@ SOURCES = [
     {
         "publisher": "FCUpdate",
         "mode": "google_site",
+        "strict_title": True,
         "domain": "fcupdate.nl",
         "weight": 2.5,
         "ajax_specific": True,
@@ -156,6 +168,19 @@ BLOCK_TERMS = {
 AJAX_TERMS = {
     "ajax", "afc ajax", "ajacied", "ajacieden", "amsterdammers", "de toekomst",
     "johan cruijff arena", "jong ajax", "ajax vrouwen",
+}
+
+# Koppen die in club/tag-feeds terecht kunnen komen terwijl Ajax slechts zijdelings
+# wordt genoemd. Bij deze formats eisen we dat Ajax ook echt in de kop staat.
+BROAD_ROUNDUP_TERMS = {
+    "alle clubs op een rij", "rondje europa", "vi live", "zo kijk je",
+    "coëfficiënten", "coefficienten", "europese loting met perspectief",
+    "transferoverzicht", "transfercarrousel", "dit zijn alle transfers",
+}
+
+OTHER_CLUB_TERMS = {
+    "psv", "feyenoord", "fc twente", "az", "nec", "fc utrecht", "heerenveen",
+    "groningen", "pec zwolle", "sparta", "go ahead eagles", "fortuna", "nac",
 }
 
 CATEGORY_TERMS = {
@@ -315,25 +340,70 @@ def is_blocked(title: str, summary: str) -> bool:
     return any(term in text for term in BLOCK_TERMS)
 
 
-def is_ajax_relevant(title: str, summary: str, ajax_specific: bool) -> bool:
-    text = clean(f"{title} {summary}").lower()
-    if is_blocked(title, summary):
-        return False
-    if ajax_specific:
-        # Clubfeeds/site-searches zijn al gericht. Wel software/tennisachtige false positives weren.
-        if any(noise in text for noise in ("javascript ajax", "ajax request", "ajax call", "amsterdamsche football club ajax cricket")):
-            return False
-        return True
+def title_mentions_ajax(title: str) -> bool:
+    text = clean(title).lower()
     return any(term in text for term in AJAX_TERMS)
 
 
-def category_hint(title: str, summary: str) -> str:
+def is_ajax_relevant(title: str, summary: str, ajax_specific: bool, strict_title: bool = False) -> bool:
+    title_text = clean(title).lower()
     text = clean(f"{title} {summary}").lower()
+    if is_blocked(title, summary):
+        return False
+    if any(noise in text for noise in ("javascript ajax", "ajax request", "ajax call", "amsterdamsche football club ajax cricket")):
+        return False
+
+    title_has_ajax = title_mentions_ajax(title)
+    body_has_ajax = any(term in text for term in AJAX_TERMS)
+
+    # Brede feeds zoals NOS leveren alleen een item als Ajax expliciet in de kop staat.
+    # Dit voorkomt algemene UEFA-, PSV- en Feyenoordberichten die Ajax alleen in de tekst noemen.
+    if strict_title:
+        return title_has_ajax
+
+    if not ajax_specific:
+        return title_has_ajax
+
+    # In Ajax/tag-feeds mogen spelerkoppen zonder het woord Ajax blijven staan, maar
+    # generieke roundups en multi-clubkoppen alleen als Ajax zelf in de titel staat.
+    if not title_has_ajax:
+        if any(term in title_text for term in BROAD_ROUNDUP_TERMS):
+            return False
+        other_club_hits = sum(1 for club in OTHER_CLUB_TERMS if club in title_text)
+        if other_club_hits >= 2:
+            return False
+        # Een club/tag-feed is nuttig voor koppen als 'Tolu verovert Amsterdam'.
+        # We verlangen dan wel dat Ajax in titel + omschrijving terugkomt.
+        return body_has_ajax
+
+    return True
+
+
+def category_hint(title: str, summary: str) -> str:
+    title_text = clean(title).lower()
+    full_text = clean(f"{title} {summary}").lower()
+
+    # Expliciete subteams eerst. Een samenvatting met transferwoorden mag een
+    # Jong Ajax- of Ajax Vrouwen-kop niet onbedoeld naar Transfers trekken.
+    if "jong ajax" in title_text or "ajax o21" in title_text:
+        return "Jong Ajax"
+    if "ajax vrouwen" in title_text or "vrouwenelftal" in title_text:
+        return "Ajax Vrouwen"
+
     scores = {}
     for category, terms in CATEGORY_TERMS.items():
-        score = sum(1 for term in terms if term in text)
+        # Woorden in de kop wegen drie keer zwaarder dan woorden die alleen in
+        # de RSS-omschrijving voorkomen. Dat maakt de classificatie veel stabieler.
+        title_score = sum(3 for term in terms if term in title_text)
+        body_score = sum(1 for term in terms if term in full_text)
+        score = title_score + body_score
         if score:
             scores[category] = score
+
+    # Een expliciet transferwoord in de kop wint van selectiecontext in de teaser.
+    if any(term in title_text for term in ("transfer", "transfers", "akkoord", "vertrek", "vertrekt", "interesse", "bod", "deal", "target")):
+        scores["Transfers"] = scores.get("Transfers", 0) + 5
+
     if not scores:
         return "Overig"
     return max(scores, key=lambda c: (scores[c], -list(CATEGORY_TERMS).index(c)))
@@ -402,8 +472,16 @@ def same_event(a: dict, b: dict, df: Counter, total_docs: int) -> bool:
     if len(overlap) >= 2 and a["category"] == b["category"] and sim >= 0.28:
         return True
 
-    # Wedstrijdartikelen niet te agressief samenvoegen, anders verdwijnen analyses/opstellingen.
+    # Wedstrijdverslagen van exact hetzelfde duel hebben vaak totaal andere koppen.
+    # Een zeldzame tegenstander + resultaatwoord binnen acht uur is genoeg om ze
+    # als hetzelfde nieuwsfeit te behandelen. Analyses en opstellingen blijven los.
     if a["category"] == b["category"] == "Wedstrijden":
+        result_words = {"wint", "winst", "zege", "verlies", "gelijkspel", "kwalificatie", "ticket", "goals", "doelpunten"}
+        a_result = bool(title_tokens(a["title"]) & result_words)
+        b_result = bool(title_tokens(b["title"]) & result_words)
+        rare_overlap = [t for t in overlap if df.get(t, 99) <= max(4, total_docs // 6)]
+        if hours_between(a, b) <= 8 and a_result and b_result and any(len(t) >= 4 for t in rare_overlap):
+            return True
         return len(overlap) >= 3 and sim >= 0.36
 
     return False
@@ -460,7 +538,7 @@ def collect():
 
             title = strip_source_suffix(raw["title"], source["publisher"])
             summary = clean(raw["summary"])
-            if not is_ajax_relevant(title, summary, source.get("ajax_specific", False)):
+            if not is_ajax_relevant(title, summary, source.get("ajax_specific", False), source.get("strict_title", False)):
                 continue
 
             published = raw["published"]
@@ -605,7 +683,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.0",
+            "generator": "Ajax Nieuws collector 1.1",
             "raw_candidates": len(candidates),
             "feed_errors": errors,
         },
@@ -616,7 +694,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.0",
+            "generator": "Ajax Nieuws collector 1.1",
             "article_count": len(candidates),
             "event_count": len(events),
             "source_count": len({x["source"] for x in candidates}),
