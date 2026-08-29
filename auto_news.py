@@ -221,6 +221,17 @@ GENERIC_EVENT_WORDS = {
     "nieuws", "update", "live", "eredivisie", "seizoen", "miljoen", "euro", "volgens",
 }
 
+# Woorden die bij vrijwel elk transferbericht voorkomen en dus nooit genoeg
+# bewijs zijn dat twee koppen over dezelfde speler/dezelfde deal gaan.
+TRANSFER_EVENT_GENERIC = {
+    "akkoord", "deal", "bod", "interesse", "vertrek", "vertrekt", "verlaat",
+    "verkoop", "verkopen", "transfervrij", "gratis", "target", "opvolger",
+    "contract", "tekent", "haalt", "overneemt", "aankoop", "nadert",
+    "onderhandelingen", "gesprekken", "zoektocht", "nieuwe", "nummer", "zes",
+    "markt", "club", "speler", "ajax", "amsterdam", "conference", "league",
+    "europa", "champions", "opponent", "tegenstander",
+}
+
 
 def clean(value: str | None) -> str:
     if not value:
@@ -399,6 +410,7 @@ def category_hint(title: str, summary: str) -> str:
         "overneemt", "gratis over", "verkoopt", "verkopen", "verkoop",
         "in de markt", "op weg naar", "opvolger", "onderhandelingen",
         "tekent", "contract bij", "contracteert", "haalt", "aankoop",
+        "gesprekken met", "zoektocht", "komt uit bij", "mikt op",
     )
     if any(term in title_text for term in transfer_title_terms):
         return "Transfers"
@@ -407,7 +419,7 @@ def category_hint(title: str, summary: str) -> str:
         return "Blessures"
 
     match_title_terms = (
-        "opstelling", "basiself", "voorbeschouwing", "nabespreking", "uitslag",
+        "opstelling", "basiself", "vermoedelijke xi", "voorbeschouwing", "nabespreking", "uitslag",
         "wint", "winst", "zege", "verlies", "verliest", "gelijkspel",
         "doelpunt", "score", "loting", "conference league", "europa league",
         "champions league", "kwalificatie", "play-off", "tegen telstar",
@@ -452,6 +464,10 @@ def subject_tokens(title: str) -> set[str]:
     return {w for w in title_tokens(title) if w not in GENERIC_EVENT_WORDS}
 
 
+def transfer_subject_tokens(title: str) -> set[str]:
+    return {w for w in subject_tokens(title) if w not in TRANSFER_EVENT_GENERIC}
+
+
 def article_id(source: str, title: str, url: str) -> str:
     raw = f"{source}|{title}|{url}".encode("utf-8")
     return hashlib.sha1(raw).hexdigest()[:14]
@@ -494,22 +510,21 @@ def same_event(a: dict, b: dict, df: Counter, total_docs: int) -> bool:
     if sim >= 0.50:
         return True
 
-    # Transfer- en blessureberichten hebben vaak sterk afwijkende koppen, maar dezelfde naam.
-    if a["category"] == b["category"] and a["category"] in {"Transfers", "Blessures"}:
-        rare_overlap = [t for t in overlap if df.get(t, 99) <= max(3, total_docs // 5)]
-        # Eén zeldzame eigennaam is bij transfers/blessures vaak het onderwerp zelf.
-        # Voorbeeld: "akkoord over Tsygankov" vs. "Tsygankov op weg naar Amsterdam".
-        if any(len(token) >= 5 for token in rare_overlap) and sim >= 0.08:
-            return True
-
-    # Bij transferdossiers kunnen verschillende bronnen dezelfde speler met totaal
-    # andere formuleringen brengen. Twee zeldzame gedeelde onderwerpwoorden of één
-    # lange zeldzame naam plus transfercontext is voldoende.
+    # Transferkoppen delen bijna altijd woorden als "akkoord", "deal" en "vertrek".
+    # Die woorden mogen nooit op zichzelf tot clustering leiden. Voor transfers kijken
+    # we daarom naar echte onderwerpwoorden, meestal de naam van de speler.
     if a["category"] == b["category"] == "Transfers":
-        rare_overlap = [t for t in overlap if df.get(t, 99) <= max(5, total_docs // 6)]
+        entity_overlap = transfer_subject_tokens(a["title"]) & transfer_subject_tokens(b["title"])
+        rare_overlap = [t for t in entity_overlap if df.get(t, 99) <= max(5, total_docs // 6)]
         if len(rare_overlap) >= 2:
             return True
-        if any(len(t) >= 7 for t in rare_overlap) and hours_between(a, b) <= 30:
+        if any(len(t) >= 5 for t in rare_overlap) and hours_between(a, b) <= 30:
+            return True
+
+    # Blessureberichten hebben vaak sterk afwijkende koppen, maar dezelfde naam.
+    if a["category"] == b["category"] == "Blessures":
+        rare_overlap = [t for t in overlap if df.get(t, 99) <= max(3, total_docs // 5)]
+        if any(len(token) >= 5 for token in rare_overlap) and sim >= 0.08:
             return True
 
     # Twee of meer inhoudelijke gedeelde tokens is meestal voldoende buiten wedstrijdanalyse.
@@ -727,7 +742,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.2",
+            "generator": "Ajax Nieuws collector 1.3",
             "raw_candidates": len(candidates),
             "feed_errors": errors,
         },
@@ -735,18 +750,20 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     }
     CANDIDATES_OUTPUT.write_text(json.dumps(candidates_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
+    visible_events = events[:MAX_EVENTS]
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.2",
+            "generator": "Ajax Nieuws collector 1.3",
             "article_count": len(candidates),
-            "event_count": len(events),
+            "event_count": len(visible_events),
+            "discovered_event_count": len(events),
             "source_count": len({x["source"] for x in candidates}),
             "feed_error_count": len(errors),
             "max_age_hours": MAX_AGE_HOURS,
             "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax.",
         },
-        "events": events[:MAX_EVENTS],
+        "events": visible_events,
     }
     NEWS_OUTPUT.write_text(json.dumps(news_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
