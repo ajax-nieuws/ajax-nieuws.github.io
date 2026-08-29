@@ -1,9 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T16:25:05.583786+00:00",
-    "generator": "Ajax Nieuws collector 1.2",
+    "generated_at": "2026-08-29T16:49:53.839869+00:00",
+    "generator": "Ajax Nieuws collector 1.3",
     "article_count": 149,
-    "event_count": 98,
+    "event_count": 40,
+    "discovered_event_count": 99,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -11,11 +12,26 @@
   },
   "events": [
     {
+      "id": "8abf8c39b281a8",
+      "title": "Vermoedelijke XI Ajax: Míchel beloont uitblinkers en kiest frisse naam achterin",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T16:33:35+00:00",
+      "updated": "2026-08-29T16:33:35+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2128779/vermoedelijke-xi-ajax-michel-beloont-uitblinkers-en-kiest-frisse-naam-achterin.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "7b65249d19b27e",
       "title": "Ajax-watcher Mike Verweij: ’Dan is Ajax bereid om Oscar Gloukh te verkopen’",
       "category": "Transfers",
       "published": "2026-08-29T12:42:55+00:00",
-      "updated": "2026-08-29T15:20:14+00:00",
+      "updated": "2026-08-29T16:33:18+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
@@ -32,40 +48,45 @@
       ]
     },
     {
-      "id": "397bf9968d5408",
+      "id": "990a0a57b6e56e",
       "title": "'Streep door Ajax-transfer van Lang: Oranje-aanvaller stevent af op basisplaats'",
       "category": "Transfers",
-      "published": "2026-08-29T15:17:18+00:00",
+      "published": "2026-08-28T15:55:00+00:00",
       "updated": "2026-08-29T15:17:18+00:00",
-      "source_count": 1,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128951/ajax-krijgt-uitsluitsel-uit-italie-noa-lang-blijft-bij-napoli.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGRZMHhZR1BKYnlxelI2dUVxb3FvaDNTZkFnNElRelN6XzZ5WWw2VW1KUkQtenc0cGFralk3SEwzLXlHdVRsQlVaQVE5UG9vb29fdkVvaTB2Q3NDNnByWmVrTXFnbWtMVWF1N1lOMUdabmFhNlNWMGxlUWpoWDZPXy0wNUZxbi1RQ09xRG9mVGg3SG9pa3puUVpON3dWR2JUZlpvVnp4cw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUdBLVV1VVlPSEt4c2o1NVF6NVVmOHNqYjhLanJDQlgzcUN0LWM3XzUxNEYyZE1wVm9OT2pvcjR0b3FKR2V2UktDVkZOTHRsbEhfbDlZUUZvenpwV3JnMEVvSXptWVFIZXZ6Z0RjeDRieGs3S2hIYXpqelh5R1d5NDJDZlU3SjV4UjlPYWlCQVpBOUhSdmcyM1VQWmJwdDFET1B4akFuLUdESHBhX29GaEFBTzYtZw?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
-      "id": "79e1b009a0e903",
+      "id": "f73eda497c8453",
       "title": "‘Akkoord over Ajax-miskoop Tahirovic: Bosniër op weg naar Cegeka Arena’",
       "category": "Transfers",
-      "published": "2026-08-28T16:16:00+00:00",
+      "published": "2026-08-29T14:58:00+00:00",
       "updated": "2026-08-29T14:58:00+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128946/genk-bereikt-akkoord-over-benjamin-tahirovic-transfer.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFhoTlRoZTJ1Z1M5dTlITlZjaFpUOGhFdnZxdnN3YjBqZUVYaktTVG8zOHFFUEMxdWpRQjNaRkRhU1JHdURHemZxeWtRdDlZdERKcS1QSVlqR21DNmQtNUw4RjU4b2dNbVItS1Z0MlZDSi1FUEs0LUFVTUlxUmtoRWtOanJLdHhYMk9lNEp2NGxZUWV6Y0JNR3hGVGtaQmR2UUNoREJqUkU3bWJGcFZtWlNoNUlkb1pUWktLekt5UGVpMFh3eWU1R2l3dm5uMy1M?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "1d02d9c5abb675",
@@ -154,10 +175,10 @@
       ]
     },
     {
-      "id": "a284b2d31e467b",
+      "id": "f727b9f0092b9d",
       "title": "Geen last minute Ajax-vertrek: 'Ik weet dat ik blijf, dat is het belangrijkst'",
       "category": "Transfers",
-      "published": "2026-08-29T08:50:58+00:00",
+      "published": "2026-08-29T12:12:00+00:00",
       "updated": "2026-08-29T12:12:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -165,6 +186,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128892/gloukh-blijft-bij-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "aa1ef4708539c0",
+      "title": "5 mogelijke vervangers voor Mika Godts bij Ajax",
+      "category": "Overig",
+      "published": "2026-08-29T12:00:00+00:00",
+      "updated": "2026-08-29T12:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2puR2dsSElSN04xTlNwVURjekFrZkN0S0FUcE1IZFM1ZXBnNzAyWDZKNEFvN29yQVNXbFZOUFVPSEVmVDJ3dHBIZTNLR1Y2MG9lOTIwczdxMW5nSG1xdWNEVkdJRUdkSml2Nkl5MGZ1eHV6Z01acVRhOEwxMzAzcU5uSXNncHFFQWlqVUwwNm9DNHBzS1M2dWtLY195VUhaTzNHbENDUkZ3T2hsclJGcDg3UHdUUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -199,6 +235,21 @@
       "related_sources": []
     },
     {
+      "id": "a6dc06c4d756f6",
+      "title": "Vertrek van begeerde Ajacied afgeraden: 'Ik zou hem altijd houden'",
+      "category": "Transfers",
+      "published": "2026-08-29T09:36:00+00:00",
+      "updated": "2026-08-29T09:36:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/videos/2128847/mogelijke-transfer-youri-baas-naar-bologna-besproken-in-donedeal.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "5bd73d4e85cfa8",
       "title": "'Het is decennia geleden dat Ajax zo'n toptalent als Ouazane in huis had'",
       "category": "Selectie",
@@ -220,27 +271,6 @@
       ]
     },
     {
-      "id": "879296f4c5331b",
-      "title": "Camara bespreekt nummer 6-positie Ajax 1: 'Ik hoop daar te kunnen spelen'",
-      "category": "Selectie",
-      "published": "2026-08-29T06:00:00+00:00",
-      "updated": "2026-08-29T09:10:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW1oNm1DWjg3Xzhydms5d1lzWVJzSXV2VDEzU05aV1h5ZFVSamRBR2VjZU5xVE15VWpxTVRDSnN4UG5Nc084eUJmX1pBYURnaHpCSkxNWjFMRzYzY1NaTlVKZ3F4Z19fRnlxc2xSNWo5Z1VEU2ktMExxZUxqOTcyWXdtSWcxcmpTSjlCQVJ1Njc2ZnNwTnlQVmsxUXhURjl3bnktd1JiYm43SnhFbHl4TQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHg5eVdTODlvSHBDZEFtYzFHNzRqNTBhVFBRcXlaXzl1bDlvVzVvWUVGN1JxVlA3dGVidFUxNDExemg1N2I3WWdFbG1Hejh4dl9RbEY4UUhpQmRmR081Vm9USENLZmdqRUgtSkc0NHBrM1hheFdsdmJHc0FxbTZVZk9hYXBKLWVHTndpVE5idVdGZm04Uy11dVVvWlN3VzBlTnZJODNZSFZsQUNWSUhjVklhdFlNaXM?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "4372ec429bcb2a",
       "title": "'Oud-Ajacied Gudelj geeft jawoord en gaat carrière vervolgen bij Ajax-opponent Getafe'",
       "category": "Overig",
@@ -256,16 +286,37 @@
       "related_sources": []
     },
     {
-      "id": "fa55ceef0d0ed8",
+      "id": "c25d4513484bb9",
       "title": "Nóg 10 Ajax-deals verwacht: 'Mogelijk dat Cruijff verrassing uit hoge hoed tovert'",
       "category": "Transfers",
-      "published": "2026-08-29T06:51:17+00:00",
+      "published": "2026-08-28T15:59:00+00:00",
       "updated": "2026-08-29T08:54:52+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128826/inan-verwacht-nog-zeker-tien-ajax-transfers.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGppZVRia19BX1JoNWUtSGJHNmluOUJOU3FkSWlhZzZtUW43UTgweHBGZ0I1blhwWXRsSVJhMTdLQy1VRGRvcDNEMDJqc1BPa3dMbXE2VXhUTEFmN1BLWUdTQnM1YU5WcktkTTRUOFVOYXphcjNOR3c3ZXBXRG9RdlpoYzNSTUp1cWQ2QjBZM3kyLUVTOEo2OEhJQW9DWWFrYzZLbnk4N2VubU1oV3l0QXo3aHdWajdSZFNWdlZyLTFHTDlxUWJlZWc0MnpuU0pE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "a284b2d31e467b",
+      "title": "Ajax-target kondigt vertrek aan: 'Tijd om afscheid te nemen van deze mooie club'",
+      "category": "Transfers",
+      "published": "2026-08-29T08:50:58+00:00",
+      "updated": "2026-08-29T08:50:58+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2128818/ajax-target-spina-neemt-al-afscheid-van-atletico-madrid-op-instagram.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -316,21 +367,6 @@
       "related_sources": []
     },
     {
-      "id": "8abf8c39b281a8",
-      "title": "Vermoedelijke XI Ajax: Míchel beloont uitblinkers en kiest frisse naam achterin",
-      "category": "Selectie",
-      "published": "2026-08-29T07:11:00+00:00",
-      "updated": "2026-08-29T07:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128779/vermoedelijke-xi-ajax-michel-beloont-uitblinkers-en-kiest-frisse-naam-achterin.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "bbdeff109a7e65",
       "title": "ESPN bevestigt Amsterdamse interesse: 'Ajax mikt op minder dan 12 miljoen'",
       "category": "Transfers",
@@ -344,27 +380,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "a5658c8fa38fa4",
-      "title": "Grote verrassing: Ounahi reist af naar Amsterdam voor gesprekken met Ajax",
-      "category": "Overig",
-      "published": "2026-08-28T15:59:00+00:00",
-      "updated": "2026-08-29T06:50:30+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128642/ounahi-reist-af-naar-amsterdam-voor-gesprekken-met-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU053TnByMnVIV0VCaE5ocjlRTVBxZVprSGlGNWVDSXJVd1ZhVEJ3MmZJQm0xRUt0R2VMNlNXYmRoR3VBRVlEcTZERUpURVZKSTQybklyc1l6aURRT2ZfOGRaNTZKT3VCVXlFQWNxLWM4ZW5ZdkV3YjRlYnU1SzJFc3dXajdfRFJISjFkVkNsZnhDRGNCSkpKWHFyQS1iOVJRTExWaF93eXpQWDhma18wbDI1Z3dUUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "9117b2e6ebb1ae",
@@ -412,6 +427,21 @@
       "related_sources": []
     },
     {
+      "id": "879296f4c5331b",
+      "title": "Camara bespreekt nummer 6-positie Ajax 1: 'Ik hoop daar te kunnen spelen'",
+      "category": "Selectie",
+      "published": "2026-08-29T06:00:00+00:00",
+      "updated": "2026-08-29T06:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW1oNm1DWjg3Xzhydms5d1lzWVJzSXV2VDEzU05aV1h5ZFVSamRBR2VjZU5xVE15VWpxTVRDSnN4UG5Nc084eUJmX1pBYURnaHpCSkxNWjFMRzYzY1NaTlVKZ3F4Z19fRnlxc2xSNWo5Z1VEU2ktMExxZUxqOTcyWXdtSWcxcmpTSjlCQVJ1Njc2ZnNwTnlQVmsxUXhURjl3bnktd1JiYm43SnhFbHl4TQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "84cad722b7a0b3",
       "title": "PSV-trainer Bosz doet opvallende uitspraak over Ajax-uit - FCUpdate.nl",
       "category": "Overig",
@@ -425,6 +455,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "18d430eaf8face",
+      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport",
+      "category": "Jong Ajax",
+      "published": "2026-08-28T19:55:29+00:00",
+      "updated": "2026-08-29T02:42:15+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjJ5TWpZcFU3VjVETU45cFFMV3R2Q0NkVVUxakk3ZkRVVEF1UGFOUllTSFo0dHYwMWRLY2E0M2UtM2VRR3ozdFVDMUwtckJCSk5uLTVISFhzVGNWWDJ2UnhOSXFJSTVzb2x5YVVBSFBjVTM0MXhwTFBZaGpxdUpTcUFzTEx4V2lyNExhSDA5c0ZKTzFSR2Zrc1J6SVh3UVRDZUxGT3M0T0FfVE5ZZVlBMnZ6X2ZuOERRaHplUA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "e160af39dfb815",
@@ -493,25 +544,19 @@
       "related_sources": []
     },
     {
-      "id": "9e3a95c7829ee9",
-      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport",
-      "category": "Jong Ajax",
-      "published": "2026-08-28T19:55:29+00:00",
+      "id": "daf5e98dee1079",
+      "title": "Ajax - FC Sion: Opstellingen | 27 augustus 2026 - FCUpdate.nl",
+      "category": "Wedstrijden",
+      "published": "2026-08-27T21:14:50+00:00",
       "updated": "2026-08-28T21:47:28+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
+      "source_count": 1,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQldTUHFMRWptSWp0b0FzWWNSekhlOVVTek96a0xmWTBJWWdsa0lVUmRHMnJrb3pkTFBKdXJYeTA4aDZlSlRWN2VnNWJKT0l6Q3hBR0o5LUFFNHpvbjdqelJwLWVzOFlIZmZzelVoWlM4NkdrcE9obWJVcENpOWNjWjk3TFMtNmVrN1lzTjgtZG1Ba1BIWWFZdjdXVWxCdjdRd0Jmd3lkTGNnS0RfT0VvYkpqWExPd2RRU0kxSHM3cnI3VksweVZGMm1CUzVlbi1lZ2hQdUc2QlVwUTdfLXNJMXkxVQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmN1THZQRzdXMkM3Zi1sVmhLMHNDRFMySUcwVk9yZUR4REV6N2hNQndVdWg5YXFRSjVuYVFnWGphTmxEX0JKZXVndU03QnFyTkNSaXNndDV1NERUVHNMYmUxLTJac2hFVjZEdXFWLVlEdzZhcXpCWFdxdF9Zcm03Y3Ftb01odVZ2N0xxamtBVG1fTFZrZlQzSUhwRnpHNWRWNldqN0g4VGhyTzhpRkR2bEZWQ0FieGxWSGZLX1hWeWFoMGhhN3NGTFJSUFdhbHk2Rk1wVkRKWEdqUzlRUE92Y25HTQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "11d39d6d14d22b",
@@ -527,32 +572,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "990a0a57b6e56e",
-      "title": "Ajax-target Rodríguez scoort na geweldige solo in de Leagues Cup - ESPN.nl",
-      "category": "Transfers",
-      "published": "2026-08-28T15:55:00+00:00",
-      "updated": "2026-08-28T20:48:06+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1NUVGFkUmZ1SDNyT2JvaG02VTY2LXRfVzRoVXA0YTQ0Y2lNb3VIRmY5SjFIX1RJem11TWxZRXkwd2hfRGxmMXYwRkdLQW9nWUEyNkJQUGlMdkZEeEpRdTdqNUNfSWdORXMzSFNiRUJGY1RydkY2OVYtSjd6ckczM2xmR3FUT2xCSGoyald6b1BFSGhSMGF6LXZ3bGpvNTlVRWZtNTRzd0x1VzVFS2c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2128732/rodriguez-wil-naar-ajax-deal-moet-snel-rond.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUdBLVV1VVlPSEt4c2o1NVF6NVVmOHNqYjhLanJDQlgzcUN0LWM3XzUxNEYyZE1wVm9OT2pvcjR0b3FKR2V2UktDVkZOTHRsbEhfbDlZUUZvenpwV3JnMEVvSXptWVFIZXZ6Z0RjeDRieGs3S2hIYXpqelh5R1d5NDJDZlU3SjV4UjlPYWlCQVpBOUhSdmcyM1VQWmJwdDFET1B4akFuLUdESHBhX29GaEFBTzYtZw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "68fd197c8bd0ac",
@@ -596,21 +615,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128712/inan-bissouma-gaat-niet-naar-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c25d4513484bb9",
-      "title": "Ajax komt in zoektocht naar nieuwe '6' uit bij voormalig speler van FC Barcelona (23)",
-      "category": "Overig",
-      "published": "2026-08-28T19:12:00+00:00",
-      "updated": "2026-08-28T19:12:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGppZVRia19BX1JoNWUtSGJHNmluOUJOU3FkSWlhZzZtUW43UTgweHBGZ0I1blhwWXRsSVJhMTdLQy1VRGRvcDNEMDJqc1BPa3dMbXE2VXhUTEFmN1BLWUdTQnM1YU5WcktkTTRUOFVOYXphcjNOR3c3ZXBXRG9RdlpoYzNSTUp1cWQ2QjBZM3kyLUVTOEo2OEhJQW9DWWFrYzZLbnk4N2VubU1oV3l0QXo3aHdWajdSZFNWdlZyLTFHTDlxUWJlZWc0MnpuU0pE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -671,21 +675,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHI1STY1UnJxcXJRMUQ1VlNvSGRISTUzTFpsM2Jxekp1ZVdSeDFQRmtUeUZJNUtaMHdhMmZnN2Q4d0M5MDFiUzNpU3ltbWFtWlo1OWhQaXAtNVBnZXpiYVVaNkk1dzIzSzVFSGdMN3MxeEFqdXNTVml1SVkzV2ZWNTdwZDRMM3J4QnVMU2F1VGptclZfVW95LUJTbW0tMGRRc1h4WGJORjZQeThYUTRPTG5mRlVVZC1XNW54RUNTZU5NRnpXS3JLYm9n?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "49b2e570d43bd8",
-      "title": "'Spits die 11 minuten voor Jong Ajax speelde maakt droomtransfer naar Bologna'",
-      "category": "Jong Ajax",
-      "published": "2026-08-28T17:32:00+00:00",
-      "updated": "2026-08-28T17:32:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128674/enem-verrast-met-transfer-naar-bologna.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
