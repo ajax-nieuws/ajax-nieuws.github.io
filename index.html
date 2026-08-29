@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#d2122e">
+  <meta name="description" content="Het laatste Ajax-nieuws uit meerdere Nederlandse bronnen, automatisch verzameld en ontdubbeld.">
+  <title>Ajax Nieuws | Het laatste nieuws op één plek</title>
+  <link rel="manifest" href="./manifest.json">
+  <link rel="icon" href="./icon-192.png">
+  <style>
+    :root {
+      --red: #d2122e;
+      --red-dark: #a60e24;
+      --ink: #171717;
+      --muted: #6a6a6a;
+      --line: #e8e8e8;
+      --soft: #f6f6f6;
+      --white: #fff;
+      --max: 920px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--white);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    a { color: inherit; }
+    .topline { height: 7px; background: var(--red); }
+    header {
+      border-bottom: 1px solid var(--line);
+      background: rgba(255,255,255,.96);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(14px);
+    }
+    .header-inner, main, footer { width: min(calc(100% - 32px), var(--max)); margin: 0 auto; }
+    .header-inner {
+      min-height: 78px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+    .brand { text-decoration: none; display: flex; align-items: center; gap: 12px; }
+    .mark {
+      width: 42px; height: 42px; border-radius: 50%; background: var(--red); color: white;
+      display: grid; place-items: center; font-weight: 900; letter-spacing: -.05em;
+    }
+    .brand-copy strong { display: block; font-size: 1.06rem; letter-spacing: .02em; }
+    .brand-copy span { display: block; color: var(--muted); font-size: .78rem; }
+    .live { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: .82rem; white-space: nowrap; }
+    .live-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--red); box-shadow: 0 0 0 5px rgba(210,18,46,.11); }
+    main { padding: 54px 0 80px; }
+    .hero { max-width: 760px; margin-bottom: 38px; }
+    .eyebrow { color: var(--red); font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .12em; }
+    h1 { font-size: clamp(2.2rem, 7vw, 4.7rem); line-height: .98; letter-spacing: -.055em; margin: 12px 0 18px; }
+    .lead { color: #4c4c4c; font-size: clamp(1rem, 2.5vw, 1.18rem); max-width: 690px; }
+    .meta-bar { display: flex; flex-wrap: wrap; gap: 10px 18px; color: var(--muted); font-size: .83rem; margin-top: 20px; }
+    .filters {
+      display: flex; gap: 8px; overflow-x: auto; padding: 2px 0 18px; margin-bottom: 2px;
+      scrollbar-width: none;
+    }
+    .filters::-webkit-scrollbar { display: none; }
+    .filter {
+      border: 1px solid var(--line); background: white; color: #444; border-radius: 999px;
+      padding: 8px 13px; font: inherit; font-size: .82rem; font-weight: 700; cursor: pointer; white-space: nowrap;
+    }
+    .filter.active { background: var(--ink); color: white; border-color: var(--ink); }
+    .feed { border-top: 1px solid var(--ink); }
+    .story { padding: 25px 0 24px; border-bottom: 1px solid var(--line); }
+    .story-head { display: flex; justify-content: space-between; gap: 20px; }
+    .story-main { min-width: 0; }
+    .story-meta { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 8px; color: var(--muted); font-size: .78rem; }
+    .category { color: var(--red); font-weight: 800; }
+    .official { background: #fff1f3; color: var(--red-dark); border-radius: 999px; padding: 2px 7px; font-weight: 750; }
+    .story h2 { margin: 0; font-size: clamp(1.13rem, 3vw, 1.42rem); line-height: 1.25; letter-spacing: -.018em; }
+    .primary-link { text-decoration: none; }
+    .primary-link:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+    .arrow { color: var(--red); font-size: 1.35rem; text-decoration: none; padding-top: 4px; }
+    .sources { display: flex; gap: 7px; flex-wrap: wrap; margin-top: 13px; }
+    .source {
+      display: inline-flex; align-items: center; gap: 5px; padding: 5px 9px; border-radius: 999px;
+      background: var(--soft); color: #525252; font-size: .75rem; text-decoration: none;
+    }
+    .source:hover { background: #ececec; }
+    .source.primary { background: #fff1f3; color: var(--red-dark); font-weight: 750; }
+    .state { padding: 34px 0; color: var(--muted); }
+    .notice {
+      margin-top: 42px; padding: 18px 20px; background: var(--soft); border-radius: 12px;
+      color: var(--muted); font-size: .8rem;
+    }
+    footer { padding: 30px 0 45px; border-top: 1px solid var(--line); color: var(--muted); font-size: .78rem; }
+    @media (max-width: 560px) {
+      .header-inner { min-height: 68px; }
+      .brand-copy span { display: none; }
+      .live-text { display: none; }
+      main { padding-top: 36px; }
+      .story { padding: 21px 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topline"></div>
+  <header>
+    <div class="header-inner">
+      <a class="brand" href="./" aria-label="Ajax Nieuws voorpagina">
+        <span class="mark">AJ</span>
+        <span class="brand-copy"><strong>Ajax Nieuws</strong><span>Meerdere bronnen. Eén overzicht.</span></span>
+      </a>
+      <div class="live"><span class="live-dot"></span><span class="live-text">Automatisch bijgewerkt</span></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="eyebrow">Het laatste rond Ajax</div>
+      <h1>Alles wat er speelt.</h1>
+      <p class="lead">Het actuele Ajax-nieuws uit verschillende Nederlandse bronnen. Dubbele berichten over hetzelfde nieuwsfeit worden zoveel mogelijk bij elkaar gezet.</p>
+      <div class="meta-bar">
+        <span id="updated">Bijwerken...</span>
+        <span id="stats"></span>
+      </div>
+    </section>
+
+    <nav class="filters" id="filters" aria-label="Filter nieuws">
+      <button class="filter active" data-category="Alles">Alles</button>
+    </nav>
+
+    <section class="feed" id="feed" aria-live="polite">
+      <div class="state">Nieuws laden...</div>
+    </section>
+
+    <aside class="notice">
+      Ajax Nieuws is een onafhankelijke nieuwsaggregator en is niet verbonden aan AFC Ajax. Koppen worden per bron getoond. Directe feed-links gaan rechtstreeks naar de uitgever. Bij bronnen zonder bruikbare openbare clubfeed loopt de klik technisch via Google News door naar het bronartikel.
+    </aside>
+  </main>
+
+  <footer>
+    <p>Geen nieuwsbrief. Geen account. Gewoon het laatste Ajax-nieuws op één URL.</p>
+  </footer>
+
+  <script>
+    const $ = (q) => document.querySelector(q);
+    let allEvents = [];
+    let activeCategory = 'Alles';
+
+    const escapeHtml = (value = '') => String(value)
+      .replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+
+    function safeUrl(value) {
+      try {
+        const url = new URL(value, location.href);
+        return ['http:', 'https:'].includes(url.protocol) ? url.href : '#';
+      } catch { return '#'; }
+    }
+
+    function relativeTime(value) {
+      if (!value) return 'tijd onbekend';
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return 'tijd onbekend';
+      const minutes = Math.max(0, Math.round((Date.now() - date.getTime()) / 60000));
+      if (minutes < 2) return 'zojuist';
+      if (minutes < 60) return `${minutes} min geleden`;
+      const hours = Math.round(minutes / 60);
+      if (hours < 24) return `${hours} u geleden`;
+      const days = Math.round(hours / 24);
+      return `${days} dag${days === 1 ? '' : 'en'} geleden`;
+    }
+
+    function sourceChip(source, primary = false) {
+      if (!source?.name || !source?.url) return '';
+      const via = source.via_google_news ? ' via Google News' : '';
+      return `<a class="source ${primary ? 'primary' : ''}" href="${safeUrl(source.url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(source.name + via)}">${escapeHtml(source.name)} ↗</a>`;
+    }
+
+    function storyHtml(item) {
+      const sources = [sourceChip(item.primary_source, true), ...(item.related_sources || []).map(s => sourceChip(s))].join('');
+      const count = Number(item.source_count || 1);
+      return `
+        <article class="story" data-category="${escapeHtml(item.category || 'Overig')}">
+          <div class="story-head">
+            <div class="story-main">
+              <div class="story-meta">
+                <span class="category">${escapeHtml(item.category || 'Overig')}</span>
+                <span>•</span>
+                <span>${escapeHtml(relativeTime(item.updated || item.published))}</span>
+                ${count > 1 ? `<span>•</span><span>${count} bronnen</span>` : ''}
+                ${item.official_confirmation ? `<span class="official">bevestigd door Ajax</span>` : ''}
+              </div>
+              <h2><a class="primary-link" href="${safeUrl(item.primary_source?.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a></h2>
+              <div class="sources">${sources}</div>
+            </div>
+            <a class="arrow" href="${safeUrl(item.primary_source?.url)}" target="_blank" rel="noopener noreferrer" aria-label="Open bron">↗</a>
+          </div>
+        </article>`;
+    }
+
+    function render() {
+      const items = activeCategory === 'Alles' ? allEvents : allEvents.filter(x => x.category === activeCategory);
+      $('#feed').innerHTML = items.length ? items.map(storyHtml).join('') : '<div class="state">Geen berichten in deze categorie.</div>';
+    }
+
+    function buildFilters(events) {
+      const preferred = ['Transfers', 'Wedstrijden', 'Blessures', 'Selectie', 'Club', 'Jong Ajax', 'Ajax Vrouwen', 'Jeugd', 'Overig'];
+      const present = new Set(events.map(x => x.category || 'Overig'));
+      const categories = preferred.filter(x => present.has(x));
+      $('#filters').innerHTML = ['Alles', ...categories].map(category =>
+        `<button class="filter ${category === 'Alles' ? 'active' : ''}" data-category="${escapeHtml(category)}">${escapeHtml(category)}</button>`
+      ).join('');
+      $('#filters').addEventListener('click', (event) => {
+        const button = event.target.closest('.filter');
+        if (!button) return;
+        activeCategory = button.dataset.category;
+        document.querySelectorAll('.filter').forEach(x => x.classList.toggle('active', x === button));
+        render();
+      });
+    }
+
+    async function loadNews() {
+      try {
+        const response = await fetch('./nieuws.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        allEvents = Array.isArray(data.events) ? data.events : [];
+        buildFilters(allEvents);
+        render();
+
+        const generated = data.meta?.generated_at ? new Date(data.meta.generated_at) : null;
+        $('#updated').textContent = generated && !Number.isNaN(generated.getTime())
+          ? `Bijgewerkt ${generated.toLocaleString('nl-NL', { dateStyle: 'short', timeStyle: 'short' })}`
+          : 'Bijwerktijd onbekend';
+        $('#stats').textContent = `${data.meta?.event_count ?? allEvents.length} nieuwsfeiten uit ${data.meta?.source_count ?? '?'} bronnen`;
+      } catch (error) {
+        console.error(error);
+        $('#feed').innerHTML = '<div class="state">Het nieuws kon niet worden geladen. Probeer de pagina later opnieuw.</div>';
+        $('#updated').textContent = 'Laden mislukt';
+      }
+    }
+
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('./service-worker.js').catch(() => {});
+    loadNews();
+  </script>
+</body>
+</html>

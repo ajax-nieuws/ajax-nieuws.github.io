@@ -1,0 +1,75 @@
+name: Ajax nieuws ophalen en publiceren
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Twee keer per uur, bewust niet precies op :00 of :30.
+    - cron: '17,47 * * * *'
+      timezone: 'Europe/Amsterdam'
+
+concurrency:
+  group: ajax-news-publish
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Repository ophalen
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Tests draaien
+        run: python -m unittest discover -s tests -v
+
+      - name: Ajax-nieuws verzamelen
+        run: python auto_news.py
+
+      - name: Nieuwsdata committen indien gewijzigd
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add nieuws.json kandidaten.json
+
+          if git diff --cached --quiet; then
+            echo "Geen datawijzigingen om te committen."
+          else
+            git commit -m "Update Ajax-nieuws"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: GitHub Pages instellen
+        uses: actions/configure-pages@v5
+
+      - name: Publicatiemap bouwen
+        shell: bash
+        run: |
+          rm -rf _site
+          mkdir _site
+          cp index.html manifest.json service-worker.js nieuws.json icon-192.png icon-512.png robots.txt _site/
+
+      - name: Pages-artifact uploaden
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publiceren naar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
