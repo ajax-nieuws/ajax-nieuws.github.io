@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T17:31:38.280386+00:00",
+    "generated_at": "2026-08-29T17:55:11.026682+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 148,
+    "article_count": 147,
     "event_count": 40,
-    "discovered_event_count": 101,
+    "discovered_event_count": 102,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -205,6 +205,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128892/gloukh-blijft-bij-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "aa1ef4708539c0",
+      "title": "5 mogelijke vervangers voor Mika Godts bij Ajax",
+      "category": "Overig",
+      "published": "2026-08-29T12:00:00+00:00",
+      "updated": "2026-08-29T12:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV2puR2dsSElSN04xTlNwVURjekFrZkN0S0FUcE1IZFM1ZXBnNzAyWDZKNEFvN29yQVNXbFZOUFVPSEVmVDJ3dHBIZTNLR1Y2MG9lOTIwczdxMW5nSG1xdWNEVkdJRUdkSml2Nkl5MGZ1eHV6Z01acVRhOEwxMzAzcU5uSXNncHFFQWlqVUwwNm9DNHBzS1M2dWtLY195VUhaTzNHbENDUkZ3T2hsclJGcDg3UHdUUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -482,27 +497,6 @@
       "related_sources": []
     },
     {
-      "id": "18d430eaf8face",
-      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport",
-      "category": "Jong Ajax",
-      "published": "2026-08-28T19:55:29+00:00",
-      "updated": "2026-08-29T02:42:15+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjJ5TWpZcFU3VjVETU45cFFMV3R2Q0NkVVUxakk3ZkRVVEF1UGFOUllTSFo0dHYwMWRLY2E0M2UtM2VRR3ozdFVDMUwtckJCSk5uLTVISFhzVGNWWDJ2UnhOSXFJSTVzb2x5YVVBSFBjVTM0MXhwTFBZaGpxdUpTcUFzTEx4V2lyNExhSDA5c0ZKTzFSR2Zrc1J6SVh3UVRDZUxGT3M0T0FfVE5ZZVlBMnZ6X2ZuOERRaHplUA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "e160af39dfb815",
       "title": "Bijzondere loting Ajax in Conference League: ’Die club is cult onder de jeugd’",
       "category": "Wedstrijden",
@@ -569,19 +563,25 @@
       "related_sources": []
     },
     {
-      "id": "daf5e98dee1079",
-      "title": "Ajax - FC Sion: Opstellingen | 27 augustus 2026 - FCUpdate.nl",
-      "category": "Wedstrijden",
-      "published": "2026-08-27T21:14:50+00:00",
+      "id": "9e3a95c7829ee9",
+      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport",
+      "category": "Jong Ajax",
+      "published": "2026-08-28T19:55:29+00:00",
       "updated": "2026-08-28T21:47:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
+      "source_count": 2,
+      "official_confirmation": true,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQldTUHFMRWptSWp0b0FzWWNSekhlOVVTek96a0xmWTBJWWdsa0lVUmRHMnJrb3pkTFBKdXJYeTA4aDZlSlRWN2VnNWJKT0l6Q3hBR0o5LUFFNHpvbjdqelJwLWVzOFlIZmZzelVoWlM4NkdrcE9obWJVcENpOWNjWjk3TFMtNmVrN1lzTjgtZG1Ba1BIWWFZdjdXVWxCdjdRd0Jmd3lkTGNnS0RfT0VvYkpqWExPd2RRU0kxSHM3cnI3VksweVZGMm1CUzVlbi1lZ2hQdUc2QlVwUTdfLXNJMXkxVQ?oc=5",
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmN1THZQRzdXMkM3Zi1sVmhLMHNDRFMySUcwVk9yZUR4REV6N2hNQndVdWg5YXFRSjVuYVFnWGphTmxEX0JKZXVndU03QnFyTkNSaXNndDV1NERUVHNMYmUxLTJac2hFVjZEdXFWLVlEdzZhcXpCWFdxdF9Zcm03Y3Ftb01odVZ2N0xxamtBVG1fTFZrZlQzSUhwRnpHNWRWNldqN0g4VGhyTzhpRkR2bEZWQ0FieGxWSGZLX1hWeWFoMGhhN3NGTFJSUFdhbHk2Rk1wVkRKWEdqUzlRUE92Y25HTQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "11d39d6d14d22b",
@@ -600,7 +600,7 @@
     },
     {
       "id": "990a0a57b6e56e",
-      "title": "Ajax in de markt voor Club América-aanvaller Rodríguez - ESPN.nl",
+      "title": "Ajax-target Rodríguez scoort na geweldige solo in de Leagues Cup - ESPN.nl",
       "category": "Transfers",
       "published": "2026-08-28T15:55:00+00:00",
       "updated": "2026-08-28T20:48:06+00:00",
@@ -608,7 +608,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGRZMHhZR1BKYnlxelI2dUVxb3FvaDNTZkFnNElRelN6XzZ5WWw2VW1KUkQtenc0cGFralk3SEwzLXlHdVRsQlVaQVE5UG9vb29fdkVvaTB2Q3NDNnByWmVrTXFnbWtMVWF1N1lOMUdabmFhNlNWMGxlUWpoWDZPXy0wNUZxbi1RQ09xRG9mVGg3SG9pa3puUVpON3dWR2JUZlpvVnp4cw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1NUVGFkUmZ1SDNyT2JvaG02VTY2LXRfVzRoVXA0YTQ0Y2lNb3VIRmY5SjFIX1RJem11TWxZRXkwd2hfRGxmMXYwRkdLQW9nWUEyNkJQUGlMdkZEeEpRdTdqNUNfSWdORXMzSFNiRUJGY1RydkY2OVYtSjd6ckczM2xmR3FUT2xCSGoyald6b1BFSGhSMGF6LXZ3bGpvNTlVRWZtNTRzd0x1VzVFS2c?oc=5",
         "via_google_news": true
       },
       "related_sources": [
