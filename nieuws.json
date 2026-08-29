@@ -1,16 +1,31 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T17:55:11.026682+00:00",
+    "generated_at": "2026-08-29T18:25:14.335705+00:00",
     "generator": "Ajax Nieuws collector 1.4",
     "article_count": 147,
     "event_count": 40,
-    "discovered_event_count": 102,
+    "discovered_event_count": 103,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "1dd8c7f6de969f",
+      "title": "'Transferknaller uit Amsterdam: Ajax strikt Sofyan Amrabat als nieuwe zes'",
+      "category": "Transfers",
+      "published": "2026-08-29T18:21:13+00:00",
+      "updated": "2026-08-29T18:21:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-gaat-voor-amrabat-als-nieuwe-nummer-zes.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "beb686b1c80196",
       "title": "Kieft adviseert Ajax-trainer Míchel: 'Het helpt niet, hoe goed bedoeld ook'",
@@ -25,6 +40,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "7b65249d19b27e",
+      "title": "Ajax-watcher Mike Verweij: ’Dan is Ajax bereid om Oscar Gloukh te verkopen’",
+      "category": "Transfers",
+      "published": "2026-08-29T12:42:55+00:00",
+      "updated": "2026-08-29T17:01:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "De Telegraaf",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazZ0dHhoNVpwYlpZMmdHdktWQWJtcDFwWGdQXy1HTVhCUXBzWEVXT2dHSlNybjhxUVBpa016YThTdExRNVZfTnRpbVJFSkxuWG1BX1BlYWVLclYwbmlLYkVrNXpxcmRiOUdVM0E4Vm53akJma1hqWHBiemN0ZkF3SW1RX0xUd2JublZUeTRzOExpb2hzeXVKZG1aRTg3R05EUFVDYW5GTkk2NE43UXpWVXd2VGs1RnVrWFE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzNNOW4tV3FYM3dfdUJrVm9UbkRQM0FtSFEyQU9GdDNfbi1uTVExbkJzZmotdFVIR0VhbUZGZ2NGU2Z1N0Y2WnhDemVPbmdBZy00RHNDSjFUT3RHbng5VDhjcVp6MXFmMW5tMWp2bHBoZUhubUJzb3d4a2p6WXNKZWlTbjdzeUpKRWM3NHlyTnJDTXlIWlNrZU9uLURiRk1YQVhrV1FUeTVfZ3VxRFYtVGhHaXl1ZjJubHc?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "bbf646a3e711cd",
@@ -55,27 +91,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "7b65249d19b27e",
-      "title": "Ajax-watcher Mike Verweij: ’Dan is Ajax bereid om Oscar Gloukh te verkopen’",
-      "category": "Transfers",
-      "published": "2026-08-29T12:42:55+00:00",
-      "updated": "2026-08-29T16:33:18+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazZ0dHhoNVpwYlpZMmdHdktWQWJtcDFwWGdQXy1HTVhCUXBzWEVXT2dHSlNybjhxUVBpa016YThTdExRNVZfTnRpbVJFSkxuWG1BX1BlYWVLclYwbmlLYkVrNXpxcmRiOUdVM0E4Vm53akJma1hqWHBiemN0ZkF3SW1RX0xUd2JublZUeTRzOExpb2hzeXVKZG1aRTg3R05EUFVDYW5GTkk2NE43UXpWVXd2VGs1RnVrWFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzNNOW4tV3FYM3dfdUJrVm9UbkRQM0FtSFEyQU9GdDNfbi1uTVExbkJzZmotdFVIR0VhbUZGZ2NGU2Z1N0Y2WnhDemVPbmdBZy00RHNDSjFUT3RHbng5VDhjcVp6MXFmMW5tMWp2bHBoZUhubUJzb3d4a2p6WXNKZWlTbjdzeUpKRWM3NHlyTnJDTXlIWlNrZU9uLURiRk1YQVhrV1FUeTVfZ3VxRFYtVGhHaXl1ZjJubHc?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "397bf9968d5408",
@@ -224,10 +239,25 @@
       "related_sources": []
     },
     {
+      "id": "107d40e98d3289",
+      "title": "Ajax-watcher Mike Verweij: 'Tsygankov is geen nieuwe Godts'",
+      "category": "Overig",
+      "published": "2026-08-29T11:16:00+00:00",
+      "updated": "2026-08-29T11:16:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "De Telegraaf",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUxENE9ITW9WbWNmM01JSDhkZ01GYlpmN1hmaExuVkZYVHF3Q3dQVWNmRzZFQXJWbVRqaGE0cHByaEpqMGM2c09tdHdYQTJ3U0ZPUjZqOGgtcHZES2t6cFVOSHplRWFrUHlzRGtIMkpkMmMzbm1JcXFCeVJpNHluajU4RFZzTEphRXJUaGF4NUU5cDVWa195UFo2MjFkZl92cTFaTw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "aaa0394a238038",
       "title": "Jong PSV vs. Jong Ajax - Voetbal Wedstrijd Samenvatting - 31 augustus 2026 - ESPN.nl",
       "category": "Jong Ajax",
-      "published": "2026-08-27T18:05:08+00:00",
+      "published": "2026-08-28T17:58:42+00:00",
       "updated": "2026-08-29T10:31:39+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -276,21 +306,21 @@
     },
     {
       "id": "879296f4c5331b",
-      "title": "Camara bespreekt nummer 6-positie Ajax 1: 'Ik hoop daar te kunnen spelen'",
+      "title": "Heeft Ajax 'nummer zes' al in huis? 'Ik hoop daar te kunnen spelen'",
       "category": "Selectie",
       "published": "2026-08-29T06:00:00+00:00",
       "updated": "2026-08-29T09:10:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW1oNm1DWjg3Xzhydms5d1lzWVJzSXV2VDEzU05aV1h5ZFVSamRBR2VjZU5xVE15VWpxTVRDSnN4UG5Nc084eUJmX1pBYURnaHpCSkxNWjFMRzYzY1NaTlVKZ3F4Z19fRnlxc2xSNWo5Z1VEU2ktMExxZUxqOTcyWXdtSWcxcmpTSjlCQVJ1Njc2ZnNwTnlQVmsxUXhURjl3bnktd1JiYm43SnhFbHl4TQ?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHg5eVdTODlvSHBDZEFtYzFHNzRqNTBhVFBRcXlaXzl1bDlvVzVvWUVGN1JxVlA3dGVidFUxNDExemg1N2I3WWdFbG1Hejh4dl9RbEY4UUhpQmRmR081Vm9USENLZmdqRUgtSkc0NHBrM1hheFdsdmJHc0FxbTZVZk9hYXBKLWVHTndpVE5idVdGZm04Uy11dVVvWlN3VzBlTnZJODNZSFZsQUNWSUhjVklhdFlNaXM?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHg5eVdTODlvSHBDZEFtYzFHNzRqNTBhVFBRcXlaXzl1bDlvVzVvWUVGN1JxVlA3dGVidFUxNDExemg1N2I3WWdFbG1Hejh4dl9RbEY4UUhpQmRmR081Vm9USENLZmdqRUgtSkc0NHBrM1hheFdsdmJHc0FxbTZVZk9hYXBKLWVHTndpVE5idVdGZm04Uy11dVVvWlN3VzBlTnZJODNZSFZsQUNWSUhjVklhdFlNaXM?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW1oNm1DWjg3Xzhydms5d1lzWVJzSXV2VDEzU05aV1h5ZFVSamRBR2VjZU5xVE15VWpxTVRDSnN4UG5Nc084eUJmX1pBYURnaHpCSkxNWjFMRzYzY1NaTlVKZ3F4Z19fRnlxc2xSNWo5Z1VEU2ktMExxZUxqOTcyWXdtSWcxcmpTSjlCQVJ1Njc2ZnNwTnlQVmsxUXhURjl3bnktd1JiYm43SnhFbHl4TQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -497,6 +527,27 @@
       "related_sources": []
     },
     {
+      "id": "18d430eaf8face",
+      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport",
+      "category": "Jong Ajax",
+      "published": "2026-08-28T19:55:29+00:00",
+      "updated": "2026-08-29T02:42:15+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjJ5TWpZcFU3VjVETU45cFFMV3R2Q0NkVVUxakk3ZkRVVEF1UGFOUllTSFo0dHYwMWRLY2E0M2UtM2VRR3ozdFVDMUwtckJCSk5uLTVISFhzVGNWWDJ2UnhOSXFJSTVzb2x5YVVBSFBjVTM0MXhwTFBZaGpxdUpTcUFzTEx4V2lyNExhSDA5c0ZKTzFSR2Zrc1J6SVh3UVRDZUxGT3M0T0FfVE5ZZVlBMnZ6X2ZuOERRaHplUA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "e160af39dfb815",
       "title": "Bijzondere loting Ajax in Conference League: ’Die club is cult onder de jeugd’",
       "category": "Wedstrijden",
@@ -563,25 +614,19 @@
       "related_sources": []
     },
     {
-      "id": "9e3a95c7829ee9",
-      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport",
-      "category": "Jong Ajax",
-      "published": "2026-08-28T19:55:29+00:00",
+      "id": "daf5e98dee1079",
+      "title": "Ajax - FC Sion: Opstellingen | 27 augustus 2026 - FCUpdate.nl",
+      "category": "Wedstrijden",
+      "published": "2026-08-27T21:14:50+00:00",
       "updated": "2026-08-28T21:47:28+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
+      "source_count": 1,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQldTUHFMRWptSWp0b0FzWWNSekhlOVVTek96a0xmWTBJWWdsa0lVUmRHMnJrb3pkTFBKdXJYeTA4aDZlSlRWN2VnNWJKT0l6Q3hBR0o5LUFFNHpvbjdqelJwLWVzOFlIZmZzelVoWlM4NkdrcE9obWJVcENpOWNjWjk3TFMtNmVrN1lzTjgtZG1Ba1BIWWFZdjdXVWxCdjdRd0Jmd3lkTGNnS0RfT0VvYkpqWExPd2RRU0kxSHM3cnI3VksweVZGMm1CUzVlbi1lZ2hQdUc2QlVwUTdfLXNJMXkxVQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmN1THZQRzdXMkM3Zi1sVmhLMHNDRFMySUcwVk9yZUR4REV6N2hNQndVdWg5YXFRSjVuYVFnWGphTmxEX0JKZXVndU03QnFyTkNSaXNndDV1NERUVHNMYmUxLTJac2hFVjZEdXFWLVlEdzZhcXpCWFdxdF9Zcm03Y3Ftb01odVZ2N0xxamtBVG1fTFZrZlQzSUhwRnpHNWRWNldqN0g4VGhyTzhpRkR2bEZWQ0FieGxWSGZLX1hWeWFoMGhhN3NGTFJSUFdhbHk2Rk1wVkRKWEdqUzlRUE92Y25HTQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "11d39d6d14d22b",
@@ -600,7 +645,7 @@
     },
     {
       "id": "990a0a57b6e56e",
-      "title": "Ajax-target Rodríguez scoort na geweldige solo in de Leagues Cup - ESPN.nl",
+      "title": "Ajax in de markt voor Club América-aanvaller Rodríguez - ESPN.nl",
       "category": "Transfers",
       "published": "2026-08-28T15:55:00+00:00",
       "updated": "2026-08-28T20:48:06+00:00",
@@ -608,7 +653,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1NUVGFkUmZ1SDNyT2JvaG02VTY2LXRfVzRoVXA0YTQ0Y2lNb3VIRmY5SjFIX1RJem11TWxZRXkwd2hfRGxmMXYwRkdLQW9nWUEyNkJQUGlMdkZEeEpRdTdqNUNfSWdORXMzSFNiRUJGY1RydkY2OVYtSjd6ckczM2xmR3FUT2xCSGoyald6b1BFSGhSMGF6LXZ3bGpvNTlVRWZtNTRzd0x1VzVFS2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGRZMHhZR1BKYnlxelI2dUVxb3FvaDNTZkFnNElRelN6XzZ5WWw2VW1KUkQtenc0cGFralk3SEwzLXlHdVRsQlVaQVE5UG9vb29fdkVvaTB2Q3NDNnByWmVrTXFnbWtMVWF1N1lOMUdabmFhNlNWMGxlUWpoWDZPXy0wNUZxbi1RQ09xRG9mVGg3SG9pa3puUVpON3dWR2JUZlpvVnp4cw?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -636,51 +681,6 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/55941/Jong-Ajax-boekt-eerste-zege-van-dit-seizoen",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c4cae061cd7cbb",
-      "title": "AD-watcher ontkracht gerucht over 'mogelijke nieuwe nummer zes' van Ajax - FCUpdate.nl",
-      "category": "Selectie",
-      "published": "2026-08-28T20:01:33+00:00",
-      "updated": "2026-08-28T20:01:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGlSdG1KNFVJODRGeWhvY3Myd1RLd3pDaTRqR2FXS19JYzdfbFZwZ3FWYVkzakZ0ak1fNU8yc0Q5VVpoQUxLOGJjNFVQOVJ6dUJqQUd4cUxsaWUtUDNjWkFRWmplU3Nlb2FPMjFrQTI4bXd0TFFsN2FDQnVFWVh5ZkNLa0h6enpPd3JSa0ctbXNoQWlOUENwWEwwNFlBUTJGR2o4MGtRS2t1SDdsZ2Z6eURJVWNTYlk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bc733606a18847",
-      "title": "Transfervrije middenvelder niet naar Ajax: 'Hij wordt niet de nieuwe zes'",
-      "category": "Transfers",
-      "published": "2026-08-28T19:19:31+00:00",
-      "updated": "2026-08-28T19:19:31+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128712/inan-bissouma-gaat-niet-naar-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c25d4513484bb9",
-      "title": "Ajax komt in zoektocht naar nieuwe '6' uit bij voormalig speler van FC Barcelona (23)",
-      "category": "Transfers",
-      "published": "2026-08-28T19:12:00+00:00",
-      "updated": "2026-08-28T19:12:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGppZVRia19BX1JoNWUtSGJHNmluOUJOU3FkSWlhZzZtUW43UTgweHBGZ0I1blhwWXRsSVJhMTdLQy1VRGRvcDNEMDJqc1BPa3dMbXE2VXhUTEFmN1BLWUdTQnM1YU5WcktkTTRUOFVOYXphcjNOR3c3ZXBXRG9RdlpoYzNSTUp1cWQ2QjBZM3kyLUVTOEo2OEhJQW9DWWFrYzZLbnk4N2VubU1oV3l0QXo3aHdWajdSZFNWdlZyLTFHTDlxUWJlZWc0MnpuU0pE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
