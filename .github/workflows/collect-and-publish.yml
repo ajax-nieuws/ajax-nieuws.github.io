@@ -7,9 +7,11 @@ on:
     - cron: '17,47 * * * *'
       timezone: 'Europe/Amsterdam'
 
+# Nooit twee publicatieruns tegelijk laten schrijven.
+# Een handmatige run wacht dus netjes op een geplande run, en andersom.
 concurrency:
   group: ajax-news-publish
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -28,6 +30,15 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+
+      # Een ingeplande workflow kan even in de wachtrij hebben gestaan.
+      # Daarom altijd eerst de allerlaatste main als uitgangspunt nemen.
+      - name: Laatste main synchroniseren
+        shell: bash
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
 
       - name: Python instellen
         uses: actions/setup-python@v5
@@ -51,8 +62,24 @@ jobs:
             echo "Geen datawijzigingen om te committen."
           else
             git commit -m "Update Ajax-nieuws"
-            git pull --rebase origin main
-            git push origin HEAD:main
+
+            # Normaal lukt de push direct, want de concurrency-regel voorkomt
+            # dat twee Actions tegelijk schrijven. Als main tussendoor handmatig
+            # is aangepast, synchroniseren we eenmalig en genereren we opnieuw.
+            if ! git push origin HEAD:main; then
+              echo "Main is tijdens deze run gewijzigd. Opnieuw genereren vanaf de nieuwste main."
+              git fetch origin main
+              git reset --hard origin/main
+              python auto_news.py
+              git add nieuws.json kandidaten.json
+
+              if git diff --cached --quiet; then
+                echo "Na synchronisatie zijn er geen datawijzigingen meer."
+              else
+                git commit -m "Update Ajax-nieuws"
+                git push origin HEAD:main
+              fi
+            fi
           fi
 
       - name: GitHub Pages instellen
