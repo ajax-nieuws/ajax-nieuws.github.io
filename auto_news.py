@@ -30,10 +30,10 @@ CANDIDATES_OUTPUT = ROOT / "kandidaten.json"
 NEWS_OUTPUT = ROOT / "nieuws.json"
 
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
-MAX_AGE_HOURS = 96
-EVENT_WINDOW_HOURS = 48
-MAX_EVENTS = 60
-MAX_PER_SOURCE = 24
+MAX_AGE_HOURS = 48
+EVENT_WINDOW_HOURS = 36
+MAX_EVENTS = 40
+MAX_PER_SOURCE = 18
 
 # Directe feeds waar mogelijk. Google News site-search wordt gebruikt voor bronnen
 # zonder praktische clubfeed en als discovery-laag voor de officiële clubsite.
@@ -187,8 +187,9 @@ CATEGORY_TERMS = {
     "Transfers": {
         "transfer", "transfers", "akkoord", "overgang", "contract", "contractverlenging",
         "verlengt", "verlenging", "tekent", "getekend", "huurt", "huur", "verkocht",
-        "vertrekt", "vertrek", "komt", "komst", "interesse", "bod", "onderhandelingen",
-        "transfervrij", "overgenomen", "zaakwaarnemer", "miljoen",
+        "vertrekt", "vertrek", "komst", "interesse", "bod", "onderhandelingen",
+        "transfervrij", "overgenomen", "overneemt", "overname", "verkoopt", "verkopen",
+        "verkoop", "zaakwaarnemer", "miljoen", "in de markt", "opvolger",
     },
     "Blessures": {
         "blessure", "geblesseerd", "blessures", "uitgeschakeld", "herstel", "revalidatie",
@@ -383,30 +384,63 @@ def category_hint(title: str, summary: str) -> str:
     title_text = clean(title).lower()
     full_text = clean(f"{title} {summary}").lower()
 
-    # Expliciete subteams eerst. Een samenvatting met transferwoorden mag een
-    # Jong Ajax- of Ajax Vrouwen-kop niet onbedoeld naar Transfers trekken.
+    # Subteams hebben altijd voorrang.
     if "jong ajax" in title_text or "ajax o21" in title_text:
         return "Jong Ajax"
     if "ajax vrouwen" in title_text or "vrouwenelftal" in title_text:
         return "Ajax Vrouwen"
 
-    scores = {}
+    # Transfers alleen bij duidelijke transfertaal in de kop. Dit voorkomt dat
+    # interviews met een nieuwe speler door transferwoorden in de teaser als
+    # transfernieuws worden gelabeld.
+    transfer_title_terms = (
+        "transfer", "transfers", "akkoord", "vertrek", "vertrekt", "verlaat",
+        "interesse", "bod", "deal", "target", "transfervrij", "overgenomen",
+        "overneemt", "gratis over", "verkoopt", "verkopen", "verkoop",
+        "in de markt", "op weg naar", "opvolger", "onderhandelingen",
+        "tekent", "contract bij", "contracteert", "haalt", "aankoop",
+    )
+    if any(term in title_text for term in transfer_title_terms):
+        return "Transfers"
+
+    if any(term in title_text for term in CATEGORY_TERMS["Blessures"]):
+        return "Blessures"
+
+    match_title_terms = (
+        "opstelling", "basiself", "voorbeschouwing", "nabespreking", "uitslag",
+        "wint", "winst", "zege", "verlies", "verliest", "gelijkspel",
+        "doelpunt", "score", "loting", "conference league", "europa league",
+        "champions league", "kwalificatie", "play-off", "tegen telstar",
+        "tegen sion", "thuis tegen", "uit tegen", "wedstrijd",
+    )
+    if any(term in title_text for term in match_title_terms):
+        return "Wedstrijden"
+
+    if any(term in title_text for term in CATEGORY_TERMS["Club"]):
+        return "Club"
+
+    selection_title_terms = (
+        "selectie", "basisplaats", "basis", "debuut", "aanvoerder", "keeper",
+        "verdediger", "middenvelder", "aanvaller", "spits", "speeltijd",
+        "positie", "nummer 6", "nummer zes", "uitblinker", "toptalent",
+        "training", "speelgerechtigd",
+    )
+    if any(term in title_text for term in selection_title_terms):
+        return "Selectie"
+
+    # Alleen als de kop zelf geen duidelijk signaal geeft, mag de samenvatting
+    # de categorie bepalen. De teaser telt dan veel lichter mee.
+    fallback_scores = {}
     for category, terms in CATEGORY_TERMS.items():
-        # Woorden in de kop wegen drie keer zwaarder dan woorden die alleen in
-        # de RSS-omschrijving voorkomen. Dat maakt de classificatie veel stabieler.
-        title_score = sum(3 for term in terms if term in title_text)
-        body_score = sum(1 for term in terms if term in full_text)
-        score = title_score + body_score
-        if score:
-            scores[category] = score
+        hits = sum(1 for term in terms if term in full_text)
+        if hits:
+            fallback_scores[category] = hits
+    if fallback_scores:
+        best = max(fallback_scores, key=fallback_scores.get)
+        if fallback_scores[best] >= 2:
+            return best
 
-    # Een expliciet transferwoord in de kop wint van selectiecontext in de teaser.
-    if any(term in title_text for term in ("transfer", "transfers", "akkoord", "vertrek", "vertrekt", "interesse", "bod", "deal", "target")):
-        scores["Transfers"] = scores.get("Transfers", 0) + 5
-
-    if not scores:
-        return "Overig"
-    return max(scores, key=lambda c: (scores[c], -list(CATEGORY_TERMS).index(c)))
+    return "Overig"
 
 
 def title_tokens(title: str) -> set[str]:
@@ -465,11 +499,21 @@ def same_event(a: dict, b: dict, df: Counter, total_docs: int) -> bool:
         rare_overlap = [t for t in overlap if df.get(t, 99) <= max(3, total_docs // 5)]
         # Eén zeldzame eigennaam is bij transfers/blessures vaak het onderwerp zelf.
         # Voorbeeld: "akkoord over Tsygankov" vs. "Tsygankov op weg naar Amsterdam".
-        if any(len(token) >= 6 for token in rare_overlap) and sim >= 0.10:
+        if any(len(token) >= 5 for token in rare_overlap) and sim >= 0.08:
+            return True
+
+    # Bij transferdossiers kunnen verschillende bronnen dezelfde speler met totaal
+    # andere formuleringen brengen. Twee zeldzame gedeelde onderwerpwoorden of één
+    # lange zeldzame naam plus transfercontext is voldoende.
+    if a["category"] == b["category"] == "Transfers":
+        rare_overlap = [t for t in overlap if df.get(t, 99) <= max(5, total_docs // 6)]
+        if len(rare_overlap) >= 2:
+            return True
+        if any(len(t) >= 7 for t in rare_overlap) and hours_between(a, b) <= 30:
             return True
 
     # Twee of meer inhoudelijke gedeelde tokens is meestal voldoende buiten wedstrijdanalyse.
-    if len(overlap) >= 2 and a["category"] == b["category"] and sim >= 0.28:
+    if len(overlap) >= 2 and a["category"] == b["category"] and sim >= 0.24:
         return True
 
     # Wedstrijdverslagen van exact hetzelfde duel hebben vaak totaal andere koppen.
@@ -683,7 +727,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.1",
+            "generator": "Ajax Nieuws collector 1.2",
             "raw_candidates": len(candidates),
             "feed_errors": errors,
         },
@@ -694,7 +738,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.1",
+            "generator": "Ajax Nieuws collector 1.2",
             "article_count": len(candidates),
             "event_count": len(events),
             "source_count": len({x["source"] for x in candidates}),
