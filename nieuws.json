@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T22:25:13.860414+00:00",
+    "generated_at": "2026-08-29T22:55:15.296191+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 136,
+    "article_count": 141,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 94,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -12,12 +12,27 @@
   },
   "events": [
     {
-      "id": "596288857566b1",
+      "id": "ae11525f5f0c8b",
+      "title": "Waar ligt de toekomst van Joshua Zirkzee? Kijk hier naar de dagelijkse Transfer Deadlineshow - AD.nl",
+      "category": "Transfers",
+      "published": "2026-08-29T22:43:37+00:00",
+      "updated": "2026-08-29T22:43:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0xPUVdLRUwtYzRMdVFqa1Rqb1kzTnVaMEQwUDdFRFNIVS1RdlI4ZDdkNjdGc05GYUp0NFhlWnpUbkdRNE90eVExdXg3alEzRG5BRTJQdG1zdXR6cUxLdXlrc1kwWmhEN21KQlBpLUxjRWJNZXFSU0NGam5Pa3NldGhhMVdUNEI1RW9DcThya1JuMDF5NXdOWDdXbzRyNndLRkFyVW96ZDhKWlBNY3FfVllqXzdmRzdoTFZiLVZlbEVKM2g0ZUE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e677bc1a8140e7",
       "title": "Ajax dicht bij transfervrije komst van Marokkaans international Amrabat",
       "category": "Transfers",
       "published": "2026-08-29T18:12:40+00:00",
-      "updated": "2026-08-29T21:25:02+00:00",
-      "source_count": 10,
+      "updated": "2026-08-29T22:41:24+00:00",
+      "source_count": 11,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
@@ -48,12 +63,12 @@
       ]
     },
     {
-      "id": "d3a1a636b01f46",
+      "id": "7b0a6ef82143ce",
       "title": "NEC begint Europa League tegen Juventus, Ajax start Conference League in Kroatië",
       "category": "Wedstrijden",
       "published": "2026-08-28T05:28:11+00:00",
       "updated": "2026-08-29T21:16:11+00:00",
-      "source_count": 8,
+      "source_count": 9,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
@@ -161,6 +176,21 @@
       ]
     },
     {
+      "id": "ce4ceec1bfcff6",
+      "title": "Wedstrijd bij Telstar onder leiding van Higler",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T20:16:16+00:00",
+      "updated": "2026-08-29T20:16:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55947/Wedstrijd-bij-Telstar-onder-leiding-van-Higler",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "b10d63aef23be3",
       "title": "Ajax-beul Getafe komt naar de Johan Cruijff ArenA: 'Je bloed begint te koken'",
       "category": "Club",
@@ -187,6 +217,36 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXhHbXoxWTJOeERQVEpEVDdnU2M5U01Qc1dQaVdqZGh4UEtRLTdNVktrNzdsd1UweC1qMkY4U3E4VTE0R0lRYm9zcG1oeElydU9jajRJcmJiTmR1d043Yjd6c0UxeUh1R1lULTNuaDc0VHZPZ2t5ODlVQ1lEWDktQlR6OTJzX01GMEdoVjlPcG5LODdueXR6eGstajJPRldTUWZHb0VCTW1BNGVISVE0TW5rTEhuWlBSMnU0ekN2dkdWUXpkRng2WkFYakxWcUxRb3c?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f6d5d0af46323a",
+      "title": "Weet Ajax opnieuw te winnen bij Telstar?",
+      "category": "Overig",
+      "published": "2026-08-29T20:08:51+00:00",
+      "updated": "2026-08-29T20:08:51+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55946/Weet-Ajax-opnieuw-te-winnen-bij-Telstar%3F",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "df31c977e4345e",
+      "title": "Wil jij het live-verslag verzorgen bij wedstrijden van Ajax?",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T20:07:40+00:00",
+      "updated": "2026-08-29T20:07:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55944/Wil-jij-het-live-verslag-verzorgen-bij-wedstrijden-van-Ajax%3F",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -648,72 +708,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/gudelj-geeft-ja-woord-aan-getafe-confrontatie-met-ajax-wacht",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d1264c3aa50dfc",
-      "title": "Ronald de Boer ziet kansen voor Ajax in Europa: 'Wordt er oppertunistisch van'",
-      "category": "Overig",
-      "published": "2026-08-29T06:11:51+00:00",
-      "updated": "2026-08-29T06:11:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/videos/2128711/de-boer-verwacht-veel-van-ajax-in-de-conference-league.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "84cad722b7a0b3",
-      "title": "PSV-trainer Bosz doet opvallende uitspraak over Ajax-uit - FCUpdate.nl",
-      "category": "Overig",
-      "published": "2026-08-29T05:56:05+00:00",
-      "updated": "2026-08-29T05:56:05+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2MyTVVoWnRqa3pFdkt5aXIxTEJFRU02OGt5WGJxdXBObllfMnltQjk5VnFSeVlfYXg2em5McEJLV3FiUjhFMTFmVG9ZWG44Y1ZxblZ6Mk5LbGRmNl80ME5HX3hiVmZfTnNKS1VHakQ1SUtaSzI4MDMxdjVvd0RGM3Q4cHpHNzBxSlR5RERNT1VmZ2QwWEZCTE96QUhQZEt4S1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "18d430eaf8face",
-      "title": "Jong Ajax wint na aantrekkelijke wedstrijd van Helmond Sport - Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-08-28T19:55:29+00:00",
-      "updated": "2026-08-29T02:42:15+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXdMSlB2c3RQd3RMczFkZXF1bzBYRTU1Sl9PNWhlc3BRWHB6bXRBRmtHal9zRl93T3pVVEpDaDMzRDFQX1JNWWFnaDUyNkpzdWtjZ05xZXJQY0Q3X0RlNmxlVHlRUEhsNHdhZ05sVFV0YmVrY2pxc0ZWcDVIaHlYNkFyQXBGWHVXbzFRUE5kN2ZqVVJ5elE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjJ5TWpZcFU3VjVETU45cFFMV3R2Q0NkVVUxakk3ZkRVVEF1UGFOUllTSFo0dHYwMWRLY2E0M2UtM2VRR3ozdFVDMUwtckJCSk5uLTVISFhzVGNWWDJ2UnhOSXFJSTVzb2x5YVVBSFBjVTM0MXhwTFBZaGpxdUpTcUFzTEx4V2lyNExhSDA5c0ZKTzFSR2Zrc1J6SVh3UVRDZUxGT3M0T0FfVE5ZZVlBMnZ6X2ZuOERRaHplUA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "e160af39dfb815",
-      "title": "Bijzondere loting Ajax in Conference League: ’Die club is cult onder de jeugd’",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T01:11:00+00:00",
-      "updated": "2026-08-29T01:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXpZc0oxa1RWbGdNQlhJc1VodXlXeGFWdDZFZDN5NGlhR1lVYS1YZ2M4LVkxQUVFdkwwY2xpeXJXLThNUFZxOXFQdEVGaWhHb20ybmk3b2YzTnd4TUc2a0JPb1QxS09wZm52U0t4a1g2NGItdnFoUzBreWVBNFZ2M1l5TG5rUmJyUG8wdFhGbDdhaTYydlNZUTlNNVRlQXJraWxiWk8zU25uVHR2WTg2SUgwZWlER2s3Rld0VkRR?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
