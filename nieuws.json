@@ -1,55 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T14:54:49.362645+00:00",
+    "generated_at": "2026-08-30T15:25:13.922459+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 119,
+    "article_count": 121,
     "event_count": 40,
-    "discovered_event_count": 72,
+    "discovered_event_count": 74,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 90,
+    "excluded_video_only_count": 88,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "c40db1b3614f52",
-      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
-      "category": "Transfers",
-      "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-30T14:49:00+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
       "id": "b2106bdfc7d6e8",
-      "title": "VI Live: Ajax begonnen aan uitduel met Telstar",
+      "title": "VI Live: Klaassen schiet Ajax op voorsprong bij Telstar",
       "category": "Wedstrijden",
-      "published": "2026-08-30T14:46:01+00:00",
-      "updated": "2026-08-30T14:46:01+00:00",
+      "published": "2026-08-30T15:22:25+00:00",
+      "updated": "2026-08-30T15:22:25+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -60,9 +29,39 @@
       "related_sources": []
     },
     {
-      "id": "ef63d83a861cc0",
-      "title": "Míchel dolblij met Ajax-transfer: 'Wereldklasse, hebben lang voor hem gevochten'",
+      "id": "877892e5386fef",
+      "title": "Michel: 'Er komt 100 procent nieuwe linksbuiten, iemand met één-tegen-één-actie'",
       "category": "Transfers",
+      "published": "2026-08-30T14:56:00+00:00",
+      "updated": "2026-08-30T14:56:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129287/michel-verzekert-dat-ajax-linksbuiten-gaat-aantrekken-zoals-mika.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3af5052dcf1b44",
+      "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
+      "category": "Transfers",
+      "published": "2026-08-30T14:49:00+00:00",
+      "updated": "2026-08-30T14:49:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ef63d83a861cc0",
+      "title": "'Speler van wereldklasse' bij Ajax: \"We hebben lang voor hem gevochten\"",
+      "category": "Overig",
       "published": "2026-08-30T14:43:04+00:00",
       "updated": "2026-08-30T14:43:04+00:00",
       "source_count": 1,
@@ -101,6 +100,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129278/maduro-enthousiast-over-ajax-aanwinst-amrabat.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "863de0b33e9525",
+      "title": "Brugge: \"De intentie is wel om Ajax bij de strot te pakken\"",
+      "category": "Overig",
+      "published": "2026-08-30T14:29:41+00:00",
+      "updated": "2026-08-30T14:29:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN09UdVdjNUttTE55bnpCa3FlX3pQOW9hbEJVeENyWHhPcHkxWVVNZ1JZa2lvVVFDMjJ6YWljM0N5c3RnMnRoUEdYVUFqcVpEbkZRRlBRWHJSZENlZzM2M0xmVFE2cDVrVUdJVTN6UEk3TXNOMVE4NzRycmwzczJLRTNia3pYcUhGYmVUMmtuYXZmMmtfVDFQZVJrcmFCcWU4Tl80?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -202,6 +216,37 @@
       ]
     },
     {
+      "id": "c40db1b3614f52",
+      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
+      "category": "Transfers",
+      "published": "2026-08-30T11:52:00+00:00",
+      "updated": "2026-08-30T13:51:56+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129255/ajax-probeert-te-verkopen-maar-regeer-is-op-weg-naar-bremen.html",
+          "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "def1e12740923d",
       "title": "Opstelling Ajax: basiskracht ontbreekt in afwachting van toptransfer",
       "category": "Wedstrijden",
@@ -243,6 +288,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129230/aan-ajax-gelinkte-yves-bissouma-in-onderhandeling-met-juventus.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "13fab2820c6d83",
+      "title": "Youri Regeer weg bij Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T12:02:00+00:00",
+      "updated": "2026-08-30T12:02:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWd4cjZFRUVrLUZ1ZVFFNkJjQm1WYjZMQ3QybDJ6RElvZmNUaDdJR3FDWXR0bUMzYmJ3NUdHUzJhdlhneGc2Wm1QVTljeG9KT2VPUGZ6cGs0RG5kVlJseVZlNGhFbGJnX1FUYUZzMXFaMEpORllqXzZSbDZtaXVqR0xmQl90QQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -519,7 +579,7 @@
       "category": "Transfers",
       "published": "2026-08-29T18:16:46+00:00",
       "updated": "2026-08-30T07:40:00+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
@@ -533,11 +593,6 @@
           "via_google_news": true
         },
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
-          "via_google_news": false
-        },
-        {
           "name": "NU.nl",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpYYjNJRjZqM19hREZPMXJORlJpYjRyb0FpWW1xVTctejE1eTZ3YjcyZkJQQ0Z1U0VHNjY0MzU3dnNHb1lNTXNHQVJKNjBVNlQwQ3BIc0ItNDNaNVo5a2ExX1llVGJIYjhoMGRjT0F1eFNtRnRmdG40X3pSdjVNTjFDSFBQeDVIVHRxanh5aWRTNHZiX3NPSkVsZ3YyZkRuRHRXYkY4aVk3UUxoOXpqTHkzdEl4cVdf?oc=5",
           "via_google_news": true
@@ -545,6 +600,11 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHhrRmVNQ1czNlRwYlJiU21aRjkybXRHMVJjeUhPNXN2aDJyU2xUVnFwVGw2V0pxdW14VnU3TjRjcEl2X1d4SGVxUE9qUlhqOV8yVUVrZFFjRUlVbWs3b0plSll3OXgwTzdnTk5PMDJKM3hIV1BiejRDQ1VnNjhXb0tPYTVTcldyWjJsSEpBT1VoQ1R2ZXZCYnp5MUliakN6UlQ1N2Nldw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEliOUNkMlpXRl9DR2gtbU5XTUs0aE81TkMxTnFuaHVMcU5WQk5oRHlRTUJEUG1VOWlqc0pLbFhkUUtzd1VRdGxqMHpUZEpmNjYyU3pWczBsazF6RHAxaDctZEljRWUyVm5uZm1jRlRrX0gyMkJIaGJfb0Y3dkNWeXNWUjBwWmRpQkhyVEhZMXBkYlBzTlFsa0JQQlc?oc=5",
           "via_google_news": true
         }
       ]
@@ -685,6 +745,21 @@
       "related_sources": []
     },
     {
+      "id": "f2d2db3bcd497f",
+      "title": "Davids: 'Kracht van Ajax dat ze slecht speelden'",
+      "category": "Overig",
+      "published": "2026-08-29T21:24:24+00:00",
+      "updated": "2026-08-29T21:24:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlV0WDBwZGdMQ1M2S2pZYzJfdlFBRG5HMWJtbmxpNWQ2ZUYtR1dZZ2UzUDJ3YV9pUmlnYVBJWno4Um1tR1YyM2FxeEFrY0w3ZVdjYzFFWmlUZHlPcll0ZTN4R2RUMkVaSTQ4XzVVREZFZ1QyOE9CYjljUk9ZVWZJM3VaVGtnOU1tZmd3VE5ZN0l2NFVEeklsNzA0V0c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "ce4ceec1bfcff6",
       "title": "Wedstrijd bij Telstar onder leiding van Higler",
       "category": "Wedstrijden",
@@ -698,98 +773,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "e679995ced7353",
-      "title": "NEC begint met Juventus-uit, Ajax ontvangt Hajduk Split: speeldata van alle Europese toernooien bekend",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T20:10:00+00:00",
-      "updated": "2026-08-29T20:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXhHbXoxWTJOeERQVEpEVDdnU2M5U01Qc1dQaVdqZGh4UEtRLTdNVktrNzdsd1UweC1qMkY4U3E4VTE0R0lRYm9zcG1oeElydU9jajRJcmJiTmR1d043Yjd6c0UxeUh1R1lULTNuaDc0VHZPZ2t5ODlVQ1lEWDktQlR6OTJzX01GMEdoVjlPcG5LODdueXR6eGstajJPRldTUWZHb0VCTW1BNGVISVE0TW5rTEhuWlBSMnU0ekN2dkdWUXpkRng2WkFYakxWcUxRb3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f6d5d0af46323a",
-      "title": "Weet Ajax opnieuw te winnen bij Telstar?",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T20:08:51+00:00",
-      "updated": "2026-08-29T20:08:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55946/Weet-Ajax-opnieuw-te-winnen-bij-Telstar%3F",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c6ec0083734fd6",
-      "title": "NEC begint Europa League tegen Juventus, Ajax start Conference League in Kroatië",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T18:57:10+00:00",
-      "updated": "2026-08-29T20:02:27+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2628852",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/schema-bekend-ajax-begint-conference-league-in-kroatie-getafe-in-laatste-duel",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpNc0QyTVZKelU4ZG9SellaUnd5Q3NSdWVoX1RLcnAxdm1PSlI4bE92SHFXeFdXcF95ZXJLdDhBWVo3SWNpZWNKRlMxWXA0NXRwQmVWNDdVWGxrT2JFLWVZQUYyeE5MQ1RDRWFvdXBpYUdKNVEwbXI1ZllmT3RVZ2dqU3ctbDJwUEF3ZHZXLUN3YWJWMG1rR0U2bEdtcHZpYklBR1lZZHJra2tLYk85cTV6cHg?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "515762a04c9734",
-      "title": "Ajax O16 en O15 boeken monsterzeges op FC Utrecht en ADO Den Haag; hattrick Rijsenburg",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T19:50:00+00:00",
-      "updated": "2026-08-29T19:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUZwS3pETnlJbHdoUUFDUlFoTzlVdVNYczNlQkYxQkdIMGxhOS1ZNkM2ZWxKWGZfOF94c0k2eVcwVS1Tb3FsNmtyX1duR1hTdFFQSzFBRERPTzVmNHA4T2RaaWtOUjN3ajlaeTNFMzh3RnRTazExWWY0U3F6NnJNVmRjY0lUR0xYdGRkNml1b0gtcXdLS1RKOUlLOFdfNm1yLW52UHE0VHJESURuNmJDemt6dXF0cVVoazNkMEtZSTdzSTd6ejczQzJqY1VLV0hXc3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e677bc1a8140e7",
-      "title": "Akkoord in Amsterdam: Amrabat wordt nieuwe nummer 6 Ajax",
-      "category": "Transfers",
-      "published": "2026-08-29T18:50:02+00:00",
-      "updated": "2026-08-29T19:18:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/akkoord-in-amsterdam-amrabat-wordt-nieuwe-nummer-6-ajax",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55943/Ajax-heeft-beet-na-mondeling-akkoord-met-Amrabat",
-          "via_google_news": false
-        }
-      ]
     }
   ]
 }
