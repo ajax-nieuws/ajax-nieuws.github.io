@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T10:55:16.900419+00:00",
+    "generated_at": "2026-08-30T11:25:19.196853+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 136,
+    "article_count": 137,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 90,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -12,17 +12,73 @@
   },
   "events": [
     {
-      "id": "1c0984a68d0caa",
-      "title": "De Telegraaf: Carrizo staat voor vertrek bij Ajax door forse concurrentie",
+      "id": "24fe648b22c287",
+      "title": "Ajax-aanwinst Amrabat is een nummer 6 in de mal van Míchel",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T11:20:00+00:00",
+      "updated": "2026-08-30T11:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/pro/analyse-sofyan-amrabat-ajax",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0dd48bd2a37856",
+      "title": "Ajax en FC Kopenhagen akkoord over verhuur Carrizo",
       "category": "Transfers",
       "published": "2026-08-30T10:44:37+00:00",
-      "updated": "2026-08-30T10:44:37+00:00",
+      "updated": "2026-08-30T11:10:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129181/carrizo-kan-ajax-nog-verruilen-voor-kopenhagen.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUhhUU1qdzc4RHFMS1JNSnBuU2RPX250TUxDeWVoRW1oUG14NWw3SjJUaFA1MktMbjNtQV9Od0pJQUZiM3VBaEh4b2xQaG1IMnk5QS05bmU1b1FEbkxhTktKQWk4NzlleEd3aW1qTDI1ZFVkUURydlI0dkpoVzVhY3pJZ0pkUEl0aXBlbnNxdWxXRVdTSUdMbHJURE9SSHhFN0kxMjJmS2thVUpMcXBhNHdrUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "c30961e77a0840",
+      "title": "Nieuwe Ajax-controleur wil snel doorbreken: 'Zo snel mogelijk doorstromen'",
+      "category": "Overig",
+      "published": "2026-08-30T11:03:04+00:00",
+      "updated": "2026-08-30T11:03:04+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129181/carrizo-kan-ajax-nog-verruilen-voor-kopenhagen.html",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129176/ajax-aanwinst-camara-mikt-op-doorbraak.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "12464854c5b46c",
+      "title": "FC Kopenhagen wil Maher Carrizo (20) seizoen huren van Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T10:55:35+00:00",
+      "updated": "2026-08-30T10:55:35+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "De Telegraaf",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWJqd0J4UGlJTjVOck96dkczTko2bHhPLVNCRWg4OGN0WDY4aWF6blhVWTFtLTBMcEVxeGN2eVp3MERaalpqZXd5U2lvdXlwODhqNFlyV0Rqa1VFVUp6N2ZmQ0JCenBETlduN2drQ2JYTkE3cTcwVk42YXUwcmJsRnplNmw4bk9jcWRXTTAtQVBSX0dEUllINnZpNElJLUk5bXVBY3I5NDItWlZKOHJ3TA?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -46,21 +102,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "12464854c5b46c",
-      "title": "FC Kopenhagen wil Maher Carrizo (20) seizoen huren van Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T10:23:18+00:00",
-      "updated": "2026-08-30T10:23:18+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWJqd0J4UGlJTjVOck96dkczTko2bHhPLVNCRWg4OGN0WDY4aWF6blhVWTFtLTBMcEVxeGN2eVp3MERaalpqZXd5U2lvdXlwODhqNFlyV0Rqa1VFVUp6N2ZmQ0JCenBETlduN2drQ2JYTkE3cTcwVk42YXUwcmJsRnplNmw4bk9jcWRXTTAtQVBSX0dEUllINnZpNElJLUk5bXVBY3I5NDItWlZKOHJ3TA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "4b3174fc0265e6",
@@ -114,12 +155,12 @@
       "related_sources": []
     },
     {
-      "id": "5e9ce5f331f559",
+      "id": "042cbffa925cd9",
       "title": "Officieel: Ajax heeft nieuwe 6 binnen met Amrabat",
       "category": "Transfers",
-      "published": "2026-08-29T18:16:46+00:00",
+      "published": "2026-08-29T18:31:00+00:00",
       "updated": "2026-08-30T08:52:08+00:00",
-      "source_count": 5,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -134,17 +175,12 @@
         },
         {
           "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmliMUhHS2pfT2paZWFBQUZmX0JSdm9OV2VzdEpYRnRKX0dlTU5KQmJOSE56U25UWk5tdlFZZUREOEl6ejVEdVF2SXNsTjh3VXBOY3JrTHQ3bjk4RXRfYkF4bWhQRXp0Ym1JRjBmTFJqX29sUjJyRzJZNXBRWmxMaUJjd2xLb1pRZHVHM283VlJmTjc5MG5aT3llUWdRS0FzMzZ4bmxkNVZtN3BkUFdGdWhrUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtZQWNtYnExNGVlVlBDLXJTTWNWUEpSclVCOXFFSW9veG4xWkd4Ym9TcURzTkY1SVl2YXI5d3I2MWxkSDY4U2lCbDhpeTRRS09PZWVrSHBlVDJqOHVyLWQxUklQMElmOXdBNS1UT1VpdHJBUllSY1RZNG5QUThkaElwYVlZbFU2cHF1d210SWVLYkFtd1RkY1pKZndnc1NOa0FnTXpyS3EyWWprZnJyWUI1ZTBSUQ?oc=5",
           "via_google_news": true
         },
         {
           "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2hobDBqbnNrNng4anVFNVpuMllfeXlYNlZQWXlDMGdJZS1IdTQwVl9MNGVNSXVhdnNaYlB0X0NtUnFwRVB3VURUUnBwVnB4M3BoMTA3SlJHY0N2ZXBVc3ZTdk1TcktETUp3VGg1cm9OWG9XbDk1cXVIaUh1ZG8yV21YWUsxLUlXY1lqbk8yTXZiUnAxSWVRQ19nd2ZVaDF6RlBHOWFFekVvdkxkRDVneXFtWkh4anJ3V3ZVd1oyOEdtdVE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEJJWHNUWTdrdWZxclo5S1c5aTg5UEhmMUwyd25SN1hpR0JtdFRSbzVFX21naVJ5Wnd2NWVKM0c0Ny1nZzNURTRCYU5ubGZzekFfc25HaTFBWHNYSWVXY0NSRGVVMUVjT0tMU1ZhUWhNazdQV0pEUUJLbVVTcWNNbjNUVnM5NWp4MWVmdFBacnhtanJ5Q0UxdmdR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0JsVmk1UDRwXzg2REttSUpLTnZRQ3NrMkJsaFktZ3dVejNCeXdlMkU2YnBUZktMQUd6OEhPVEtjWFAtS3I3N0xYZURueFljU2x3RW9qZUV6VEppZDRLVkVSUEptYnBmeDZHOHZyMUtwaEc4eGZ5ODRYeS1SbnAyS2QtaXZrWGVUS19qVjRaRWdRN0VtQVE4WlNUVTFHWXJ3WEE1WXdQMVkzUVM2TU00YWdiOHZvOG5xZzUzQ19PODNEOHJfbnhRRmxXMTdhQQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -216,42 +252,6 @@
       ]
     },
     {
-      "id": "596288857566b1",
-      "title": "Deal rond: Sofyan Amrabat (30) tekent voor twee jaar bij Ajax",
-      "category": "Transfers",
-      "published": "2026-08-29T18:20:00+00:00",
-      "updated": "2026-08-30T07:45:31+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2tYa09SQ0hfbVc0RC1DcFJUVklCSmxELTVMRThJTl9Nb0RGUVQ2WWRsS3VWUE8yNjZPS0R1Sm5CODNGQWlUZGxPRVNRRWtLd3huSXJBdEJ2Y3h4bi1mX0Q5TTR3U0hfMjJId19WSHU0OGVVUmFKaUhfOVhaYVdka2pna2t3OEQwOW1fWEh1T3JoXzNyRzNRSmhEWHR5MnZDQ3BxQ29BZ3Z0TFJOb3RPSWd3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtZQWNtYnExNGVlVlBDLXJTTWNWUEpSclVCOXFFSW9veG4xWkd4Ym9TcURzTkY1SVl2YXI5d3I2MWxkSDY4U2lCbDhpeTRRS09PZWVrSHBlVDJqOHVyLWQxUklQMElmOXdBNS1UT1VpdHJBUllSY1RZNG5QUThkaElwYVlZbFU2cHF1d210SWVLYkFtd1RkY1pKZndnc1NOa0FnTXpyS3EyWWprZnJyWUI1ZTBSUQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "4e4bfe14ed97cc",
       "title": "Cruijff geeft vier kraakheldere redenen voor aantrekken Amrabat met Ajax",
       "category": "Overig",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "id": "cdb5646c445418",
+      "id": "865265d01201f1",
       "title": "Sofyan Amrabat definitief speler van Ajax: ‘Ik denk dat er iets heel moois kan ontstaan’ - AD.nl",
       "category": "Overig",
       "published": "2026-08-30T07:40:00+00:00",
@@ -297,7 +297,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkdLaThudkpDTHR3QnBEcGlud3JyMzFRVDBkOXBCWEFUT2pHTjhZNHZzcHdVd01vVlZEbEZDYU1IVHFicGJTX3Azd2ZZR2lNMVJWbG12bTZLLW5wR2pCVlpTNWlKYUtKRnBhRUQwcGdhdUxWZ1JSZ21FSGZlUktCa0hZQ0E3aGxzejgtczg2MU5QbE4yaVpSOVR1NnBSLW95cnN1SVZ1Q29acTkxZnZzOWdJbXpqOFJ3NVhHTmJB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmhyOHZSTnZvVWYzMHBUQUExdll4a2h1T2dXeGdSVzk5Q1p0UEo2NC1NUXFEd281Nll2cXVUMndhQ19LUzJ5UjdsNnItRkYwcUd5R29mUUFyUHVEc3RuN0gwaVpNMDlMQzNMRHdxNVJKZF9pcVl5S29SWGhZNG1xV0FjajRpbVY0SnBwODEtbjU0d2F1OWVJRTlORklhOG9Dd1BkYTJHelZBc2NQVV9lM094cFc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -361,6 +361,42 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "596288857566b1",
+      "title": "Éindelijk een '6' voor Ajax: transfervrije Sofyan Amrabat op weg naar Amsterdam - ESPN.nl",
+      "category": "Transfers",
+      "published": "2026-08-29T18:16:46+00:00",
+      "updated": "2026-08-30T06:41:23+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
+          "via_google_news": false
+        },
+        {
+          "name": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2tYa09SQ0hfbVc0RC1DcFJUVklCSmxELTVMRThJTl9Nb0RGUVQ2WWRsS3VWUE8yNjZPS0R1Sm5CODNGQWlUZGxPRVNRRWtLd3huSXJBdEJ2Y3h4bi1mX0Q5TTR3U0hfMjJId19WSHU0OGVVUmFKaUhfOVhaYVdka2pna2t3OEQwOW1fWEh1T3JoXzNyRzNRSmhEWHR5MnZDQ3BxQ29BZ3Z0TFJOb3RPSWd3?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpYYjNJRjZqM19hREZPMXJORlJpYjRyb0FpWW1xVTctejE1eTZ3YjcyZkJQQ0Z1U0VHNjY0MzU3dnNHb1lNTXNHQVJKNjBVNlQwQ3BIc0ItNDNaNVo5a2ExX1llVGJIYjhoMGRjT0F1eFNtRnRmdG40X3pSdjVNTjFDSFBQeDVIVHRxanh5aWRTNHZiX3NPSkVsZ3YyZkRuRHRXYkY4aVk3UUxoOXpqTHkzdEl4cVdf?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "7b79b14e4a8093",
@@ -711,42 +747,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "e677bc1a8140e7",
-      "title": "Akkoord in Amsterdam: Amrabat wordt nieuwe nummer 6 Ajax",
-      "category": "Transfers",
-      "published": "2026-08-29T18:50:02+00:00",
-      "updated": "2026-08-29T19:18:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/akkoord-in-amsterdam-amrabat-wordt-nieuwe-nummer-6-ajax",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55943/Ajax-heeft-beet-na-mondeling-akkoord-met-Amrabat",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "98e6a4ae1834f6",
-      "title": "Ook Europese schema's AZ, NEC, Ajax en Twente bekend: meteen prachtige affiches",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T19:15:26+00:00",
-      "updated": "2026-08-29T19:15:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129018/europese-schema-s-az-nec-ajax-en-twente-bekend.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     }
   ]
 }
