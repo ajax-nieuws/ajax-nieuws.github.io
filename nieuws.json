@@ -1,29 +1,90 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T18:25:02.949326+00:00",
+    "generated_at": "2026-08-30T18:55:20.427304+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 129,
+    "article_count": 131,
     "event_count": 40,
     "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 81,
+    "excluded_video_only_count": 73,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "c40db1b3614f52",
+      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
+      "category": "Transfers",
+      "published": "2026-08-30T11:52:00+00:00",
+      "updated": "2026-08-30T18:51:45+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129366/ajax-en-werder-bremen-akkoord-koopoptie-voor-regeer.html",
+          "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "f5f4918ef471a6",
       "title": "Spannende dagen voor Míchel en Ajax: 'We hebben nog drie spelers nodig'",
       "category": "Overig",
-      "published": "2026-08-30T18:24:00+00:00",
-      "updated": "2026-08-30T18:24:00+00:00",
+      "published": "2026-08-30T18:42:33+00:00",
+      "updated": "2026-08-30T18:42:33+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/spannende-dagen-voor-michel-en-ajax-we-hebben-nog-drie-spelers-nodig",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d40c6206cc87c7",
+      "title": "Van der Vaart komt met duidelijke boodschap aan Ajax: ‘Die zou ik gewoon houden’",
+      "category": "Overig",
+      "published": "2026-08-30T18:42:17+00:00",
+      "updated": "2026-08-30T18:42:17+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2NvTFdwM0ZwaFlmMXZMZW5YWGxCeXZqSHdkamp3SXQzQzB3OFVrMks4UW4tNnNtVDMzTGd6ZWhKd2JoQXlINzhRT1ZxU0thOEkwUC1STTFCdERGXzgwRldVbkZPUldjbFlyYXNxR0hPR01nb2VhRloyRk84elltR2wybFhSTkxOcWJyVzFpSldHNFJNTHBnb2FVSFh0ZFJfOG1LOV9kdEd5R2tOb2ZENGlDRHVWRlljVGhqa0piRTk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6e36f91e30453f",
+      "title": "Bouwman verloor nog nooit met Ajax in Eredivisie: 'Ik zou niet weten hoe dat kan'",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T18:29:32+00:00",
+      "updated": "2026-08-30T18:29:32+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bouwman-verloor-nog-nooit-met-ajax-ik-zou-niet-weten-hoe-dat-kan",
         "via_google_news": false
       },
       "related_sources": []
@@ -40,42 +101,6 @@
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3RDZE9YWUxfdGkxUWRlY2prMDd0b3BYU1I1OHVJazY2Y2RwMHh0NkdpdmRzT0FDVXZyeW1lc3kyV0lOa05VTC1HdFJ4LWNQUWNSQmFaTnRBbWdiS1dFUzc3Tm5lOHExdTZQbXZabGZ4YXVJV0dWTm85eTctUGpEUUtXX19xUHphYkx2NHVYWDJkajRYX0Jhbk0yM1hHeXd2ZEkxSE0zQ1lHZ3pDcG9BamtnYXRFbUtHd2Q0?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9b86da15df8b49",
-      "title": "Telstar 0-4 Ajax (30 aug., 2026) Uitslag",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T17:12:25+00:00",
-      "updated": "2026-08-30T18:05:31+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9halRFUlY4Uy1aZHpsRTZ4S29VVE1LamhreUM5b3F5MU1PTDRUNzl5UUU3T1gwQnBrdl9YYlRlc0NKSzg1VFFMWnlUcEdLX21BSkU2ZWFVX3ppTFJRMVNJaTB4dEYwQ2hSWjAzdmRB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcF9xQmtoNllaeEVIZ2lRaVpVcGdEQkhmeVJ2NndFcGZ2S1dTa0R6YVJYZl9TN2xRTGYwMXRDMDJkNmZJcFRUOUZrbnBiVENzaFB4VjNqSFlmd3hYZWNCblpUYWIwR05vRV9XbEVMSmZ4T095WGZEY254QmlibnNrZ1NWVFJjNmJGVjBjZ2hRaEZibnE0dDNTZEk1cTZRZ2FSellpLXFhMlpqWjV1cHJKaWFWNFk0MHptOUJ6bzFtYjNsMVU?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "6e36f91e30453f",
-      "title": "Bouwman verloor nog nooit met Ajax: 'Ik zou niet weten hoe dat kan'",
-      "category": "Overig",
-      "published": "2026-08-30T18:04:17+00:00",
-      "updated": "2026-08-30T18:04:17+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/bouwman-verloor-nog-nooit-met-ajax-ik-zou-niet-weten-hoe-dat-kan",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -138,6 +163,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "9b86da15df8b49",
+      "title": "Telstar - Ajax: Live verslag | 30 augustus 2026",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T07:00:00+00:00",
+      "updated": "2026-08-30T17:12:26+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcF9xQmtoNllaeEVIZ2lRaVpVcGdEQkhmeVJ2NndFcGZ2S1dTa0R6YVJYZl9TN2xRTGYwMXRDMDJkNmZJcFRUOUZrbnBiVENzaFB4VjNqSFlmd3hYZWNCblpUYWIwR05vRV9XbEVMSmZ4T095WGZEY254QmlibnNrZ1NWVFJjNmJGVjBjZ2hRaEZibnE0dDNTZEk1cTZRZ2FSellpLXFhMlpqWjV1cHJKaWFWNFk0MHptOUJ6bzFtYjNsMVU?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9halRFUlY4Uy1aZHpsRTZ4S29VVE1LamhreUM5b3F5MU1PTDRUNzl5UUU3T1gwQnBrdl9YYlRlc0NKSzg1VFFMWnlUcEdLX21BSkU2ZWFVX3ppTFJRMVNJaTB4dEYwQ2hSWjAzdmRB?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "fa3b1a791e6865",
@@ -281,6 +327,21 @@
       "related_sources": []
     },
     {
+      "id": "8809813d3f2bb0",
+      "title": "Leonardo heeft zijn eerste treffer voor Ajax te pakken bij overwinning op Telstar",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T16:37:49+00:00",
+      "updated": "2026-08-30T16:37:49+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55951/Leonardo-heeft-zijn-eerste-treffer-voor-Ajax-te-pakken-bij-overwinning-op-Telstar",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "b7c67bc46ad3f8",
       "title": "Guus Til kijkt uit naar Ajax-uit en wilde PSV deze zomer niet verruilen voor ‘zomaar een club’",
       "category": "Overig",
@@ -309,6 +370,42 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "481e02c05800ed",
+      "title": "FC Porto meldt zich voor Youri Baas",
+      "category": "Transfers",
+      "published": "2026-08-30T12:34:04+00:00",
+      "updated": "2026-08-30T15:04:00+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "877892e5386fef",
@@ -401,19 +498,25 @@
       "related_sources": []
     },
     {
-      "id": "0ab8840d1add7b",
+      "id": "f80f2e42896302",
       "title": "'Ajax ging voor terugkeer publiekslieveling, laptop hoofdscout lijkt schatkamer'",
       "category": "Transfers",
-      "published": "2026-08-30T14:14:53+00:00",
+      "published": "2026-08-30T09:20:00+00:00",
       "updated": "2026-08-30T14:14:53+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129202/ajax-wilde-alvarez-maar-gejuich-na-stille-zet-cruijff.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "59232a5d571286",
@@ -458,73 +561,6 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhiUEdVOTNubFhkbDdHZFp1MUlPbjhMUFpabnRXTktJaVAzQ01icGR1MjFfZjdFRENnTjlyNEQyb3hEVWRabkJLYThTVGtLQnRqOWUzNHBydDZGQVBidkh3al96b2dxM0VOdTRQV0hoUndocGVIYWp2V2tsYlFxdTN4SzV0OERZeGZCSEdRY0NIcjU3TVBhSnk1S0tnRFJsZldLTDJ3?oc=5",
           "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "a558e4b56eed03",
-      "title": "FC Porto meldt zich voor Youri Baas",
-      "category": "Transfers",
-      "published": "2026-08-30T12:34:04+00:00",
-      "updated": "2026-08-30T13:55:00+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "c40db1b3614f52",
-      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
-      "category": "Transfers",
-      "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-30T13:51:56+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129255/ajax-probeert-te-verkopen-maar-regeer-is-op-weg-naar-bremen.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
-          "via_google_news": false
         }
       ]
     },
@@ -676,42 +712,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129176/ajax-aanwinst-camara-mikt-op-doorbraak.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "52164e3e74a37f",
-      "title": "Neo-Ajacied Amrabat onthult: 'Cruijff wilde me al toen hij bij Barcelona zat'",
-      "category": "Overig",
-      "published": "2026-08-30T08:02:06+00:00",
-      "updated": "2026-08-30T10:35:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/neo-ajacied-amrabat-onthult-cruijff-wilde-me-al-toen-hij-bij-barcelona-zat",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2tZWVBfN0c1UVIyMUQyT0J3WkhUUFpQWnE5Zk9NUm1wajhJT3FXVGVfWVBmLWtZb09aOURvSTVRNkhscWRsUTByV2hmUUhLUVR3T1loUE1zWHNiX2tQd1FwQXJycWtQM3g2cnc0Vy1WaExfMmRtWldidF9uTUwyYlVEWmhzRGwzUFNmRE10VERWaktxNU9DS296VDlTd3A2dmRrUUJKMUUyVnZjaTdsZTRDYWxLcGJwX2k2S3Nua0VwbnV4N1E?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "0601c72405d0cf",
-      "title": "Inkomende transfer Ajax heeft gevolgen: 16-voudig landskampioen wil toeslaan",
-      "category": "Transfers",
-      "published": "2026-08-30T10:32:00+00:00",
-      "updated": "2026-08-30T10:32:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjBNTDEzYkpmWU4xVjd5OHA5WHdiS1dtMDdzWFl0RG5BTFhxbW1vU3V6RjlCNFJadDQwcHdYTksyN2lHejd1dExHeEFWR0hZRzd1NDZWMnJvQlRpV3dVMGZqNUVBZl83d095aHhRcXQ5Tl9BZi1OMzFNZGlHN01nWHBVbVJfLUtxbVNkeVI5bGRQdXE2QXlTV18wbFEtRFctcDlfNlhQVG5nT3hvVkVvUmtoeTMyWUV0SEdxeVBnZzBZNWpJdjNIcg?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
