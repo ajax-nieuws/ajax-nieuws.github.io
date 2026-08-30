@@ -1,25 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T18:55:20.427304+00:00",
+    "generated_at": "2026-08-30T19:25:16.117541+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 130,
     "event_count": 40,
     "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 73,
+    "excluded_video_only_count": 80,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "481e02c05800ed",
+      "title": "FC Porto meldt zich bij Ajax voor Youri Baas",
+      "category": "Transfers",
+      "published": "2026-08-30T12:34:04+00:00",
+      "updated": "2026-08-30T19:09:23+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "068a73a44dbec3",
+      "title": "Ajax-spits Tolu heeft onderonsje met Hans Kraay Jr.: 'Heb je hem weer...'",
+      "category": "Selectie",
+      "published": "2026-08-30T19:08:44+00:00",
+      "updated": "2026-08-30T19:08:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129352/tolu-arokodare-blijft-rustig-in-concurrentiestrijd-met-marcos-leonardo.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "c40db1b3614f52",
       "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-30T18:51:45+00:00",
-      "source_count": 4,
+      "updated": "2026-08-30T18:56:41+00:00",
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -33,14 +84,19 @@
           "via_google_news": false
         },
         {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
           "via_google_news": true
         },
         {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
-          "via_google_news": false
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1pQQU5UVXh6anhPQmhlbl9OanhwRjE1Z3FwUjhVSC1Yck1uNXBZV3lHdGg0UVFjLXdJandIUUpyY0hBcmpXR2NTTzBDYzF0SzlSZmNrWU5VRnFhUklSa1piUlRDVS1aNVZVZXZKMGxoekVNYmZfWHpfRUtNN1p3a3JaTEdNWEFwa1Y1V0hHSHpYWVZuc0w2T0dVazZOT00xR2lGLVcza0x0dXZWMkU3MWxJOWZmNEVx?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -262,23 +318,18 @@
     },
     {
       "id": "7e173cfeba90fc",
-      "title": "Ajax is klaar voor topper tegen PSV na zorgeloze zege bij Telstar",
+      "title": "Ajax slaat na rust toe en wint eenvoudig van Telstar",
       "category": "Wedstrijden",
       "published": "2026-08-30T13:33:54+00:00",
       "updated": "2026-08-30T16:40:30+00:00",
-      "source_count": 5,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-is-klaar-voor-topper-tegen-psv-na-zorgeloze-zege-bij-telstar",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkQ4ZHM3aWdWX2VkMEdaenBFNjhYa1JaeDhsN3NjanJWS3dQaGkwYzVzZGJHSW1MRi1EQVl0MmVGeGpZU2VyNV80MTdIRWtMZ1BOYmIwdnNCSUdUTlFpOHpYdkxxSThpdldXcm5YX3BpNWpQVkltdjNXWFJNU1AxSlFGZHNYMTJ1R3FNdVBmRnplelJUNk9NMk9aaUUyLTNkMERyZg?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkQ4ZHM3aWdWX2VkMEdaenBFNjhYa1JaeDhsN3NjanJWS3dQaGkwYzVzZGJHSW1MRi1EQVl0MmVGeGpZU2VyNV80MTdIRWtMZ1BOYmIwdnNCSUdUTlFpOHpYdkxxSThpdldXcm5YX3BpNWpQVkltdjNXWFJNU1AxSlFGZHNYMTJ1R3FNdVBmRnplelJUNk9NMk9aaUUyLTNkMERyZg?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "AT5",
           "url": "https://www.at5.nl/artikelen/239694/ajax-walst-in-tweede-helft-over-telstar-heen-en-wint-met-0-4",
@@ -342,6 +393,21 @@
       "related_sources": []
     },
     {
+      "id": "583a7a68245f3c",
+      "title": "Ajax is klaar voor topper tegen PSV na zorgeloze zege bij Telstar",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T16:37:00+00:00",
+      "updated": "2026-08-30T16:37:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-is-klaar-voor-topper-tegen-psv-na-zorgeloze-zege-bij-telstar",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "b7c67bc46ad3f8",
       "title": "Guus Til kijkt uit naar Ajax-uit en wilde PSV deze zomer niet verruilen voor ‘zomaar een club’",
       "category": "Overig",
@@ -372,42 +438,6 @@
       "related_sources": []
     },
     {
-      "id": "481e02c05800ed",
-      "title": "FC Porto meldt zich voor Youri Baas",
-      "category": "Transfers",
-      "published": "2026-08-30T12:34:04+00:00",
-      "updated": "2026-08-30T15:04:00+00:00",
-      "source_count": 6,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "877892e5386fef",
       "title": "Michel: 'Er komt 100 procent nieuwe linksbuiten, iemand met één-tegen-één-actie'",
       "category": "Transfers",
@@ -434,6 +464,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b2097990cba449",
+      "title": "Míchel Sánchez kan geluk niet op bij Ajax: ‘Hij is een speler van wereldklasse’",
+      "category": "Overig",
+      "published": "2026-08-30T14:48:00+00:00",
+      "updated": "2026-08-30T14:48:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWJHTk9nMGtfdnJYaGU4QWw4TlZ6ZnlzTWRkMmpiN0Fwd2EwR2pHRU4wZkNRaUxJVzRJQ1RYNDRUdUZlMENrTkF2VkNHZ2dYendtRV9OM3JuZjZ6YUtFd3NyRGg1cUpLbEg3VnFwMHk5ZGlOMXplTnRHRkQzbW5KRl9idlFjVnk5cU10dUVqcmNIbmRwWXJDR2tuRkNaZFF0bkJxMFVLQVo0aU40Qi1ETV9oZFB3dkxtekcxSF9KZ2lENGlvMjhsZ2h1MXRQWFdVRlE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -625,21 +670,6 @@
       "related_sources": []
     },
     {
-      "id": "96af3289d106cd",
-      "title": "Smoorverliefde Telegraaf onthult 'het grote geheim' van Cruijff bij Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T12:54:00+00:00",
-      "updated": "2026-08-30T12:54:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFNXdXp0VHNwUEQxenZnYVVnSGRlWVoxLXdPZFpkWnJTTjQ0czUwLS1MOTRwN2lwNE52eEJKVnBma0ZCdUR1Zl82dzlKdFdSWWJaQURBOVhsbnc1eno1aFhmaXExQy1ZQXIwMVBORUZ0b2w1eHVYcEtrbkVPYVI5YUFwTU1hNnRORl9JT1JOOXFYa1B6QnExaXpoYUU3SnVrX0p6aGpMQ25JZ3J4bG9YWm5ENmNISFNKcHdXMnFUSDJ4dw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "387dfcdb7d9129",
       "title": "'Ajax mikt in slot transferperiode op Godts-vervanger en houdt ogen open voor andere positie'",
       "category": "Transfers",
@@ -666,52 +696,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1o4RHlDc0RodEg1T3VhTjN5SUFYSVpxYWdPbUZFNjNTSjBPMUxrQXQ1VEVHRVR4UzJOU0o0R0g5VGFhbjdxVGZPS0ZnWDVGbXhkYzVrWm85ZklNVl9CS3RYZXVJc21DZHF6T21pWnhfX0hFVGRUMHNmT2FReU03YnUzRFZ2RTlYTUF1ci1vV3VQXzVXVl9JRTdxbmI0N05Vcnc?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "39b0a6cbee12b6",
-      "title": "Ajax en FC Kopenhagen akkoord over verhuur Carrizo",
-      "category": "Transfers",
-      "published": "2026-08-30T10:44:37+00:00",
-      "updated": "2026-08-30T11:22:00+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129181/carrizo-kan-ajax-nog-verruilen-voor-kopenhagen.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUhhUU1qdzc4RHFMS1JNSnBuU2RPX250TUxDeWVoRW1oUG14NWw3SjJUaFA1MktMbjNtQV9Od0pJQUZiM3VBaEh4b2xQaG1IMnk5QS05bmU1b1FEbkxhTktKQWk4NzlleEd3aW1qTDI1ZFVkUURydlI0dkpoVzVhY3pJZ0pkUEl0aXBlbnNxdWxXRVdTSUdMbHJURE9SSHhFN0kxMjJmS2thVUpMcXBhNHdrUQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55948/Kopenhagen-en-Ajax-akkoord-over-verhuur-Carrizo",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "c30961e77a0840",
-      "title": "Nieuwe Ajax-controleur wil snel doorbreken: 'Zo snel mogelijk doorstromen'",
-      "category": "Selectie",
-      "published": "2026-08-30T11:03:04+00:00",
-      "updated": "2026-08-30T11:03:04+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129176/ajax-aanwinst-camara-mikt-op-doorbraak.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
