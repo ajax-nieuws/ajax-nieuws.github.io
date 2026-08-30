@@ -1,23 +1,56 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T13:55:13.413057+00:00",
-    "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 139,
+    "generated_at": "2026-08-30T13:57:40.446583+00:00",
+    "generator": "Ajax Nieuws collector 1.5",
+    "article_count": 120,
     "event_count": 40,
-    "discovered_event_count": 93,
-    "source_count": 13,
+    "discovered_event_count": 81,
+    "source_count": 12,
     "feed_error_count": 0,
+    "excluded_paywall_count": 103,
+    "excluded_video_only_count": 69,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "1d41c565bbc814",
+      "title": "Opstelling Ajax tegen Telstar: Míchel kiest voor Janse en wéér voor Tolu",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T13:27:28+00:00",
+      "updated": "2026-08-30T13:55:30+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzctWlZrbGN3LTVJZkNFNGtwZzM0QmZUZDVjZC04YWF1Q2ktYXhqWU4tU1VDOWZQOGxOZk11eXNLLVJ3bnFtN3ZsWGZUTGJCYlVndkFhaC1jaDQ1NHdOdlE0RlVSTkh3X3pvTm1FMVItUlEyX21PTndweVNGWkU2UTE5cHE0dVBSWHE0WnNzN0VINGpPSnNhR3RCQUlXZFJpU09mZVpn?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTlnZ01abUc0cUFlZkJ4X2FDcmZVRFNpdzh2SU05M3NjajJOSVYwWl96TVo3Q1gyOUdDZTFpSmM4cG96aDYwNnJ1XzhMbzRDM0lwaGpzc0ZxZ01ycTV0b0xDZ3EwN0YyWnpPNXdBNGxxa0UwZWlmQUM1RnZsMU5FTmpsMUhzSVNmYTZ5NGpsUUs4NUgzZXNfRHgyTTF0VUZCQ0FUNWx2UG5kb1JUS1JWbnRsSjAwODMyWmVSRVJxX3RCWlk?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhiUEdVOTNubFhkbDdHZFp1MUlPbjhMUFpabnRXTktJaVAzQ01icGR1MjFfZjdFRENnTjlyNEQyb3hEVWRabkJLYThTVGtLQnRqOWUzNHBydDZGQVBidkh3al96b2dxM0VOdTRQV0hoUndocGVIYWp2V2tsYlFxdTN4SzV0OERZeGZCSEdRY0NIcjU3TVBhSnk1S0tnRFJsZldLTDJ3?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "c40db1b3614f52",
       "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-30T13:51:56+00:00",
-      "source_count": 5,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -25,11 +58,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXNTX1g5UzNFM212ajhDemVrV3hKN1dURnp3NV9JNXRVcnVvUFJGS0kzME1qWU4tdFJOX3k5SHltYzBDRjJFRUdEZjA0VlZJSHVZc2dvRXJSckVFSXUyRUJ5OHdfWnJNaWtoUjZoR3Y1bWFpZXlMTzNFRHJrc0VKX1VxaFpOM2k5Yms0N1BCSXRaSkNmNTZmYjd0cWZXVTZDRUZYcEQ5M19HaHdhcVJmMDZRblFpVmtPUGlNZ1J5OWNpTHNVOGhkYWZXWHlZT1JlU3c?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
@@ -87,7 +115,7 @@
       "id": "d81e3f36d042dd",
       "title": "Opstelling Ajax: basiskracht ontbreekt in afwachting van toptransfer - FCUpdate.nl",
       "category": "Transfers",
-      "published": "2026-08-30T11:27:15+00:00",
+      "published": "2026-08-29T12:42:55+00:00",
       "updated": "2026-08-30T13:48:51+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -95,21 +123,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVJJUklzOUFkNk5BRmVxaGZ3UGd4UVk0RFBpaWMtenlncGZ1dEV3MHhOSzVnQUFxaW1uc0Q5Rk83QXIyOEZ5d1BHLTZjMGxLNkI3MXhnMDVNdzFBcHYxTmRMYnQ4Mmt5WTlKOHg0emVUcjBuQVN4S2FwdVJCNWxTb1BOdjhYVjlBLVZLczJ5dW9aS2dDaWJFM0ViVU5lQjMwdnhHcEVBUmlZb0Vrb2RHX095aw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "de8949c31cae38",
-      "title": "Opstelling Ajax tegen Telstar: Míchel kiest voor Janse en wéér voor Tolu",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T13:36:30+00:00",
-      "updated": "2026-08-30T13:36:30+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -159,21 +172,6 @@
       "related_sources": []
     },
     {
-      "id": "e6ee6e35a4012b",
-      "title": "Ajax kampioenskandidaat door creatief te winkelen: ’Laptop van hoofdscout Joël Lara lijkt schatkamer’",
-      "category": "Overig",
-      "published": "2026-08-30T13:02:48+00:00",
-      "updated": "2026-08-30T13:02:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQalZ5REYzWndWc1RTTlYxbmg3UXlRQzFaRE1KeXhKN05MSmx6aWRXNUNYWUNxMDFKV2w4Uk5lVUs4UWZpeWZXSUxGRzJFaFBLZkV6UUJDSE9ORnB0NVhDNGJGWmZmZ1M2YThxVjN3V0ZYRjBFWEpkdTM0U3JDNkNrVXlNaVVDS1Z2Z0tTdU9xQjFSVXNzS3kyV2VGY0wwRU5hNlRRZkt4bXpZcEVOcFY0REg3NmR3NU8wXzRYQTRhN2FqU0dhOXdSQVRzSm9hQmk4N3BFbnJyRmlWVVFRdllQX2xtRVFSSzA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "0ab8840d1add7b",
       "title": "'Ajax ging voor terugkeer publiekslieveling, laptop hoofdscout lijkt schatkamer'",
       "category": "Transfers",
@@ -200,36 +198,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "12464854c5b46c",
-      "title": "FC Kopenhagen wil Maher Carrizo (20) seizoen huren van Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T12:18:33+00:00",
-      "updated": "2026-08-30T12:18:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWJqd0J4UGlJTjVOck96dkczTko2bHhPLVNCRWg4OGN0WDY4aWF6blhVWTFtLTBMcEVxeGN2eVp3MERaalpqZXd5U2lvdXlwODhqNFlyV0Rqa1VFVUp6N2ZmQ0JCenBETlduN2drQ2JYTkE3cTcwVk42YXUwcmJsRnplNmw4bk9jcWRXTTAtQVBSX0dEUllINnZpNElJLUk5bXVBY3I5NDItWlZKOHJ3TA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "24fe648b22c287",
-      "title": "Ajax-aanwinst Amrabat is een nummer 6 in de mal van Míchel",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T11:42:45+00:00",
-      "updated": "2026-08-30T11:42:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/pro/analyse-sofyan-amrabat-ajax",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -350,21 +318,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "6224086ebdb54a",
-      "title": "'Cruijff slaat opnieuw in stilte toe met Amrabat'",
-      "category": "Club",
-      "published": "2026-08-30T09:00:00+00:00",
-      "updated": "2026-08-30T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/video/cruijff-slaat-opnieuw-in-stilte-toe-met-amrabat",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "274130b355780c",
@@ -591,12 +544,12 @@
       "related_sources": []
     },
     {
-      "id": "596288857566b1",
+      "id": "5e9ce5f331f559",
       "title": "Éindelijk een '6' voor Ajax: transfervrije Sofyan Amrabat op weg naar Amsterdam - ESPN.nl",
       "category": "Transfers",
       "published": "2026-08-29T18:16:46+00:00",
       "updated": "2026-08-30T06:41:23+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
@@ -610,11 +563,6 @@
           "via_google_news": false
         },
         {
-          "name": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2tYa09SQ0hfbVc0RC1DcFJUVklCSmxELTVMRThJTl9Nb0RGUVQ2WWRsS3VWUE8yNjZPS0R1Sm5CODNGQWlUZGxPRVNRRWtLd3huSXJBdEJ2Y3h4bi1mX0Q5TTR3U0hfMjJId19WSHU0OGVVUmFKaUhfOVhaYVdka2pna2t3OEQwOW1fWEh1T3JoXzNyRzNRSmhEWHR5MnZDQ3BxQ29BZ3Z0TFJOb3RPSWd3?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "NU.nl",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpYYjNJRjZqM19hREZPMXJORlJpYjRyb0FpWW1xVTctejE1eTZ3YjcyZkJQQ0Z1U0VHNjY0MzU3dnNHb1lNTXNHQVJKNjBVNlQwQ3BIc0ItNDNaNVo5a2ExX1llVGJIYjhoMGRjT0F1eFNtRnRmdG40X3pSdjVNTjFDSFBQeDVIVHRxanh5aWRTNHZiX3NPSkVsZ3YyZkRuRHRXYkY4aVk3UUxoOXpqTHkzdEl4cVdf?oc=5",
           "via_google_news": true
@@ -622,6 +570,11 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEJJWHNUWTdrdWZxclo5S1c5aTg5UEhmMUwyd25SN1hpR0JtdFRSbzVFX21naVJ5Wnd2NWVKM0c0Ny1nZzNURTRCYU5ubGZzekFfc25HaTFBWHNYSWVXY0NSRGVVMUVjT0tMU1ZhUWhNazdQV0pEUUJLbVVTcWNNbjNUVnM5NWp4MWVmdFBacnhtanJ5Q0UxdmdR?oc=5",
           "via_google_news": true
         }
       ]
@@ -712,6 +665,66 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129090/ajax-kan-komst-van-brian-rodriguez-vergeten.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5a405d00016a7c",
+      "title": "'Done deal voor Ajax: Amrabat doorstaat keuring, ook papierwerk in orde'",
+      "category": "Transfers",
+      "published": "2026-08-29T21:25:02+00:00",
+      "updated": "2026-08-29T21:25:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129073/bliksemtransfer-rond-amrabat-doorstaat-keuring-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f2d2db3bcd497f",
+      "title": "Davids: 'Kracht van Ajax dat ze slecht speelden'",
+      "category": "Overig",
+      "published": "2026-08-29T21:24:24+00:00",
+      "updated": "2026-08-29T21:24:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlV0WDBwZGdMQ1M2S2pZYzJfdlFBRG5HMWJtbmxpNWQ2ZUYtR1dZZ2UzUDJ3YV9pUmlnYVBJWno4Um1tR1YyM2FxeEFrY0w3ZVdjYzFFWmlUZHlPcll0ZTN4R2RUMkVaSTQ4XzVVREZFZ1QyOE9CYjljUk9ZVWZJM3VaVGtnOU1tZmd3VE5ZN0l2NFVEeklsNzA0V0c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8b7c12b3f676f9",
+      "title": "Ajax troeft Europese topclub af in strijd om Sofyan Amrabat - FCUpdate.nl",
+      "category": "Overig",
+      "published": "2026-08-29T20:27:38+00:00",
+      "updated": "2026-08-29T20:27:38+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEliOUNkMlpXRl9DR2gtbU5XTUs0aE81TkMxTnFuaHVMcU5WQk5oRHlRTUJEUG1VOWlqc0pLbFhkUUtzd1VRdGxqMHpUZEpmNjYyU3pWczBsazF6RHAxaDctZEljRWUyVm5uZm1jRlRrX0gyMkJIaGJfb0Y3dkNWeXNWUjBwWmRpQkhyVEhZMXBkYlBzTlFsa0JQQlc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ce4ceec1bfcff6",
+      "title": "Wedstrijd bij Telstar onder leiding van Higler",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T20:16:16+00:00",
+      "updated": "2026-08-29T20:16:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55947/Wedstrijd-bij-Telstar-onder-leiding-van-Higler",
         "via_google_news": false
       },
       "related_sources": []
