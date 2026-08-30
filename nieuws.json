@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T21:55:06.780224+00:00",
+    "generated_at": "2026-08-30T22:25:15.617196+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 136,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 73,
+    "excluded_video_only_count": 74,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e64c03968ef0ba",
+      "title": "Negentig minuten lang: Telstar - Ajax - Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T22:02:22+00:00",
+      "updated": "2026-08-30T22:02:22+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWtvd1Yxb0lPMHJOWnc0aXRualZ4dlZpb2g4dFFkT0JNNG41clZrSVVpc2JVczVSa29mZDRja1dwWXFUdHU4YXNPUXg3dVRMUEJyc3ZKSGI5c19JSUF1Rkh2Y1ExcFBQZnJ2elAyRTVrNlR2bUFrUjBFdkFLUVJkUi1n?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1a242849dc794d",
+      "title": "Highlights Telstar - Ajax | Vier verschillende doelpuntenmakers - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T22:02:16+00:00",
+      "updated": "2026-08-30T22:02:16+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS3NTREM5RmU2UUFtVi1IcjB5cG5fRElaYmplWmJ6NEtvTEx2UnNwTlZGemI5cFZGVzhRZUZ3MFRQazRuQWg2a3NsbDJNOGRWX1UzU2Q2VnM1Rl9vWDhFczk5ZFVFbVNneENhM1duUjd1SjJ5MXRqbE9zR1FtUGtYVVdwTzFNdFBabktxT2Y2S2xZd2d2?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ecf6a9098f22a3",
+      "title": "Míchel Sanchez hoopt dat ploeg mee kan doen om de titel",
+      "category": "Overig",
+      "published": "2026-08-30T21:51:00+00:00",
+      "updated": "2026-08-30T21:51:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239699/michel-sanchez-hoopt-dat-ploeg-mee-kan-doen-om-de-titel",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "021393d7c91237",
       "title": "'Beruchte' broer van Ajacied vindt nieuwe club na bizarre tackles in La Liga",
@@ -69,6 +114,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "2386ff944f8e9b",
+      "title": "Míchel vergelijkt toptalent van Ajax met wereldster: 'Hij kan de nieuwe Van Dijk worden'",
+      "category": "Selectie",
+      "published": "2026-08-30T20:15:00+00:00",
+      "updated": "2026-08-30T20:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU01neG4wVENqT3JpTHJFRUpzM2ljN0U5Q2Z4aUhmVEZWN2RUUU1ic1huMUhYUlFITjV0VVpvYk80X1doTjNKeUV1VjZSd3RrSzNWdzlMTFRLQW1XV1dFRTl1cm5RbXNTaTZCN1BYVXRyYkZrdUQ1b3gxZXhQcGpUbDJOMWVPdm5MREc5U252RVhBTzhxNzVNcUdudGs4SkRaTktMa2Fzdy15dnB5RWFnUnI5cEw4M0pGSjJsTk9yQ1haWjZ4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "6c1f31cbbebc70",
@@ -172,14 +232,14 @@
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129366/ajax-en-werder-bremen-akkoord-koopoptie-voor-regeer.html",
-          "via_google_news": false
-        },
-        {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129366/ajax-en-werder-bremen-akkoord-koopoptie-voor-regeer.html",
+          "via_google_news": false
         },
         {
           "name": "Ajax Showtime",
@@ -656,66 +716,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "def1e12740923d",
-      "title": "Opstelling Ajax: basiskracht ontbreekt in afwachting van toptransfer",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T13:48:51+00:00",
-      "updated": "2026-08-30T13:48:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVJJUklzOUFkNk5BRmVxaGZ3UGd4UVk0RFBpaWMtenlncGZ1dEV3MHhOSzVnQUFxaW1uc0Q5Rk83QXIyOEZ5d1BHLTZjMGxLNkI3MXhnMDVNdzFBcHYxTmRMYnQ4Mmt5WTlKOHg0emVUcjBuQVN4S2FwdVJCNWxTb1BOdjhYVjlBLVZLczJ5dW9aS2dDaWJFM0ViVU5lQjMwdnhHcEVBUmlZb0Vrb2RHX095aw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8dea49f65a933c",
-      "title": "Ajax begint zonder Baas aan uitduel met Telstar, rond verdediger 'speelt het een en ander'",
-      "category": "Selectie",
-      "published": "2026-08-30T13:30:00+00:00",
-      "updated": "2026-08-30T13:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDFEbGtNSTBMaV9tYnZRLXNteFp2MmU4U3o4dUduYWVoQzZSWjhlWG5YTW8yWTIyYm94QnVZT0kzZF9kZXhfaW5PWTRxZUp3YUZzQ09pbzhqY2xlOW9CU2tFbjhjUld0RC1IdFlaLTFaNmk0eXRRREkzMkZNNERreENCdXNpWEtqWDcwd0J5d05ZanJaNUU1OWFEcW9PS3dmQUZNQ1RMRU5rS3FmYlptdVFCSGtBZlBQbG1ETGt0TUZEcTBQMVFv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "50c740c0b7efb7",
-      "title": "De Telegraaf onthult exorbitant salaris van Weghorst bij Ajax",
-      "category": "Club",
-      "published": "2026-08-30T13:18:00+00:00",
-      "updated": "2026-08-30T13:18:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129236/dit-was-het-enorme-salaris-van-weghorst-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "96af3289d106cd",
-      "title": "Smoorverliefde Telegraaf onthult 'het grote geheim' van Cruijff bij Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T12:54:00+00:00",
-      "updated": "2026-08-30T12:54:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFNXdXp0VHNwUEQxenZnYVVnSGRlWVoxLXdPZFpkWnJTTjQ0czUwLS1MOTRwN2lwNE52eEJKVnBma0ZCdUR1Zl82dzlKdFdSWWJaQURBOVhsbnc1eno1aFhmaXExQy1ZQXIwMVBORUZ0b2w1eHVYcEtrbkVPYVI5YUFwTU1hNnRORl9JT1JOOXFYa1B6QnExaXpoYUU3SnVrX0p6aGpMQ25JZ3J4bG9YWm5ENmNISFNKcHdXMnFUSDJ4dw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
