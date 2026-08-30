@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T19:25:16.117541+00:00",
+    "generated_at": "2026-08-30T19:55:04.609077+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 130,
+    "article_count": 132,
     "event_count": 40,
     "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 80,
+    "excluded_video_only_count": 79,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "6cb9ed0ebd33d6",
+      "title": "Ajax stevent af op transferchaos: ‘Ik hoop dat er straks een selectie staat die om prijzen kan spelen’",
+      "category": "Transfers",
+      "published": "2026-08-30T07:36:00+00:00",
+      "updated": "2026-08-30T19:38:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQndQZWZWY2NMNDQ4bWpFUVVSNUlBUHptNTVST1h4ZXBxZlBBSmRjeENjaUktbzRIeGZMdm9rQ0MzU1NhT1loejJoYVl0LWtnM1hCSGVhb05sbGpjZUlkdXc4OVJzR1QyZ3NsVi1SdUQ4Q1V3d2ZRMTNfZWNFM250MVdibEY5UW9OcFdvcWl6VzhmMVktRmhmS0w5RUp3SjZwOGhnR3hJUFBsTkZyY2hJZ180ck5sZW00b3B4bVRfaTNPWkVXd2N6S2Faa3lqSVdk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/transfers-ajax-amrabat-hoopt-tegen-psv-meteen-te-spelen",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "481e02c05800ed",
       "title": "FC Porto meldt zich bij Ajax voor Youri Baas",
@@ -70,7 +91,7 @@
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-30T18:56:41+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -94,9 +115,9 @@
           "via_google_news": true
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1pQQU5UVXh6anhPQmhlbl9OanhwRjE1Z3FwUjhVSC1Yck1uNXBZV3lHdGg0UVFjLXdJandIUUpyY0hBcmpXR2NTTzBDYzF0SzlSZmNrWU5VRnFhUklSa1piUlRDVS1aNVZVZXZKMGxoekVNYmZfWHpfRUtNN1p3a3JaTEdNWEFwa1Y1V0hHSHpYWVZuc0w2T0dVazZOT00xR2lGLVcza0x0dXZWMkU3MWxJOWZmNEVx?oc=5",
-          "via_google_news": true
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
+          "via_google_news": false
         }
       ]
     },
@@ -156,6 +177,21 @@
       "primary_source": {
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3RDZE9YWUxfdGkxUWRlY2prMDd0b3BYU1I1OHVJazY2Y2RwMHh0NkdpdmRzT0FDVXZyeW1lc3kyV0lOa05VTC1HdFJ4LWNQUWNSQmFaTnRBbWdiS1dFUzc3Tm5lOHExdTZQbXZabGZ4YXVJV0dWTm85eTctUGpEUUtXX19xUHphYkx2NHVYWDJkajRYX0Jhbk0yM1hHeXd2ZEkxSE0zQ1lHZ3pDcG9BamtnYXRFbUtHd2Q0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fc7b850089e2a1",
+      "title": "Samenvatting Telstar - Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T16:50:19+00:00",
+      "updated": "2026-08-30T18:07:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxUHVfbnByNHVwRHliZzQxTGNYNVRoSmZONjR0WndhZEt4bU5Ma1JYeE8yU3kwMmRBdUlVcWpycUVfNmN5YzRiQXpPekV6VkxTazhPMFY5MS1JQ1dUNjJmRGo0c1BPSlRUQ290QmRvM2xRSDA3YW4zM29n?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -282,21 +318,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3BxTFhwc3dDdGxkMXQ0ZWdvX2dYSXlTakhCdlBla2tHdFdYUmNtYzFiNWxCWnZjbUNZQnhnU3pGZVh0NnFHTDdFb3JPOG1FWS0tUWduRGZ3UWlEN0poSXU0ZG9NbmhxNTRwNnRBMDVDWVlxOW9USHQ5bDlNOVVSYW9LLXRwWGZHS1laa2NCLUhnc1NSTURuY3h2WFd1VW5DSThPZ2FIdUszWGNnRkJaRWhIcURDclhGVkwycktaVG5qTEhXcjFWbkxGVGFEYjBN?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fc7b850089e2a1",
-      "title": "Samenvatting Telstar - Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T16:50:19+00:00",
-      "updated": "2026-08-30T16:50:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVVM1N2QxZzBRYVY3cUtOTVMtZGtQTjNTTFRPUjBQUEpzR0M5Sk1XVHVGbVBickhMNjVYT0tTX3F0ZHJLTHo1NGx1MUVKZVROVWFVVXQ4YUNiSHRyQkRpcmhxV3pvUDE1ck9rN1k0Um5YWmRWemNabXdn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -670,31 +691,16 @@
       "related_sources": []
     },
     {
-      "id": "387dfcdb7d9129",
-      "title": "'Ajax mikt in slot transferperiode op Godts-vervanger en houdt ogen open voor andere positie'",
-      "category": "Transfers",
-      "published": "2026-08-30T12:20:00+00:00",
-      "updated": "2026-08-30T12:20:00+00:00",
+      "id": "96af3289d106cd",
+      "title": "Smoorverliefde Telegraaf onthult 'het grote geheim' van Cruijff bij Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T12:54:00+00:00",
+      "updated": "2026-08-30T12:54:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTUJzX3c5UHZhem4tTXR3eG0tbTk5dTR0Z1pJNFZnSmxhem1QaTY0YzI3S1R4VWtxZFJCckhXTi0zUS1ocDBDTEx1b0NnX1c0ZmRZZ1VTRklib3RBaFZaZEFlN3ZMaVpMeVB6eDFMeWRDR1ZlOWFEVHAxR29sMDNRUHBVV096bE12QkhrdXBsTHFuSXlxZkNHYW12Y2RNRmthd1NZdnYyR2stX3NGSFFyY3BLUzFBVGM3R3JZWTJ2YnAwTVNLU0F3c2NVemVFOXpyM0J2cWQzdXJrZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d81e3f36d042dd",
-      "title": "Ajax kan nu alweer afscheid nemen van miljoenenaankoop",
-      "category": "Transfers",
-      "published": "2026-08-30T11:27:15+00:00",
-      "updated": "2026-08-30T11:27:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1o4RHlDc0RodEg1T3VhTjN5SUFYSVpxYWdPbUZFNjNTSjBPMUxrQXQ1VEVHRVR4UzJOU0o0R0g5VGFhbjdxVGZPS0ZnWDVGbXhkYzVrWm85ZklNVl9CS3RYZXVJc21DZHF6T21pWnhfX0hFVGRUMHNmT2FReU03YnUzRFZ2RTlYTUF1ci1vV3VQXzVXVl9JRTdxbmI0N05Vcnc?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFNXdXp0VHNwUEQxenZnYVVnSGRlWVoxLXdPZFpkWnJTTjQ0czUwLS1MOTRwN2lwNE52eEJKVnBma0ZCdUR1Zl82dzlKdFdSWWJaQURBOVhsbnc1eno1aFhmaXExQy1ZQXIwMVBORUZ0b2w1eHVYcEtrbkVPYVI5YUFwTU1hNnRORl9JT1JOOXFYa1B6QnExaXpoYUU3SnVrX0p6aGpMQ25JZ3J4bG9YWm5ENmNISFNKcHdXMnFUSDJ4dw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
