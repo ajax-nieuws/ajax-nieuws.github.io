@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T04:55:17.226277+00:00",
+    "generated_at": "2026-08-30T05:25:22.963367+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 139,
+    "article_count": 136,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 88,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "id": "7b0a6ef82143ce",
+      "id": "47b1b96e54554d",
       "title": "NEC begint Europa League tegen Juventus, Ajax start Conference League in Kroatië",
       "category": "Wedstrijden",
       "published": "2026-08-28T05:28:11+00:00",
@@ -328,6 +328,32 @@
       "related_sources": []
     },
     {
+      "id": "a5bf9598bcd58b",
+      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-08-28T14:13:52+00:00",
+      "updated": "2026-08-29T19:15:00+00:00",
+      "source_count": 3,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGhMVkZmQ0pWTnZvMmROczhkTnVKeTBvaFlfNE8tSkFZS3RzUmUxRXNSR3EzRS1JTkxsLTBjQW41bG9BUWZNTG9IR2hnbnB6cFBrN3N5VHdoeXRoZmdiT3dGNzUzUHJVX25BUy02UXJOMXQwT0pZb0xZc3IzQ21ZNE1lOUJNOGdsM0NFLUdXdWJkdm9oc19UcGZoN19UTVN4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam1tcl9INnpMOVRUb2R5RE9iM3JlZ2Y4WUNrNDNScFBDanZDNTlqUmRuVWprYmVtUUtyT09mcWFXdW1jZTFHZmFhMUhpNlctWTVUdjFBb3pxWV91eDJ5b2kzSkZmMmU1MDlfMzFlSzZyWEVsdkhDY2d2dXAtR2FTMmpxa2lWSk41Q2xMYTFwT3NOa2k5UEJmSg?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkZGNTE2WVdKb0dLZVpxM2JxX3k2b08wU0ZaWEFpTUd1Qk9ONXBiT1JtWGRsTlZvWEg0M0RVMWdrUGwzVGRWUVk1b3F0R2RwYktmSFZXdUVyNzJVMUtRYWNwSFJYU0tIRzFCZjJIU2FOTm4yZFcta0RCOUVBZHdUNnJ5Qk8wN1pSTVV0U2VMeTdiVkxP?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "2e6dcb12ef7453",
       "title": "'Ik denk dat de fans van Ajax heel blij mogen zijn, Amrabat is een leuke aanwinst'",
       "category": "Wedstrijden",
@@ -343,25 +369,19 @@
       "related_sources": []
     },
     {
-      "id": "a5bf9598bcd58b",
-      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-08-28T14:13:52+00:00",
-      "updated": "2026-08-29T18:40:13+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
+      "id": "9f2cee66690c0e",
+      "title": "LIVE eredivisie | Ajax na Europees duel met Sion op bezoek bij Telstar - AD.nl",
+      "category": "Overig",
+      "published": "2026-08-29T19:00:00+00:00",
+      "updated": "2026-08-29T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGhMVkZmQ0pWTnZvMmROczhkTnVKeTBvaFlfNE8tSkFZS3RzUmUxRXNSR3EzRS1JTkxsLTBjQW41bG9BUWZNTG9IR2hnbnB6cFBrN3N5VHdoeXRoZmdiT3dGNzUzUHJVX25BUy02UXJOMXQwT0pZb0xZc3IzQ21ZNE1lOUJNOGdsM0NFLUdXdWJkdm9oc19UcGZoN19UTVN4?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUhfRXhMNUNpVGlYSEtSNVZGNElPbC1uR2ZHOGltVjlZUXZpMVFLNUFVazZPbUFYOEQ4cmhoUE1vNlhMbDNjWmktTnhRWnlaOGxQSklUSHpLYXpLcXk3dWlVdldHVGZnTE16aDg3TGVoQ1RCVnRLTFY1UVJIWGw2ODQ0UEhKdUhEc3Z2WkpIWDk1UTlNTXFLdDlvWmNWYnNNYnN1MFZ4QQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkZGNTE2WVdKb0dLZVpxM2JxX3k2b08wU0ZaWEFpTUd1Qk9ONXBiT1JtWGRsTlZvWEg0M0RVMWdrUGwzVGRWUVk1b3F0R2RwYktmSFZXdUVyNzJVMUtRYWNwSFJYU0tIRzFCZjJIU2FOTm4yZFcta0RCOUVBZHdUNnJ5Qk8wN1pSTVV0U2VMeTdiVkxP?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "beb686b1c80196",
@@ -693,21 +713,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeTNQNjdhVWpuOWxvUjRxMVVkRXVvWEhmR2Q5QXJSVTRTRzVWMWlLVFpRRFRESWxqY1V5ZC1MWXB0empqZG1KWFBrdXpza1hWcUM3aWpNT0FXNWlpcWU5UzQxRXB5QnZUN1RBOUtKUHRSeW8zQ0pyekNWRnNuTDJsVlhDUXA2MkJDR0pBckVLS0JXYVEzc3QxV0RTMGpPaktTTi1lcUNaVWdlSTBXM014MXJVRm1NODdTYTZoRmZqX1hRRFprR1FjNXFzTlJFNEwwUzM4RmFBb29Wdw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "74a6e46f52915a",
-      "title": "Gudelj geeft ja-woord aan Getafe, confrontatie met Ajax wacht",
-      "category": "Overig",
-      "published": "2026-08-29T07:49:57+00:00",
-      "updated": "2026-08-29T07:49:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/gudelj-geeft-ja-woord-aan-getafe-confrontatie-met-ajax-wacht",
-        "via_google_news": false
       },
       "related_sources": []
     }
