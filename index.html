@@ -591,21 +591,40 @@
     function importanceScore(item) {
       const date = parseDate(itemTime(item));
       const ageHours = date ? Math.max(0, (Date.now() - date.getTime()) / 3600000) : 48;
-      const freshness = Math.max(0, 18 - ageHours) * .28;
-      const categoryBoost = item.category === 'Transfers' ? 1.25 : item.category === 'Wedstrijden' ? 1 : 0;
-      return (Math.min(sourceCount(item), 6) * 2.1) + (item.official_confirmation ? 5 : 0) + freshness + categoryBoost;
+
+      // "Nu belangrijk" moet vooral als NU voelen. Actualiteit weegt daarom
+      // zwaarder dan bronvolume, terwijl officiële bevestiging wel beloond blijft.
+      const freshness = Math.max(0, 12 - ageHours) * 1.15;
+      const sourceBoost = Math.min(sourceCount(item), 5) * 1.15;
+      const officialBoost = item.official_confirmation ? 3.5 : 0;
+      const categoryBoost = item.category === 'Transfers' ? 1.1 : item.category === 'Wedstrijden' ? .7 : 0;
+
+      return freshness + sourceBoost + officialBoost + categoryBoost;
     }
 
     function pickHighlights(events) {
       const now = Date.now();
-      let pool = events.filter(item => {
+      const ageInHours = (item) => {
         const date = parseDate(itemTime(item));
-        return date && (now - date.getTime()) <= 24 * 3600000;
-      });
+        return date ? Math.max(0, (now - date.getTime()) / 3600000) : 999;
+      };
+
+      // Normaal alleen nieuws uit de laatste 12 uur. Alleen als er echt te weinig
+      // is, verruimen we naar 18 uur zodat de sectie niet leeg raakt.
+      let pool = events.filter(item => ageInHours(item) <= 12);
+      if (pool.length < 3) pool = events.filter(item => ageInHours(item) <= 18);
       if (pool.length < 3) pool = events.slice(0, 12);
-      return [...pool]
-        .sort((a, b) => importanceScore(b) - importanceScore(a))
-        .slice(0, 3);
+
+      const ranked = [...pool].sort((a, b) => importanceScore(b) - importanceScore(a));
+      const selected = ranked.slice(0, 3);
+
+      // Reserveer waar mogelijk minimaal één plek voor écht vers nieuws (< 3 uur).
+      const veryRecent = ranked.filter(item => ageInHours(item) <= 3);
+      if (veryRecent.length && !selected.some(item => ageInHours(item) <= 3)) {
+        selected[selected.length - 1] = veryRecent[0];
+      }
+
+      return selected;
     }
 
     function metaBadges(item) {
