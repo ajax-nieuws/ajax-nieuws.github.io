@@ -1,71 +1,50 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T20:25:12.391795+00:00",
+    "generated_at": "2026-08-30T20:55:07.172052+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 73,
+    "discovered_event_count": 75,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 81,
+    "excluded_video_only_count": 80,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "a827ec64d4aa1c",
-      "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt opvallende transfer",
+      "id": "89fa61f3145a9e",
+      "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt nieuwe transfer",
       "category": "Transfers",
-      "published": "2026-08-29T16:15:00+00:00",
-      "updated": "2026-08-30T20:19:00+00:00",
-      "source_count": 2,
+      "published": "2026-08-30T20:53:37+00:00",
+      "updated": "2026-08-30T20:53:37+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129389/benjamin-tahirovic-verruilt-brondby-op-huurbasis-voor-krc-genk.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1NyZ1dZNGUyUHRVenVWSmp2TWpkeEJsSlU4VWo5ZDBFMHV3UVN5S0pQSDVfZkJmZUd3YVNWMFN0MDVTYXc1TVZqNEJMSS1DSHQxaFNaZWhnLUt2MGczdGxKUGtaM0ZRM0diUnpZb2pQUDdZU3ZMTFB6TW5aRVhJMFRyelpSSUw2a05oc3I3a2VTa1I1Mzk5bnJSX2ctcXl0Y3k0T2FqX0RwZHZXR3lQLVRvaFhqbXBq?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
-      "id": "cdf4a16a8776f6",
+      "id": "2c5b69ff27faff",
       "title": "Van der Vaart wijst 'beste speler' van Ajax aan: 'Dat is hij nog altijd...'",
       "category": "Transfers",
       "published": "2026-08-30T17:49:00+00:00",
-      "updated": "2026-08-30T20:09:00+00:00",
-      "source_count": 1,
+      "updated": "2026-08-30T20:51:58+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
         "via_google_news": false
       },
-      "related_sources": []
-    },
-    {
-      "id": "1c2e67fe4cf27b",
-      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
-      "category": "Transfers",
-      "published": "2026-08-30T17:18:00+00:00",
-      "updated": "2026-08-30T19:53:46+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
-        "via_google_news": false
-      },
       "related_sources": [
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWZmYjAwcGhEel9CYkUxOGRNaEhtenAtNUZiMGVpVGhvUlJ6ZHFNM0t0MXdqUmhyU0tXVWtYdGlXVlRtejdEUGtlcVI5ZHJqRnpSQkpHbllIbmRSeTdqWVVRODNWb2hVRHpmbmhVQm1lNDcxS1VzSzVabEg3RXRSSmVPTFlhamk0TXF3OEZocFBtVHlzTGdmYmZPZmd2NzRxYmJBRV9KQnJ3M0dnMXA2ZkZR?oc=5",
           "via_google_news": true
         }
       ]
@@ -222,6 +201,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "1c2e67fe4cf27b",
+      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
+      "category": "Transfers",
+      "published": "2026-08-30T17:18:00+00:00",
+      "updated": "2026-08-30T18:19:36+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "fc7b850089e2a1",
@@ -456,27 +456,6 @@
       "related_sources": []
     },
     {
-      "id": "7060e94229b7fb",
-      "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
-      "category": "Transfers",
-      "published": "2026-08-30T14:49:00+00:00",
-      "updated": "2026-08-30T15:48:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXhja2EyY1JiYmZGXzdTYXpwamRaWFNQbUFfb2J0bUo4VktGQm5pT243VXdtRVc5Q2FYSnR6cmFUX3hDdGdGQTc2LWNxR0dHZnZZSk1rRC1PZnNWTVAwWkg3VGpGcmVJNy1GbjA3RGVobWxWeHdKOXpfOE5lNGF1dHJsQkVxZVJfaTQ1Rk9yUFV2dGtpdTJiS0JtdGRFTkwydHc0YXF1SV92UXJFaTF5eFFqeVMtYVFLaE5OblN3?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "40a7c78f2729e8",
       "title": "Míchel belooft Ajax-fans vuurwerk: ‘Het is honderd procent zeker dat die komt’",
       "category": "Overig",
@@ -502,6 +481,21 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129287/michel-verzekert-dat-ajax-linksbuiten-gaat-aantrekken-zoals-mika.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3af5052dcf1b44",
+      "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
+      "category": "Transfers",
+      "published": "2026-08-30T14:49:00+00:00",
+      "updated": "2026-08-30T14:49:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
         "via_google_news": false
       },
       "related_sources": []
