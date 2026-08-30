@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T22:54:50.674981+00:00",
+    "generated_at": "2026-08-30T23:25:12.923543+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 134,
+    "article_count": 135,
     "event_count": 40,
     "discovered_event_count": 78,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 75,
+    "excluded_video_only_count": 78,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -116,21 +116,6 @@
       ]
     },
     {
-      "id": "2386ff944f8e9b",
-      "title": "Míchel vergelijkt toptalent van Ajax met wereldster: 'Hij kan de nieuwe Van Dijk worden'",
-      "category": "Selectie",
-      "published": "2026-08-30T20:15:00+00:00",
-      "updated": "2026-08-30T20:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU01neG4wVENqT3JpTHJFRUpzM2ljN0U5Q2Z4aUhmVEZWN2RUUU1ic1huMUhYUlFITjV0VVpvYk80X1doTjNKeUV1VjZSd3RrSzNWdzlMTFRLQW1XV1dFRTl1cm5RbXNTaTZCN1BYVXRyYkZrdUQ1b3gxZXhQcGpUbDJOMWVPdm5MREc5U252RVhBTzhxNzVNcUdudGs4SkRaTktMa2Fzdy15dnB5RWFnUnI5cEw4M0pGSjJsTk9yQ1haWjZ4?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "6c1f31cbbebc70",
       "title": "Dit is Telstar - Ajax in foto's - Ajax",
       "category": "Overig",
@@ -233,7 +218,7 @@
       "related_sources": [
         {
           "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
           "via_google_news": true
         },
         {
@@ -299,19 +284,25 @@
       "related_sources": []
     },
     {
-      "id": "290c64039c8e53",
-      "title": "Scorende Berghuis bedankt Blind voor tip en vreest komst Tsygankov niet bij Ajax - NU",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T18:19:36+00:00",
+      "id": "1c2e67fe4cf27b",
+      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
+      "category": "Transfers",
+      "published": "2026-08-30T17:18:00+00:00",
       "updated": "2026-08-30T18:19:36+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3RDZE9YWUxfdGkxUWRlY2prMDd0b3BYU1I1OHVJazY2Y2RwMHh0NkdpdmRzT0FDVXZyeW1lc3kyV0lOa05VTC1HdFJ4LWNQUWNSQmFaTnRBbWdiS1dFUzc3Tm5lOHExdTZQbXZabGZ4YXVJV0dWTm85eTctUGpEUUtXX19xUHphYkx2NHVYWDJkajRYX0Jhbk0yM1hHeXd2ZEkxSE0zQ1lHZ3pDcG9BamtnYXRFbUtHd2Q0?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
+        "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "fc7b850089e2a1",
@@ -355,21 +346,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWFJM2tITTY1Znl0R0l2ZnJtd0NLc1Ntc05WblRXNEgzQWR6Nkg4R1A2aS04S1RIdkgtYXU3T2NWWS1tN3ZaR3RLSlN5ZTlEMF9xWDZPanJPOGFETm8ycEtsdGVmSkt0VmJXWi1QM3dldTAyQ3NkS2s2Tkkwck1QRmVoaFFRWkhNNm16VDF5Zk9yTVlyTWlyRlZYbzFrNEtuVWZySw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e8ebaef76c8edd",
-      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
-      "category": "Transfers",
-      "published": "2026-08-30T17:18:00+00:00",
-      "updated": "2026-08-30T17:18:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -716,6 +692,36 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "def1e12740923d",
+      "title": "Opstelling Ajax: basiskracht ontbreekt in afwachting van toptransfer",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T13:48:51+00:00",
+      "updated": "2026-08-30T13:48:51+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVJJUklzOUFkNk5BRmVxaGZ3UGd4UVk0RFBpaWMtenlncGZ1dEV3MHhOSzVnQUFxaW1uc0Q5Rk83QXIyOEZ5d1BHLTZjMGxLNkI3MXhnMDVNdzFBcHYxTmRMYnQ4Mmt5WTlKOHg0emVUcjBuQVN4S2FwdVJCNWxTb1BOdjhYVjlBLVZLczJ5dW9aS2dDaWJFM0ViVU5lQjMwdnhHcEVBUmlZb0Vrb2RHX095aw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8dea49f65a933c",
+      "title": "Ajax begint zonder Baas aan uitduel met Telstar, rond verdediger 'speelt het een en ander'",
+      "category": "Selectie",
+      "published": "2026-08-30T13:30:00+00:00",
+      "updated": "2026-08-30T13:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDFEbGtNSTBMaV9tYnZRLXNteFp2MmU4U3o4dUduYWVoQzZSWjhlWG5YTW8yWTIyYm94QnVZT0kzZF9kZXhfaW5PWTRxZUp3YUZzQ09pbzhqY2xlOW9CU2tFbjhjUld0RC1IdFlaLTFaNmk0eXRRREkzMkZNNERreENCdXNpWEtqWDcwd0J5d05ZanJaNUU1OWFEcW9PS3dmQUZNQ1RMRU5rS3FmYlptdVFCSGtBZlBQbG1ETGt0TUZEcTBQMVFv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     }
   ]
 }
