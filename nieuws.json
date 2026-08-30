@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T09:55:16.723315+00:00",
+    "generated_at": "2026-08-30T10:25:33.657470+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 136,
+    "article_count": 135,
     "event_count": 40,
     "discovered_event_count": 91,
     "source_count": 13,
@@ -11,6 +11,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "12464854c5b46c",
+      "title": "FC Kopenhagen wil Maher Carrizo (20) seizoen huren van Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T10:23:18+00:00",
+      "updated": "2026-08-30T10:23:18+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "De Telegraaf",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWJqd0J4UGlJTjVOck96dkczTko2bHhPLVNCRWg4OGN0WDY4aWF6blhVWTFtLTBMcEVxeGN2eVp3MERaalpqZXd5U2lvdXlwODhqNFlyV0Rqa1VFVUp6N2ZmQ0JCenBETlduN2drQ2JYTkE3cTcwVk42YXUwcmJsRnplNmw4bk9jcWRXTTAtQVBSX0dEUllINnZpNElJLUk5bXVBY3I5NDItWlZKOHJ3TA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "4b3174fc0265e6",
       "title": "Cruijff over Ajax-aanwinst Amrabat: ''We halen precies het profiel binnen dat wij voor ogen hadden'' - ESPN.nl",
@@ -205,21 +220,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkdLaThudkpDTHR3QnBEcGlud3JyMzFRVDBkOXBCWEFUT2pHTjhZNHZzcHdVd01vVlZEbEZDYU1IVHFicGJTX3Azd2ZZR2lNMVJWbG12bTZLLW5wR2pCVlpTNWlKYUtKRnBhRUQwcGdhdUxWZ1JSZ21FSGZlUktCa0hZQ0E3aGxzejgtczg2MU5QbE4yaVpSOVR1NnBSLW95cnN1SVZ1Q29acTkxZnZzOWdJbXpqOFJ3NVhHTmJB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5df0a35cf36fe9",
-      "title": "Ajax presenteert Sofyan Amrabat: 'Precies het profiel dat we voor ogen hadden' - FCUpdate.nl",
-      "category": "Overig",
-      "published": "2026-08-30T07:36:11+00:00",
-      "updated": "2026-08-30T07:36:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0h0MWoxZjZlZVNRZnM2VTdndFRadGdSRkw3NEVuZ2dEWFJ3cUxoajRzWjZaTndrck5ya1V0YVl5RmxtSGREVFFqYlhCQTd2cnIzUFk4M0JIaDlZQ08tZlJkVFY4RHJlNEN3TWhmSThkM3hRal9rSWFQUlZONUVYMHNoSi02YnRJSmNQMlVKWHdvbGVlME8xRWJXUExudnhPekt5aHpocFRndTJrXzJnMTdReXZ1SGZ3NWpicmhR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -438,6 +438,42 @@
       "related_sources": []
     },
     {
+      "id": "7b0a6ef82143ce",
+      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split",
+      "category": "Wedstrijden",
+      "published": "2026-08-28T14:13:52+00:00",
+      "updated": "2026-08-29T21:16:11+00:00",
+      "source_count": 6,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGhMVkZmQ0pWTnZvMmROczhkTnVKeTBvaFlfNE8tSkFZS3RzUmUxRXNSR3EzRS1JTkxsLTBjQW41bG9BUWZNTG9IR2hnbnB6cFBrN3N5VHdoeXRoZmdiT3dGNzUzUHJVX25BUy02UXJOMXQwT0pZb0xZc3IzQ21ZNE1lOUJNOGdsM0NFLUdXdWJkdm9oc19UcGZoN19UTVN4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9zZmRDVHBzaEZHMF9lS1B2d1VFMER5WmQ2SUtHUFUwZDRGREVyZ1BBR0ZyUEVCTm55MXdrSmZzT29WMTIzMVFXMjREV2o1RFNwMk1lQWtVa2RZeDhCbVVYUFhLSHVSQnh3MS1tU05oOHEzSFVPcS1LaHkzU3JaaFdFNlczMzBIZ1R4c0lTX0NBWlY0V0JLY0N1cjFlOEctR1EyUG53WXRlMGh1XzNKbHlqb2ZsdG9sZnc?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUW9Pa2dpTzZ6Qng3YlpURTVfRFJzTEdJQUpGSTRMd3JPZDJ0dXN2dVFoYndWbDlnRWxGVWJVQ2FSTXB4cElRd2xGOWU0NlNnLUZCX0huMDJJbmRCeDlobVA4UktGVzFhMjVqRVhlQ3RnU1hOaVY2d0g1X09vcnAzVjBWVXdRai1rcnJudXplY0FqY1R4TDVaSnNkR2pCUElNc21hRmtXeXo1a0hTZlBOcl9LT01acjZWTGxXYW51NjQ5T0hQMWhObTd4bEFzQVRqLW5HWXdkNVd0UDJPWnIw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVktCc1ZjVXMzajFfUC1aYUJqLVl3eG9QeHhOcWNBT0VDMDBIMG5yTEhwS0hyVG5fWkZqUjlpODNtaG4zcWg5bnVVbC1LQTBSU3ZNQkFQMlJXSTJfb2l5MzRPeDRlMGJmTnpMWVpEMENzNzNIQ2ZzZk02aDRON1VTNk52TkVZZ29tN0hubEVMVWFzY0QwbzB5VjF3N0cxT2lZTjVoODdiTXFBd3ZsZVRMT3dQZUNJeU96bUtjQzVVeDZHZ0dmbWg0TUV4WmNaemVKa3c?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55942/Dit-is-het-speelschema-voor-Ajax-in-de-Conference-League",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "8b7c12b3f676f9",
       "title": "Ajax troeft Europese topclub af in strijd om Sofyan Amrabat - FCUpdate.nl",
       "category": "Overig",
@@ -616,42 +652,6 @@
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONjBGZzdqV2dpbENnbk9vU05NUVAyb0JXME9YRTR0VjJLN0Y5MlBCM29veHJ4bTR2Qk1xVkNIdXo4NEo5Vk5kSXVJZ0VPMDhDc19OYTJZdEQ3ekRvMk00NE5reU9SUjR3RDRSSzZrbkRIWTZFUU1HUmRUZkJ5MWNBeVRGN25LOEVrQVV2M05CSWIxOW4tbWtRcEYxUFhBQzFQcmRDOTdieWpuOHhmUGwwYlJIZHpNX3E4QjZsTUZDWkM0M2VvWTJTb0UyN3Vad1BjeXRPMWRYQjF6OXZJdlE?oc=5",
           "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "7b0a6ef82143ce",
-      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split",
-      "category": "Wedstrijden",
-      "published": "2026-08-28T14:13:52+00:00",
-      "updated": "2026-08-29T19:18:21+00:00",
-      "source_count": 6,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGhMVkZmQ0pWTnZvMmROczhkTnVKeTBvaFlfNE8tSkFZS3RzUmUxRXNSR3EzRS1JTkxsLTBjQW41bG9BUWZNTG9IR2hnbnB6cFBrN3N5VHdoeXRoZmdiT3dGNzUzUHJVX25BUy02UXJOMXQwT0pZb0xZc3IzQ21ZNE1lOUJNOGdsM0NFLUdXdWJkdm9oc19UcGZoN19UTVN4?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9zZmRDVHBzaEZHMF9lS1B2d1VFMER5WmQ2SUtHUFUwZDRGREVyZ1BBR0ZyUEVCTm55MXdrSmZzT29WMTIzMVFXMjREV2o1RFNwMk1lQWtVa2RZeDhCbVVYUFhLSHVSQnh3MS1tU05oOHEzSFVPcS1LaHkzU3JaaFdFNlczMzBIZ1R4c0lTX0NBWlY0V0JLY0N1cjFlOEctR1EyUG53WXRlMGh1XzNKbHlqb2ZsdG9sZnc?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUW9Pa2dpTzZ6Qng3YlpURTVfRFJzTEdJQUpGSTRMd3JPZDJ0dXN2dVFoYndWbDlnRWxGVWJVQ2FSTXB4cElRd2xGOWU0NlNnLUZCX0huMDJJbmRCeDlobVA4UktGVzFhMjVqRVhlQ3RnU1hOaVY2d0g1X09vcnAzVjBWVXdRai1rcnJudXplY0FqY1R4TDVaSnNkR2pCUElNc21hRmtXeXo1a0hTZlBOcl9LT01acjZWTGxXYW51NjQ5T0hQMWhObTd4bEFzQVRqLW5HWXdkNVd0UDJPWnIw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVktCc1ZjVXMzajFfUC1aYUJqLVl3eG9QeHhOcWNBT0VDMDBIMG5yTEhwS0hyVG5fWkZqUjlpODNtaG4zcWg5bnVVbC1LQTBSU3ZNQkFQMlJXSTJfb2l5MzRPeDRlMGJmTnpMWVpEMENzNzNIQ2ZzZk02aDRON1VTNk52TkVZZ29tN0hubEVMVWFzY0QwbzB5VjF3N0cxT2lZTjVoODdiTXFBd3ZsZVRMT3dQZUNJeU96bUtjQzVVeDZHZ0dmbWg0TUV4WmNaemVKa3c?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55942/Dit-is-het-speelschema-voor-Ajax-in-de-Conference-League",
-          "via_google_news": false
         }
       ]
     },
