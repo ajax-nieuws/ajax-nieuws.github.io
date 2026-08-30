@@ -163,6 +163,8 @@ BLOCK_TERMS = {
     "jackpot", "gok", "gokken", "inzet", "betting", "bet365", "unibet", "toto",
     "50x je inzet", "quotering", "quoteringen", "winactie", "vacature", "stage lopen",
     "podcast luisteren", "advertorial", "sponsored", "partnercontent",
+    "praat mee", "meepraten", "wil jij het live-verslag verzorgen",
+    "live-verslag verzorgen", "word verslaggever", "oproep aan supporters",
 }
 
 # Toegankelijkheidsfilter. We publiceren alleen links die een bezoeker zonder
@@ -507,9 +509,14 @@ def category_hint(title: str, summary: str) -> str:
         "nabespreking", "uitslag", "speelschema", "speelschema's", "wedstrijdschema",
         "loting", "wedstrijd bij", "wedstrijd tegen", "aftrap", "scheidsrechter",
         "arbiter", "live: ajax", "ajax live", "vi live: ajax", "brengt bezoek aan",
-        "op bezoek bij",
+        "op bezoek bij", "speeldata", "speeldata van", "speeldata bekend",
     )
     if any(term in title_text for term in match_hard_terms):
+        return "Wedstrijden"
+
+    # Liveblogs noemen soms eerst de tegenstander ("VI Live: Telstar ... tegen Ajax").
+    # Als Ajax expliciet in zo'n livekop staat, is dit wedstrijdnieuws.
+    if re.search(r"\b(?:vi\s+)?live\b", title_text) and "ajax" in title_text:
         return "Wedstrijden"
 
     # Expliciete transfertaal in de kop. Naast standaardwoorden vangen we hier
@@ -531,7 +538,8 @@ def category_hint(title: str, summary: str) -> str:
         "definitief speler van", "definitief naar", "binnen met", "rond met",
         "strijd om", "kiest voor ajax", "kiest voor amsterdam", "wil toeslaan",
         "toeslaan voor", "rondt komst af", "rondt transfer af", "ging voor terugkeer",
-        "wil terugkeer", "zet in op terugkeer",
+        "wil terugkeer", "zet in op terugkeer", "verkiest ajax",
+        "verkiest amsterdam", "kiest ajax boven", "kiest amsterdam boven",
     )
     if any(term in title_text for term in transfer_title_terms):
         return "Transfers"
@@ -551,10 +559,10 @@ def category_hint(title: str, summary: str) -> str:
     # Zachtere wedstrijdsignalen komen pas ná transfers. Daardoor blijft bijvoorbeeld
     # 'Transfers Ajax: Amrabat hoopt tegen PSV te spelen' een transferbericht.
     match_soft_terms = (
-        "wint", "winst", "zege", "verlies", "verliest", "gelijkspel", "doelpunt",
+        "wint", "winnen", "winst", "zege", "verlies", "verliest", "gelijkspel", "doelpunt",
         "score", "conference league", "europa league", "champions league",
         "kwalificatie", "play-off", "tegen telstar", "tegen sion", "thuis tegen",
-        "uit tegen", "eredivisie-duel", "bekerduel", "competitieduel",
+        "uit tegen", "bij telstar", "bij sion", "eredivisie-duel", "bekerduel", "competitieduel",
     )
     if any(term in title_text for term in match_soft_terms):
         return "Wedstrijden"
@@ -932,7 +940,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str],
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.6",
+            "generator": "Ajax Nieuws collector 1.7",
             "raw_candidates": len(candidates),
             "excluded_paywall_count": excluded.get("paywall", 0),
             "excluded_video_only_count": excluded.get("video_only", 0),
@@ -946,7 +954,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str],
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.6",
+            "generator": "Ajax Nieuws collector 1.7",
             "article_count": len(candidates),
             "event_count": len(visible_events),
             "discovered_event_count": len(events),
