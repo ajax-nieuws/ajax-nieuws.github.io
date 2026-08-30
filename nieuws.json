@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T16:55:03.446211+00:00",
+    "generated_at": "2026-08-30T17:25:13.379020+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 123,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 74,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 104,
-    "excluded_video_only_count": 85,
+    "excluded_paywall_count": 103,
+    "excluded_video_only_count": 82,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e8ebaef76c8edd",
+      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
+      "category": "Transfers",
+      "published": "2026-08-30T17:18:00+00:00",
+      "updated": "2026-08-30T17:18:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fa3b1a791e6865",
+      "title": "Ajax-speler niet bezig met nieuw contract: 'Jordi heeft drukke dagen voor de boeg'",
+      "category": "Transfers",
+      "published": "2026-08-30T17:08:30+00:00",
+      "updated": "2026-08-30T17:08:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129328/davy-klaassen-wacht-met-nieuw-contract-bij-ajax-door-drukte-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1299d839df0dfd",
+      "title": "Ajax-fans zien 'Brobbey 2.0' schitteren tegen Telstar: 'Ik ben verliefd op hem'",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T17:00:06+00:00",
+      "updated": "2026-08-30T17:00:06+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129314/tolu-arokodare-maakt-indruk-op-ajax-fans-tegen-telstar.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "bf84eb5d3a9872",
       "title": "Ajax verslaat Telstar met grote cijfers, spitsen Arokodare en Leonardo scoren - NU",
@@ -34,7 +79,7 @@
       "category": "Wedstrijden",
       "published": "2026-08-30T13:33:54+00:00",
       "updated": "2026-08-30T16:40:30+00:00",
-      "source_count": 4,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -51,6 +96,11 @@
           "name": "AT5",
           "url": "https://www.at5.nl/artikelen/239694/ajax-walst-in-tweede-helft-over-telstar-heen-en-wint-met-0-4",
           "via_google_news": false
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnBpazNhdjAxTzJweGEzal95VXVnZHVDU3pRVmFIUjBXNkdqSzFyaThnRm4wN081ZWt0N3JsSGFLVEx0WmFoSFJucWlHX1pKQ3NLSVkzTWZXY0VRWnRfSklYMTVweDAxM0g5T1lHR3NOd2FRVnNxanAzMnhxWEtFRTZ2WmVucHNKaVp1NjQxM3pnZ2pmTkZvSWVvU0NJVTVkS0xtNk55b1poeUFXejBtOTk0dEYwaGR3?oc=5",
+          "via_google_news": true
         },
         {
           "name": "FCUpdate",
@@ -85,21 +135,6 @@
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2628976",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1299d839df0dfd",
-      "title": "Ajax-fans zien 'Brobbey 2.0' schitteren tegen Telstar: 'Ik ben verliefd op hem'",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T16:24:35+00:00",
-      "updated": "2026-08-30T16:24:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129314/tolu-arokodare-maakt-indruk-op-ajax-fans-tegen-telstar.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -241,22 +276,22 @@
     },
     {
       "id": "1d41c565bbc814",
-      "title": "Míchel Sánchez gooit Ajax-opstelling om tegen Telstar",
+      "title": "Opstelling Ajax tegen Telstar: Míchel kiest voor Janse en wéér voor Tolu",
       "category": "Wedstrijden",
       "published": "2026-08-29T13:27:28+00:00",
       "updated": "2026-08-30T13:55:30+00:00",
       "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzctWlZrbGN3LTVJZkNFNGtwZzM0QmZUZDVjZC04YWF1Q2ktYXhqWU4tU1VDOWZQOGxOZk11eXNLLVJ3bnFtN3ZsWGZUTGJCYlVndkFhaC1jaDQ1NHdOdlE0RlVSTkh3X3pvTm1FMVItUlEyX21PTndweVNGWkU2UTE5cHE0dVBSWHE0WnNzN0VINGpPSnNhR3RCQUlXZFJpU09mZVpn?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
-          "via_google_news": false
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzctWlZrbGN3LTVJZkNFNGtwZzM0QmZUZDVjZC04YWF1Q2ktYXhqWU4tU1VDOWZQOGxOZk11eXNLLVJ3bnFtN3ZsWGZUTGJCYlVndkFhaC1jaDQ1NHdOdlE0RlVSTkh3X3pvTm1FMVItUlEyX21PTndweVNGWkU2UTE5cHE0dVBSWHE0WnNzN0VINGpPSnNhR3RCQUlXZFJpU09mZVpn?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Voetbalzone",
@@ -285,14 +320,14 @@
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
           "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Voetbalzone",
@@ -634,11 +669,11 @@
     },
     {
       "id": "7b0a6ef82143ce",
-      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split - Ajax",
+      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split",
       "category": "Wedstrijden",
       "published": "2026-08-29T18:40:13+00:00",
       "updated": "2026-08-30T07:51:00+00:00",
-      "source_count": 6,
+      "source_count": 7,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -662,8 +697,8 @@
           "via_google_news": true
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORllhOU5od3UzbFNycUhja1J0dG8zM3lIMzdYOTRzUFFadU8tZ054U3B3bTZxUTQ2MXd5Y1pWV2FfbE53bWJNcTRVV0RjSmJJMFloUEw4QmdjM1lLR21NaGFWRElMdS05WXlUTEVwV2NCUm1fbGtuNEtLSzRNRXlpOHJmN1RrdUNhQnRESzRFWTRpUC1IYVp6eGozbw?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGE2NVFyV3A4OElhSGphdy1XU2d3YjNUWnlfdmFRR2h0ZmQxWjBDRlg2UFBKMTNaQkNybE9fQnlaVml3U0Z2Y3BEZk5CaFg0VzhqOUZYalV2X3N4eFB5SUR5RTczaDdxR0lULVBwalM0bkM4aWRkZlBlSV9RWVk4VHM2OEYtSlJLSGJUWGQwTjQwZWprRDNiSGxwbk01bWtYcDRlbk5tbXpydjNjemxjV0dhYlVBWGQyYzIxOWs1bDkydWtjZ2ZwVA?oc=5",
           "via_google_news": true
         }
       ]
@@ -757,36 +792,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/transfers-ajax-amrabat-hoopt-tegen-psv-meteen-te-spelen",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f7cfaeba9db92e",
-      "title": "Amrabat is Ajacied: 'De woorden van Cruijff waren vleiend' - Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T07:31:35+00:00",
-      "updated": "2026-08-30T07:31:35+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3JoREJra1NSY3d1cnFhbzVXVnFwVFlteEV4aHlIY0FJNUl1dXYzU2JuTW5wOHRxZkx3b2ZSdVFVOE1NX1dzSGFtOVM3MEUyRWp1OGlYNXpWNjNlRTU3Tzh4a2VaZ2d0bzhLaGk4Q0FpdU1ZQU9UZDlOa1UzbDM2di1mNldUdGNJbE1DS3Fn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "37acc85aa58385",
-      "title": "Opvallende eerdere quotes van Sofyan Amrabat over Ajax duiken op",
-      "category": "Overig",
-      "published": "2026-08-30T07:07:00+00:00",
-      "updated": "2026-08-30T07:07:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSS1hQ3dDLU9jSThuamtad21mSENfeVgtaW5CSklPT3JHaDd4ajRiVVNOZnQwVGM4VTBuRy1YRFJCODhrR0hXQlN1QnliSmF1MTd6TzFSUXozRDY4dEJjUE5QRWgyYzlzUlRsU2hfRGdyQ3V3QzVxclBlb1Z0TGR0dmVGdlZ5VDZhcDF6c2JfNXFLdzZra28xNHk5ekRyVjU2UXh5TUtzcTEzZ1ktcFY3cEc5YU9aSllURmc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
