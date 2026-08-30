@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T06:25:24.667008+00:00",
+    "generated_at": "2026-08-30T06:54:56.485490+00:00",
     "generator": "Ajax Nieuws collector 1.4",
     "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 85,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -12,40 +12,100 @@
   },
   "events": [
     {
-      "id": "e677bc1a8140e7",
-      "title": "Ajax dicht bij transfervrije komst van Marokkaans international Amrabat",
+      "id": "397bf9968d5408",
+      "title": "'Streep door Ajax-transfer van Lang: Oranje-aanvaller stevent af op basisplaats'",
       "category": "Transfers",
-      "published": "2026-08-29T18:12:40+00:00",
-      "updated": "2026-08-30T06:10:00+00:00",
+      "published": "2026-08-30T06:42:55+00:00",
+      "updated": "2026-08-30T06:42:55+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2128951/ajax-krijgt-uitsluitsel-uit-italie-noa-lang-blijft-bij-napoli.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e677bc1a8140e7",
+      "title": "Met Amrabat eindigt voor Ajax lange zoektocht naar opvolger Henderson",
+      "category": "Transfers",
+      "published": "2026-08-29T18:16:46+00:00",
+      "updated": "2026-08-30T06:41:23+00:00",
       "source_count": 11,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
-        "url": "https://nos.nl/l/2628846",
+        "url": "https://nos.nl/l/2628886",
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/akkoord-in-amsterdam-amrabat-wordt-nieuwe-nummer-6-ajax",
-          "via_google_news": false
-        },
         {
           "name": "De Telegraaf",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2tYa09SQ0hfbVc0RC1DcFJUVklCSmxELTVMRThJTl9Nb0RGUVQ2WWRsS3VWUE8yNjZPS0R1Sm5CODNGQWlUZGxPRVNRRWtLd3huSXJBdEJ2Y3h4bi1mX0Q5TTR3U0hfMjJId19WSHU0OGVVUmFKaUhfOVhaYVdka2pna2t3OEQwOW1fWEh1T3JoXzNyRzNRSmhEWHR5MnZDQ3BxQ29BZ3Z0TFJOb3RPSWd3?oc=5",
           "via_google_news": true
         },
         {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/akkoord-in-amsterdam-amrabat-wordt-nieuwe-nummer-6-ajax",
+          "via_google_news": false
+        },
+        {
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
           "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0JsVmk1UDRwXzg2REttSUpLTnZRQ3NrMkJsaFktZ3dVejNCeXdlMkU2YnBUZktMQUd6OEhPVEtjWFAtS3I3N0xYZURueFljU2x3RW9qZUV6VEppZDRLVkVSUEptYnBmeDZHOHZyMUtwaEc4eGZ5ODRYeS1SbnAyS2QtaXZrWGVUS19qVjRaRWdRN0VtQVE4WlNUVTFHWXJ3WEE1WXdQMVkzUVM2TU00YWdiOHZvOG5xZzUzQ19PODNEOHJfbnhRRmxXMTdhQQ?oc=5",
-          "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "7b79b14e4a8093",
+      "title": "'Amrabat wachtte op andere club, maar was klaar met wachten én kiest voor Ajax'",
+      "category": "Overig",
+      "published": "2026-08-30T06:40:42+00:00",
+      "updated": "2026-08-30T06:40:42+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129025/sofyan-amrabat-hoopte-eerst-op-real-betis-maar-kiest-voor-transfer-naar-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8abf8c39b281a8",
+      "title": "Vermoedelijke XI Ajax: Míchel beloont uitblinkers en kiest frisse naam achterin",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T06:39:30+00:00",
+      "updated": "2026-08-30T06:39:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2128779/vermoedelijke-xi-ajax-michel-beloont-uitblinkers-en-kiest-frisse-naam-achterin.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1e79433055be3c",
+      "title": "'Ajax vangt bot: toptarget blijft bij club ondanks bod van 12 miljoen euro'",
+      "category": "Transfers",
+      "published": "2026-08-30T06:24:00+00:00",
+      "updated": "2026-08-30T06:24:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFpyNEoyMHUwcVFxOS1qaUx3RmRmYXdtcEdSTVRaWDF5N0QySWhzeXBFTkxMMlJGV25YMlF4T2xiMTBfNmZHVXFsUlBWOXp0LU9Ta1QyZ2dyZ3g1WXQ5eDVIN2NiejhiMkFuZHBSREh2ZllWWlRTZkJ6eF9VczdUdWJSWXBuaFk3Ul9fd1YtNTU1Q0RFOFBITHBpRkhDZTBEVXFiMzlCT1Z5UXFiRWl5bVVFd1lubWxkamt6WFpGZFVBRWFq?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "0a6529d98006b8",
@@ -146,21 +206,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0xPUVdLRUwtYzRMdVFqa1Rqb1kzTnVaMEQwUDdFRFNIVS1RdlI4ZDdkNjdGc05GYUp0NFhlWnpUbkdRNE90eVExdXg3alEzRG5BRTJQdG1zdXR6cUxLdXlrc1kwWmhEN21KQlBpLUxjRWJNZXFSU0NGam5Pa3NldGhhMVdUNEI1RW9DcThya1JuMDF5NXdOWDdXbzRyNndLRkFyVW96ZDhKWlBNY3FfVllqXzdmRzdoTFZiLVZlbEVKM2g0ZUE?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7b79b14e4a8093",
-      "title": "'Amrabat wachtte op andere club, maar was klaar met wachten én kiest voor Ajax'",
-      "category": "Overig",
-      "published": "2026-08-29T21:06:59+00:00",
-      "updated": "2026-08-29T21:06:59+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129025/sofyan-amrabat-hoopte-eerst-op-real-betis-maar-kiest-voor-transfer-naar-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -444,36 +489,6 @@
       "related_sources": []
     },
     {
-      "id": "8abf8c39b281a8",
-      "title": "Vermoedelijke XI Ajax: Míchel beloont uitblinkers en kiest frisse naam achterin",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T16:33:35+00:00",
-      "updated": "2026-08-29T16:33:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128779/vermoedelijke-xi-ajax-michel-beloont-uitblinkers-en-kiest-frisse-naam-achterin.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "397bf9968d5408",
-      "title": "'Streep door Ajax-transfer van Lang: Oranje-aanvaller stevent af op basisplaats'",
-      "category": "Transfers",
-      "published": "2026-08-29T15:17:18+00:00",
-      "updated": "2026-08-29T15:17:18+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128951/ajax-krijgt-uitsluitsel-uit-italie-noa-lang-blijft-bij-napoli.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "f73eda497c8453",
       "title": "‘Akkoord over Ajax-miskoop Tahirovic: Bosniër op weg naar Cegeka Arena’",
       "category": "Transfers",
@@ -489,49 +504,25 @@
       "related_sources": []
     },
     {
-      "id": "5cc03f0bb4c917",
-      "title": "Amsterdammers op zoek naar volle buit in Velsen-Zuid!",
-      "category": "Overig",
-      "published": "2026-08-29T14:30:00+00:00",
-      "updated": "2026-08-29T14:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ21hMl9VVzgxS0s1dEFJdmpIdFQyczNHeFR5cFJ3Z3FNbnpXVTBKajVHMTFabTJwS1ZqQnZ3QUdlU1dNRlhsbktPWE5odnRuaWljSnppbHpTQmxSU0RCdF9NWFpkdUhvb1NKSk5WUFAwOTRzUzAzZXRyTzFESGVTWDRVMGxSZktpME0zZHRKSVFWN05ERXRUdWc3amdSRjNwX3Z1RHJfalBrQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1d02d9c5abb675",
+      "id": "441db0fbbb5508",
       "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt zijn team op twee plaatsen",
       "category": "Wedstrijden",
-      "published": "2026-08-29T14:15:00+00:00",
+      "published": "2026-08-29T13:27:28+00:00",
       "updated": "2026-08-29T14:15:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTlnZ01abUc0cUFlZkJ4X2FDcmZVRFNpdzh2SU05M3NjajJOSVYwWl96TVo3Q1gyOUdDZTFpSmM4cG96aDYwNnJ1XzhMbzRDM0lwaGpzc0ZxZ01ycTV0b0xDZ3EwN0YyWnpPNXdBNGxxa0UwZWlmQUM1RnZsMU5FTmpsMUhzSVNmYTZ5NGpsUUs4NUgzZXNfRHgyTTF0VUZCQ0FUNWx2UG5kb1JUS1JWbnRsSjAwODMyWmVSRVJxX3RCWlk?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
-    },
-    {
-      "id": "441db0fbbb5508",
-      "title": "Vermoedelijke opstelling Ajax tegen Telstar: rouleert Míchel Sánchez opnieuw volop? - FCUpdate.nl",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T13:27:28+00:00",
-      "updated": "2026-08-29T13:27:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhiUEdVOTNubFhkbDdHZFp1MUlPbjhMUFpabnRXTktJaVAzQ01icGR1MjFfZjdFRENnTjlyNEQyb3hEVWRabkJLYThTVGtLQnRqOWUzNHBydDZGQVBidkh3al96b2dxM0VOdTRQV0hoUndocGVIYWp2V2tsYlFxdTN4SzV0OERZeGZCSEdRY0NIcjU3TVBhSnk1S0tnRFJsZldLTDJ3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhiUEdVOTNubFhkbDdHZFp1MUlPbjhMUFpabnRXTktJaVAzQ01icGR1MjFfZjdFRENnTjlyNEQyb3hEVWRabkJLYThTVGtLQnRqOWUzNHBydDZGQVBidkh3al96b2dxM0VOdTRQV0hoUndocGVIYWp2V2tsYlFxdTN4SzV0OERZeGZCSEdRY0NIcjU3TVBhSnk1S0tnRFJsZldLTDJ3?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "58ac4a08aa3f48",
@@ -706,6 +697,21 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128826/inan-verwacht-nog-zeker-tien-ajax-transfers.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a284b2d31e467b",
+      "title": "Ajax-target kondigt vertrek aan: 'Tijd om afscheid te nemen van deze mooie club'",
+      "category": "Transfers",
+      "published": "2026-08-29T08:50:58+00:00",
+      "updated": "2026-08-29T08:50:58+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2128818/ajax-target-spina-neemt-al-afscheid-van-atletico-madrid-op-instagram.html",
         "via_google_news": false
       },
       "related_sources": []
