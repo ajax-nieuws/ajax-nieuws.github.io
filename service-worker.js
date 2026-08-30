@@ -1,4 +1,4 @@
-const CACHE = 'ajax-news-v1';
+const CACHE = 'ajax-news-v2';
 const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', event => {
@@ -18,7 +18,6 @@ self.addEventListener('fetch', event => {
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
 
-  // Nieuwsdata en navigatie eerst via het netwerk. Zo blijft de feed actueel.
   if (url.pathname.endsWith('/nieuws.json') || request.mode === 'navigate') {
     event.respondWith(
       fetch(request)
