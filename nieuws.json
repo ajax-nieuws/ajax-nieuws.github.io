@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T12:25:13.955334+00:00",
+    "generated_at": "2026-08-30T12:54:57.674522+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 137,
+    "article_count": 138,
     "event_count": 40,
-    "discovered_event_count": 94,
+    "discovered_event_count": 93,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -12,12 +12,12 @@
   },
   "events": [
     {
-      "id": "36db5ddc87b938",
+      "id": "a5986dc01c7808",
       "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-30T12:17:09+00:00",
-      "source_count": 2,
+      "updated": "2026-08-30T12:52:05+00:00",
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -26,11 +26,46 @@
       },
       "related_sources": [
         {
+          "name": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXNTX1g5UzNFM212ajhDemVrV3hKN1dURnp3NV9JNXRVcnVvUFJGS0kzME1qWU4tdFJOX3k5SHltYzBDRjJFRUdEZjA0VlZJSHVZc2dvRXJSckVFSXUyRUJ5OHdfWnJNaWtoUjZoR3Y1bWFpZXlMTzNFRHJrc0VKX1VxaFpOM2k5Yms0N1BCSXRaSkNmNTZmYjd0cWZXVTZDRUZYcEQ5M19HaHdhcVJmMDZRblFpVmtPUGlNZ1J5OWNpTHNVOGhkYWZXWHlZT1JlU3c?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0RhbGEycjJ5WFhwTGtLTGh1UDdMVkgzYzVBMHVyMWNoNllEQXp6QXBkUkhXb1Y0NW1GTWdlelZhN3pYWnFfUVUwbFZUaDgzc2R3cGVNaThlMVM4VzFvS0xBeHhUMTNoQXM0UDBNMzM1REVDZHhqUnZDTm96aTY0cW00TVczN0xZelk4ZHIxcGxHUExqZ0xfTUZFSTVZX2s4WElZR2dNaG0xM0U5QTNPRE1GSQ?oc=5",
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "0ab8840d1add7b",
+      "title": "'Ajax ging voor terugkeer publiekslieveling, laptop hoofdscout lijkt schatkamer'",
+      "category": "Transfers",
+      "published": "2026-08-30T12:36:05+00:00",
+      "updated": "2026-08-30T12:36:05+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129202/ajax-wilde-alvarez-maar-gejuich-na-stille-zet-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a558e4b56eed03",
+      "title": "Ajax neemt afscheid van Youri Regeer - FCUpdate.nl",
+      "category": "Overig",
+      "published": "2026-08-30T12:34:04+00:00",
+      "updated": "2026-08-30T12:34:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "12464854c5b46c",
@@ -186,21 +221,21 @@
     },
     {
       "id": "f80f2e42896302",
-      "title": "Ajax meldt zich opnieuw bij Napoli voor Noa Lang",
+      "title": "Terugkeer Lang nog niet uitgesloten? 'Ajax meldde zich opnieuw bij zaakwaarnemers en Napoli'",
       "category": "Overig",
       "published": "2026-08-30T09:20:00+00:00",
       "updated": "2026-08-30T09:34:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0pRNEVBMVY5bG9ZX0ZJdGhoUFoyWHdhTXFSbTYtQWxaX3NnSG1QeWFGMm45TUFCNHlDdjI1SENlZUNOcWlJYzM4Q2RsN0FLRjExMlo0QTVONEpaRlZZaWVIclV2NW9TZnFMeWVsWG9mOFhLZmd3SjVIQ3V5c0dQOHNOVXJKcXBZcU9UMzB1VXJvN0c4X0NpZ2Ztby1mUzZ1VmlNNA?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0pRNEVBMVY5bG9ZX0ZJdGhoUFoyWHdhTXFSbTYtQWxaX3NnSG1QeWFGMm45TUFCNHlDdjI1SENlZUNOcWlJYzM4Q2RsN0FLRjExMlo0QTVONEpaRlZZaWVIclV2NW9TZnFMeWVsWG9mOFhLZmd3SjVIQ3V5c0dQOHNOVXJKcXBZcU9UMzB1VXJvN0c4X0NpZ2Ztby1mUzZ1VmlNNA?oc=5",
           "via_google_news": true
         }
       ]
@@ -613,6 +648,21 @@
       "related_sources": []
     },
     {
+      "id": "f2d2db3bcd497f",
+      "title": "Davids: 'Kracht van Ajax dat ze slecht speelden'",
+      "category": "Overig",
+      "published": "2026-08-29T21:24:24+00:00",
+      "updated": "2026-08-29T21:24:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlV0WDBwZGdMQ1M2S2pZYzJfdlFBRG5HMWJtbmxpNWQ2ZUYtR1dZZ2UzUDJ3YV9pUmlnYVBJWno4Um1tR1YyM2FxeEFrY0w3ZVdjYzFFWmlUZHlPcll0ZTN4R2RUMkVaSTQ4XzVVREZFZ1QyOE9CYjljUk9ZVWZJM3VaVGtnOU1tZmd3VE5ZN0l2NFVEeklsNzA0V0c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "7b0a6ef82143ce",
       "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split - Ajax",
       "category": "Wedstrijden",
@@ -674,51 +724,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEliOUNkMlpXRl9DR2gtbU5XTUs0aE81TkMxTnFuaHVMcU5WQk5oRHlRTUJEUG1VOWlqc0pLbFhkUUtzd1VRdGxqMHpUZEpmNjYyU3pWczBsazF6RHAxaDctZEljRWUyVm5uZm1jRlRrX0gyMkJIaGJfb0Y3dkNWeXNWUjBwWmRpQkhyVEhZMXBkYlBzTlFsa0JQQlc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ce4ceec1bfcff6",
-      "title": "Wedstrijd bij Telstar onder leiding van Higler",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T20:16:16+00:00",
-      "updated": "2026-08-29T20:16:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55947/Wedstrijd-bij-Telstar-onder-leiding-van-Higler",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b10d63aef23be3",
-      "title": "Ajax-beul Getafe komt naar de Johan Cruijff ArenA: 'Je bloed begint te koken'",
-      "category": "Club",
-      "published": "2026-08-29T20:15:00+00:00",
-      "updated": "2026-08-29T20:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/videos/2128803/weer-moet-ajax-tegen-getafe-je-bloed-begint-te-koken.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "406e9f900f3418",
-      "title": "Sofyan Amrabat verkiest Ajax boven Spaanse topclub",
-      "category": "Overig",
-      "published": "2026-08-29T20:12:00+00:00",
-      "updated": "2026-08-29T20:12:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHhrRmVNQ1czNlRwYlJiU21aRjkybXRHMVJjeUhPNXN2aDJyU2xUVnFwVGw2V0pxdW14VnU3TjRjcEl2X1d4SGVxUE9qUlhqOV8yVUVrZFFjRUlVbWs3b0plSll3OXgwTzdnTk5PMDJKM3hIV1BiejRDQ1VnNjhXb0tPYTVTcldyWjJsSEpBT1VoQ1R2ZXZCYnp5MUliakN6UlQ1N2Nldw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
