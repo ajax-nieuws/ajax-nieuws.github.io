@@ -225,6 +225,7 @@ CATEGORY_TERMS = {
         "bestuur", "directie", "directeur", "technisch directeur", "algemeen directeur",
         "financieel", "begroting", "aandeelhouder", "arena", "stadion", "supporters",
         "kaartverkoop", "sponsor", "beleid", "organisatie", "commissaris",
+        "salaris", "salarissen", "loon", "loonkosten", "scouting", "hoofdscout",
     },
     "Jong Ajax": {"jong ajax", "keuken kampioen divisie", "kkd", "ajax o21", "ajax ii"},
     "Ajax Vrouwen": {"ajax vrouwen", "vrouwenelftal", "eredivisie vrouwen", "women's champions league"},
@@ -387,7 +388,11 @@ def normurl(url: str) -> str:
 def strip_source_suffix(title: str, publisher: str) -> str:
     title = clean(title)
     # Google News zet meestal " - Bronnaam" achter de titel.
-    for suffix in {publisher, "Ajax.nl", "Voetbal International", "VoetbalPrimeur", "ESPN", "AD", "NU.nl", "De Telegraaf"}:
+    for suffix in {
+        publisher, "Ajax.nl", "Voetbal International", "VoetbalPrimeur",
+        "ESPN", "ESPN.nl", "AD", "AD.nl", "NU.nl", "De Telegraaf",
+        "FCUpdate", "FCUpdate.nl", "Voetbalzone", "Ajax Showtime",
+    }:
         if suffix and title.lower().endswith((" - " + suffix).lower()):
             return title[: -(len(suffix) + 3)].rstrip()
     return title
@@ -471,6 +476,12 @@ def is_ajax_relevant(title: str, summary: str, ajax_specific: bool, strict_title
 
 
 def category_hint(title: str, summary: str) -> str:
+    """Bepaal de rubriek vooral op basis van de kop.
+
+    Volgorde is bewust: een concrete wedstrijdkop (zoals een opstelling) wint van
+    een losse transferverwijzing in dezelfde titel. Daarna krijgen duidelijke
+    transferformuleringen voorrang. De samenvatting is alleen een laatste vangnet.
+    """
     title_text = clean(title).lower()
     full_text = clean(f"{title} {summary}").lower()
 
@@ -480,9 +491,30 @@ def category_hint(title: str, summary: str) -> str:
     if "ajax vrouwen" in title_text or "vrouwenelftal" in title_text:
         return "Ajax Vrouwen"
 
-    # Transfers alleen bij duidelijke transfertaal in de kop. Dit voorkomt dat
-    # interviews met een nieuwe speler door transferwoorden in de teaser als
-    # transfernieuws worden gelabeld.
+    # Blessures zijn meestal eenduidig en moeten niet door woorden als
+    # 'afwezig' of 'terugkeer' in een transfercontext worden overschreven.
+    injury_title_terms = (
+        "blessure", "geblesseerd", "revalidatie", "schorsing", "geschorst",
+        "twijfelgeval", "haakt af", "niet inzetbaar", "maanden eruit",
+    )
+    if any(term in title_text for term in injury_title_terms):
+        return "Blessures"
+
+    # Harde wedstrijdsignalen. Deze gaan vóór transfers, zodat een kop als
+    # 'Opstelling Ajax ... in afwachting van toptransfer' gewoon Wedstrijden is.
+    match_hard_terms = (
+        "opstelling", "basiself", "vermoedelijke xi", "voorbeschouwing",
+        "nabespreking", "uitslag", "speelschema", "speelschema's", "wedstrijdschema",
+        "loting", "wedstrijd bij", "wedstrijd tegen", "aftrap", "scheidsrechter",
+        "arbiter", "live: ajax", "ajax live", "vi live: ajax", "brengt bezoek aan",
+        "op bezoek bij",
+    )
+    if any(term in title_text for term in match_hard_terms):
+        return "Wedstrijden"
+
+    # Expliciete transfertaal in de kop. Naast standaardwoorden vangen we hier
+    # journalistieke formuleringen af die in de praktijk vrijwel altijd over een
+    # transfer gaan, zoals 'meldt zich voor', 'neemt afscheid van' en 'strijd om'.
     transfer_title_terms = (
         "transfer", "transfers", "akkoord", "vertrek", "vertrekt", "verlaat",
         "interesse", "bod", "deal", "target", "transfervrij", "overgenomen",
@@ -490,21 +522,41 @@ def category_hint(title: str, summary: str) -> str:
         "in de markt", "op weg naar", "opvolger", "onderhandelingen",
         "tekent", "contract bij", "contracteert", "haalt", "aankoop",
         "gesprekken met", "zoektocht", "komt uit bij", "mikt op",
+        "meldt zich voor", "melden zich voor", "meldde zich voor", "meldden zich voor",
+        "meldt zich bij", "melden zich bij", "meldde zich bij", "meldden zich bij",
+        "zaakwaarnemer", "zaakwaarnemers", "neemt afscheid van", "afscheid van",
+        "mag vertrekken", "mogen vertrekken", "mag weg", "mogen weg",
+        "staat voor vertrek", "verhuur", "verhuurd", "huurdeal", "tekent bij",
+        "presenteert", "aanwinst", "aangetrokken", "aantrekken", "contracteren",
+        "definitief speler van", "definitief naar", "binnen met", "rond met",
+        "strijd om", "kiest voor ajax", "kiest voor amsterdam", "wil toeslaan",
+        "toeslaan voor", "rondt komst af", "rondt transfer af", "ging voor terugkeer",
+        "wil terugkeer", "zet in op terugkeer",
     )
     if any(term in title_text for term in transfer_title_terms):
         return "Transfers"
 
-    if any(term in title_text for term in CATEGORY_TERMS["Blessures"]):
-        return "Blessures"
-
-    match_title_terms = (
-        "opstelling", "basiself", "vermoedelijke xi", "voorbeschouwing", "nabespreking", "uitslag",
-        "wint", "winst", "zege", "verlies", "verliest", "gelijkspel",
-        "doelpunt", "score", "loting", "conference league", "europa league",
-        "champions league", "kwalificatie", "play-off", "tegen telstar",
-        "tegen sion", "thuis tegen", "uit tegen", "wedstrijd",
+    # Media schrijven vaak 'Ajax meldde zich in de laatste uren weer bij club X'.
+    # De woorden 'meldde zich' en 'bij/voor' staan dan niet direct naast elkaar.
+    # Dat is transfertaal, behalve wanneer het duidelijk over training/herstel gaat.
+    transfer_contact = re.search(
+        r"\b(?:meldt|melden|meldde|meldden) zich\b.{0,55}\b(?:bij|voor)\b",
+        title_text,
     )
-    if any(term in title_text for term in match_title_terms):
+    if transfer_contact and not any(
+        term in title_text for term in ("training", "trainingsveld", "medische staf", "herstel")
+    ):
+        return "Transfers"
+
+    # Zachtere wedstrijdsignalen komen pas ná transfers. Daardoor blijft bijvoorbeeld
+    # 'Transfers Ajax: Amrabat hoopt tegen PSV te spelen' een transferbericht.
+    match_soft_terms = (
+        "wint", "winst", "zege", "verlies", "verliest", "gelijkspel", "doelpunt",
+        "score", "conference league", "europa league", "champions league",
+        "kwalificatie", "play-off", "tegen telstar", "tegen sion", "thuis tegen",
+        "uit tegen", "eredivisie-duel", "bekerduel", "competitieduel",
+    )
+    if any(term in title_text for term in match_soft_terms):
         return "Wedstrijden"
 
     if any(term in title_text for term in CATEGORY_TERMS["Club"]):
@@ -514,13 +566,25 @@ def category_hint(title: str, summary: str) -> str:
         "selectie", "basisplaats", "basis", "debuut", "aanvoerder", "keeper",
         "verdediger", "middenvelder", "aanvaller", "spits", "speeltijd",
         "positie", "nummer 6", "nummer zes", "uitblinker", "toptalent",
-        "training", "speelgerechtigd",
+        "training", "speelgerechtigd", "controleur", "doorbreken", "doorbraak",
+        "doorstromen", "reservebeurt",
     )
     if any(term in title_text for term in selection_title_terms):
         return "Selectie"
 
-    # Alleen als de kop zelf geen duidelijk signaal geeft, mag de samenvatting
-    # de categorie bepalen. De teaser telt dan veel lichter mee.
+    # Als de kop zelf nog algemene categoriewoorden bevat, gebruik die eerst.
+    title_scores = {}
+    for category, terms in CATEGORY_TERMS.items():
+        hits = sum(1 for term in terms if term in title_text)
+        if hits:
+            title_scores[category] = hits
+    if title_scores:
+        best = max(title_scores, key=title_scores.get)
+        if title_scores[best] >= 1:
+            return best
+
+    # Alleen als de kop geen bruikbaar signaal geeft, mag de samenvatting de
+    # categorie bepalen. We eisen twee signalen om teaser-ruis te beperken.
     fallback_scores = {}
     for category, terms in CATEGORY_TERMS.items():
         hits = sum(1 for term in terms if term in full_text)
@@ -780,6 +844,30 @@ def cluster_events(items: list[dict]) -> list[list[dict]]:
     return clusters
 
 
+def event_category(cluster: list[dict], primary: dict) -> str:
+    """Kies een stabiele categorie voor een geclusterd nieuwsfeit.
+
+    Twee of meer artikelen die dezelfde specifieke categorie hebben winnen van
+    een afwijkende primaire kop. Als de primaire categorie Overig is en één ander
+    artikel wél een duidelijke categorie heeft, gebruiken we die specifieke rubriek.
+    """
+    categories = [x.get("category", "Overig") for x in cluster]
+    counts = Counter(categories)
+
+    specific = {k: v for k, v in counts.items() if k != "Overig"}
+    if specific:
+        best_category, best_count = max(
+            specific.items(),
+            key=lambda kv: (kv[1], kv[0] == "Transfers", kv[0] == "Wedstrijden"),
+        )
+        if best_count >= 2:
+            return best_category
+        if primary.get("category", "Overig") == "Overig" and len(specific) == 1:
+            return best_category
+
+    return primary.get("category", "Overig")
+
+
 def event_from_cluster(cluster: list[dict]) -> dict:
     primary = max(cluster, key=article_rank)
     unique_by_source = {}
@@ -807,7 +895,7 @@ def event_from_cluster(cluster: list[dict]) -> dict:
     return {
         "id": event_id,
         "title": primary["title"],
-        "category": primary["category"],
+        "category": event_category(cluster, primary),
         "published": earliest.isoformat() if earliest else primary.get("published"),
         "updated": latest.isoformat() if latest else primary.get("published"),
         "source_count": len(source_articles),
@@ -844,7 +932,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str],
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.5",
+            "generator": "Ajax Nieuws collector 1.6",
             "raw_candidates": len(candidates),
             "excluded_paywall_count": excluded.get("paywall", 0),
             "excluded_video_only_count": excluded.get("video_only", 0),
@@ -858,7 +946,7 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str],
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.5",
+            "generator": "Ajax Nieuws collector 1.6",
             "article_count": len(candidates),
             "event_count": len(visible_events),
             "discovered_event_count": len(events),
