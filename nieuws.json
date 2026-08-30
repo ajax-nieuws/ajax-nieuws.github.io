@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T23:25:12.923543+00:00",
+    "generated_at": "2026-08-30T23:55:07.186191+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 135,
+    "article_count": 134,
     "event_count": 40,
-    "discovered_event_count": 78,
+    "discovered_event_count": 79,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 78,
+    "excluded_video_only_count": 77,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -74,25 +74,19 @@
       "related_sources": []
     },
     {
-      "id": "a827ec64d4aa1c",
+      "id": "89fa61f3145a9e",
       "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt nieuwe transfer",
       "category": "Transfers",
-      "published": "2026-08-29T16:15:00+00:00",
+      "published": "2026-08-30T20:53:37+00:00",
       "updated": "2026-08-30T20:53:37+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129389/benjamin-tahirovic-verruilt-brondby-op-huurbasis-voor-krc-genk.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1NyZ1dZNGUyUHRVenVWSmp2TWpkeEJsSlU4VWo5ZDBFMHV3UVN5S0pQSDVfZkJmZUd3YVNWMFN0MDVTYXc1TVZqNEJMSS1DSHQxaFNaZWhnLUt2MGczdGxKUGtaM0ZRM0diUnpZb2pQUDdZU3ZMTFB6TW5aRVhJMFRyelpSSUw2a05oc3I3a2VTa1I1Mzk5bnJSX2ctcXl0Y3k0T2FqX0RwZHZXR3lQLVRvaFhqbXBq?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "2c5b69ff27faff",
@@ -537,6 +531,21 @@
       "related_sources": []
     },
     {
+      "id": "e8be194177b626",
+      "title": "[Update III]: Ajax bevestigt transfer Bandé",
+      "category": "Transfers",
+      "published": "2026-08-30T15:55:45+00:00",
+      "updated": "2026-08-30T15:55:45+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHBVS0xqZU9sRkpLeG52ZXlxWU8yNi1WbDNmcnVzS2xObnFMR2pocHRDd0ZLbGdIamZrVW5PR2xNQ0tqWk9qYnUyYTdZeENiek5JcGRDODdPWFRoaE1QOUtvTnk2andkYUZHQ3ZkbEM0eG1BVFFBc1BESnZvMW42a183dEJwM0EzS3lQZ1FVWEl3RzZyTjluYUEwZlZaQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "7060e94229b7fb",
       "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
       "category": "Transfers",
@@ -704,21 +713,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVJJUklzOUFkNk5BRmVxaGZ3UGd4UVk0RFBpaWMtenlncGZ1dEV3MHhOSzVnQUFxaW1uc0Q5Rk83QXIyOEZ5d1BHLTZjMGxLNkI3MXhnMDVNdzFBcHYxTmRMYnQ4Mmt5WTlKOHg0emVUcjBuQVN4S2FwdVJCNWxTb1BOdjhYVjlBLVZLczJ5dW9aS2dDaWJFM0ViVU5lQjMwdnhHcEVBUmlZb0Vrb2RHX095aw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8dea49f65a933c",
-      "title": "Ajax begint zonder Baas aan uitduel met Telstar, rond verdediger 'speelt het een en ander'",
-      "category": "Selectie",
-      "published": "2026-08-30T13:30:00+00:00",
-      "updated": "2026-08-30T13:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDFEbGtNSTBMaV9tYnZRLXNteFp2MmU4U3o4dUduYWVoQzZSWjhlWG5YTW8yWTIyYm94QnVZT0kzZF9kZXhfaW5PWTRxZUp3YUZzQ09pbzhqY2xlOW9CU2tFbjhjUld0RC1IdFlaLTFaNmk0eXRRREkzMkZNNERreENCdXNpWEtqWDcwd0J5d05ZanJaNUU1OWFEcW9PS3dmQUZNQ1RMRU5rS3FmYlptdVFCSGtBZlBQbG1ETGt0TUZEcTBQMVFv?oc=5",
         "via_google_news": true
       },
       "related_sources": []
