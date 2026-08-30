@@ -1,18 +1,94 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T16:25:15.766992+00:00",
+    "generated_at": "2026-08-30T16:55:03.446211+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 117,
+    "article_count": 123,
     "event_count": 40,
-    "discovered_event_count": 72,
+    "discovered_event_count": 75,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 103,
-    "excluded_video_only_count": 88,
+    "excluded_paywall_count": 104,
+    "excluded_video_only_count": 85,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "bf84eb5d3a9872",
+      "title": "Ajax verslaat Telstar met grote cijfers, spitsen Arokodare en Leonardo scoren - NU",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T16:40:32+00:00",
+      "updated": "2026-08-30T16:40:32+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVNJWjVIV21TVUtYdi1XQ0QxZTdoMkF3SkVycDBCSXBpU1g3cjF3VFJlVWY2WDlVa3pjb3FhZGlVSFdnOGl6YzRHTmNyY05YcGhudEFmaDBoUUM2THB4R0hLRGdRQzR0QlMtQmhiQ1prMURqNExKdS1KQ3FVMHU4ZWREZ1BXSWpYaUJ4TEktYUJtSjRnS0VGNDdTYUJxMkdjSURsdFBndG9mSjZHemNJUmNMeVV2dw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7e173cfeba90fc",
+      "title": "Ajax is klaar voor topper tegen PSV na zorgeloze zege bij Telstar",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T13:33:54+00:00",
+      "updated": "2026-08-30T16:40:30+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-is-klaar-voor-topper-tegen-psv-na-zorgeloze-zege-bij-telstar",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkQ4ZHM3aWdWX2VkMEdaenBFNjhYa1JaeDhsN3NjanJWS3dQaGkwYzVzZGJHSW1MRi1EQVl0MmVGeGpZU2VyNV80MTdIRWtMZ1BOYmIwdnNCSUdUTlFpOHpYdkxxSThpdldXcm5YX3BpNWpQVkltdjNXWFJNU1AxSlFGZHNYMTJ1R3FNdVBmRnplelJUNk9NMk9aaUUyLTNkMERyZg?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AT5",
+          "url": "https://www.at5.nl/artikelen/239694/ajax-walst-in-tweede-helft-over-telstar-heen-en-wint-met-0-4",
+          "via_google_news": false
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFVuMFh5Y05Bc0lCVDNXTWowT2RzU3dYc2ZsV21FMk5pcTRxQmpIN21fWXVkOEhPcDRvWFd4c3l0blRTdXU4bnYzb3Y1Ukt6M3lWMXVwWFk0VmJhb193U2N0elVDWjBJRkxaUVZGUHRqTndwWk94cFUyYUFyUDZhTm9wMzVnekhGZUU2MFVuY3ppRDZVcHhaazNyZ04xSVZvQWowdEgxWmZSeFF1OFRBUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "ba7e2e86ec85a3",
+      "title": "Ajax kent zorgeloze middag bij Telstar: Tolu én Leonardo vinden het net",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T16:37:57+00:00",
+      "updated": "2026-08-30T16:37:57+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129285/ajax-haalt-uit-tegen-telstar-tolu-en-leonardo-scoren-bij-0-4-zege.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "dcb8ab325f7daa",
+      "title": "Ajax dankzij vier goals van routiniers en spitsen eenvoudig langs Telstar",
+      "category": "Selectie",
+      "published": "2026-08-30T16:37:53+00:00",
+      "updated": "2026-08-30T16:37:53+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2628976",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "1299d839df0dfd",
       "title": "Ajax-fans zien 'Brobbey 2.0' schitteren tegen Telstar: 'Ik ben verliefd op hem'",
@@ -165,22 +241,22 @@
     },
     {
       "id": "1d41c565bbc814",
-      "title": "Opstelling Ajax tegen Telstar: Míchel kiest voor Janse en wéér voor Tolu",
+      "title": "Míchel Sánchez gooit Ajax-opstelling om tegen Telstar",
       "category": "Wedstrijden",
       "published": "2026-08-29T13:27:28+00:00",
       "updated": "2026-08-30T13:55:30+00:00",
       "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzctWlZrbGN3LTVJZkNFNGtwZzM0QmZUZDVjZC04YWF1Q2ktYXhqWU4tU1VDOWZQOGxOZk11eXNLLVJ3bnFtN3ZsWGZUTGJCYlVndkFhaC1jaDQ1NHdOdlE0RlVSTkh3X3pvTm1FMVItUlEyX21PTndweVNGWkU2UTE5cHE0dVBSWHE0WnNzN0VINGpPSnNhR3RCQUlXZFJpU09mZVpn?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzctWlZrbGN3LTVJZkNFNGtwZzM0QmZUZDVjZC04YWF1Q2ktYXhqWU4tU1VDOWZQOGxOZk11eXNLLVJ3bnFtN3ZsWGZUTGJCYlVndkFhaC1jaDQ1NHdOdlE0RlVSTkh3X3pvTm1FMVItUlEyX21PTndweVNGWkU2UTE5cHE0dVBSWHE0WnNzN0VINGpPSnNhR3RCQUlXZFJpU09mZVpn?oc=5",
-          "via_google_news": true
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
+          "via_google_news": false
         },
         {
           "name": "Voetbalzone",
@@ -209,14 +285,14 @@
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
-          "via_google_news": false
-        },
-        {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
+          "via_google_news": false
         },
         {
           "name": "Voetbalzone",
@@ -245,14 +321,14 @@
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129255/ajax-probeert-te-verkopen-maar-regeer-is-op-weg-naar-bremen.html",
-          "via_google_news": false
-        },
-        {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129255/ajax-probeert-te-verkopen-maar-regeer-is-op-weg-naar-bremen.html",
+          "via_google_news": false
         },
         {
           "name": "Ajax.supporters.nl",
@@ -710,66 +786,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSS1hQ3dDLU9jSThuamtad21mSENfeVgtaW5CSklPT3JHaDd4ajRiVVNOZnQwVGM4VTBuRy1YRFJCODhrR0hXQlN1QnliSmF1MTd6TzFSUXozRDY4dEJjUE5QRWgyYzlzUlRsU2hfRGdyQ3V3QzVxclBlb1Z0TGR0dmVGdlZ5VDZhcDF6c2JfNXFLdzZra28xNHk5ekRyVjU2UXh5TUtzcTEzZ1ktcFY3cEc5YU9aSllURmc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "beaaa08770b2d9",
-      "title": "ESPN meldt groot nieuws: 'Amrabat wordt nieuwe zes van Ajax en tekent snel'",
-      "category": "Transfers",
-      "published": "2026-08-30T07:00:00+00:00",
-      "updated": "2026-08-30T07:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnpKZGdDblREVWJIclVUUVRIT3RWU25DNHBxZmM3M1o2UGpHR29hX3d2TTE3TzM1U2JFcE00dS1VR1J3Rlhscm5naTdyOWVPOEp1cUo3VDB0VUdaVmc1Z2w1eUVVLS1aUm9NQW5BZnIxTjIyLXMyZVpUUHE2OW0tNnNueWxDZWUxMHoyeWRnbnkyajQ3d1dHNFJxVENieUpRa1ZpLTFXTGdOUk5ibEdueEZFdXFGSXl1b1UtYkh6ajc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8abf8c39b281a8",
-      "title": "Vermoedelijke XI Ajax: Míchel beloont uitblinkers en kiest frisse naam achterin",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T06:39:30+00:00",
-      "updated": "2026-08-30T06:39:30+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128779/vermoedelijke-xi-ajax-michel-beloont-uitblinkers-en-kiest-frisse-naam-achterin.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "86198a3b95cd88",
-      "title": "Met Amrabat eindigt voor Ajax lange zoektocht naar opvolger Henderson",
-      "category": "Transfers",
-      "published": "2026-08-30T06:36:27+00:00",
-      "updated": "2026-08-30T06:36:27+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2628886",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1e79433055be3c",
-      "title": "'Ajax vangt bot: toptarget blijft bij club ondanks bod van 12 miljoen euro'",
-      "category": "Transfers",
-      "published": "2026-08-30T06:24:00+00:00",
-      "updated": "2026-08-30T06:24:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFpyNEoyMHUwcVFxOS1qaUx3RmRmYXdtcEdSTVRaWDF5N0QySWhzeXBFTkxMMlJGV25YMlF4T2xiMTBfNmZHVXFsUlBWOXp0LU9Ta1QyZ2dyZ3g1WXQ5eDVIN2NiejhiMkFuZHBSREh2ZllWWlRTZkJ6eF9VczdUdWJSWXBuaFk3Ul9fd1YtNTU1Q0RFOFBITHBpRkhDZTBEVXFiMzlCT1Z5UXFiRWl5bVVFd1lubWxkamt6WFpGZFVBRWFq?oc=5",
         "via_google_news": true
       },
       "related_sources": []
