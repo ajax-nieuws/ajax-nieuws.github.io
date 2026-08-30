@@ -1,18 +1,109 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T14:28:59.482830+00:00",
+    "generated_at": "2026-08-30T14:54:49.362645+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 118,
+    "article_count": 119,
     "event_count": 40,
     "discovered_event_count": 72,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 88,
+    "excluded_video_only_count": 90,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "c40db1b3614f52",
+      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
+      "category": "Transfers",
+      "published": "2026-08-30T11:52:00+00:00",
+      "updated": "2026-08-30T14:49:00+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "b2106bdfc7d6e8",
+      "title": "VI Live: Ajax begonnen aan uitduel met Telstar",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T14:46:01+00:00",
+      "updated": "2026-08-30T14:46:01+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-brengt-bezoek-aan-telstar",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ef63d83a861cc0",
+      "title": "Míchel dolblij met Ajax-transfer: 'Wereldklasse, hebben lang voor hem gevochten'",
+      "category": "Transfers",
+      "published": "2026-08-30T14:43:04+00:00",
+      "updated": "2026-08-30T14:43:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129281/michel-dolblij-met-ajax-transfer-wereldklasse.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "67cdc4864fffca",
+      "title": "Míchel is blij met Amrabat en geeft update over blessure Blind en transfer Regeer",
+      "category": "Blessures",
+      "published": "2026-08-30T14:42:00+00:00",
+      "updated": "2026-08-30T14:42:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/michel-is-blij-met-amrabat-en-geeft-update-over-blessure-blind",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "aced6f6735a563",
+      "title": "Maduro ziet meteen belangrijke Ajax-rol voor Amrabat: 'Dat gaat hij wel brengen'",
+      "category": "Overig",
+      "published": "2026-08-30T14:40:00+00:00",
+      "updated": "2026-08-30T14:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129278/maduro-enthousiast-over-ajax-aanwinst-amrabat.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "0ab8840d1add7b",
       "title": "'Ajax ging voor terugkeer publiekslieveling, laptop hoofdscout lijkt schatkamer'",
@@ -39,21 +130,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129266/veel-ajax-fans-niet-blij-met-farioli-door-interesse-in-baas.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b2106bdfc7d6e8",
-      "title": "VI Live: Telstar met nieuweling Valk in de basis tegen Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T14:04:03+00:00",
-      "updated": "2026-08-30T14:04:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/vi-live-ajax-brengt-bezoek-aan-telstar",
         "via_google_news": false
       },
       "related_sources": []
@@ -122,37 +198,6 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
           "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "c40db1b3614f52",
-      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
-      "category": "Transfers",
-      "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-30T13:51:56+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129255/ajax-probeert-te-verkopen-maar-regeer-is-op-weg-naar-bremen.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
-          "via_google_news": false
         }
       ]
     },
@@ -377,21 +422,6 @@
       ]
     },
     {
-      "id": "2dd822cce47194",
-      "title": "Amrabat onthult waarom hij voor Ajax kiest, vertelt over zijn fitheid en rol als nummer zes",
-      "category": "Selectie",
-      "published": "2026-08-30T08:20:00+00:00",
-      "updated": "2026-08-30T08:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc0RnQTJtTW1GMlBSQ1h2QTJpVTNoemdwdlZzYU92X3ZiYnFwS29LTEN3N3NzT29VX1RFVnNjYUt4LWtHU25UOW1Ca21XQTlYVWNUcHZrZG5TOGhRZXlJM1RQSl9nSjI3YjFfRHNqaVhDeFgxeGZkRC1feHJhRDMwZGp1aUJ0d3FTUG9POXQ3M20wZFBneV9PbndCNUdYWWRZTmNqVzhlbjVRYUw5d3dkdzZqT0JNTGpuYnB2TGxKM2Q4UHRPVDF5TVpPbw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "b6b3ab244e2c13",
       "title": "'Cruijff en ik hadden contact toen hij bij Barça zat. Transfer toen niet gelukt'",
       "category": "Transfers",
@@ -402,21 +432,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129114/reactie-amrabat-na-transfer.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "397bf9968d5408",
-      "title": "'Streep door Ajax-transfer van Lang: Oranje-aanvaller stevent af op basisplaats'",
-      "category": "Transfers",
-      "published": "2026-08-30T07:54:22+00:00",
-      "updated": "2026-08-30T07:54:22+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128951/ajax-krijgt-uitsluitsel-uit-italie-noa-lang-blijft-bij-napoli.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -550,6 +565,21 @@
       "related_sources": []
     },
     {
+      "id": "f7cfaeba9db92e",
+      "title": "Amrabat is Ajacied: 'De woorden van Cruijff waren vleiend' - Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T07:31:35+00:00",
+      "updated": "2026-08-30T07:31:35+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3JoREJra1NSY3d1cnFhbzVXVnFwVFlteEV4aHlIY0FJNUl1dXYzU2JuTW5wOHRxZkx3b2ZSdVFVOE1NX1dzSGFtOVM3MEUyRWp1OGlYNXpWNjNlRTU3Tzh4a2VaZ2d0bzhLaGk4Q0FpdU1ZQU9UZDlOa1UzbDM2di1mNldUdGNJbE1DS3Fn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "37acc85aa58385",
       "title": "Opvallende eerdere quotes van Sofyan Amrabat over Ajax duiken op",
       "category": "Overig",
@@ -655,21 +685,6 @@
       "related_sources": []
     },
     {
-      "id": "5a405d00016a7c",
-      "title": "'Done deal voor Ajax: Amrabat doorstaat keuring, ook papierwerk in orde'",
-      "category": "Transfers",
-      "published": "2026-08-29T21:25:02+00:00",
-      "updated": "2026-08-29T21:25:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129073/bliksemtransfer-rond-amrabat-doorstaat-keuring-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "ce4ceec1bfcff6",
       "title": "Wedstrijd bij Telstar onder leiding van Higler",
       "category": "Wedstrijden",
@@ -741,17 +756,17 @@
       ]
     },
     {
-      "id": "660bb661aa671a",
-      "title": "'Ajax geeft net op tijd gas: Atlético Madrid liet oog vallen op Amrabat'",
-      "category": "Overig",
-      "published": "2026-08-29T19:53:00+00:00",
-      "updated": "2026-08-29T19:53:00+00:00",
+      "id": "515762a04c9734",
+      "title": "Ajax O16 en O15 boeken monsterzeges op FC Utrecht en ADO Den Haag; hattrick Rijsenburg",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T19:50:00+00:00",
+      "updated": "2026-08-29T19:50:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129031/atletico-madrid-dacht-serieus-aan-ajax-aanwinst-amrabat.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUZwS3pETnlJbHdoUUFDUlFoTzlVdVNYczNlQkYxQkdIMGxhOS1ZNkM2ZWxKWGZfOF94c0k2eVcwVS1Tb3FsNmtyX1duR1hTdFFQSzFBRERPTzVmNHA4T2RaaWtOUjN3ajlaeTNFMzh3RnRTazExWWY0U3F6NnJNVmRjY0lUR0xYdGRkNml1b0gtcXdLS1RKOUlLOFdfNm1yLW52UHE0VHJESURuNmJDemt6dXF0cVVoazNkMEtZSTdzSTd6ejczQzJqY1VLV0hXc3c?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -775,21 +790,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "9f2cee66690c0e",
-      "title": "LIVE eredivisie | Ajax na Europees duel met Sion op bezoek bij Telstar",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T19:00:00+00:00",
-      "updated": "2026-08-29T19:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUhfRXhMNUNpVGlYSEtSNVZGNElPbC1uR2ZHOGltVjlZUXZpMVFLNUFVazZPbUFYOEQ4cmhoUE1vNlhMbDNjWmktTnhRWnlaOGxQSklUSHpLYXpLcXk3dWlVdldHVGZnTE16aDg3TGVoQ1RCVnRLTFY1UVJIWGw2ODQ0UEhKdUhEc3Z2WkpIWDk1UTlNTXFLdDlvWmNWYnNNYnN1MFZ4QQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
