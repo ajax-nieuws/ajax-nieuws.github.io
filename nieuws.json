@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T21:25:16.159650+00:00",
+    "generated_at": "2026-08-30T21:55:06.780224+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 133,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 76,
+    "discovered_event_count": 75,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 76,
+    "excluded_video_only_count": 73,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -29,19 +29,25 @@
       "related_sources": []
     },
     {
-      "id": "89fa61f3145a9e",
+      "id": "a827ec64d4aa1c",
       "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt nieuwe transfer",
       "category": "Transfers",
-      "published": "2026-08-30T20:53:37+00:00",
+      "published": "2026-08-29T16:15:00+00:00",
       "updated": "2026-08-30T20:53:37+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129389/benjamin-tahirovic-verruilt-brondby-op-huurbasis-voor-krc-genk.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1NyZ1dZNGUyUHRVenVWSmp2TWpkeEJsSlU4VWo5ZDBFMHV3UVN5S0pQSDVfZkJmZUd3YVNWMFN0MDVTYXc1TVZqNEJMSS1DSHQxaFNaZWhnLUt2MGczdGxKUGtaM0ZRM0diUnpZb2pQUDdZU3ZMTFB6TW5aRVhJMFRyelpSSUw2a05oc3I3a2VTa1I1Mzk5bnJSX2ctcXl0Y3k0T2FqX0RwZHZXR3lQLVRvaFhqbXBq?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "2c5b69ff27faff",
@@ -171,13 +177,13 @@
           "via_google_news": false
         },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
           "via_google_news": true
         },
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
           "via_google_news": true
         },
         {
