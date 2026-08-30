@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T13:57:40.446583+00:00",
-    "generator": "Ajax Nieuws collector 1.5",
+    "generated_at": "2026-08-30T14:12:25.691761+00:00",
+    "generator": "Ajax Nieuws collector 1.6",
     "article_count": 120,
     "event_count": 40,
-    "discovered_event_count": 81,
+    "discovered_event_count": 76,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 69,
+    "excluded_video_only_count": 88,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "59232a5d571286",
+      "title": "Veel Ajax-fans niet blij met Farioli: 'Onbegrijpelijke transfer dit'",
+      "category": "Transfers",
+      "published": "2026-08-30T14:08:11+00:00",
+      "updated": "2026-08-30T14:08:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129266/veel-ajax-fans-niet-blij-met-farioli-door-interesse-in-baas.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b2106bdfc7d6e8",
+      "title": "VI Live: Telstar met nieuweling Valk in de basis tegen Ajax",
+      "category": "Selectie",
+      "published": "2026-08-30T14:04:03+00:00",
+      "updated": "2026-08-30T14:04:03+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-brengt-bezoek-aan-telstar",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "1d41c565bbc814",
       "title": "Opstelling Ajax tegen Telstar: Míchel kiest voor Janse en wéér voor Tolu",
@@ -40,6 +70,42 @@
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhiUEdVOTNubFhkbDdHZFp1MUlPbjhMUFpabnRXTktJaVAzQ01icGR1MjFfZjdFRENnTjlyNEQyb3hEVWRabkJLYThTVGtLQnRqOWUzNHBydDZGQVBidkh3al96b2dxM0VOdTRQV0hoUndocGVIYWp2V2tsYlFxdTN4SzV0OERZeGZCSEdRY0NIcjU3TVBhSnk1S0tnRFJsZldLTDJ3?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "a558e4b56eed03",
+      "title": "FC Porto meldt zich voor Youri Baas",
+      "category": "Transfers",
+      "published": "2026-08-30T12:34:04+00:00",
+      "updated": "2026-08-30T13:55:00+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
           "via_google_news": true
         }
       ]
@@ -76,46 +142,10 @@
       ]
     },
     {
-      "id": "c422c1246aaf31",
-      "title": "FC Porto meldt zich voor Youri Baas",
-      "category": "Overig",
-      "published": "2026-08-30T13:41:22+00:00",
-      "updated": "2026-08-30T13:51:22+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "b54a9b2c2180c8",
-      "title": "'Reservebeurt geen toeval: FC Porto en Farioli melden zich bij Ajax'",
-      "category": "Selectie",
-      "published": "2026-08-30T13:49:51+00:00",
-      "updated": "2026-08-30T13:49:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d81e3f36d042dd",
-      "title": "Opstelling Ajax: basiskracht ontbreekt in afwachting van toptransfer - FCUpdate.nl",
-      "category": "Transfers",
-      "published": "2026-08-29T12:42:55+00:00",
+      "id": "def1e12740923d",
+      "title": "Opstelling Ajax: basiskracht ontbreekt in afwachting van toptransfer",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T13:48:51+00:00",
       "updated": "2026-08-30T13:48:51+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -187,16 +217,16 @@
       "related_sources": []
     },
     {
-      "id": "a558e4b56eed03",
-      "title": "Ajax neemt afscheid van Youri Regeer - FCUpdate.nl",
-      "category": "Overig",
-      "published": "2026-08-30T12:34:04+00:00",
-      "updated": "2026-08-30T12:34:04+00:00",
+      "id": "d81e3f36d042dd",
+      "title": "Ajax kan nu alweer afscheid nemen van miljoenenaankoop",
+      "category": "Transfers",
+      "published": "2026-08-30T11:27:15+00:00",
+      "updated": "2026-08-30T11:27:15+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1o4RHlDc0RodEg1T3VhTjN5SUFYSVpxYWdPbUZFNjNTSjBPMUxrQXQ1VEVHRVR4UzJOU0o0R0g5VGFhbjdxVGZPS0ZnWDVGbXhkYzVrWm85ZklNVl9CS3RYZXVJc21DZHF6T21pWnhfX0hFVGRUMHNmT2FReU03YnUzRFZ2RTlYTUF1ci1vV3VQXzVXVl9JRTdxbmI0N05Vcnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -235,7 +265,7 @@
     {
       "id": "c30961e77a0840",
       "title": "Nieuwe Ajax-controleur wil snel doorbreken: 'Zo snel mogelijk doorstromen'",
-      "category": "Overig",
+      "category": "Selectie",
       "published": "2026-08-30T11:03:04+00:00",
       "updated": "2026-08-30T11:03:04+00:00",
       "source_count": 1,
@@ -284,32 +314,48 @@
       "related_sources": []
     },
     {
-      "id": "4b3174fc0265e6",
-      "title": "Cruijff over Ajax-aanwinst Amrabat: ''We halen precies het profiel binnen dat wij voor ogen hadden'' - ESPN.nl",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T09:47:35+00:00",
+      "id": "8bf7ab50f0b92f",
+      "title": "Officieel: Ajax heeft nieuwe 6 binnen met Amrabat",
+      "category": "Transfers",
+      "published": "2026-08-29T18:31:00+00:00",
       "updated": "2026-08-30T09:47:35+00:00",
-      "source_count": 1,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejNsdGJBTHlJME1vd3R6WE9PclA2NlJYNEJWUXhHSEdmYmpMWXZSQjViZGNqTUFPQTNPUmhvbURoUDlOYzhncjlFSGdWd2hlcFhNYVNUdU9pek41ZG9aaVprUTE4RlNRYXdmejBDYUgzVmg0TG1hMzJ2T0RvMDl5MU11MEIzMTZkU2dpd05zcUtBNVV2NHpEUVJCTEJiejJneGZ5SlB1TVg0aGJXbV9HNGRLcjc1c1AwZW5udF81TVl3WnJqR1J3UFVyN05vNHRzYWluejJoQUdIU0FDc1E?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/officieel-ajax-heeft-nieuwe-6-binnen-met-amrabat",
+        "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejNsdGJBTHlJME1vd3R6WE9PclA2NlJYNEJWUXhHSEdmYmpMWXZSQjViZGNqTUFPQTNPUmhvbURoUDlOYzhncjlFSGdWd2hlcFhNYVNUdU9pek41ZG9aaVprUTE4RlNRYXdmejBDYUgzVmg0TG1hMzJ2T0RvMDl5MU11MEIzMTZkU2dpd05zcUtBNVV2NHpEUVJCTEJiejJneGZ5SlB1TVg0aGJXbV9HNGRLcjc1c1AwZW5udF81TVl3WnJqR1J3UFVyN05vNHRzYWluejJoQUdIU0FDc1E?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTmE5dTh3REMydVdrVDNRVVQxdHVSMjVBXzI5MUQ4VlU0LWZIOWxzLVM3dGt6TGtIcWZNM0ZKVm10dFp1ZkRwcVZ4NC1TT09xbkpSMWlON1ZPc0J1TUcyQ2dETHZzcDJVTWE5YjNrMkUyYzVqUURRVVA3VG5PRTdrd3llQVZ5N3RIdER4Smx2QTVhX0tsdTI0QUd4QVRXRTlQZGdaZ1ZWcm5TZ2lkalcycXRJWDhpUTRKZ3VyN2dMeDFUZ3dVUE5qcW54YUNVcE5yaGZGb1Axb21BSWc?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtZQWNtYnExNGVlVlBDLXJTTWNWUEpSclVCOXFFSW9veG4xWkd4Ym9TcURzTkY1SVl2YXI5d3I2MWxkSDY4U2lCbDhpeTRRS09PZWVrSHBlVDJqOHVyLWQxUklQMElmOXdBNS1UT1VpdHJBUllSY1RZNG5QUThkaElwYVlZbFU2cHF1d210SWVLYkFtd1RkY1pKZndnc1NOa0FnTXpyS3EyWWprZnJyWUI1ZTBSUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
-      "id": "f80f2e42896302",
-      "title": "Terugkeer Lang nog niet uitgesloten? 'Ajax meldde zich opnieuw bij zaakwaarnemers en Napoli'",
-      "category": "Overig",
-      "published": "2026-08-30T09:20:00+00:00",
+      "id": "cf58dcba487482",
+      "title": "'Ajax meldde zich in laatste 12 uur weer bij Napoli: optie Noa Lang is weer open'",
+      "category": "Transfers",
+      "published": "2026-08-30T08:35:31+00:00",
       "updated": "2026-08-30T09:34:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129120/romano-ajax-meldt-zich-weer-bij-napoli-optie-lang-is-weer-open.html",
+        "via_google_news": false
       },
       "related_sources": [
         {
@@ -339,21 +385,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "8c974c50059bd8",
-      "title": "'Ajax meldde zich in laatste 12 uur weer bij Napoli: optie Noa Lang is weer open'",
-      "category": "Transfers",
-      "published": "2026-08-30T08:35:31+00:00",
-      "updated": "2026-08-30T08:35:31+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129120/romano-ajax-meldt-zich-weer-bij-napoli-optie-lang-is-weer-open.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "b6b3ab244e2c13",
@@ -386,19 +417,34 @@
       "related_sources": []
     },
     {
-      "id": "fe307ee9b5427a",
-      "title": "Dit zijn de speelschema's van de Europese campagnes van Ajax, AZ, FC Twente en NEC",
-      "category": "Overig",
-      "published": "2026-08-29T19:30:58+00:00",
+      "id": "7b0a6ef82143ce",
+      "title": "Speelschema Conference League bekend: Ajax start uit bij Hajduk Split - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-08-28T14:13:52+00:00",
       "updated": "2026-08-30T07:51:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
+      "source_count": 6,
+      "official_confirmation": true,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2FvMlAyaHlTeGdESmJFeUYxbWR6dkI4Q29jZzhZQjJYbmVrMWg3d0FiWWtYel9HY19TQXZ4bVVZWUJQSWxpdE45WmFpdEdZY0hiOHZYbFFlMzdSYzktNllkVDlfZzgxaXIxYWNKMUdyM05KTzlCZFpTdk9JMHdIQU5Bdm0zeXlfdENwdWowcjY3dXVvWWFiZEdBTTU1VlJhTTNFOGN3N21NTXBtejRIaldSZHBTYVVVN1NLbmpEWEx6M3dlOFFvZA?oc=5",
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGhMVkZmQ0pWTnZvMmROczhkTnVKeTBvaFlfNE8tSkFZS3RzUmUxRXNSR3EzRS1JTkxsLTBjQW41bG9BUWZNTG9IR2hnbnB6cFBrN3N5VHdoeXRoZmdiT3dGNzUzUHJVX25BUy02UXJOMXQwT0pZb0xZc3IzQ21ZNE1lOUJNOGdsM0NFLUdXdWJkdm9oc19UcGZoN19UTVN4?oc=5",
         "via_google_news": true
       },
       "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9zZmRDVHBzaEZHMF9lS1B2d1VFMER5WmQ2SUtHUFUwZDRGREVyZ1BBR0ZyUEVCTm55MXdrSmZzT29WMTIzMVFXMjREV2o1RFNwMk1lQWtVa2RZeDhCbVVYUFhLSHVSQnh3MS1tU05oOHEzSFVPcS1LaHkzU3JaaFdFNlczMzBIZ1R4c0lTX0NBWlY0V0JLY0N1cjFlOEctR1EyUG53WXRlMGh1XzNKbHlqb2ZsdG9sZnc?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVktCc1ZjVXMzajFfUC1aYUJqLVl3eG9QeHhOcWNBT0VDMDBIMG5yTEhwS0hyVG5fWkZqUjlpODNtaG4zcWg5bnVVbC1LQTBSU3ZNQkFQMlJXSTJfb2l5MzRPeDRlMGJmTnpMWVpEMENzNzNIQ2ZzZk02aDRON1VTNk52TkVZZ29tN0hubEVMVWFzY0QwbzB5VjF3N0cxT2lZTjVoODdiTXFBd3ZsZVRMT3dQZUNJeU96bUtjQzVVeDZHZ0dmbWg0TUV4WmNaemVKa3c?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2FvMlAyaHlTeGdESmJFeUYxbWR6dkI4Q29jZzhZQjJYbmVrMWg3d0FiWWtYel9HY19TQXZ4bVVZWUJQSWxpdE45WmFpdEdZY0hiOHZYbFFlMzdSYzktNllkVDlfZzgxaXIxYWNKMUdyM05KTzlCZFpTdk9JMHdIQU5Bdm0zeXlfdENwdWowcjY3dXVvWWFiZEdBTTU1VlJhTTNFOGN3N21NTXBtejRIaldSZHBTYVVVN1NLbmpEWEx6M3dlOFFvZA?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORllhOU5od3UzbFNycUhja1J0dG8zM3lIMzdYOTRzUFFadU8tZ054U3B3bTZxUTQ2MXd5Y1pWV2FfbE53bWJNcTRVV0RjSmJJMFloUEw4QmdjM1lLR21NaGFWRElMdS05WXlUTEVwV2NCUm1fbGtuNEtLSzRNRXlpOHJmN1RrdUNhQnRESzRFWTRpUC1IYVp6eGozbw?oc=5",
@@ -407,35 +453,9 @@
       ]
     },
     {
-      "id": "8bf7ab50f0b92f",
-      "title": "Officieel: Ajax heeft nieuwe 6 binnen met Amrabat",
-      "category": "Transfers",
-      "published": "2026-08-29T18:31:00+00:00",
-      "updated": "2026-08-30T07:45:31+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/officieel-ajax-heeft-nieuwe-6-binnen-met-amrabat",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtZQWNtYnExNGVlVlBDLXJTTWNWUEpSclVCOXFFSW9veG4xWkd4Ym9TcURzTkY1SVl2YXI5d3I2MWxkSDY4U2lCbDhpeTRRS09PZWVrSHBlVDJqOHVyLWQxUklQMElmOXdBNS1UT1VpdHJBUllSY1RZNG5QUThkaElwYVlZbFU2cHF1d210SWVLYkFtd1RkY1pKZndnc1NOa0FnTXpyS3EyWWprZnJyWUI1ZTBSUQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTmE5dTh3REMydVdrVDNRVVQxdHVSMjVBXzI5MUQ4VlU0LWZIOWxzLVM3dGt6TGtIcWZNM0ZKVm10dFp1ZkRwcVZ4NC1TT09xbkpSMWlON1ZPc0J1TUcyQ2dETHZzcDJVTWE5YjNrMkUyYzVqUURRVVA3VG5PRTdrd3llQVZ5N3RIdER4Smx2QTVhX0tsdTI0QUd4QVRXRTlQZGdaZ1ZWcm5TZ2lkalcycXRJWDhpUTRKZ3VyN2dMeDFUZ3dVUE5qcW54YUNVcE5yaGZGb1Axb21BSWc?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "4e4bfe14ed97cc",
       "title": "Cruijff geeft vier kraakheldere redenen voor aantrekken Amrabat met Ajax",
-      "category": "Overig",
+      "category": "Transfers",
       "published": "2026-08-30T07:41:00+00:00",
       "updated": "2026-08-30T07:41:00+00:00",
       "source_count": 1,
@@ -453,7 +473,7 @@
       "category": "Transfers",
       "published": "2026-08-30T07:30:00+00:00",
       "updated": "2026-08-30T07:40:04+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -465,38 +485,49 @@
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEl4Z1RpdXlwYXc0RkJVSGdna093UGFLN1gxb0s4TkNkNHJ4NHhGLW9hcjNmQkVpRnJVMlhMTkpOQW5HTnZoSjdUdmd3WFRhdVVtM20zMmpsa0YxbnpWdkh2X016UWhsT3N2d0dCd0c5R1pwQ1FUaTRFWXl5VnBQQjlNWXVPTC1RUHJrbDFFS1RHbGxodU9JeGJuR2htV19iTVZsNzhoSWx0QlNFbE9DS3kxLWpfUQ?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0h0MWoxZjZlZVNRZnM2VTdndFRadGdSRkw3NEVuZ2dEWFJ3cUxoajRzWjZaTndrck5ya1V0YVl5RmxtSGREVFFqYlhCQTd2cnIzUFk4M0JIaDlZQ08tZlJkVFY4RHJlNEN3TWhmSThkM3hRal9rSWFQUlZONUVYMHNoSi02YnRJSmNQMlVKWHdvbGVlME8xRWJXUExudnhPekt5aHpocFRndTJrXzJnMTdReXZ1SGZ3NWpicmhR?oc=5",
+          "via_google_news": true
         }
       ]
     },
     {
-      "id": "865265d01201f1",
-      "title": "Sofyan Amrabat definitief speler van Ajax: ‘Ik denk dat er iets heel moois kan ontstaan’ - AD.nl",
-      "category": "Overig",
-      "published": "2026-08-30T07:40:00+00:00",
+      "id": "5e9ce5f331f559",
+      "title": "Éindelijk een '6' voor Ajax: transfervrije Sofyan Amrabat op weg naar Amsterdam",
+      "category": "Transfers",
+      "published": "2026-08-29T18:16:46+00:00",
       "updated": "2026-08-30T07:40:00+00:00",
-      "source_count": 1,
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmhyOHZSTnZvVWYzMHBUQUExdll4a2h1T2dXeGdSVzk5Q1p0UEo2NC1NUXFEd281Nll2cXVUMndhQ19LUzJ5UjdsNnItRkYwcUd5R29mUUFyUHVEc3RuN0gwaVpNMDlMQzNMRHdxNVJKZF9pcVl5S29SWGhZNG1xV0FjajRpbVY0SnBwODEtbjU0d2F1OWVJRTlORklhOG9Dd1BkYTJHelZBc2NQVV9lM094cFc?oc=5",
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
-    },
-    {
-      "id": "5df0a35cf36fe9",
-      "title": "Ajax presenteert Sofyan Amrabat: 'Precies het profiel dat we voor ogen hadden' - FCUpdate.nl",
-      "category": "Overig",
-      "published": "2026-08-30T07:36:11+00:00",
-      "updated": "2026-08-30T07:36:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0h0MWoxZjZlZVNRZnM2VTdndFRadGdSRkw3NEVuZ2dEWFJ3cUxoajRzWjZaTndrck5ya1V0YVl5RmxtSGREVFFqYlhCQTd2cnIzUFk4M0JIaDlZQ08tZlJkVFY4RHJlNEN3TWhmSThkM3hRal9rSWFQUlZONUVYMHNoSi02YnRJSmNQMlVKWHdvbGVlME8xRWJXUExudnhPekt5aHpocFRndTJrXzJnMTdReXZ1SGZ3NWpicmhR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmhyOHZSTnZvVWYzMHBUQUExdll4a2h1T2dXeGdSVzk5Q1p0UEo2NC1NUXFEd281Nll2cXVUMndhQ19LUzJ5UjdsNnItRkYwcUd5R29mUUFyUHVEc3RuN0gwaVpNMDlMQzNMRHdxNVJKZF9pcVl5S29SWGhZNG1xV0FjajRpbVY0SnBwODEtbjU0d2F1OWVJRTlORklhOG9Dd1BkYTJHelZBc2NQVV9lM094cFc?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpYYjNJRjZqM19hREZPMXJORlJpYjRyb0FpWW1xVTctejE1eTZ3YjcyZkJQQ0Z1U0VHNjY0MzU3dnNHb1lNTXNHQVJKNjBVNlQwQ3BIc0ItNDNaNVo5a2ExX1llVGJIYjhoMGRjT0F1eFNtRnRmdG40X3pSdjVNTjFDSFBQeDVIVHRxanh5aWRTNHZiX3NPSkVsZ3YyZkRuRHRXYkY4aVk3UUxoOXpqTHkzdEl4cVdf?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "d5854d162ee928",
@@ -544,45 +575,9 @@
       "related_sources": []
     },
     {
-      "id": "5e9ce5f331f559",
-      "title": "Éindelijk een '6' voor Ajax: transfervrije Sofyan Amrabat op weg naar Amsterdam - ESPN.nl",
-      "category": "Transfers",
-      "published": "2026-08-29T18:16:46+00:00",
-      "updated": "2026-08-30T06:41:23+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpYYjNJRjZqM19hREZPMXJORlJpYjRyb0FpWW1xVTctejE1eTZ3YjcyZkJQQ0Z1U0VHNjY0MzU3dnNHb1lNTXNHQVJKNjBVNlQwQ3BIc0ItNDNaNVo5a2ExX1llVGJIYjhoMGRjT0F1eFNtRnRmdG40X3pSdjVNTjFDSFBQeDVIVHRxanh5aWRTNHZiX3NPSkVsZ3YyZkRuRHRXYkY4aVk3UUxoOXpqTHkzdEl4cVdf?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEJJWHNUWTdrdWZxclo5S1c5aTg5UEhmMUwyd25SN1hpR0JtdFRSbzVFX21naVJ5Wnd2NWVKM0c0Ny1nZzNURTRCYU5ubGZzekFfc25HaTFBWHNYSWVXY0NSRGVVMUVjT0tMU1ZhUWhNazdQV0pEUUJLbVVTcWNNbjNUVnM5NWp4MWVmdFBacnhtanJ5Q0UxdmdR?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "7b79b14e4a8093",
       "title": "'Amrabat wachtte op andere club, maar was klaar met wachten én kiest voor Ajax'",
-      "category": "Overig",
+      "category": "Transfers",
       "published": "2026-08-30T06:40:42+00:00",
       "updated": "2026-08-30T06:40:42+00:00",
       "source_count": 1,
@@ -640,21 +635,6 @@
       "related_sources": []
     },
     {
-      "id": "b2106bdfc7d6e8",
-      "title": "VI Live: Ajax brengt bezoek aan Telstar",
-      "category": "Overig",
-      "published": "2026-08-30T05:45:00+00:00",
-      "updated": "2026-08-30T05:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/vi-live-ajax-brengt-bezoek-aan-telstar",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "0a6529d98006b8",
       "title": "'Tegenvaller voor Ajax: beoogde Godts-opvolger mag deze zomer niet vertrekken'",
       "category": "Transfers",
@@ -700,21 +680,6 @@
       "related_sources": []
     },
     {
-      "id": "8b7c12b3f676f9",
-      "title": "Ajax troeft Europese topclub af in strijd om Sofyan Amrabat - FCUpdate.nl",
-      "category": "Overig",
-      "published": "2026-08-29T20:27:38+00:00",
-      "updated": "2026-08-29T20:27:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEliOUNkMlpXRl9DR2gtbU5XTUs0aE81TkMxTnFuaHVMcU5WQk5oRHlRTUJEUG1VOWlqc0pLbFhkUUtzd1VRdGxqMHpUZEpmNjYyU3pWczBsazF6RHAxaDctZEljRWUyVm5uZm1jRlRrX0gyMkJIaGJfb0Y3dkNWeXNWUjBwWmRpQkhyVEhZMXBkYlBzTlFsa0JQQlc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "ce4ceec1bfcff6",
       "title": "Wedstrijd bij Telstar onder leiding van Higler",
       "category": "Wedstrijden",
@@ -728,6 +693,92 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "406e9f900f3418",
+      "title": "Sofyan Amrabat verkiest Ajax boven Spaanse topclub",
+      "category": "Overig",
+      "published": "2026-08-29T20:12:00+00:00",
+      "updated": "2026-08-29T20:12:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZHhrRmVNQ1czNlRwYlJiU21aRjkybXRHMVJjeUhPNXN2aDJyU2xUVnFwVGw2V0pxdW14VnU3TjRjcEl2X1d4SGVxUE9qUlhqOV8yVUVrZFFjRUlVbWs3b0plSll3OXgwTzdnTk5PMDJKM3hIV1BiejRDQ1VnNjhXb0tPYTVTcldyWjJsSEpBT1VoQ1R2ZXZCYnp5MUliakN6UlQ1N2Nldw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e679995ced7353",
+      "title": "NEC begint met Juventus-uit, Ajax ontvangt Hajduk Split: speeldata van alle Europese toernooien bekend",
+      "category": "Overig",
+      "published": "2026-08-29T20:10:00+00:00",
+      "updated": "2026-08-29T20:10:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXhHbXoxWTJOeERQVEpEVDdnU2M5U01Qc1dQaVdqZGh4UEtRLTdNVktrNzdsd1UweC1qMkY4U3E4VTE0R0lRYm9zcG1oeElydU9jajRJcmJiTmR1d043Yjd6c0UxeUh1R1lULTNuaDc0VHZPZ2t5ODlVQ1lEWDktQlR6OTJzX01GMEdoVjlPcG5LODdueXR6eGstajJPRldTUWZHb0VCTW1BNGVISVE0TW5rTEhuWlBSMnU0ekN2dkdWUXpkRng2WkFYakxWcUxRb3c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f6d5d0af46323a",
+      "title": "Weet Ajax opnieuw te winnen bij Telstar?",
+      "category": "Overig",
+      "published": "2026-08-29T20:08:51+00:00",
+      "updated": "2026-08-29T20:08:51+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55946/Weet-Ajax-opnieuw-te-winnen-bij-Telstar%3F",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "df31c977e4345e",
+      "title": "Wil jij het live-verslag verzorgen bij wedstrijden van Ajax?",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T20:07:40+00:00",
+      "updated": "2026-08-29T20:07:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55944/Wil-jij-het-live-verslag-verzorgen-bij-wedstrijden-van-Ajax%3F",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c6ec0083734fd6",
+      "title": "NEC begint Europa League tegen Juventus, Ajax start Conference League in Kroatië",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T18:57:10+00:00",
+      "updated": "2026-08-29T20:02:27+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2628852",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/schema-bekend-ajax-begint-conference-league-in-kroatie-getafe-in-laatste-duel",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpNc0QyTVZKelU4ZG9SellaUnd5Q3NSdWVoX1RLcnAxdm1PSlI4bE92SHFXeFdXcF95ZXJLdDhBWVo3SWNpZWNKRlMxWXA0NXRwQmVWNDdVWGxrT2JFLWVZQUYyeE5MQ1RDRWFvdXBpYUdKNVEwbXI1ZllmT3RVZ2dqU3ctbDJwUEF3ZHZXLUN3YWJWMG1rR0U2bEdtcHZpYklBR1lZZHJra2tLYk85cTV6cHg?oc=5",
+          "via_google_news": true
+        }
+      ]
     }
   ]
 }
