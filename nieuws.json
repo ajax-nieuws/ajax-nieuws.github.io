@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T20:55:07.172052+00:00",
+    "generated_at": "2026-08-30T21:25:16.159650+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 76,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 80,
+    "excluded_video_only_count": 76,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "021393d7c91237",
+      "title": "'Beruchte' broer van Ajacied vindt nieuwe club na bizarre tackles in La Liga",
+      "category": "Overig",
+      "published": "2026-08-30T21:05:00+00:00",
+      "updated": "2026-08-30T21:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129161/chimy-avila-broer-van-ajax-speler-gaston-avila-heeft-nieuwe-club.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "89fa61f3145a9e",
       "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt nieuwe transfer",
@@ -48,6 +63,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "6c1f31cbbebc70",
+      "title": "Dit is Telstar - Ajax in foto's - Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T20:03:42+00:00",
+      "updated": "2026-08-30T20:03:42+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S3NrZjA4d3pvMVNJaVVFVXBMcTZhQjZfN05na21VX2lxakRmV2hqUVJwQUdNODJEeFJycmpxZmk0SUxtZmdMQVVyMWJDNmpKU1RFSUVoZzc1bTM5RFhFaERvMkFJdzlsaWJuaHU3dTY?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "6cb9ed0ebd33d6",
@@ -147,7 +177,7 @@
         },
         {
           "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
           "via_google_news": true
         },
         {
@@ -203,25 +233,19 @@
       "related_sources": []
     },
     {
-      "id": "1c2e67fe4cf27b",
-      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
-      "category": "Transfers",
-      "published": "2026-08-30T17:18:00+00:00",
+      "id": "290c64039c8e53",
+      "title": "Scorende Berghuis bedankt Blind voor tip en vreest komst Tsygankov niet bij Ajax - NU",
+      "category": "Wedstrijden",
+      "published": "2026-08-30T18:19:36+00:00",
       "updated": "2026-08-30T18:19:36+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
-        "via_google_news": false
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3RDZE9YWUxfdGkxUWRlY2prMDd0b3BYU1I1OHVJazY2Y2RwMHh0NkdpdmRzT0FDVXZyeW1lc3kyV0lOa05VTC1HdFJ4LWNQUWNSQmFaTnRBbWdiS1dFUzc3Tm5lOHExdTZQbXZabGZ4YXVJV0dWTm85eTctUGpEUUtXX19xUHphYkx2NHVYWDJkajRYX0Jhbk0yM1hHeXd2ZEkxSE0zQ1lHZ3pDcG9BamtnYXRFbUtHd2Q0?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "fc7b850089e2a1",
@@ -265,6 +289,21 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWFJM2tITTY1Znl0R0l2ZnJtd0NLc1Ntc05WblRXNEgzQWR6Nkg4R1A2aS04S1RIdkgtYXU3T2NWWS1tN3ZaR3RLSlN5ZTlEMF9xWDZPanJPOGFETm8ycEtsdGVmSkt0VmJXWi1QM3dldTAyQ3NkS2s2Tkkwck1QRmVoaFFRWkhNNm16VDF5Zk9yTVlyTWlyRlZYbzFrNEtuVWZySw?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e8ebaef76c8edd",
+      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
+      "category": "Transfers",
+      "published": "2026-08-30T17:18:00+00:00",
+      "updated": "2026-08-30T17:18:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -456,6 +495,27 @@
       "related_sources": []
     },
     {
+      "id": "7060e94229b7fb",
+      "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
+      "category": "Transfers",
+      "published": "2026-08-30T14:49:00+00:00",
+      "updated": "2026-08-30T15:48:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXhja2EyY1JiYmZGXzdTYXpwamRaWFNQbUFfb2J0bUo4VktGQm5pT243VXdtRVc5Q2FYSnR6cmFUX3hDdGdGQTc2LWNxR0dHZnZZSk1rRC1PZnNWTVAwWkg3VGpGcmVJNy1GbjA3RGVobWxWeHdKOXpfOE5lNGF1dHJsQkVxZVJfaTQ1Rk9yUFV2dGtpdTJiS0JtdGRFTkwydHc0YXF1SV92UXJFaTF5eFFqeVMtYVFLaE5OblN3?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "40a7c78f2729e8",
       "title": "Míchel belooft Ajax-fans vuurwerk: ‘Het is honderd procent zeker dat die komt’",
       "category": "Overig",
@@ -481,21 +541,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129287/michel-verzekert-dat-ajax-linksbuiten-gaat-aantrekken-zoals-mika.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3af5052dcf1b44",
-      "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
-      "category": "Transfers",
-      "published": "2026-08-30T14:49:00+00:00",
-      "updated": "2026-08-30T14:49:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -559,27 +604,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "f80f2e42896302",
-      "title": "'Ajax ging voor terugkeer publiekslieveling, laptop hoofdscout lijkt schatkamer'",
-      "category": "Transfers",
-      "published": "2026-08-30T09:20:00+00:00",
-      "updated": "2026-08-30T14:14:53+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129202/ajax-wilde-alvarez-maar-gejuich-na-stille-zet-cruijff.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "59232a5d571286",
@@ -683,36 +707,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFNXdXp0VHNwUEQxenZnYVVnSGRlWVoxLXdPZFpkWnJTTjQ0czUwLS1MOTRwN2lwNE52eEJKVnBma0ZCdUR1Zl82dzlKdFdSWWJaQURBOVhsbnc1eno1aFhmaXExQy1ZQXIwMVBORUZ0b2w1eHVYcEtrbkVPYVI5YUFwTU1hNnRORl9JT1JOOXFYa1B6QnExaXpoYUU3SnVrX0p6aGpMQ25JZ3J4bG9YWm5ENmNISFNKcHdXMnFUSDJ4dw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "387dfcdb7d9129",
-      "title": "'Ajax mikt in slot transferperiode op Godts-vervanger en houdt ogen open voor andere positie'",
-      "category": "Transfers",
-      "published": "2026-08-30T12:20:00+00:00",
-      "updated": "2026-08-30T12:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTUJzX3c5UHZhem4tTXR3eG0tbTk5dTR0Z1pJNFZnSmxhem1QaTY0YzI3S1R4VWtxZFJCckhXTi0zUS1ocDBDTEx1b0NnX1c0ZmRZZ1VTRklib3RBaFZaZEFlN3ZMaVpMeVB6eDFMeWRDR1ZlOWFEVHAxR29sMDNRUHBVV096bE12QkhrdXBsTHFuSXlxZkNHYW12Y2RNRmthd1NZdnYyR2stX3NGSFFyY3BLUzFBVGM3R3JZWTJ2YnAwTVNLU0F3c2NVemVFOXpyM0J2cWQzdXJrZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d81e3f36d042dd",
-      "title": "Ajax kan nu alweer afscheid nemen van miljoenenaankoop",
-      "category": "Transfers",
-      "published": "2026-08-30T11:27:15+00:00",
-      "updated": "2026-08-30T11:27:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1o4RHlDc0RodEg1T3VhTjN5SUFYSVpxYWdPbUZFNjNTSjBPMUxrQXQ1VEVHRVR4UzJOU0o0R0g5VGFhbjdxVGZPS0ZnWDVGbXhkYzVrWm85ZklNVl9CS3RYZXVJc21DZHF6T21pWnhfX0hFVGRUMHNmT2FReU03YnUzRFZ2RTlYTUF1ci1vV3VQXzVXVl9JRTdxbmI0N05Vcnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
