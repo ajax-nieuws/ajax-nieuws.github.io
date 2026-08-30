@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T10:25:33.657470+00:00",
+    "generated_at": "2026-08-30T10:55:16.900419+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 135,
+    "article_count": 136,
     "event_count": 40,
     "discovered_event_count": 91,
     "source_count": 13,
@@ -11,6 +11,42 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "1c0984a68d0caa",
+      "title": "De Telegraaf: Carrizo staat voor vertrek bij Ajax door forse concurrentie",
+      "category": "Transfers",
+      "published": "2026-08-30T10:44:37+00:00",
+      "updated": "2026-08-30T10:44:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129181/carrizo-kan-ajax-nog-verruilen-voor-kopenhagen.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "52164e3e74a37f",
+      "title": "Neo-Ajacied Amrabat onthult: 'Cruijff wilde me al toen hij bij Barcelona zat'",
+      "category": "Overig",
+      "published": "2026-08-30T08:02:06+00:00",
+      "updated": "2026-08-30T10:35:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/neo-ajacied-amrabat-onthult-cruijff-wilde-me-al-toen-hij-bij-barcelona-zat",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2tZWVBfN0c1UVIyMUQyT0J3WkhUUFpQWnE5Zk9NUm1wajhJT3FXVGVfWVBmLWtZb09aOURvSTVRNkhscWRsUTByV2hmUUhLUVR3T1loUE1zWHNiX2tQd1FwQXJycWtQM3g2cnc0Vy1WaExfMmRtWldidF9uTUwyYlVEWmhzRGwzUFNmRE10VERWaktxNU9DS296VDlTd3A2dmRrUUJKMUUyVnZjaTdsZTRDYWxLcGJwX2k2S3Nua0VwbnV4N1E?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "12464854c5b46c",
       "title": "FC Kopenhagen wil Maher Carrizo (20) seizoen huren van Ajax",
@@ -40,6 +76,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "f80f2e42896302",
+      "title": "Terugkeer Lang nog niet uitgesloten? 'Ajax meldde zich opnieuw bij zaakwaarnemers en Napoli'",
+      "category": "Overig",
+      "published": "2026-08-30T09:20:00+00:00",
+      "updated": "2026-08-30T09:34:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0pRNEVBMVY5bG9ZX0ZJdGhoUFoyWHdhTXFSbTYtQWxaX3NnSG1QeWFGMm45TUFCNHlDdjI1SENlZUNOcWlJYzM4Q2RsN0FLRjExMlo0QTVONEpaRlZZaWVIclV2NW9TZnFMeWVsWG9mOFhLZmd3SjVIQ3V5c0dQOHNOVXJKcXBZcU9UMzB1VXJvN0c4X0NpZ2Ztby1mUzZ1VmlNNA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "6224086ebdb54a",
@@ -77,7 +134,7 @@
         },
         {
           "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtZQWNtYnExNGVlVlBDLXJTTWNWUEpSclVCOXFFSW9veG4xWkd4Ym9TcURzTkY1SVl2YXI5d3I2MWxkSDY4U2lCbDhpeTRRS09PZWVrSHBlVDJqOHVyLWQxUklQMElmOXdBNS1UT1VpdHJBUllSY1RZNG5QUThkaElwYVlZbFU2cHF1d210SWVLYkFtd1RkY1pKZndnc1NOa0FnTXpyS3EyWWprZnJyWUI1ZTBSUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmliMUhHS2pfT2paZWFBQUZmX0JSdm9OV2VzdEpYRnRKX0dlTU5KQmJOSE56U25UWk5tdlFZZUREOEl6ejVEdVF2SXNsTjh3VXBOY3JrTHQ3bjk4RXRfYkF4bWhQRXp0Ym1JRjBmTFJqX29sUjJyRzJZNXBRWmxMaUJjd2xLb1pRZHVHM283VlJmTjc5MG5aT3llUWdRS0FzMzZ4bmxkNVZtN3BkUFdGdWhrUQ?oc=5",
           "via_google_news": true
         },
         {
@@ -103,21 +160,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129120/romano-ajax-meldt-zich-weer-bij-napoli-optie-lang-is-weer-open.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "36544a23408819",
-      "title": "Neo-Ajacied Amrabat onthult: 'Cruijff wilde me al toen hij bij Barcelona zat'",
-      "category": "Overig",
-      "published": "2026-08-30T08:02:06+00:00",
-      "updated": "2026-08-30T08:02:06+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/neo-ajacied-amrabat-onthult-cruijff-wilde-me-al-toen-hij-bij-barcelona-zat",
         "via_google_news": false
       },
       "related_sources": []
@@ -174,6 +216,42 @@
       ]
     },
     {
+      "id": "596288857566b1",
+      "title": "Deal rond: Sofyan Amrabat (30) tekent voor twee jaar bij Ajax",
+      "category": "Transfers",
+      "published": "2026-08-29T18:20:00+00:00",
+      "updated": "2026-08-30T07:45:31+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "De Telegraaf",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2tYa09SQ0hfbVc0RC1DcFJUVklCSmxELTVMRThJTl9Nb0RGUVQ2WWRsS3VWUE8yNjZPS0R1Sm5CODNGQWlUZGxPRVNRRWtLd3huSXJBdEJ2Y3h4bi1mX0Q5TTR3U0hfMjJId19WSHU0OGVVUmFKaUhfOVhaYVdka2pna2t3OEQwOW1fWEh1T3JoXzNyRzNRSmhEWHR5MnZDQ3BxQ29BZ3Z0TFJOb3RPSWd3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmtZQWNtYnExNGVlVlBDLXJTTWNWUEpSclVCOXFFSW9veG4xWkd4Ym9TcURzTkY1SVl2YXI5d3I2MWxkSDY4U2lCbDhpeTRRS09PZWVrSHBlVDJqOHVyLWQxUklQMElmOXdBNS1UT1VpdHJBUllSY1RZNG5QUThkaElwYVlZbFU2cHF1d210SWVLYkFtd1RkY1pKZndnc1NOa0FnTXpyS3EyWWprZnJyWUI1ZTBSUQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "4e4bfe14ed97cc",
       "title": "Cruijff geeft vier kraakheldere redenen voor aantrekken Amrabat met Ajax",
       "category": "Overig",
@@ -225,6 +303,21 @@
       "related_sources": []
     },
     {
+      "id": "5df0a35cf36fe9",
+      "title": "Ajax presenteert Sofyan Amrabat: 'Precies het profiel dat we voor ogen hadden' - FCUpdate.nl",
+      "category": "Overig",
+      "published": "2026-08-30T07:36:11+00:00",
+      "updated": "2026-08-30T07:36:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0h0MWoxZjZlZVNRZnM2VTdndFRadGdSRkw3NEVuZ2dEWFJ3cUxoajRzWjZaTndrck5ya1V0YVl5RmxtSGREVFFqYlhCQTd2cnIzUFk4M0JIaDlZQ08tZlJkVFY4RHJlNEN3TWhmSThkM3hRal9rSWFQUlZONUVYMHNoSi02YnRJSmNQMlVKWHdvbGVlME8xRWJXUExudnhPekt5aHpocFRndTJrXzJnMTdReXZ1SGZ3NWpicmhR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "d5854d162ee928",
       "title": "Transfers Ajax: Amrabat hoopt tegen PSV meteen te spelen",
       "category": "Transfers",
@@ -268,42 +361,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "596288857566b1",
-      "title": "Deal rond: Sofyan Amrabat (30) tekent voor twee jaar bij Ajax",
-      "category": "Transfers",
-      "published": "2026-08-29T18:20:00+00:00",
-      "updated": "2026-08-30T06:41:23+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "De Telegraaf",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2tYa09SQ0hfbVc0RC1DcFJUVklCSmxELTVMRThJTl9Nb0RGUVQ2WWRsS3VWUE8yNjZPS0R1Sm5CODNGQWlUZGxPRVNRRWtLd3huSXJBdEJ2Y3h4bi1mX0Q5TTR3U0hfMjJId19WSHU0OGVVUmFKaUhfOVhaYVdka2pna2t3OEQwOW1fWEh1T3JoXzNyRzNRSmhEWHR5MnZDQ3BxQ29BZ3Z0TFJOb3RPSWd3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUc2UHdhQUxSZC1XQllBbWNiRTBxLUxiaGFEMUJEWm01RjFtV0tqY1RwQnlUbndEQ29QdV9xbm0xMXA2SDNCZjBTQ2U1Mkh3YnpTczhEQ1E4MGVMWEtmZTRNbXFEaGlTVjY3SzRra2dGd3k0UDNMVHp3YXA4U3ZXUnVCSmVNUURSclJDX0ZMNnhQREh5eTVfZXFycGtUUkF0Z3VQQWpRQkl1b2hrR2xpU3F1bGJMRmp3U1lUX0ZVMEdhZFda?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129003/ajax-haalt-sofyan-amrabat-als-nieuwe-nummer-zes.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenpYYjNJRjZqM19hREZPMXJORlJpYjRyb0FpWW1xVTctejE1eTZ3YjcyZkJQQ0Z1U0VHNjY0MzU3dnNHb1lNTXNHQVJKNjBVNlQwQ3BIc0ItNDNaNVo5a2ExX1llVGJIYjhoMGRjT0F1eFNtRnRmdG40X3pSdjVNTjFDSFBQeDVIVHRxanh5aWRTNHZiX3NPSkVsZ3YyZkRuRHRXYkY4aVk3UUxoOXpqTHkzdEl4cVdf?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTl3ellsTkstcVF6U1UtT2RSVmNVdTJFOW5qcGNYT1NCNkRJbVhLRTA2dG5mUnEzOEVwYnJicl9zaHEyOHhraHAtWnlyZ1pzZkx4ckhmR2pDMkwtdWFKNlFycHNuNUZLRnA1RkgwQkxGTkJEX19scG5zUnR3RVJvNkR1WldILU1JRjA0clp5U2dqXzR1RDA0eWRxYWpNMVp4Uk1IWnlFRjlKMHhhb2dzaTJZY2VfS1ZpTk1XYVNwWTAwVWV6LTIxaQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "7b79b14e4a8093",
@@ -584,7 +641,7 @@
       "category": "Wedstrijden",
       "published": "2026-08-28T11:36:21+00:00",
       "updated": "2026-08-29T20:02:27+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
@@ -690,57 +747,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "2e6dcb12ef7453",
-      "title": "'Ik denk dat de fans van Ajax heel blij mogen zijn, Amrabat is een leuke aanwinst'",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T19:12:00+00:00",
-      "updated": "2026-08-29T19:12:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129022/van-polen-reageert-op-komst-amrabat-naar-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "274130b355780c",
-      "title": "Ajax contracteert Marokkaans international Amrabat transfervrij",
-      "category": "Transfers",
-      "published": "2026-08-29T19:05:06+00:00",
-      "updated": "2026-08-29T19:05:06+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2628846",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a5658c8fa38fa4",
-      "title": "Ajax-fans reageren op komst Amrabat: 'Ounahi wel echt nodig met hem'",
-      "category": "Transfers",
-      "published": "2026-08-28T15:59:00+00:00",
-      "updated": "2026-08-29T18:50:34+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129019/ajax-fans-verrast-en-verdeeld-door-amrabat.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU053TnByMnVIV0VCaE5ocjlRTVBxZVprSGlGNWVDSXJVd1ZhVEJ3MmZJQm0xRUt0R2VMNlNXYmRoR3VBRVlEcTZERUpURVZKSTQybklyc1l6aURRT2ZfOGRaNTZKT3VCVXlFQWNxLWM4ZW5ZdkV3YjRlYnU1SzJFc3dXajdfRFJISjFkVkNsZnhDRGNCSkpKWHFyQS1iOVJRTExWaF93eXpQWDhma18wbDI1Z3dUUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
