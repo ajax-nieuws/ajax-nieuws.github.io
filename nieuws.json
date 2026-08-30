@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T05:54:58.339593+00:00",
+    "generated_at": "2026-08-30T06:25:24.667008+00:00",
     "generator": "Ajax Nieuws collector 1.4",
-    "article_count": 135,
+    "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 88,
+    "discovered_event_count": 86,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
@@ -12,26 +12,11 @@
   },
   "events": [
     {
-      "id": "0a6529d98006b8",
-      "title": "'Tegenvaller voor Ajax: beoogde Godts-opvolger mag deze zomer niet vertrekken'",
-      "category": "Transfers",
-      "published": "2026-08-30T05:37:00+00:00",
-      "updated": "2026-08-30T05:37:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129090/ajax-kan-komst-van-brian-rodriguez-vergeten.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "e677bc1a8140e7",
       "title": "Ajax dicht bij transfervrije komst van Marokkaans international Amrabat",
       "category": "Transfers",
       "published": "2026-08-29T18:12:40+00:00",
-      "updated": "2026-08-30T04:41:24+00:00",
+      "updated": "2026-08-30T06:10:00+00:00",
       "source_count": 11,
       "official_confirmation": false,
       "primary_source": {
@@ -61,6 +46,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "0a6529d98006b8",
+      "title": "'Tegenvaller voor Ajax: beoogde Godts-opvolger mag deze zomer niet vertrekken'",
+      "category": "Transfers",
+      "published": "2026-08-30T05:37:00+00:00",
+      "updated": "2026-08-30T05:37:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129090/ajax-kan-komst-van-brian-rodriguez-vergeten.html",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "47b1b96e54554d",
@@ -145,21 +145,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0xPUVdLRUwtYzRMdVFqa1Rqb1kzTnVaMEQwUDdFRFNIVS1RdlI4ZDdkNjdGc05GYUp0NFhlWnpUbkdRNE90eVExdXg3alEzRG5BRTJQdG1zdXR6cUxLdXlrc1kwWmhEN21KQlBpLUxjRWJNZXFSU0NGam5Pa3NldGhhMVdUNEI1RW9DcThya1JuMDF5NXdOWDdXbzRyNndLRkFyVW96ZDhKWlBNY3FfVllqXzdmRzdoTFZiLVZlbEVKM2g0ZUE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f2d2db3bcd497f",
-      "title": "Davids: 'Kracht van Ajax dat ze slecht speelden'",
-      "category": "Overig",
-      "published": "2026-08-29T21:24:24+00:00",
-      "updated": "2026-08-29T21:24:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlV0WDBwZGdMQ1M2S2pZYzJfdlFBRG5HMWJtbmxpNWQ2ZUYtR1dZZ2UzUDJ3YV9pUmlnYVBJWno4Um1tR1YyM2FxeEFrY0w3ZVdjYzFFWmlUZHlPcll0ZTN4R2RUMkVaSTQ4XzVVREZFZ1QyOE9CYjljUk9ZVWZJM3VaVGtnOU1tZmd3VE5ZN0l2NFVEeklsNzA0V0c?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -313,6 +298,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129031/atletico-madrid-dacht-serieus-aan-ajax-aanwinst-amrabat.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "515762a04c9734",
+      "title": "Ajax O16 en O15 boeken monsterzeges op FC Utrecht en ADO Den Haag; hattrick Rijsenburg",
+      "category": "Wedstrijden",
+      "published": "2026-08-29T19:50:00+00:00",
+      "updated": "2026-08-29T19:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUZwS3pETnlJbHdoUUFDUlFoTzlVdVNYczNlQkYxQkdIMGxhOS1ZNkM2ZWxKWGZfOF94c0k2eVcwVS1Tb3FsNmtyX1duR1hTdFFQSzFBRERPTzVmNHA4T2RaaWtOUjN3ajlaeTNFMzh3RnRTazExWWY0U3F6NnJNVmRjY0lUR0xYdGRkNml1b0gtcXdLS1RKOUlLOFdfNm1yLW52UHE0VHJESURuNmJDemt6dXF0cVVoazNkMEtZSTdzSTd6ejczQzJqY1VLV0hXc3c?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -489,6 +489,21 @@
       "related_sources": []
     },
     {
+      "id": "5cc03f0bb4c917",
+      "title": "Amsterdammers op zoek naar volle buit in Velsen-Zuid!",
+      "category": "Overig",
+      "published": "2026-08-29T14:30:00+00:00",
+      "updated": "2026-08-29T14:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ21hMl9VVzgxS0s1dEFJdmpIdFQyczNHeFR5cFJ3Z3FNbnpXVTBKajVHMTFabTJwS1ZqQnZ3QUdlU1dNRlhsbktPWE5odnRuaWljSnppbHpTQmxSU0RCdF9NWFpkdUhvb1NKSk5WUFAwOTRzUzAzZXRyTzFESGVTWDRVMGxSZktpME0zZHRKSVFWN05ERXRUdWc3amdSRjNwX3Z1RHJfalBrQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "1d02d9c5abb675",
       "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt zijn team op twee plaatsen",
       "category": "Wedstrijden",
@@ -594,25 +609,19 @@
       "related_sources": []
     },
     {
-      "id": "9e3a95c7829ee9",
+      "id": "aaa0394a238038",
       "title": "Jong PSV vs. Jong Ajax - Voetbal Wedstrijd Samenvatting - 31 augustus 2026 - ESPN.nl",
       "category": "Jong Ajax",
       "published": "2026-08-28T17:58:42+00:00",
       "updated": "2026-08-29T10:31:39+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PM3QxMHFoUXJXRmpHZFhzcXVMVWh4UC1jZnM4Y1g3bThKRklmekdaak11VzVSekZCSXNNVDNWTHcxb1RUYi1hbUYzUzN0OWt0dmxqRkoyUXVsX051TWQ1LXYxdkVOaFkxWDdwcnUtbFYtQQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZmN1THZQRzdXMkM3Zi1sVmhLMHNDRFMySUcwVk9yZUR4REV6N2hNQndVdWg5YXFRSjVuYVFnWGphTmxEX0JKZXVndU03QnFyTkNSaXNndDV1NERUVHNMYmUxLTJac2hFVjZEdXFWLVlEdzZhcXpCWFdxdF9Zcm03Y3Ftb01odVZ2N0xxamtBVG1fTFZrZlQzSUhwRnpHNWRWNldqN0g4VGhyTzhpRkR2bEZWQ0FieGxWSGZLX1hWeWFoMGhhN3NGTFJSUFdhbHk2Rk1wVkRKWEdqUzlRUE92Y25HTQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "a6dc06c4d756f6",
@@ -652,21 +661,21 @@
     },
     {
       "id": "879296f4c5331b",
-      "title": "Camara bespreekt nummer 6-positie Ajax 1: 'Ik hoop daar te kunnen spelen'",
+      "title": "Heeft Ajax 'nummer zes' al in huis? 'Ik hoop daar te kunnen spelen'",
       "category": "Selectie",
       "published": "2026-08-29T06:00:00+00:00",
       "updated": "2026-08-29T09:10:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW1oNm1DWjg3Xzhydms5d1lzWVJzSXV2VDEzU05aV1h5ZFVSamRBR2VjZU5xVE15VWpxTVRDSnN4UG5Nc084eUJmX1pBYURnaHpCSkxNWjFMRzYzY1NaTlVKZ3F4Z19fRnlxc2xSNWo5Z1VEU2ktMExxZUxqOTcyWXdtSWcxcmpTSjlCQVJ1Njc2ZnNwTnlQVmsxUXhURjl3bnktd1JiYm43SnhFbHl4TQ?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHg5eVdTODlvSHBDZEFtYzFHNzRqNTBhVFBRcXlaXzl1bDlvVzVvWUVGN1JxVlA3dGVidFUxNDExemg1N2I3WWdFbG1Hejh4dl9RbEY4UUhpQmRmR081Vm9USENLZmdqRUgtSkc0NHBrM1hheFdsdmJHc0FxbTZVZk9hYXBKLWVHTndpVE5idVdGZm04Uy11dVVvWlN3VzBlTnZJODNZSFZsQUNWSUhjVklhdFlNaXM?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcHg5eVdTODlvSHBDZEFtYzFHNzRqNTBhVFBRcXlaXzl1bDlvVzVvWUVGN1JxVlA3dGVidFUxNDExemg1N2I3WWdFbG1Hejh4dl9RbEY4UUhpQmRmR081Vm9USENLZmdqRUgtSkc0NHBrM1hheFdsdmJHc0FxbTZVZk9hYXBKLWVHTndpVE5idVdGZm04Uy11dVVvWlN3VzBlTnZJODNZSFZsQUNWSUhjVklhdFlNaXM?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW1oNm1DWjg3Xzhydms5d1lzWVJzSXV2VDEzU05aV1h5ZFVSamRBR2VjZU5xVE15VWpxTVRDSnN4UG5Nc084eUJmX1pBYURnaHpCSkxNWjFMRzYzY1NaTlVKZ3F4Z19fRnlxc2xSNWo5Z1VEU2ktMExxZUxqOTcyWXdtSWcxcmpTSjlCQVJ1Njc2ZnNwTnlQVmsxUXhURjl3bnktd1JiYm43SnhFbHl4TQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -697,21 +706,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2128826/inan-verwacht-nog-zeker-tien-ajax-transfers.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a284b2d31e467b",
-      "title": "Ajax-target kondigt vertrek aan: 'Tijd om afscheid te nemen van deze mooie club'",
-      "category": "Transfers",
-      "published": "2026-08-29T08:50:58+00:00",
-      "updated": "2026-08-29T08:50:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2128818/ajax-target-spina-neemt-al-afscheid-van-atletico-madrid-op-instagram.html",
         "via_google_news": false
       },
       "related_sources": []
