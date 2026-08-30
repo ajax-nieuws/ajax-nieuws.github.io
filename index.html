@@ -64,18 +64,13 @@
       text-decoration: none;
     }
     .mark {
-      width: 42px;
-      height: 42px;
+      width: 44px;
+      height: 44px;
       flex: 0 0 auto;
-      border-radius: 50%;
-      display: grid;
-      place-items: center;
-      color: white;
-      background: var(--ajax);
-      font-size: .9rem;
-      font-weight: 950;
-      letter-spacing: -.055em;
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,.18);
+      border-radius: 12px;
+      object-fit: cover;
+      display: block;
+      box-shadow: 0 3px 10px rgba(18,18,18,.12);
     }
     .brand-copy strong {
       display: block;
@@ -101,8 +96,8 @@
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      background: var(--ajax);
-      box-shadow: 0 0 0 5px rgba(210,18,46,.10);
+      background: #22c55e;
+      box-shadow: 0 0 0 5px rgba(34,197,94,.12);
     }
 
     main { padding: 48px 0 84px; }
@@ -471,7 +466,7 @@
   <header class="site-header">
     <div class="shell header-row">
       <a class="brand" href="./" aria-label="Ajax Nieuws voorpagina">
-        <span class="mark">AJ</span>
+        <img class="mark" src="./icon-192.png" alt="" width="44" height="44">
         <span class="brand-copy">
           <strong>Ajax Nieuws</strong>
           <span>Meerdere bronnen. Eén overzicht.</span>
