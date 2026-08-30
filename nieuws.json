@@ -1,16 +1,73 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T13:50:49.879115+00:00",
+    "generated_at": "2026-08-30T13:55:13.413057+00:00",
     "generator": "Ajax Nieuws collector 1.4",
     "article_count": 139,
     "event_count": 40,
-    "discovered_event_count": 95,
+    "discovered_event_count": 93,
     "source_count": 13,
     "feed_error_count": 0,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "c40db1b3614f52",
+      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
+      "category": "Transfers",
+      "published": "2026-08-30T11:52:00+00:00",
+      "updated": "2026-08-30T13:51:56+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "De Telegraaf",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXNTX1g5UzNFM212ajhDemVrV3hKN1dURnp3NV9JNXRVcnVvUFJGS0kzME1qWU4tdFJOX3k5SHltYzBDRjJFRUdEZjA0VlZJSHVZc2dvRXJSckVFSXUyRUJ5OHdfWnJNaWtoUjZoR3Y1bWFpZXlMTzNFRHJrc0VKX1VxaFpOM2k5Yms0N1BCSXRaSkNmNTZmYjd0cWZXVTZDRUZYcEQ5M19HaHdhcVJmMDZRblFpVmtPUGlNZ1J5OWNpTHNVOGhkYWZXWHlZT1JlU3c?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129255/ajax-probeert-te-verkopen-maar-regeer-is-op-weg-naar-bremen.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "c422c1246aaf31",
+      "title": "FC Porto meldt zich voor Youri Baas",
+      "category": "Overig",
+      "published": "2026-08-30T13:41:22+00:00",
+      "updated": "2026-08-30T13:51:22+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "b54a9b2c2180c8",
       "title": "'Reservebeurt geen toeval: FC Porto en Farioli melden zich bij Ajax'",
@@ -38,21 +95,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVJJUklzOUFkNk5BRmVxaGZ3UGd4UVk0RFBpaWMtenlncGZ1dEV3MHhOSzVnQUFxaW1uc0Q5Rk83QXIyOEZ5d1BHLTZjMGxLNkI3MXhnMDVNdzFBcHYxTmRMYnQ4Mmt5WTlKOHg0emVUcjBuQVN4S2FwdVJCNWxTb1BOdjhYVjlBLVZLczJ5dW9aS2dDaWJFM0ViVU5lQjMwdnhHcEVBUmlZb0Vrb2RHX095aw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ced193c9a0cd5b",
-      "title": "FC Porto meldt zich voor Youri Baas",
-      "category": "Overig",
-      "published": "2026-08-30T13:41:22+00:00",
-      "updated": "2026-08-30T13:41:22+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -130,37 +172,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "c40db1b3614f52",
-      "title": "Ajax en Werder Bremen naderen akkoord over Regeer",
-      "category": "Transfers",
-      "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-30T12:52:05+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-en-werder-bremen-naderen-akkoord-over-regeer",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "De Telegraaf",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOXNTX1g5UzNFM212ajhDemVrV3hKN1dURnp3NV9JNXRVcnVvUFJGS0kzME1qWU4tdFJOX3k5SHltYzBDRjJFRUdEZjA0VlZJSHVZc2dvRXJSckVFSXUyRUJ5OHdfWnJNaWtoUjZoR3Y1bWFpZXlMTzNFRHJrc0VKX1VxaFpOM2k5Yms0N1BCSXRaSkNmNTZmYjd0cWZXVTZDRUZYcEQ5M19HaHdhcVJmMDZRblFpVmtPUGlNZ1J5OWNpTHNVOGhkYWZXWHlZT1JlU3c?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "0ab8840d1add7b",
