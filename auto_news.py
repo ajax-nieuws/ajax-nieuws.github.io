@@ -165,6 +165,22 @@ BLOCK_TERMS = {
     "podcast luisteren", "advertorial", "sponsored", "partnercontent",
 }
 
+# Toegankelijkheidsfilter. We publiceren alleen links die een bezoeker zonder
+# abonnement kan lezen en geen pagina's die in de praktijk alleen een video zijn.
+# De Telegraaf wordt volledig geweerd: de Google News-feed geeft niet betrouwbaar
+# door welke artikelen vrij zijn en welke achter Premium zitten. Liever één bron
+# minder dan bezoekers herhaaldelijk naar een betaalmuur sturen.
+PAYWALL_PUBLISHERS = {"De Telegraaf"}
+PAYWALL_URL_PARTS = ("/pro/", "/premium/", "/plus/")
+PAYWALL_TEXT_TERMS = (
+    "alleen voor abonnees", "exclusief voor abonnees", "premium artikel",
+    "premium-artikel", "voor abonnees",
+)
+
+VIDEO_ONLY_URL_PARTS = ("/videos/", "/video/")
+VIDEO_ONLY_HOSTS = {"youtube.com", "www.youtube.com", "youtu.be", "vimeo.com", "www.vimeo.com"}
+VIDEO_ONLY_TITLE_TERMS = ("wedstrijd samenvatting",)
+
 AJAX_TERMS = {
     "ajax", "afc ajax", "ajacied", "ajacieden", "amsterdammers", "de toekomst",
     "johan cruijff arena", "jong ajax", "ajax vrouwen",
@@ -380,6 +396,39 @@ def strip_source_suffix(title: str, publisher: str) -> str:
 def is_blocked(title: str, summary: str) -> bool:
     text = f"{title} {summary}".lower()
     return any(term in text for term in BLOCK_TERMS)
+
+
+def content_exclusion_reason(publisher: str, title: str, summary: str, url: str) -> str | None:
+    """Geef reden om een inhoudslink niet te publiceren.
+
+    paywall: bron/pad/metadata wijst op een betaalmuur.
+    video_only: URL of titel wijst op een pagina die primair alleen video bevat.
+    """
+    title_text = clean(title).lower()
+    full_text = clean(f"{title} {summary}").lower()
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    path = parsed.path.lower()
+
+    if publisher in PAYWALL_PUBLISHERS:
+        return "paywall"
+    if any(part in path for part in PAYWALL_URL_PARTS):
+        return "paywall"
+    if any(term in full_text for term in PAYWALL_TEXT_TERMS):
+        return "paywall"
+
+    if host in VIDEO_ONLY_HOSTS:
+        return "video_only"
+    if any(part in path for part in VIDEO_ONLY_URL_PARTS):
+        return "video_only"
+    # ESPN gebruikt deze vaste titel voor een match/video-pagina zonder echt artikel.
+    if publisher == "ESPN" and any(term in title_text for term in VIDEO_ONLY_TITLE_TERMS):
+        return "video_only"
+    # Expliciete VIDEO:-koppen zijn vrijwel altijd videopagina's.
+    if re.match(r"^\s*(video\s*[:|-]|\[video\])", title_text):
+        return "video_only"
+
+    return None
 
 
 def title_mentions_ajax(title: str) -> bool:
@@ -622,6 +671,7 @@ def collect():
     errors = []
     seen_urls = set()
     per_source = Counter()
+    excluded = Counter()
 
     for source in SOURCES:
         try:
@@ -636,6 +686,12 @@ def collect():
 
             title = strip_source_suffix(raw["title"], source["publisher"])
             summary = clean(raw["summary"])
+
+            exclusion = content_exclusion_reason(source["publisher"], title, summary, raw["url"])
+            if exclusion:
+                excluded[exclusion] += 1
+                continue
+
             if not is_ajax_relevant(title, summary, source.get("ajax_specific", False), source.get("strict_title", False)):
                 continue
 
@@ -669,7 +725,7 @@ def collect():
             candidates.append(item)
             per_source[source["publisher"]] += 1
 
-    return candidates, errors
+    return candidates, errors, excluded
 
 
 def cluster_events(items: list[dict]) -> list[list[dict]]:
@@ -776,7 +832,7 @@ def event_sort_key(event: dict):
     return ts + corroboration
 
 
-def write_outputs(candidates: list[dict], events: list[dict], errors: list[str]):
+def write_outputs(candidates: list[dict], events: list[dict], errors: list[str], excluded: Counter):
     generated = datetime.now(timezone.utc).isoformat()
 
     debug_candidates = []
@@ -788,8 +844,10 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     candidates_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.4",
+            "generator": "Ajax Nieuws collector 1.5",
             "raw_candidates": len(candidates),
+            "excluded_paywall_count": excluded.get("paywall", 0),
+            "excluded_video_only_count": excluded.get("video_only", 0),
             "feed_errors": errors,
         },
         "candidates": debug_candidates,
@@ -800,12 +858,14 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
     news_data = {
         "meta": {
             "generated_at": generated,
-            "generator": "Ajax Nieuws collector 1.4",
+            "generator": "Ajax Nieuws collector 1.5",
             "article_count": len(candidates),
             "event_count": len(visible_events),
             "discovered_event_count": len(events),
             "source_count": len({x["source"] for x in candidates}),
             "feed_error_count": len(errors),
+            "excluded_paywall_count": excluded.get("paywall", 0),
+            "excluded_video_only_count": excluded.get("video_only", 0),
             "max_age_hours": MAX_AGE_HOURS,
             "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax.",
         },
@@ -815,16 +875,18 @@ def write_outputs(candidates: list[dict], events: list[dict], errors: list[str])
 
 
 def main():
-    candidates, errors = collect()
+    candidates, errors, excluded = collect()
     clusters = cluster_events(candidates)
     events = [event_from_cluster(cluster) for cluster in clusters]
     events.sort(key=event_sort_key, reverse=True)
-    write_outputs(candidates, events, errors)
+    write_outputs(candidates, events, errors, excluded)
 
     print(f"Artikelen: {len(candidates)}")
     print(f"Gebeurtenissen: {len(events)}")
     print(f"Bronnen: {len({x['source'] for x in candidates})}")
     print(f"Bronfouten: {len(errors)}")
+    print(f"Paywall geweerd: {excluded.get('paywall', 0)}")
+    print(f"Video-only geweerd: {excluded.get('video_only', 0)}")
     for error in errors:
         print(f"  - {error}")
     print("Geschreven: kandidaten.json, nieuws.json")
