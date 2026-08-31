@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T10:55:29.932960+00:00",
+    "generated_at": "2026-08-31T11:25:15.773019+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 135,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 87,
+    "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 102,
-    "excluded_video_only_count": 64,
+    "excluded_paywall_count": 103,
+    "excluded_video_only_count": 67,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -19,7 +19,7 @@
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-31T10:14:52+00:00",
-      "source_count": 7,
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -33,11 +33,6 @@
           "via_google_news": true
         },
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129366/ajax-en-werder-bremen-akkoord-koopoptie-voor-regeer.html",
-          "via_google_news": false
-        },
-        {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
           "via_google_news": true
@@ -45,6 +40,11 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM1pQQU5UVXh6anhPQmhlbl9OanhwRjE1Z3FwUjhVSC1Yck1uNXBZV3lHdGg0UVFjLXdJandIUUpyY0hBcmpXR2NTTzBDYzF0SzlSZmNrWU5VRnFhUklSa1piUlRDVS1aNVZVZXZKMGxoekVNYmZfWHpfRUtNN1p3a3JaTEdNWEFwa1Y1V0hHSHpYWVZuc0w2T0dVazZOT00xR2lGLVcza0x0dXZWMkU3MWxJOWZmNEVx?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
           "via_google_news": true
         }
       ]
@@ -70,7 +70,7 @@
         },
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdy0wVzl6MVB3NUdYQlBRMjltdGZqeEM5TTRpd1RqU2VoQXpZeHRqMjg2NF9mcTZlcGFmVTdxNkhLU1NuZEtiUEJ0dVV2LVdyb3lOdmFWM2FvZENZX0huTGpSMS1kQ05MTlJkaGZrQ1RJbzdONWtjRG9INDh1cUVKTzM5TmJyUUxqNU5BVWktQzRkbDRnWVhRSTZnWDkxMHV5NVhqOVZTcnM4NDB2WUxLMjUzcWZxeEdLYnBnRlEwMHFXMFpJU0g5VnZZVC0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
           "via_google_news": true
         },
         {
@@ -91,21 +91,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFJOTGJHTDF2dnRXTmJHSDVsRlpub25XRTZIdURFekNVRUxyQ1hrUHZMSUZQSXlLUmFrQWk5U0xkMlZqY1N4d2NpWEVIYmNua2dINTRGWGFfMldBM203SERxT09aa0NYNXBPRWFCbkZyaV95OXVNTTFpYzJnMkhTVTVOcm9sYjJJQmV6bWEweGwzc2d4X0tLUUNUVXV1eHR6LUpV?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ea74f29e29532b",
-      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
-      "category": "Transfers",
-      "published": "2026-08-31T09:36:09+00:00",
-      "updated": "2026-08-31T09:36:09+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -333,19 +318,25 @@
       "related_sources": []
     },
     {
-      "id": "47630add1d7489",
-      "title": "‘Jordi Cruijff loopt gevaar en kan Ajax opnieuw aan rand van afgrond brengen’",
+      "id": "849b2cb27dae75",
+      "title": "Driessen kritisch op 'Cruijff-experiment': 'Op termijn zou het Ajax opnieuw aan rand afgrond kunnen brengen'",
       "category": "Overig",
-      "published": "2026-08-31T06:00:52+00:00",
+      "published": "2026-08-31T05:55:00+00:00",
       "updated": "2026-08-31T06:00:52+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2pqX3BlcHFJZ3NtTUlacko4dkxVMGZ0bzRBOUpTZWVGb3BLNGR6dTRyWE9yYnlRRFp0OThtaGR4Q3ZfQ05OQmJEU3EtZTNwYXVJcjZPZkFVVG1YbzhFXzZUb3BtS1NLM1V0dkMxSFB0eXdRMV9pNmFpdGo1eWxTWk1kRHZwdlN2cEQ4WTFUdU1jUl9LZ2lZS09pNlVYcEJ2Q3VZRXcxbDJRb1pWcWhfT2J4WVlJQUNDOHRSWEdn?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHdHM3B5QW41bWt0ODNMVk1sVG13WmpMYUxyWXRTQzd3MWQzLXRzVzk4NWE0MmVYbktwVzRtc0pfU2pkZGNyWWxQRWRfbHZpUVdXS3NMU3A5UzVCeG40eEptc0tZNjhKZWt0dWNsVTJhaTF2SXhMZVpDeTZnSnZDVU5pXzVWTmdBb1BUZERxNG50dWZNbzNMbEZtdUtTOGl5WVdWR1RkdnJ3SlJpTnZEa29qZXh1TjkwakkzcTJQT0xOS0RQSk13UERJdWtXT3VFR2hHeHpn?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2pqX3BlcHFJZ3NtTUlacko4dkxVMGZ0bzRBOUpTZWVGb3BLNGR6dTRyWE9yYnlRRFp0OThtaGR4Q3ZfQ05OQmJEU3EtZTNwYXVJcjZPZkFVVG1YbzhFXzZUb3BtS1NLM1V0dkMxSFB0eXdRMV9pNmFpdGo1eWxTWk1kRHZwdlN2cEQ4WTFUdU1jUl9LZ2lZS09pNlVYcEJ2Q3VZRXcxbDJRb1pWcWhfT2J4WVlJQUNDOHRSWEdn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "0c813e11825209",
@@ -378,6 +369,21 @@
       "related_sources": []
     },
     {
+      "id": "2277321091acd9",
+      "title": "Ajax TV | 3 points secured! | Highlights Telstar - Ajax | VriendenLoterij Eredivisie",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T05:35:00+00:00",
+      "updated": "2026-08-31T05:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGZycDdlOXo4UHdzWk5LNThsRlhZNzVWTEN1N0FrekJDYWx3Y3IyckdtNHpETGlValZMb3NrOGlSLU1hdEViVmNWX1YwbTFTNDM5ZEJfd0lWVUhyblluRk5hZndkeDh3MnRIODRHcE8tVjVUNnJ6Q18tQ0cyR211MVllOWw0cldnRnplUFV6T0Q4dkduNENjcHZxLU1WNGF2Z2tzZFBrdGJZWXd5anE5bzFub25uTXNMcHRz?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "28dcefdc4b0d87",
       "title": "'Ajax en Porto zoeken naar Baas-constructie: weinig geld in Portugal'",
       "category": "Overig",
@@ -389,6 +395,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129439/ajax-en-porto-zoeken-naar-baas-constructie.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ea74f29e29532b",
+      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
+      "category": "Transfers",
+      "published": "2026-08-31T05:23:39+00:00",
+      "updated": "2026-08-31T05:23:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -605,21 +626,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQndQZWZWY2NMNDQ4bWpFUVVSNUlBUHptNTVST1h4ZXBxZlBBSmRjeENjaUktbzRIeGZMdm9rQ0MzU1NhT1loejJoYVl0LWtnM1hCSGVhb05sbGpjZUlkdXc4OVJzR1QyZ3NsVi1SdUQ4Q1V3d2ZRMTNfZWNFM250MVdibEY5UW9OcFdvcWl6VzhmMVktRmhmS0w5RUp3SjZwOGhnR3hJUFBsTkZyY2hJZ180ck5sZW00b3B4bVRfaTNPWkVXd2N6S2Faa3lqSVdk?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "068a73a44dbec3",
-      "title": "Ajax-spits Tolu heeft onderonsje met Hans Kraay Jr.: 'Heb je hem weer...'",
-      "category": "Selectie",
-      "published": "2026-08-30T19:08:44+00:00",
-      "updated": "2026-08-30T19:08:44+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129352/tolu-arokodare-blijft-rustig-in-concurrentiestrijd-met-marcos-leonardo.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
