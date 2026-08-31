@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T07:25:09.479532+00:00",
+    "generated_at": "2026-08-31T07:55:16.254629+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 137,
     "event_count": 40,
-    "discovered_event_count": 87,
+    "discovered_event_count": 88,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
@@ -13,6 +13,51 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d9daebbec4d641",
+      "title": "Koeman Jr. verdedigd na negatieve hoofdrol tegen Ajax: 'Is fantastisch voor ons'",
+      "category": "Overig",
+      "published": "2026-08-31T07:52:05+00:00",
+      "updated": "2026-08-31T07:52:05+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129500/brugge-verdedigt-koeman-jr-na-negatieve-hoofdrol-tegen-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "cdf4a16a8776f6",
+      "title": "Van der Vaart: ‘Ik zou hem bij Ajax houden, hij is nog altijd de beste speler’",
+      "category": "Transfers",
+      "published": "2026-08-30T17:49:00+00:00",
+      "updated": "2026-08-31T07:43:43+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1639042225b557",
+      "title": "Rondje Eredivisie: 'PSV favoriet tegen Ajax en Feyenoord móét nieuwe spits halen'",
+      "category": "Selectie",
+      "published": "2026-08-31T07:38:00+00:00",
+      "updated": "2026-08-31T07:38:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-psv-favoriet-tegen-ajax-en-feyenoord-moet-nieuwe-spits-halen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "7060e94229b7fb",
       "title": "Amrabat past perfect bij Ajax van Míchel, één grote twijfel: 'Oogt dikwijls oud'",
@@ -388,24 +433,18 @@
     },
     {
       "id": "2c5b69ff27faff",
-      "title": "Van der Vaart wijst 'beste speler' van Ajax aan: 'Dat is hij nog altijd...'",
-      "category": "Transfers",
-      "published": "2026-08-30T17:49:00+00:00",
-      "updated": "2026-08-30T20:51:58+00:00",
-      "source_count": 2,
+      "title": "Van der Vaart wijst uitblinker van Telstar-uit aan als beste speler van Ajax",
+      "category": "Selectie",
+      "published": "2026-08-30T20:25:00+00:00",
+      "updated": "2026-08-30T20:25:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWZmYjAwcGhEel9CYkUxOGRNaEhtenAtNUZiMGVpVGhvUlJ6ZHFNM0t0MXdqUmhyU0tXVWtYdGlXVlRtejdEUGtlcVI5ZHJqRnpSQkpHbllIbmRSeTdqWVVRODNWb2hVRHpmbmhVQm1lNDcxS1VzSzVabEg3RXRSSmVPTFlhamk0TXF3OEZocFBtVHlzTGdmYmZPZmd2NzRxYmJBRV9KQnJ3M0dnMXA2ZkZR?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWZmYjAwcGhEel9CYkUxOGRNaEhtenAtNUZiMGVpVGhvUlJ6ZHFNM0t0MXdqUmhyU0tXVWtYdGlXVlRtejdEUGtlcVI5ZHJqRnpSQkpHbllIbmRSeTdqWVVRODNWb2hVRHpmbmhVQm1lNDcxS1VzSzVabEg3RXRSSmVPTFlhamk0TXF3OEZocFBtVHlzTGdmYmZPZmd2NzRxYmJBRV9KQnJ3M0dnMXA2ZkZR?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "2386ff944f8e9b",
@@ -632,51 +671,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129328/davy-klaassen-wacht-met-nieuw-contract-bij-ajax-door-drukte-cruijff.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1299d839df0dfd",
-      "title": "Ajax-fans zien 'Brobbey 2.0' schitteren tegen Telstar: 'Ik ben verliefd op hem'",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T17:00:06+00:00",
-      "updated": "2026-08-30T17:00:06+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129314/tolu-arokodare-maakt-indruk-op-ajax-fans-tegen-telstar.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2e915b19ea50cb",
-      "title": "NEC begint met Juventus-uit, Ajax bezoekt Hajduk Split: speeldata van alle Europese toernooien bekend",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T16:53:48+00:00",
-      "updated": "2026-08-30T16:53:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3BxTFhwc3dDdGxkMXQ0ZWdvX2dYSXlTakhCdlBla2tHdFdYUmNtYzFiNWxCWnZjbUNZQnhnU3pGZVh0NnFHTDdFb3JPOG1FWS0tUWduRGZ3UWlEN0poSXU0ZG9NbmhxNTRwNnRBMDVDWVlxOW9USHQ5bDlNOVVSYW9LLXRwWGZHS1laa2NCLUhnc1NSTURuY3h2WFd1VW5DSThPZ2FIdUszWGNnRkJaRWhIcURDclhGVkwycktaVG5qTEhXcjFWbkxGVGFEYjBN?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fc7b850089e2a1",
-      "title": "Samenvatting Telstar - Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T16:50:19+00:00",
-      "updated": "2026-08-30T16:50:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVVM1N2QxZzBRYVY3cUtOTVMtZGtQTjNTTFRPUjBQUEpzR0M5Sk1XVHVGbVBickhMNjVYT0tTX3F0ZHJLTHo1NGx1MUVKZVROVWFVVXQ4YUNiSHRyQkRpcmhxV3pvUDE1ck9rN1k0Um5YWmRWemNabXdn?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
