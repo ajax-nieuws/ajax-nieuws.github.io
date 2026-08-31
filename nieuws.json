@@ -1,18 +1,108 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T04:55:00.664218+00:00",
+    "generated_at": "2026-08-31T05:25:07.406879+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 133,
+    "article_count": 136,
     "event_count": 40,
-    "discovered_event_count": 78,
+    "discovered_event_count": 84,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 70,
+    "excluded_video_only_count": 69,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ea74f29e29532b",
+      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
+      "category": "Transfers",
+      "published": "2026-08-31T05:23:39+00:00",
+      "updated": "2026-08-31T05:23:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e4a3c8fb5f95fe",
+      "title": "Driessen waarschuwt Ajax: 'Cruijff kan club aan rond van de afgrond brengen'",
+      "category": "Club",
+      "published": "2026-08-31T05:08:16+00:00",
+      "updated": "2026-08-31T05:08:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129433/driessen-cruijff-kan-ajax-aan-rond-van-de-afgrond-brengen.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c617ef0441078c",
+      "title": "Tekengeld: \"Amrabat is voor Ajax een stevige nummer zes, ook financieel\"",
+      "category": "Club",
+      "published": "2026-08-31T05:05:24+00:00",
+      "updated": "2026-08-31T05:05:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGNPVG1OT1BERVlnMEhucVUwSF9HcHNIbWNWZHJLdmR4bGlSNkxHdDhSX1lTbHFFWUQxR1AxWS1mQVJUellHWlVlQWdiNGk0ODlSN3lmN2V2cG1xQ21xMDdjcnViazBXMVZDcmFSWEFObEFmNWR6SDJMdnZUdkc2WFB1TXQ4UlZvV2RibWZ4TzJHb19IaWFzY3Z4RlN0Y2hKa0RHUFlUS2RPTG44MjNXSVhCMVl5VlJSd0E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1ba30c4801dd7d",
+      "title": "De samenvattingen: Ajax en PSV doen goede zaken, Feyenoord wint thuis weer niet",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T05:05:00+00:00",
+      "updated": "2026-08-31T05:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129370/de-samenvattingen-psv-en-ajax-halen-uit-feyenoord-morst-opnieuw-punten.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "cb5a79025e1767",
+      "title": "Lof voor nieuwe 'nummer zes' Amrabat bij Ajax: 'Precies de speler die ze nodig hebben'",
+      "category": "Selectie",
+      "published": "2026-08-31T04:58:11+00:00",
+      "updated": "2026-08-31T04:58:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTjNwOHRFWDFmZGMyRmZkZUtlVWg1X3RwUlc2MGpTdmdCVENvWm1pM201U1gzSjEzelhwc3FhTEZCX1piU2tLc24xVldNc3NoMmUybDBHM1JIaUFOVVlJcTcwTmJTN041cWxFazF3OURSSWJWd05URmV4VlFLbmpwbDBwbEdQeVJwcXZ1aTg3YV8yYldoZHMzRmlFNDhNMzBtajVNTlppNGVyZWlOeW85WmtVUlJPV1NyTkdaMHN0c0c1OVFWbFE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "79328f538fc697",
+      "title": "Ajax 2-1 Burnley (26 jul., 2026) Uitslag",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T04:08:52+00:00",
+      "updated": "2026-08-31T04:08:52+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UmlnTHk4T0RIUkNJVm93b2NUb3RTd0VCYlhmMFVBWjFJa0dHRW41SW9CamdVcVJncEk1V2tQczRMcHR4UmUwTmY0bTFFVzRUZlJTRlFlcGV5cHUxWkJUT1ZEdzVyUkpBcndMN1VYUnJXX0hsZ3RPbE4wTy1qX0k?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "e64c03968ef0ba",
       "title": "Negentig minuten lang: Telstar - Ajax",
@@ -131,6 +221,21 @@
       ]
     },
     {
+      "id": "2386ff944f8e9b",
+      "title": "Míchel vergelijkt toptalent van Ajax met wereldster: 'Hij kan de nieuwe Van Dijk worden'",
+      "category": "Selectie",
+      "published": "2026-08-30T20:15:00+00:00",
+      "updated": "2026-08-30T20:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU01neG4wVENqT3JpTHJFRUpzM2ljN0U5Q2Z4aUhmVEZWN2RUUU1ic1huMUhYUlFITjV0VVpvYk80X1doTjNKeUV1VjZSd3RrSzNWdzlMTFRLQW1XV1dFRTl1cm5RbXNTaTZCN1BYVXRyYkZrdUQ1b3gxZXhQcGpUbDJOMWVPdm5MREc5U252RVhBTzhxNzVNcUdudGs4SkRaTktMa2Fzdy15dnB5RWFnUnI5cEw4M0pGSjJsTk9yQ1haWjZ4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "6cb9ed0ebd33d6",
       "title": "Transfers Ajax: Amrabat hoopt tegen PSV meteen te spelen",
       "category": "Transfers",
@@ -157,7 +262,7 @@
       "category": "Transfers",
       "published": "2026-08-30T12:34:04+00:00",
       "updated": "2026-08-30T19:09:23+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -165,11 +270,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129252/fc-porto-en-farioli-melden-zich-bij-ajax-voor-youri-baas.html",
-          "via_google_news": false
-        },
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
@@ -184,6 +284,11 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55950/Farioli-en-Porto-melden-zich-voor-Youri-Baas",
+          "via_google_news": false
         }
       ]
     },
@@ -303,21 +408,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "18530ea8e543e1",
-      "title": "Ajax-coach Míchel Sánchez: 'Hij kan de nieuwe Virgil van Dijk worden'",
-      "category": "Overig",
-      "published": "2026-08-30T18:04:00+00:00",
-      "updated": "2026-08-30T18:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlk2dFNsTmlqOTJHbldRRjZkM1NSYloyOWo2ZkN6cE45QTRQSWhhZExDTksyRFp2QXdIWlFhcGxUR1BGWDVrZEk5QzVkWFlMenNIRHdib1IxYThrSTNGczUtRXBGaXlvRVF6bDE0Y1JZWjdkaThVdGwzQkFxX3cyRW1vd0l3SjBSNVdTQml3NGxEWXBlTkV0NDduUmw1N3JjLTFGTFJ4WDlNNmdZQmstcnFUTHBkVmZYU0dCaw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "a030fffe4df6d9",
@@ -451,7 +541,7 @@
       "category": "Wedstrijden",
       "published": "2026-08-30T13:33:54+00:00",
       "updated": "2026-08-30T16:40:30+00:00",
-      "source_count": 3,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
@@ -463,6 +553,11 @@
           "name": "AT5",
           "url": "https://www.at5.nl/artikelen/239694/ajax-walst-in-tweede-helft-over-telstar-heen-en-wint-met-0-4",
           "via_google_news": false
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnBpazNhdjAxTzJweGEzal95VXVnZHVDU3pRVmFIUjBXNkdqSzFyaThnRm4wN081ZWt0N3JsSGFLVEx0WmFoSFJucWlHX1pKQ3NLSVkzTWZXY0VRWnRfSklYMTVweDAxM0g5T1lHR3NOd2FRVnNxanAzMnhxWEtFRTZ2WmVucHNKaVp1NjQxM3pnZ2pmTkZvSWVvU0NJVTVkS0xtNk55b1poeUFXejBtOTk0dEYwaGR3?oc=5",
+          "via_google_news": true
         },
         {
           "name": "FCUpdate",
@@ -611,112 +706,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "ef63d83a861cc0",
-      "title": "'Speler van wereldklasse' bij Ajax: \"We hebben lang voor hem gevochten\"",
-      "category": "Overig",
-      "published": "2026-08-30T14:43:04+00:00",
-      "updated": "2026-08-30T14:43:04+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129281/michel-dolblij-met-ajax-transfer-wereldklasse.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "67cdc4864fffca",
-      "title": "Míchel is blij met Amrabat en geeft update over blessure Blind en transferzomer",
-      "category": "Blessures",
-      "published": "2026-08-30T14:42:00+00:00",
-      "updated": "2026-08-30T14:42:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/michel-is-blij-met-amrabat-en-geeft-update-over-blessure-blind",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "aced6f6735a563",
-      "title": "Maduro ziet meteen belangrijke Ajax-rol voor Amrabat: 'Dat gaat hij wel brengen'",
-      "category": "Overig",
-      "published": "2026-08-30T14:40:00+00:00",
-      "updated": "2026-08-30T14:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129278/maduro-enthousiast-over-ajax-aanwinst-amrabat.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "863de0b33e9525",
-      "title": "Brugge: \"De intentie is wel om Ajax bij de strot te pakken\"",
-      "category": "Overig",
-      "published": "2026-08-30T14:29:41+00:00",
-      "updated": "2026-08-30T14:29:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN09UdVdjNUttTE55bnpCa3FlX3pQOW9hbEJVeENyWHhPcHkxWVVNZ1JZa2lvVVFDMjJ6YWljM0N5c3RnMnRoUEdYVUFqcVpEbkZRRlBRWHJSZENlZzM2M0xmVFE2cDVrVUdJVTN6UEk3TXNOMVE4NzRycmwzczJLRTNia3pYcUhGYmVUMmtuYXZmMmtfVDFQZVJrcmFCcWU4Tl80?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "59232a5d571286",
-      "title": "Veel Ajax-fans niet blij met Farioli: 'Onbegrijpelijke transfer dit'",
-      "category": "Transfers",
-      "published": "2026-08-30T14:08:11+00:00",
-      "updated": "2026-08-30T14:08:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129266/veel-ajax-fans-niet-blij-met-farioli-door-interesse-in-baas.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1d41c565bbc814",
-      "title": "Opstelling Ajax tegen Telstar: Míchel kiest voor Janse en wéér voor Tolu",
-      "category": "Wedstrijden",
-      "published": "2026-08-29T13:27:28+00:00",
-      "updated": "2026-08-30T13:55:30+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/opstelling-ajax-tegen-telstar-michel-kiest-voor-janse-en-weer-voor-tolu",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSzctWlZrbGN3LTVJZkNFNGtwZzM0QmZUZDVjZC04YWF1Q2ktYXhqWU4tU1VDOWZQOGxOZk11eXNLLVJ3bnFtN3ZsWGZUTGJCYlVndkFhaC1jaDQ1NHdOdlE0RlVSTkh3X3pvTm1FMVItUlEyX21PTndweVNGWkU2UTE5cHE0dVBSWHE0WnNzN0VINGpPSnNhR3RCQUlXZFJpU09mZVpn?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWmJkdWJLNTczWWVBVFhEYWRQVmY0YzJPVGtZcWlVYzh0RXAyRnlSVWI0bmRwb0otenJMSnp2OFRSV1FxYnQ1RWNCLXBzcVBwTnU3YzFJX0FRNzZaN0lVTm83am1WcUpmbTRxa2k5YXE3VW5abkYxNTZ3Z19kZktjU2otS3hJWDluMktnRUJ4ZmVwV3dxZjd6RTJsdzhyaF9ybVJyYm5IaWk2WERKY3E5V3RsZFEwY3V4YzFDMFhYLU1MODRvSkFCX1BtSDFjQQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzhiUEdVOTNubFhkbDdHZFp1MUlPbjhMUFpabnRXTktJaVAzQ01icGR1MjFfZjdFRENnTjlyNEQyb3hEVWRabkJLYThTVGtLQnRqOWUzNHBydDZGQVBidkh3al96b2dxM0VOdTRQV0hoUndocGVIYWp2V2tsYlFxdTN4SzV0OERZeGZCSEdRY0NIcjU3TVBhSnk1S0tnRFJsZldLTDJ3?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
