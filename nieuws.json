@@ -1,21 +1,21 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T23:55:07.186191+00:00",
+    "generated_at": "2026-08-31T00:25:13.826679+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 134,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 79,
+    "discovered_event_count": 78,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 77,
+    "excluded_video_only_count": 73,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
       "id": "e64c03968ef0ba",
-      "title": "Negentig minuten lang: Telstar - Ajax - Ajax",
+      "title": "Negentig minuten lang: Telstar - Ajax",
       "category": "Overig",
       "published": "2026-08-30T22:02:22+00:00",
       "updated": "2026-08-30T22:02:22+00:00",
@@ -30,7 +30,7 @@
     },
     {
       "id": "1a242849dc794d",
-      "title": "Highlights Telstar - Ajax | Vier verschillende doelpuntenmakers - Ajax",
+      "title": "Highlights Telstar - Ajax | Vier verschillende doelpuntenmakers",
       "category": "Wedstrijden",
       "published": "2026-08-30T22:02:16+00:00",
       "updated": "2026-08-30T22:02:16+00:00",
@@ -74,19 +74,25 @@
       "related_sources": []
     },
     {
-      "id": "89fa61f3145a9e",
+      "id": "a827ec64d4aa1c",
       "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt nieuwe transfer",
       "category": "Transfers",
-      "published": "2026-08-30T20:53:37+00:00",
+      "published": "2026-08-29T16:15:00+00:00",
       "updated": "2026-08-30T20:53:37+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129389/benjamin-tahirovic-verruilt-brondby-op-huurbasis-voor-krc-genk.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1NyZ1dZNGUyUHRVenVWSmp2TWpkeEJsSlU4VWo5ZDBFMHV3UVN5S0pQSDVfZkJmZUd3YVNWMFN0MDVTYXc1TVZqNEJMSS1DSHQxaFNaZWhnLUt2MGczdGxKUGtaM0ZRM0diUnpZb2pQUDdZU3ZMTFB6TW5aRVhJMFRyelpSSUw2a05oc3I3a2VTa1I1Mzk5bnJSX2ctcXl0Y3k0T2FqX0RwZHZXR3lQLVRvaFhqbXBq?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "2c5b69ff27faff",
@@ -111,7 +117,7 @@
     },
     {
       "id": "6c1f31cbbebc70",
-      "title": "Dit is Telstar - Ajax in foto's - Ajax",
+      "title": "Dit is Telstar - Ajax in foto's",
       "category": "Overig",
       "published": "2026-08-30T20:03:42+00:00",
       "updated": "2026-08-30T20:03:42+00:00",
@@ -211,11 +217,6 @@
       },
       "related_sources": [
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2129366/ajax-en-werder-bremen-akkoord-koopoptie-voor-regeer.html",
           "via_google_news": false
@@ -223,6 +224,11 @@
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
           "via_google_news": true
         },
         {
@@ -297,21 +303,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "fc7b850089e2a1",
-      "title": "Samenvatting Telstar - Ajax",
-      "category": "Overig",
-      "published": "2026-08-30T16:50:19+00:00",
-      "updated": "2026-08-30T18:07:31+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxUHVfbnByNHVwRHliZzQxTGNYNVRoSmZONjR0WndhZEt4bU5Ma1JYeE8yU3kwMmRBdUlVcWpycUVfNmN5YzRiQXpPekV6VkxTazhPMFY5MS1JQ1dUNjJmRGo0c1BPSlRUQ290QmRvM2xRSDA3YW4zM29n?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "a030fffe4df6d9",
@@ -405,6 +396,21 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3BxTFhwc3dDdGxkMXQ0ZWdvX2dYSXlTakhCdlBla2tHdFdYUmNtYzFiNWxCWnZjbUNZQnhnU3pGZVh0NnFHTDdFb3JPOG1FWS0tUWduRGZ3UWlEN0poSXU0ZG9NbmhxNTRwNnRBMDVDWVlxOW9USHQ5bDlNOVVSYW9LLXRwWGZHS1laa2NCLUhnc1NSTURuY3h2WFd1VW5DSThPZ2FIdUszWGNnRkJaRWhIcURDclhGVkwycktaVG5qTEhXcjFWbkxGVGFEYjBN?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fc7b850089e2a1",
+      "title": "Samenvatting Telstar - Ajax",
+      "category": "Overig",
+      "published": "2026-08-30T16:50:19+00:00",
+      "updated": "2026-08-30T16:50:19+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVVM1N2QxZzBRYVY3cUtOTVMtZGtQTjNTTFRPUjBQUEpzR0M5Sk1XVHVGbVBickhMNjVYT0tTX3F0ZHJLTHo1NGx1MUVKZVROVWFVVXQ4YUNiSHRyQkRpcmhxV3pvUDE1ck9rN1k0Um5YWmRWemNabXdn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -526,21 +532,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSE1wUlBxa01nVnAzelFwcmtkcm12Zklfc3N6cUxjdGFvVGM5RDJZS1VDeTZHOGNobTVpc01OM21NcXdhZTRsZVVKU2dkclFIekhMWS1YT2JSY3VLNXEzNE9lZjhOM09QbmpITWxrcVBWcUpOZERkdWFXbG1UMWxsNWwycXVYTDBZNFBJTk1XS2xYSkFqVHJRNi1vX0oxZXNyNl9yOTVjYjBJU1drVnBuUFFBVWlKdzFUMEt3U2hYWlBzZmtCLVRwdVZRQi1pci0wdjU4M1o4LVI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e8be194177b626",
-      "title": "[Update III]: Ajax bevestigt transfer Bandé",
-      "category": "Transfers",
-      "published": "2026-08-30T15:55:45+00:00",
-      "updated": "2026-08-30T15:55:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHBVS0xqZU9sRkpLeG52ZXlxWU8yNi1WbDNmcnVzS2xObnFMR2pocHRDd0ZLbGdIamZrVW5PR2xNQ0tqWk9qYnUyYTdZeENiek5JcGRDODdPWFRoaE1QOUtvTnk2andkYUZHQ3ZkbEM0eG1BVFFBc1BESnZvMW42a183dEJwM0EzS3lQZ1FVWEl3RzZyTjluYUEwZlZaQQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -713,6 +704,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVJJUklzOUFkNk5BRmVxaGZ3UGd4UVk0RFBpaWMtenlncGZ1dEV3MHhOSzVnQUFxaW1uc0Q5Rk83QXIyOEZ5d1BHLTZjMGxLNkI3MXhnMDVNdzFBcHYxTmRMYnQ4Mmt5WTlKOHg0emVUcjBuQVN4S2FwdVJCNWxTb1BOdjhYVjlBLVZLczJ5dW9aS2dDaWJFM0ViVU5lQjMwdnhHcEVBUmlZb0Vrb2RHX095aw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8dea49f65a933c",
+      "title": "Ajax begint zonder Baas aan uitduel met Telstar, rond verdediger 'speelt het een en ander'",
+      "category": "Selectie",
+      "published": "2026-08-30T13:30:00+00:00",
+      "updated": "2026-08-30T13:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDFEbGtNSTBMaV9tYnZRLXNteFp2MmU4U3o4dUduYWVoQzZSWjhlWG5YTW8yWTIyYm94QnVZT0kzZF9kZXhfaW5PWTRxZUp3YUZzQ09pbzhqY2xlOW9CU2tFbjhjUld0RC1IdFlaLTFaNmk0eXRRREkzMkZNNERreENCdXNpWEtqWDcwd0J5d05ZanJaNUU1OWFEcW9PS3dmQUZNQ1RMRU5rS3FmYlptdVFCSGtBZlBQbG1ETGt0TUZEcTBQMVFv?oc=5",
         "via_google_news": true
       },
       "related_sources": []
