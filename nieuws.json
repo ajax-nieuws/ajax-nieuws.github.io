@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T08:25:14.256528+00:00",
+    "generated_at": "2026-08-31T08:55:18.725079+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 137,
     "event_count": 40,
-    "discovered_event_count": 89,
+    "discovered_event_count": 88,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 68,
+    "excluded_video_only_count": 64,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "f4b594181f88aa",
+      "title": "Van der Vaart keihard voor Ajacied: 'Hij denkt dat hij beter is dan hij is'",
+      "category": "Overig",
+      "published": "2026-08-31T08:54:00+00:00",
+      "updated": "2026-08-31T08:54:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129543/rafael-van-der-vaart-kritisch-op-ajax-talent-jorthy-mokio.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1639042225b557",
+      "title": "Rondje Eredivisie: 'PSV favoriet tegen Ajax en Feyenoord móét nieuwe spits halen'",
+      "category": "Selectie",
+      "published": "2026-08-31T08:30:54+00:00",
+      "updated": "2026-08-31T08:30:54+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-psv-favoriet-tegen-ajax-en-feyenoord-moet-nieuwe-spits-halen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "032ffcc75f6a0c",
       "title": "'Ajax krijgt concurrentie in transferstrijd: Franse club meldt zich voor target'",
@@ -25,6 +55,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129517/ajax-krijgt-concurrentie-van-olympique-lyon-in-strijd-om-keito-nakamura.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ea74f29e29532b",
+      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
+      "category": "Transfers",
+      "published": "2026-08-31T08:07:04+00:00",
+      "updated": "2026-08-31T08:07:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -54,21 +99,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1639042225b557",
-      "title": "Rondje Eredivisie: 'PSV favoriet tegen Ajax en Feyenoord móét nieuwe spits halen'",
-      "category": "Selectie",
-      "published": "2026-08-31T07:38:00+00:00",
-      "updated": "2026-08-31T07:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-psv-favoriet-tegen-ajax-en-feyenoord-moet-nieuwe-spits-halen",
         "via_google_news": false
       },
       "related_sources": []
@@ -272,21 +302,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129439/ajax-en-porto-zoeken-naar-baas-constructie.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ea74f29e29532b",
-      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
-      "category": "Transfers",
-      "published": "2026-08-31T05:23:39+00:00",
-      "updated": "2026-08-31T05:23:39+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -656,21 +671,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129336/steven-berghuis-belangrijk-voor-ajax-en-blij-met-komst-tolu-arokodare.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7774e4a8cba7c8",
-      "title": "Heet van de Herdgang | Poll: Is PSV klaar voor de topper tegen Ajax?",
-      "category": "Overig",
-      "published": "2026-08-30T17:24:36+00:00",
-      "updated": "2026-08-30T17:24:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWFJM2tITTY1Znl0R0l2ZnJtd0NLc1Ntc05WblRXNEgzQWR6Nkg4R1A2aS04S1RIdkgtYXU3T2NWWS1tN3ZaR3RLSlN5ZTlEMF9xWDZPanJPOGFETm8ycEtsdGVmSkt0VmJXWi1QM3dldTAyQ3NkS2s2Tkkwck1QRmVoaFFRWkhNNm16VDF5Zk9yTVlyTWlyRlZYbzFrNEtuVWZySw?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
