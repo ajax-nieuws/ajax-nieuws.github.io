@@ -1,29 +1,80 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:25:18.273986+00:00",
+    "generated_at": "2026-08-31T14:55:23.259924+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 135,
     "event_count": 40,
-    "discovered_event_count": 83,
+    "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 59,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "5bab9e80bc2364",
-      "title": "Rondom Ajax: Ajax hoort scheidsrechter voor topper tegen PSV van komend weekend",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T14:20:00+00:00",
-      "updated": "2026-08-31T14:20:00+00:00",
+      "id": "2eed751231233b",
+      "title": "Verrassend transfernieuws: oud-toptalent van Ajax (21) tekent bij NAC",
+      "category": "Transfers",
+      "published": "2026-08-31T14:51:11+00:00",
+      "updated": "2026-08-31T14:51:11+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hYb3N3TTZlY0h1empzRk92RU1RWmZzQjZRTl9TTDVQOEFmRTZoSXcwei1YZkNfUmY0c3dza0IzRkZ6LTNoRVdKTDRxdjh6NmVPRGlqdV94Y0tYQloxdGpzdy1xQTVwRFZtZ19xWmJlUVZtZndfWXNoOWJHcDhyZU1DTUJVYmphV2hGdGlrR21vTTd5M2dXV1E3ajgtaFZnbXVKWFNJekJORnFVRU1oN3cwWThSMGRqaUlCRkotczc3aG1UdkZLNA?oc=5",
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129770/gabriel-misehouy-keert-terug-naar-nederland-met-nac-breda-transfer.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5bab9e80bc2364",
+      "title": "KNVB maakt scheidsrechter voor Topper tussen Ajax en PSV bekend",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T14:20:00+00:00",
+      "updated": "2026-08-31T14:46:17+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129765/knvb-maakt-scheidsrechter-voor-topper-tussen-ajax-en-psv-bekend.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hYb3N3TTZlY0h1empzRk92RU1RWmZzQjZRTl9TTDVQOEFmRTZoSXcwei1YZkNfUmY0c3dza0IzRkZ6LTNoRVdKTDRxdjh6NmVPRGlqdV94Y0tYQloxdGpzdy1xQTVwRFZtZ19xWmJlUVZtZndfWXNoOWJHcDhyZU1DTUJVYmphV2hGdGlrR21vTTd5M2dXV1E3ajgtaFZnbXVKWFNJekJORnFVRU1oN3cwWThSMGRqaUlCRkotczc3aG1UdkZLNA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "6df0ea6846921e",
+      "title": "NAC huurt voormalig Ajax-talent Misehouy van Girona: ‘Wij zochten aanvallend een extra impuls’",
+      "category": "Transfers",
+      "published": "2026-08-31T14:45:19+00:00",
+      "updated": "2026-08-31T14:45:19+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXVjTHFndWNTTU9zWmxHSkdYLXBuOC11ZXUwUmlzS3c1YTZnTGExaENPVTE0dmFSTTZodUV1TzdNN2s1V051MFp0VE4zTlVqZEhObDBXUHVhWFp3ejZCWTB0Znk3U0lVWVNlc3dLT2Q5RW5Za3dXME13RV9tbndWVW5KY2JvU2tnbE5nd29DdHo0X3Q4X01iMWFlOHFCVHFVZXE1ZnZwMUhUUk5RNGJ2RW9Xd2x3aGQxUGtqZGxqR2ZPcmRFdVFiUC1NSGFIRjBUT1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9ef8055bce1e03",
+      "title": "Jongste Ajacieden actief op jeugdtoernooien, debutanten bij O19",
+      "category": "Jeugd",
+      "published": "2026-08-31T14:42:32+00:00",
+      "updated": "2026-08-31T14:42:32+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNblBIb2k2bzByZVVMUS15LTdmemJCRWYxR0RJekJkd18tbjI3U3kzU2M1N0xRS2cxTGZiLW1OWXZ2Rmw1MjdoQmVtY3ZrUDkwSFhUVWVMMWEzODBkR2dOMVE4elVtRjJ1ekdCaXpOQVlVNFhiVWpieUZJckJZajNuRHBMSEtncm1kcV9hVUp1anNBYm1SVFZQbg?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -227,12 +278,12 @@
       ]
     },
     {
-      "id": "0123dc79ad856f",
+      "id": "eb55560edc9e82",
       "title": "Transfer Baas naar FC Porto op losse schroeven",
       "category": "Transfers",
       "published": "2026-08-30T13:49:00+00:00",
-      "updated": "2026-08-31T11:42:07+00:00",
-      "source_count": 4,
+      "updated": "2026-08-31T11:52:00+00:00",
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -251,11 +302,31 @@
           "via_google_news": true
         },
         {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55954/Porto-stopt-onderhandelingen-met-Ajax-over-Baas",
+          "via_google_news": false
+        },
+        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "6b37cd960e446d",
+      "title": "Bouwman nog ongeslagen in Eredivisie",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T11:48:13+00:00",
+      "updated": "2026-08-31T11:48:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55953/Bouwman-nog-ongeslagen-in-Eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "6b8a49fabf6c37",
@@ -268,6 +339,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2stbF8xYmRJMnI3S1VUdXJGWkc3Mmd5cm1CMEFiUmRNNjY2M0tFS3dWVllTdmNoYVhJb0lqaVR6X1BjODQxVWVJSDctdXlOUWRVV1pJVHJjNE1NYTVVc1F1NjNLVGNETTZfUEV6RnYyTUlpZW02bUF1bV9Ua3ZrLW5QLVF1b3duelVWZVFYZTNidl9jMElpMEVaVzA0Y25GSTdyMW5WNW1OWmdfM2xzWDBwN0dvbFdr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9909d1250192b5",
+      "title": "Carrière van door Ajax begeerde Noa Lang neemt opeens heel andere wending bij Napoli",
+      "category": "Overig",
+      "published": "2026-08-31T11:18:00+00:00",
+      "updated": "2026-08-31T11:18:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXJ1Yk9nUWpSZ0s3cWNPb0hmVjNLSlF3cTBrQkNvUDJBOWh4VzVKS1hCX0lHQ0kzbHhKVnJPOHdMX05WdmwxN2lOY2VLbUo2YnNpSmlfRDl1bFMzaU5WZVQzS2s5ZHVXTS1kM1E5ckJldXNqWkY5YlRkM0hScU1PNVp1SV85c1VjYU9KQ2lpSE1XZVUtbVVPVjZTZGNCYnBRQkdWT0lycHBWQ2UwUHl2TGxQN2xLQ3NpaXRFUVFhV3RFZXRGYlo1bDdWaXZ1SmY3bTRfWA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -414,27 +500,6 @@
       "related_sources": []
     },
     {
-      "id": "7060e94229b7fb",
-      "title": "Amrabat past perfect bij Ajax van Míchel, één grote twijfel: 'Oogt dikwijls oud'",
-      "category": "Transfers",
-      "published": "2026-08-30T15:48:00+00:00",
-      "updated": "2026-08-31T07:14:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129480/amrabat-past-perfect-bij-ajax-van-michel-een-grote-twijfel.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXhja2EyY1JiYmZGXzdTYXpwamRaWFNQbUFfb2J0bUo4VktGQm5pT243VXdtRVc5Q2FYSnR6cmFUX3hDdGdGQTc2LWNxR0dHZnZZSk1rRC1PZnNWTVAwWkg3VGpGcmVJNy1GbjA3RGVobWxWeHdKOXpfOE5lNGF1dHJsQkVxZVJfaTQ1Rk9yUFV2dGtpdTJiS0JtdGRFTkwydHc0YXF1SV92UXJFaTF5eFFqeVMtYVFLaE5OblN3?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "e12e60af23972c",
       "title": "Nico Tagliafico: Argentijnse publiekslieveling",
       "category": "Overig",
@@ -446,21 +511,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5CampzcmQtSUVHUW5NdmtOaVY3dUYxVGpSSEhZN0JndFZsTVpWODZFNnlhQ0NrVnVOVUNKak1HSVQxNTlBdWhEeUtSQmpFQ195Q3hMTFYwUjQ3UG95MkpfdG1ZcklPcmltSFN1V1JfNkxKajM2NDM0bXdZdHhvMw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "56418085f671d6",
-      "title": "Kranten: 'Demonstratie van macht PSV, Ajax moet beter, Feyenoord afhankelijk'",
-      "category": "Overig",
-      "published": "2026-08-31T06:40:00+00:00",
-      "updated": "2026-08-31T06:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129455/ochtendkranten-over-psv-feyenoord-en-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -480,7 +530,7 @@
       "related_sources": [
         {
           "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
           "via_google_news": true
         },
         {
@@ -652,51 +702,6 @@
         "name": "AT5",
         "url": "https://www.at5.nl/artikelen/239699/michel-sanchez-hoopt-dat-ploeg-mee-kan-doen-om-de-titel",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6c1f31cbbebc70",
-      "title": "Dit is Telstar - Ajax in foto's",
-      "category": "Overig",
-      "published": "2026-08-30T21:19:37+00:00",
-      "updated": "2026-08-30T21:19:37+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S3NrZjA4d3pvMVNJaVVFVXBMcTZhQjZfN05na21VX2lxakRmV2hqUVJwQUdNODJEeFJycmpxZmk0SUxtZmdMQVVyMWJDNmpKU1RFSUVoZzc1bTM5RFhFaERvMkFJdzlsaWJuaHU3dTY?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2c5b69ff27faff",
-      "title": "Van der Vaart wijst uitblinker van Telstar-uit aan als beste speler van Ajax",
-      "category": "Selectie",
-      "published": "2026-08-30T20:25:00+00:00",
-      "updated": "2026-08-30T20:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWZmYjAwcGhEel9CYkUxOGRNaEhtenAtNUZiMGVpVGhvUlJ6ZHFNM0t0MXdqUmhyU0tXVWtYdGlXVlRtejdEUGtlcVI5ZHJqRnpSQkpHbllIbmRSeTdqWVVRODNWb2hVRHpmbmhVQm1lNDcxS1VzSzVabEg3RXRSSmVPTFlhamk0TXF3OEZocFBtVHlzTGdmYmZPZmd2NzRxYmJBRV9KQnJ3M0dnMXA2ZkZR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6cb9ed0ebd33d6",
-      "title": "Ajax stevent af op transferchaos: ‘Ik hoop dat er straks een selectie staat die om prijzen kan spelen’",
-      "category": "Transfers",
-      "published": "2026-08-30T19:38:00+00:00",
-      "updated": "2026-08-30T19:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQndQZWZWY2NMNDQ4bWpFUVVSNUlBUHptNTVST1h4ZXBxZlBBSmRjeENjaUktbzRIeGZMdm9rQ0MzU1NhT1loejJoYVl0LWtnM1hCSGVhb05sbGpjZUlkdXc4OVJzR1QyZ3NsVi1SdUQ4Q1V3d2ZRMTNfZWNFM250MVdibEY5UW9OcFdvcWl6VzhmMVktRmhmS0w5RUp3SjZwOGhnR3hJUFBsTkZyY2hJZ180ck5sZW00b3B4bVRfaTNPWkVXd2N6S2Faa3lqSVdk?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
