@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T05:25:07.406879+00:00",
+    "generated_at": "2026-08-31T05:55:04.629806+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 136,
+    "article_count": 134,
     "event_count": 40,
-    "discovered_event_count": 84,
+    "discovered_event_count": 82,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 69,
+    "excluded_video_only_count": 68,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0c813e11825209",
+      "title": "El Ahmadi tempert Ajax-hype: 'Kan nu niet zeggen dat hij de nieuwe Van Dijk wordt'",
+      "category": "Overig",
+      "published": "2026-08-31T05:52:00+00:00",
+      "updated": "2026-08-31T05:52:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129447/el-ahmadi-en-perez-kritisch-op-van-dijk-vergelijking-van-ajax-talent.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "28dcefdc4b0d87",
+      "title": "'Ajax en Porto zoeken naar Baas-constructie: weinig geld in Portugal'",
+      "category": "Overig",
+      "published": "2026-08-31T05:26:35+00:00",
+      "updated": "2026-08-31T05:26:35+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129439/ajax-en-porto-zoeken-naar-baas-constructie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "ea74f29e29532b",
       "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
@@ -84,21 +114,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTjNwOHRFWDFmZGMyRmZkZUtlVWg1X3RwUlc2MGpTdmdCVENvWm1pM201U1gzSjEzelhwc3FhTEZCX1piU2tLc24xVldNc3NoMmUybDBHM1JIaUFOVVlJcTcwTmJTN041cWxFazF3OURSSWJWd05URmV4VlFLbmpwbDBwbEdQeVJwcXZ1aTg3YV8yYldoZHMzRmlFNDhNMzBtajVNTlppNGVyZWlOeW85WmtVUlJPV1NyTkdaMHN0c0c1OVFWbFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "79328f538fc697",
-      "title": "Ajax 2-1 Burnley (26 jul., 2026) Uitslag",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T04:08:52+00:00",
-      "updated": "2026-08-31T04:08:52+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UmlnTHk4T0RIUkNJVm93b2NUb3RTd0VCYlhmMFVBWjFJa0dHRW41SW9CamdVcVJncEk1V2tQczRMcHR4UmUwTmY0bTFFVzRUZlJTRlFlcGV5cHUxWkJUT1ZEdzVyUkpBcndMN1VYUnJXX0hsZ3RPbE4wTy1qX0k?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -637,21 +652,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSE1wUlBxa01nVnAzelFwcmtkcm12Zklfc3N6cUxjdGFvVGM5RDJZS1VDeTZHOGNobTVpc01OM21NcXdhZTRsZVVKU2dkclFIekhMWS1YT2JSY3VLNXEzNE9lZjhOM09QbmpITWxrcVBWcUpOZERkdWFXbG1UMWxsNWwycXVYTDBZNFBJTk1XS2xYSkFqVHJRNi1vX0oxZXNyNl9yOTVjYjBJU1drVnBuUFFBVWlKdzFUMEt3U2hYWlBzZmtCLVRwdVZRQi1pci0wdjU4M1o4LVI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e8be194177b626",
-      "title": "[Update III]: Ajax bevestigt transfer Bandé",
-      "category": "Transfers",
-      "published": "2026-08-30T15:55:45+00:00",
-      "updated": "2026-08-30T15:55:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHBVS0xqZU9sRkpLeG52ZXlxWU8yNi1WbDNmcnVzS2xObnFMR2pocHRDd0ZLbGdIamZrVW5PR2xNQ0tqWk9qYnUyYTdZeENiek5JcGRDODdPWFRoaE1QOUtvTnk2andkYUZHQ3ZkbEM0eG1BVFFBc1BESnZvMW42a183dEJwM0EzS3lQZ1FVWEl3RzZyTjluYUEwZlZaQQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
