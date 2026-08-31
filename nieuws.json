@@ -1,25 +1,70 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T06:25:17.496871+00:00",
+    "generated_at": "2026-08-31T06:55:13.908972+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 136,
+    "article_count": 137,
     "event_count": 40,
-    "discovered_event_count": 83,
+    "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 67,
+    "excluded_video_only_count": 65,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "56418085f671d6",
+      "title": "Kranten: 'Demonstratie van macht PSV, Ajax moet beter, Feyenoord afhankelijk'",
+      "category": "Overig",
+      "published": "2026-08-31T06:40:00+00:00",
+      "updated": "2026-08-31T06:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129455/ochtendkranten-over-psv-feyenoord-en-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c5b21ec983e632",
+      "title": "Aaron Bouwman heeft opvallende statistiek bij Ajax: 'Ik doe gewoon mijn ding'",
+      "category": "Selectie",
+      "published": "2026-08-31T06:36:57+00:00",
+      "updated": "2026-08-31T06:36:57+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129468/aaron-bouwman-heeft-bijzondere-statistiek-sinds-ajax-debuut.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ccda6b155a443d",
+      "title": "Bekijk hier alle samenvattingen van speelronde 4 in de Eredivisie",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T06:30:00+00:00",
+      "updated": "2026-08-31T06:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bekijk-hier-alle-samenvattingen-van-speelronde-4-in-de-eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "481e02c05800ed",
       "title": "Transfer Baas naar FC Porto op losse schroeven",
       "category": "Transfers",
       "published": "2026-08-30T13:49:00+00:00",
-      "updated": "2026-08-31T06:18:10+00:00",
-      "source_count": 5,
+      "updated": "2026-08-31T06:25:53+00:00",
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -33,11 +78,6 @@
           "via_google_news": false
         },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
           "via_google_news": true
@@ -48,6 +88,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "0123dc79ad856f",
+      "title": "'Baas lijkt bij Ajax te blijven; voorstel FC Porto onvoldoende om mee te werken'",
+      "category": "Overig",
+      "published": "2026-08-31T06:25:00+00:00",
+      "updated": "2026-08-31T06:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "47630add1d7489",
@@ -125,6 +180,21 @@
       "related_sources": []
     },
     {
+      "id": "c617ef0441078c",
+      "title": "Tekengeld: \"Amrabat is voor Ajax een stevige nummer zes, ook financieel\"",
+      "category": "Club",
+      "published": "2026-08-31T05:10:30+00:00",
+      "updated": "2026-08-31T05:10:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGNPVG1OT1BERVlnMEhucVUwSF9HcHNIbWNWZHJLdmR4bGlSNkxHdDhSX1lTbHFFWUQxR1AxWS1mQVJUellHWlVlQWdiNGk0ODlSN3lmN2V2cG1xQ21xMDdjcnViazBXMVZDcmFSWEFObEFmNWR6SDJMdnZUdkc2WFB1TXQ4UlZvV2RibWZ4TzJHb19IaWFzY3Z4RlN0Y2hKa0RHUFlUS2RPTG44MjNXSVhCMVl5VlJSd0E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "e4a3c8fb5f95fe",
       "title": "Driessen waarschuwt Ajax: 'Cruijff kan club aan rond van de afgrond brengen'",
       "category": "Club",
@@ -136,21 +206,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129433/driessen-cruijff-kan-ajax-aan-rond-van-de-afgrond-brengen.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c617ef0441078c",
-      "title": "Tekengeld: \"Amrabat is voor Ajax een stevige nummer zes, ook financieel\"",
-      "category": "Club",
-      "published": "2026-08-31T05:05:24+00:00",
-      "updated": "2026-08-31T05:05:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGNPVG1OT1BERVlnMEhucVUwSF9HcHNIbWNWZHJLdmR4bGlSNkxHdDhSX1lTbHFFWUQxR1AxWS1mQVJUellHWlVlQWdiNGk0ODlSN3lmN2V2cG1xQ21xMDdjcnViazBXMVZDcmFSWEFObEFmNWR6SDJMdnZUdkc2WFB1TXQ4UlZvV2RibWZ4TzJHb19IaWFzY3Z4RlN0Y2hKa0RHUFlUS2RPTG44MjNXSVhCMVl5VlJSd0E?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -317,6 +372,21 @@
       ]
     },
     {
+      "id": "2386ff944f8e9b",
+      "title": "Míchel vergelijkt toptalent van Ajax met wereldster: 'Hij kan de nieuwe Van Dijk worden'",
+      "category": "Selectie",
+      "published": "2026-08-30T20:15:00+00:00",
+      "updated": "2026-08-30T20:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU01neG4wVENqT3JpTHJFRUpzM2ljN0U5Q2Z4aUhmVEZWN2RUUU1ic1huMUhYUlFITjV0VVpvYk80X1doTjNKeUV1VjZSd3RrSzNWdzlMTFRLQW1XV1dFRTl1cm5RbXNTaTZCN1BYVXRyYkZrdUQ1b3gxZXhQcGpUbDJOMWVPdm5MREc5U252RVhBTzhxNzVNcUdudGs4SkRaTktMa2Fzdy15dnB5RWFnUnI5cEw4M0pGSjJsTk9yQ1haWjZ4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "6cb9ed0ebd33d6",
       "title": "Transfers Ajax: Amrabat hoopt tegen PSV meteen te spelen",
       "category": "Transfers",
@@ -372,13 +442,13 @@
           "via_google_news": false
         },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
           "via_google_news": true
         },
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
           "via_google_news": true
         },
         {
@@ -625,81 +695,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "ba7e2e86ec85a3",
-      "title": "Ajax kent zorgeloze middag bij Telstar: Tolu én Leonardo vinden het net",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T16:37:57+00:00",
-      "updated": "2026-08-30T16:37:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129285/ajax-haalt-uit-tegen-telstar-tolu-en-leonardo-scoren-bij-0-4-zege.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "dcb8ab325f7daa",
-      "title": "Ajax dankzij vier goals van routiniers en spitsen eenvoudig langs Telstar",
-      "category": "Selectie",
-      "published": "2026-08-30T16:37:53+00:00",
-      "updated": "2026-08-30T16:37:53+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2628976",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8809813d3f2bb0",
-      "title": "Leonardo heeft zijn eerste treffer voor Ajax te pakken bij overwinning op Telstar",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T16:37:49+00:00",
-      "updated": "2026-08-30T16:37:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55951/Leonardo-heeft-zijn-eerste-treffer-voor-Ajax-te-pakken-bij-overwinning-op-Telstar",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "583a7a68245f3c",
-      "title": "Ajax is klaar voor topper tegen PSV na zorgeloze zege bij Telstar",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T16:37:00+00:00",
-      "updated": "2026-08-30T16:37:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-is-klaar-voor-topper-tegen-psv-na-zorgeloze-zege-bij-telstar",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b7c67bc46ad3f8",
-      "title": "Guus Til kijkt uit naar Ajax-uit en wilde PSV deze zomer niet verruilen voor ‘zomaar een club’",
-      "category": "Overig",
-      "published": "2026-08-30T16:31:00+00:00",
-      "updated": "2026-08-30T16:31:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSE1wUlBxa01nVnAzelFwcmtkcm12Zklfc3N6cUxjdGFvVGM5RDJZS1VDeTZHOGNobTVpc01OM21NcXdhZTRsZVVKU2dkclFIekhMWS1YT2JSY3VLNXEzNE9lZjhOM09QbmpITWxrcVBWcUpOZERkdWFXbG1UMWxsNWwycXVYTDBZNFBJTk1XS2xYSkFqVHJRNi1vX0oxZXNyNl9yOTVjYjBJU1drVnBuUFFBVWlKdzFUMEt3U2hYWlBzZmtCLVRwdVZRQi1pci0wdjU4M1o4LVI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
