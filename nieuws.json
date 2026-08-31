@@ -1,30 +1,45 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T08:55:18.725079+00:00",
+    "generated_at": "2026-08-31T09:25:27.621728+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 137,
+    "article_count": 136,
     "event_count": 40,
-    "discovered_event_count": 88,
+    "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 64,
+    "excluded_video_only_count": 63,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
       "id": "f4b594181f88aa",
-      "title": "Van der Vaart keihard voor Ajacied: 'Hij denkt dat hij beter is dan hij is'",
+      "title": "Van der Vaart ziet gemiste kans bij Ajax: 'Dan hadden ze Amrabat niet gehaald'",
       "category": "Overig",
-      "published": "2026-08-31T08:54:00+00:00",
-      "updated": "2026-08-31T08:54:00+00:00",
+      "published": "2026-08-31T08:58:59+00:00",
+      "updated": "2026-08-31T08:58:59+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129543/rafael-van-der-vaart-kritisch-op-ajax-talent-jorthy-mokio.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c9ac6773a8697b",
+      "title": "Opvallende houding bij wisselspeler Ajax: ‘Hij zat er niet gezellig bij op de bank’",
+      "category": "Overig",
+      "published": "2026-08-31T08:47:39+00:00",
+      "updated": "2026-08-31T08:47:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLVhsOUJSQkVKbGJRLUNBSXpkU2lKVkFmRTBNTXlHY2tEVk5VdGJrdkdZVVhBMWd3bnVwdzJXak1weXhmZW1ycDY3MlU4OF9mcnRWV0VDZVdLUzM5bkkteUh5OE12cWpacDhBQVZSaFd0bUcwVExndzJzVVBjeHlyQWd4NFNBTUxiVHMyWW1yU3Y4ZEs5OTVNRlB4WjBqb1VLNzdhaHJSak5rMGNKSS1lUDE3WWM0Y2h3OHRzV282Rkszd08w?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -100,21 +115,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e37033421b5621",
-      "title": "Nicky van der Gijp kritisch over Ajax-aankoop Amrabat: 'Hij kan niet voetballen'",
-      "category": "Transfers",
-      "published": "2026-08-31T07:37:23+00:00",
-      "updated": "2026-08-31T07:37:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGJ5RzdHeDN6eFBhanpGc1lNSlZHeDlFSjBtall4VzRrWWRTY1RPa25GbzRUdVBtRE9HcnNaWHZsV1A2N0xCX0xvZFBLQWxtbzJpaFlzY2JZZmRSUGJsSXlkVmZDZXUzQzZjV0N0ZFdwbV9qOVY1RkVtNEUzRkRKVlhIbDg3NEdVbERVclEzVW1SdXpSSUxMRU5hNUxBY2xzbmJsTlIwNUdpcXlFZVVMMU5kQ1pEYm9aZHlUeWttamU?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -205,7 +205,7 @@
       "category": "Transfers",
       "published": "2026-08-30T13:49:00+00:00",
       "updated": "2026-08-31T06:25:53+00:00",
-      "source_count": 4,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -217,6 +217,11 @@
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2129465/ajax-en-fc-porto-komen-er-niet-uit-over-transfer-baas.html",
           "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Voetbalzone",
@@ -645,10 +650,10 @@
       ]
     },
     {
-      "id": "18530ea8e543e1",
+      "id": "b2097990cba449",
       "title": "Ajax-coach Míchel Sánchez: 'Hij kan de nieuwe Virgil van Dijk worden'",
       "category": "Overig",
-      "published": "2026-08-30T18:04:00+00:00",
+      "published": "2026-08-30T14:48:00+00:00",
       "updated": "2026-08-30T18:04:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
