@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T22:25:23.634927+00:00",
+    "generated_at": "2026-08-31T22:55:05.344083+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 141,
+    "article_count": 142,
     "event_count": 40,
-    "discovered_event_count": 92,
+    "discovered_event_count": 93,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 51,
+    "excluded_video_only_count": 50,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "74d912a41ea86e",
+      "title": "Simon Adingra komt naar Ajax als vervanger van Mika Godts",
+      "category": "Overig",
+      "published": "2026-08-31T22:20:24+00:00",
+      "updated": "2026-08-31T22:20:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbENWMllzamgxRkdIRmw0aDFEU2c5NUVVVTYwQ3duYXZJbFlGd1cyT0dUOHNHZlNkMUpSRjNfYnE4Q1l1WWd0Y3kzRl9SVGYwTk5wM2dxbUxVazRHZXJsNGFzejAwTmpfa1dFRnNQU1BnRjhSQml4R0dqZlQ1VXFoYlJ2emxMLUMzb0N5ekVTenJVbGNhS2JNbm5TMA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "82e971da771515",
       "title": "Fans reageren op aanstaande Ajax-transfer: 'Hij is beter dan Noa Lang'",
@@ -174,6 +189,21 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalF0SkpvcGJmcW9WLUx5dWlsUDk2UVVQRHNWeWl0RkQ5TTZlTFRjZEZOSVluUWQ1OGlGV0RLTDZ0Y0FBUkJOWnVTWGRlbFJRRjNLWm1wWXo5NWRodGN6YVlwLWFPTHRsS19Md3diamNHNFRqRFdVcHgtNFVrZEZjNGVzSkJBYS0tZzVzZ0lJLXFxWHRiVjFVWnVsZkJUVDFxZFhCOGFhNEtCR0ZVX0lMUVpJdFBhb0lMS2VXM0ZqZkt5Ty1F?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "70a3a3dd6d1ef3",
+      "title": "LIVE Keuken Kampioen Divisie | Jones benut strafschop en zet Jong PSV weer naast Jong Ajax",
+      "category": "Jong Ajax",
+      "published": "2026-08-31T19:30:00+00:00",
+      "updated": "2026-08-31T19:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenl5VllDYVRVbHYzaU4yYlZpb2RmbUNkSGpPMjQ1aC1ud1NkZWFOTUx4Z2M0ODc1Q3FTUVFBcXliTnZmdUhuUHdEcFBLT2QyU09wcGh1Ynh1c1JMXzhNTE1USENzTi1zRndkZ1ktYnVQc2NXQzZ5VDRjeHF2SFE0RW5YdXp3Z3oyQXpxUU40TVMxRW1uRU8teGphYTd0bnBWV05KTXpkVGdqY1ZwdW5ycnFpbHJJMk94ZG4wdjhrWHJlQjJKYUlVVDk3V0tTX1VnellLbmlyUDU5Zw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -681,36 +711,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "6b37cd960e446d",
-      "title": "Bouwman nog ongeslagen in Eredivisie",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T11:48:13+00:00",
-      "updated": "2026-08-31T11:48:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55953/Bouwman-nog-ongeslagen-in-Eredivisie",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6b8a49fabf6c37",
-      "title": "Hugo Borst snapt helemaal niets van keuze Ajax: 'Uitgerekend hij moet weg'",
-      "category": "Overig",
-      "published": "2026-08-31T11:25:22+00:00",
-      "updated": "2026-08-31T11:25:22+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2stbF8xYmRJMnI3S1VUdXJGWkc3Mmd5cm1CMEFiUmRNNjY2M0tFS3dWVllTdmNoYVhJb0lqaVR6X1BjODQxVWVJSDctdXlOUWRVV1pJVHJjNE1NYTVVc1F1NjNLVGNETTZfUEV6RnYyTUlpZW02bUF1bV9Ua3ZrLW5QLVF1b3duelVWZVFYZTNidl9jMElpMEVaVzA0Y25GSTdyMW5WNW1OWmdfM2xzWDBwN0dvbFdr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
