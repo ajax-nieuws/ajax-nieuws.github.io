@@ -1,24 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T12:25:42.873248+00:00",
+    "generated_at": "2026-08-31T12:55:19.447573+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 84,
+    "discovered_event_count": 83,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 64,
+    "excluded_video_only_count": 63,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "ffd2e5954329c7",
+      "title": "'Ajax grijpt mis: Amsterdams bod op voormalig toptalent Barça afgewezen'",
+      "category": "Transfers",
+      "published": "2026-08-31T12:48:33+00:00",
+      "updated": "2026-08-31T12:48:33+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129673/ajax-ziet-celta-bod-afslaan-moriba-mag-niet-meer-weg.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "39b0a6cbee12b6",
       "title": "De Telegraaf meldt doorbraak: 'Ajax bereikt akkoord met Kopenhagen over huurdeal'",
       "category": "Transfers",
       "published": "2026-08-30T11:01:00+00:00",
-      "updated": "2026-08-31T12:02:03+00:00",
+      "updated": "2026-08-31T12:20:00+00:00",
       "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
@@ -28,6 +43,11 @@
       },
       "related_sources": [
         {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWdaWFllS3hyeUFrVkV3aUNVUDNtNUpXVk5BQkdTeENqa0NfUllZWkhxRHZJSEwwbXdFeDhBRUxwV3VyaWlSdVRXYlJRMDdfcG9jZUt4YjcwZTZjcVByU3IyeTFvdEhteHh3UC13eFMzRTItdGtMTDhNQjFhb2ZUTkozZ3NlVDk4UVhUNWo3VUtZdTNDS2FXdnU2LXpXTi1jQk5telAwSmF5ZC1jU0U5WE81X2FHanBvWmRPWA?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
           "via_google_news": true
@@ -36,11 +56,6 @@
           "name": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
           "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUhhUU1qdzc4RHFMS1JNSnBuU2RPX250TUxDeWVoRW1oUG14NWw3SjJUaFA1MktMbjNtQV9Od0pJQUZiM3VBaEh4b2xQaG1IMnk5QS05bmU1b1FEbkxhTktKQWk4NzlleEd3aW1qTDI1ZFVkUURydlI0dkpoVzVhY3pJZ0pkUEl0aXBlbnNxdWxXRVdTSUdMbHJURE9SSHhFN0kxMjJmS2thVUpMcXBhNHdrUQ?oc=5",
-          "via_google_news": true
         },
         {
           "name": "Ajax.supporters.nl",
@@ -130,6 +145,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "cc8c5eba9f975f",
+      "title": "Ajax ziet eerste bod op Borja Sainz (25) afgewezen worden",
+      "category": "Transfers",
+      "published": "2026-08-31T09:55:50+00:00",
+      "updated": "2026-08-31T09:55:50+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFJOTGJHTDF2dnRXTmJHSDVsRlpub25XRTZIdURFekNVRUxyQ1hrUHZMSUZQSXlLUmFrQWk5U0xkMlZqY1N4d2NpWEVIYmNua2dINTRGWGFfMldBM203SERxT09aa0NYNXBPRWFCbkZyaV95OXVNTTFpYzJnMkhTVTVOcm9sYjJJQmV6bWEweGwzc2d4X0tLUUNUVXV1eHR6LUpV?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "73a919e8e921b7",
@@ -584,21 +614,6 @@
       "related_sources": []
     },
     {
-      "id": "021393d7c91237",
-      "title": "'Beruchte' broer van Ajacied vindt nieuwe club na bizarre tackles in La Liga",
-      "category": "Overig",
-      "published": "2026-08-30T21:05:00+00:00",
-      "updated": "2026-08-30T21:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129161/chimy-avila-broer-van-ajax-speler-gaston-avila-heeft-nieuwe-club.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "2c5b69ff27faff",
       "title": "Van der Vaart wijst uitblinker van Telstar-uit aan als beste speler van Ajax",
       "category": "Selectie",
@@ -672,27 +687,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "1c2e67fe4cf27b",
-      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
-      "category": "Transfers",
-      "published": "2026-08-30T17:18:00+00:00",
-      "updated": "2026-08-30T18:19:36+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
