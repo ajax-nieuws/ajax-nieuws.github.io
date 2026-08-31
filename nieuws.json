@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T20:25:26.726009+00:00",
+    "generated_at": "2026-08-31T20:55:02.472970+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 141,
     "event_count": 40,
-    "discovered_event_count": 88,
+    "discovered_event_count": 89,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
@@ -13,6 +13,27 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "61f9bbea7ac001",
+      "title": "'Bliksemdeal: Ajax vindt linksbuiten in Engeland, akkoord met Sunderland'",
+      "category": "Transfers",
+      "published": "2026-08-31T10:15:00+00:00",
+      "updated": "2026-08-31T20:51:34+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129917/ajax-heeft-adingra-van-sunderland-binnen.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "e6ef8a1869dcff",
       "title": "Mini-topper tussen Jong PSV en Jong Ajax eindigt gelijk, Oufkir scoort voor winnend Jong AZ",
@@ -74,25 +95,19 @@
       "related_sources": []
     },
     {
-      "id": "61f9bbea7ac001",
-      "title": "'Ajax vindt linksbuiten in Engeland: gesprekken met Sunderland lopen'",
+      "id": "3900321524f6ad",
+      "title": "Ajax meldt zich officieel in Premier League voor man van 22 miljoen euro",
       "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
-      "updated": "2026-08-31T19:41:00+00:00",
-      "source_count": 2,
+      "published": "2026-08-31T19:55:00+00:00",
+      "updated": "2026-08-31T19:55:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129894/ajax-in-gesprek-met-sunderland-over-simon-adingra.html",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalF0SkpvcGJmcW9WLUx5dWlsUDk2UVVQRHNWeWl0RkQ5TTZlTFRjZEZOSVluUWQ1OGlGV0RLTDZ0Y0FBUkJOWnVTWGRlbFJRRjNLWm1wWXo5NWRodGN6YVlwLWFPTHRsS19Md3diamNHNFRqRFdVcHgtNFVrZEZjNGVzSkJBYS0tZzVzZ0lJLXFxWHRiVjFVWnVsZkJUVDFxZFhCOGFhNEtCR0ZVX0lMUVpJdFBhb0lMS2VXM0ZqZkt5Ty1F?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "3b254e15162506",
@@ -209,13 +224,13 @@
           "via_google_news": false
         },
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1ZVeTBSWFR5Z1NyQ1ZsR2NhT1RaY09OQkl2cHhJS19jUXg4SHBHR3RYa3ctTEpJRjU5VDJhdU9UdTAzOHR5WXZndkNOZi1MekdELVdFTkV0X3c1Q0p2eHhqam1PNmR5T0o5cHJHV1JOZkJnM1F2cFJwNTdRalBiejZoRGdoYlR3VDNKelpLYTl1OGNva1J3V3l4NVF0Q2tSb2JpQnlkczJtTkczanNhc3l5ZW8?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
           "via_google_news": true
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1ZVeTBSWFR5Z1NyQ1ZsR2NhT1RaY09OQkl2cHhJS19jUXg4SHBHR3RYa3ctTEpJRjU5VDJhdU9UdTAzOHR5WXZndkNOZi1MekdELVdFTkV0X3c1Q0p2eHhqam1PNmR5T0o5cHJHV1JOZkJnM1F2cFJwNTdRalBiejZoRGdoYlR3VDNKelpLYTl1OGNva1J3V3l4NVF0Q2tSb2JpQnlkczJtTkczanNhc3l5ZW8?oc=5",
           "via_google_news": true
         }
       ]
@@ -562,12 +577,12 @@
       "related_sources": []
     },
     {
-      "id": "cf58dcba487482",
+      "id": "f80f2e42896302",
       "title": "Ajax werkt aan komst linksbuiten: 'Het is niet Noa Lang, Napoli vraagt 28 miljoen'",
       "category": "Transfers",
-      "published": "2026-08-30T09:34:00+00:00",
+      "published": "2026-08-30T09:20:00+00:00",
       "updated": "2026-08-31T12:58:17+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -575,6 +590,11 @@
         "via_google_news": false
       },
       "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0pRNEVBMVY5bG9ZX0ZJdGhoUFoyWHdhTXFSbTYtQWxaX3NnSG1QeWFGMm45TUFCNHlDdjI1SENlZUNOcWlJYzM4Q2RsN0FLRjExMlo0QTVONEpaRlZZaWVIclV2NW9TZnFMeWVsWG9mOFhLZmd3SjVIQ3V5c0dQOHNOVXJKcXBZcU9UMzB1VXJvN0c4X0NpZ2Ztby1mUzZ1VmlNNA?oc=5",
@@ -603,7 +623,7 @@
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-31T11:52:00+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -611,11 +631,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129638/verweij-onthult-hoogte-van-fc-porto-bod-op-baas.html",
-          "via_google_news": false
-        },
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
@@ -630,6 +645,11 @@
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/55954/Porto-stopt-onderhandelingen-met-Ajax-over-Baas",
           "via_google_news": false
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -645,6 +665,21 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/55953/Bouwman-nog-ongeslagen-in-Eredivisie",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6b8a49fabf6c37",
+      "title": "Hugo Borst snapt helemaal niets van keuze Ajax: 'Uitgerekend hij moet weg'",
+      "category": "Overig",
+      "published": "2026-08-31T11:25:22+00:00",
+      "updated": "2026-08-31T11:25:22+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2stbF8xYmRJMnI3S1VUdXJGWkc3Mmd5cm1CMEFiUmRNNjY2M0tFS3dWVllTdmNoYVhJb0lqaVR6X1BjODQxVWVJSDctdXlOUWRVV1pJVHJjNE1NYTVVc1F1NjNLVGNETTZfUEV6RnYyTUlpZW02bUF1bV9Ua3ZrLW5QLVF1b3duelVWZVFYZTNidl9jMElpMEVaVzA0Y25GSTdyMW5WNW1OWmdfM2xzWDBwN0dvbFdr?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -690,36 +725,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDBNb01uVVZZWmtycHczWktmVGZDeHlvVkEwZ1RjeUFkcG5NWklEbF9XcENPX2Rjd3ZOcmtYT3RwSFlraFktSXRtSlE1VzRkRnNSdlVwRGRGcHQ3MTFwaGM3Vjlmb0Y4T2hmdERhYkpMYzZ0OWh4TENtZWRzVVJpYUJmTk1pS3FycWFIcl9Hd1o2d1VCWmFpUmpRMzRVS28xbUtlcm5heC1XLVhrTGR6Nk5DSQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c9ac6773a8697b",
-      "title": "Opvallende houding bij wisselspeler Ajax: ‘Hij zat er niet gezellig bij op de bank’",
-      "category": "Overig",
-      "published": "2026-08-31T08:47:39+00:00",
-      "updated": "2026-08-31T08:47:39+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLVhsOUJSQkVKbGJRLUNBSXpkU2lKVkFmRTBNTXlHY2tEVk5VdGJrdkdZVVhBMWd3bnVwdzJXak1weXhmZW1ycDY3MlU4OF9mcnRWV0VDZVdLUzM5bkkteUh5OE12cWpacDhBQVZSaFd0bUcwVExndzJzVVBjeHlyQWd4NFNBTUxiVHMyWW1yU3Y4ZEs5OTVNRlB4WjBqb1VLNzdhaHJSak5rMGNKSS1lUDE3WWM0Y2h3OHRzV282Rkszd08w?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1639042225b557",
-      "title": "Rondje Eredivisie: 'PSV favoriet tegen Ajax en Feyenoord móét nieuwe spits halen'",
-      "category": "Selectie",
-      "published": "2026-08-31T08:30:54+00:00",
-      "updated": "2026-08-31T08:30:54+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-psv-favoriet-tegen-ajax-en-feyenoord-moet-nieuwe-spits-halen",
-        "via_google_news": false
       },
       "related_sources": []
     }
