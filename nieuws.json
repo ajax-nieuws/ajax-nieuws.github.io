@@ -1,32 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T15:25:16.724832+00:00",
+    "generated_at": "2026-08-31T15:55:05.290216+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 135,
+    "article_count": 136,
     "event_count": 40,
     "discovered_event_count": 85,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 53,
+    "excluded_video_only_count": 54,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "ca6eff8a111ac9",
-      "title": "Van der Eijk fluit met Ajax-PSV eerste Eredivisie-topper uit zijn carrière - NU",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T15:01:27+00:00",
-      "updated": "2026-08-31T15:01:27+00:00",
+      "id": "0b9157dd866200",
+      "title": "LIVE Keuken Kampioen Divisie | Jong PSV en Jong Ajax vanavond tegenover elkaar, in aanloop naar topper van eerste elftallen",
+      "category": "Jong Ajax",
+      "published": "2026-08-31T15:43:37+00:00",
+      "updated": "2026-08-31T15:43:37+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdS1POW5XS0lzQjBTdEE2MnNXOTZLZktRXzB6SE1mc05CRzVNX05CT29wOW5OV3ljdVp3S2Y3SkxOODVnZXFRM3lNV2pQWkZReDRpdWtGLWZrcWpqNEltUHlxNUpob01vWkxzaFVlQldQUWVkV2FuaVN5T3lUcTJsc29IOFc1NGh0Z0d4Y2lXVVZobVBhblRER0U0MmNLV19URWNqaHE3N1FrWWlzVElIeURNMA?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUC1XeTA4M2Zqa2VYYmh2UDY3MWxIU3ROemNqS2t5UzBSbG5VNW1aRi1SMG9vUlhmQUpScjBiZjl4aXVUaUZxRTBJSk11LWJaRVRaS1ZBSUNGLWI2RTl5N1pZZDZKZUppcG01RVVRa2lUNndTMDdFSGVPY0tNWTA4NVZfSkNmT01Hc0V2QjlWQnhOV2YzLS1qdENUQ2hzc184cEJaQk5PT2dlVjEyUGZ6c25MY18zVlR0YlVHNS1nbHRQcU5jLU9qakJ3SGRUVDZ4dTN4UE9nSW1KRXdKNTluckdiTW1tM0ZfREJSRQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "ca6eff8a111ac9",
+      "title": "Ajax-PSV eerste topper voor scheidsrechter Van der Eijk",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T14:20:00+00:00",
+      "updated": "2026-08-31T15:38:51+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-psv-eerste-topper-voor-scheidsrechter-van-der-eijk",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129765/knvb-maakt-scheidsrechter-voor-topper-tussen-ajax-en-psv-bekend.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdS1POW5XS0lzQjBTdEE2MnNXOTZLZktRXzB6SE1mc05CRzVNX05CT29wOW5OV3ljdVp3S2Y3SkxOODVnZXFRM3lNV2pQWkZReDRpdWtGLWZrcWpqNEltUHlxNUpob01vWkxzaFVlQldQUWVkV2FuaVN5T3lUcTJsc29IOFc1NGh0Z0d4Y2lXVVZobVBhblRER0U0MmNLV19URWNqaHE3N1FrWWlzVElIeURNMA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hYb3N3TTZlY0h1empzRk92RU1RWmZzQjZRTl9TTDVQOEFmRTZoSXcwei1YZkNfUmY0c3dza0IzRkZ6LTNoRVdKTDRxdjh6NmVPRGlqdV94Y0tYQloxdGpzdy1xQTVwRFZtZ19xWmJlUVZtZndfWXNoOWJHcDhyZU1DTUJVYmphV2hGdGlrR21vTTd5M2dXV1E3ajgtaFZnbXVKWFNJekJORnFVRU1oN3cwWThSMGRqaUlCRkotczc3aG1UdkZLNA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "6df0ea6846921e",
@@ -50,27 +81,6 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2lLWkx6MFVsSnByYnZsZi1ZWi1haFZCUlBRaEg0OFdVNEEtSkJOUXF6TVVkYzhHalFpWUZhcTJyeHFvVGZyaVVZcEU3dzQzd3NQSFBFZlZLYU1SSHNsMUFBYkZaNlpsWi0wNDFnVmJQcjhpT1oxdUZEbHNYLXBBUzZ6Z0ZHd3dPMzk3emNteVV2NXZCa0c2S0dobGJCZlFSNldWRHYxQnN0WFNIX1gyZzhCOUFJOHNCY2k0?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "5bab9e80bc2364",
-      "title": "KNVB maakt scheidsrechter voor Topper tussen Ajax en PSV bekend",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T14:20:00+00:00",
-      "updated": "2026-08-31T14:46:17+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129765/knvb-maakt-scheidsrechter-voor-topper-tussen-ajax-en-psv-bekend.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hYb3N3TTZlY0h1empzRk92RU1RWmZzQjZRTl9TTDVQOEFmRTZoSXcwei1YZkNfUmY0c3dza0IzRkZ6LTNoRVdKTDRxdjh6NmVPRGlqdV94Y0tYQloxdGpzdy1xQTVwRFZtZ19xWmJlUVZtZndfWXNoOWJHcDhyZU1DTUJVYmphV2hGdGlrR21vTTd5M2dXV1E3ajgtaFZnbXVKWFNJekJORnFVRU1oN3cwWThSMGRqaUlCRkotczc3aG1UdkZLNA?oc=5",
           "via_google_news": true
         }
       ]
@@ -257,7 +267,7 @@
       "title": "De Telegraaf meldt doorbraak: 'Ajax bereikt akkoord met Kopenhagen over huurdeal'",
       "category": "Transfers",
       "published": "2026-08-30T11:01:00+00:00",
-      "updated": "2026-08-31T12:02:03+00:00",
+      "updated": "2026-08-31T12:20:00+00:00",
       "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
@@ -267,6 +277,11 @@
       },
       "related_sources": [
         {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWdaWFllS3hyeUFrVkV3aUNVUDNtNUpXVk5BQkdTeENqa0NfUllZWkhxRHZJSEwwbXdFeDhBRUxwV3VyaWlSdVRXYlJRMDdfcG9jZUt4YjcwZTZjcVByU3IyeTFvdEhteHh3UC13eFMzRTItdGtMTDhNQjFhb2ZUTkozZ3NlVDk4UVhUNWo3VUtZdTNDS2FXdnU2LXpXTi1jQk5telAwSmF5ZC1jU0U5WE81X2FHanBvWmRPWA?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
           "via_google_news": false
@@ -274,11 +289,6 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUhhUU1qdzc4RHFMS1JNSnBuU2RPX250TUxDeWVoRW1oUG14NWw3SjJUaFA1MktMbjNtQV9Od0pJQUZiM3VBaEh4b2xQaG1IMnk5QS05bmU1b1FEbkxhTktKQWk4NzlleEd3aW1qTDI1ZFVkUURydlI0dkpoVzVhY3pJZ0pkUEl0aXBlbnNxdWxXRVdTSUdMbHJURE9SSHhFN0kxMjJmS2thVUpMcXBhNHdrUQ?oc=5",
           "via_google_news": true
         },
         {
@@ -309,7 +319,7 @@
         },
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdy0wVzl6MVB3NUdYQlBRMjltdGZqeEM5TTRpd1RqU2VoQXpZeHRqMjg2NF9mcTZlcGFmVTdxNkhLU1NuZEtiUEJ0dVV2LVdyb3lOdmFWM2FvZENZX0huTGpSMS1kQ05MTlJkaGZrQ1RJbzdONWtjRG9INDh1cUVKTzM5TmJyUUxqNU5BVWktQzRkbDRnWVhRSTZnWDkxMHV5NVhqOVZTcnM4NDB2WUxLMjUzcWZxeEdLYnBnRlEwMHFXMFpJU0g5VnZZVC0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
           "via_google_news": true
         },
         {
