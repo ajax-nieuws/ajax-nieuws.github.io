@@ -1,59 +1,47 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T21:55:11.384296+00:00",
+    "generated_at": "2026-08-31T22:25:23.634927+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 140,
+    "article_count": 141,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 92,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 50,
+    "excluded_video_only_count": 51,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "cf58dcba487482",
+      "id": "82e971da771515",
       "title": "Fans reageren op aanstaande Ajax-transfer: 'Hij is beter dan Noa Lang'",
       "category": "Transfers",
-      "published": "2026-08-30T09:34:00+00:00",
+      "published": "2026-08-31T12:58:17+00:00",
       "updated": "2026-08-31T21:05:24+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129919/fans-reageren-op-mogelijke-komst-simon-adingra.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0pRNEVBMVY5bG9ZX0ZJdGhoUFoyWHdhTXFSbTYtQWxaX3NnSG1QeWFGMm45TUFCNHlDdjI1SENlZUNOcWlJYzM4Q2RsN0FLRjExMlo0QTVONEpaRlZZaWVIclV2NW9TZnFMeWVsWG9mOFhLZmd3SjVIQ3V5c0dQOHNOVXJKcXBZcU9UMzB1VXJvN0c4X0NpZ2Ztby1mUzZ1VmlNNA?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
-      "id": "61f9bbea7ac001",
+      "id": "807faca130ea5a",
       "title": "'Bliksemdeal: Ajax vindt linksbuiten in Engeland, akkoord met Sunderland'",
       "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
+      "published": "2026-08-31T19:41:00+00:00",
       "updated": "2026-08-31T20:55:06+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129917/ajax-heeft-adingra-van-sunderland-binnen.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "ad6e0f86b2e15f",
@@ -66,6 +54,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVY0eDBSeWN6ZjBJMFd5UEkxTHppejlWQk5HdnZqOFo2MkFmSWc3T3B2RXRqZlNWMnhEOVRTWVhlU3dZM0lsdTZpc2syVjdScnZkdTZuaEZGMFBCUllxX2o2djQ5M2JUeWhFSDZiTFJFTkQ5dEluZ21kaExNZXU3QUxFZ3BabnlkSm9PZEhiX2N4WkpLdmN3YWMya1hGVl9aM2dxUnd1c2gtc2V0V2QtVGtvSngwSGoxVnJPcVMtR0ZZME0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "52ae027d517a22",
+      "title": "Ajax heeft beet en haalt gedroomde opvolger binnen voor Godts",
+      "category": "Transfers",
+      "published": "2026-08-31T20:47:00+00:00",
+      "updated": "2026-08-31T20:47:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlk4Vi0zUFVNOWJjejhNVEM3Q1RrLXYwOFQ3cUFnTmw5NDRIUmNyTkJoWEtJMVNkLW5uZGc5bnRiS0NxbVIxckwtR2x1Zm9FQ3RHQ0IwYnEtWkk5bnM5NnN2LVlYY3NrdzBkUFNiRFRyYTR4WGwxNHRGSW4xMTZ4SU9ORFNJTEJnbXcwWmpTYktfVFBPLXAxR0lFM0Ffckp2aFB5a1NRYTNxNi1YRDBINkxGYzJQZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -131,7 +134,7 @@
       "related_sources": []
     },
     {
-      "id": "3429d3eee826fb",
+      "id": "97450e093467d2",
       "title": "Beloftenteams spelen vijf dagen voor Eredivisie-topper tussen Ajax en PSV gelijk - NU",
       "category": "Wedstrijden",
       "published": "2026-08-31T20:01:24+00:00",
@@ -141,6 +144,21 @@
       "primary_source": {
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdno2cnowdnFjLVMzUmRyUnhtVVpTXzcwVTFtRHRWMTU0V205UDRnOUh5dHo0QS1tTjctc0U2Qmc5M1ZQYmI2dXNSVzBwSDkzMU5pYlM2bHkxTEN0aWx6SXBLdkVxTWUxc245dXNiV0xVNGJlTWJ6OWU3SW95dE1XTHZaV0EyX3ZxcnJVOXZRQ3NBOUU3aUdJTlg4U1ZOdm5YM2VMR050Y0NCeGpfQy15YlBJQ2l3OEVQUzg0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d939b13635086f",
+      "title": "Jong Ajax-talent verrast doelman Nick Olij en scoort tegen Jong PSV bijna vanaf 50 meter",
+      "category": "Jong Ajax",
+      "published": "2026-08-31T19:59:00+00:00",
+      "updated": "2026-08-31T19:59:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmhRa0FpYkYzcFI1dW43NU91NVR1d1B1QW1LTVpYRDdVZ0N0a3FUdkxKeW1DeFlrZk5XanV0UHNQT0ZVLUUwZmNuYzVQVUhPazBjeXlRdUV5c08yaE55M19fbGpCczFWNHVFS3hteEpfbDNYblV1cFZpcTRlOUVqMVFKa21JbEFZcTU2N1lFWGNibHItV01OeEtFYWFVRmlFT2thOHFYeE55T0JfbnYwc1JfSUZVUkdEaDZ3M1JMQXJ1dw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -156,21 +174,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalF0SkpvcGJmcW9WLUx5dWlsUDk2UVVQRHNWeWl0RkQ5TTZlTFRjZEZOSVluUWQ1OGlGV0RLTDZ0Y0FBUkJOWnVTWGRlbFJRRjNLWm1wWXo5NWRodGN6YVlwLWFPTHRsS19Md3diamNHNFRqRFdVcHgtNFVrZEZjNGVzSkJBYS0tZzVzZ0lJLXFxWHRiVjFVWnVsZkJUVDFxZFhCOGFhNEtCR0ZVX0lMUVpJdFBhb0lMS2VXM0ZqZkt5Ty1F?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3b254e15162506",
-      "title": "Nick Olij laat zich bijna verrassen vanaf 50 meter: Jong PSV redt punt tegen Jong Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-08-31T19:30:00+00:00",
-      "updated": "2026-08-31T19:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTVCaFM2blA1S3RGdy1MV1FCTmZVMUh3WmpkaXB1ampuQzZYQmZZamhlcnJTYXVYRWFMNmFscTA3bFpoUmlfbVpfa0pxVzhhN1hpM051WmVzMEhVaHF0b2NuZDBWSTBjUGR0QVVlaVdEdjVIRUJBU19wMVNXcmswT3VUTklPRnk3Tm9QaGZFSDRUeW42QklKVkxKYXp2Z2kyUkhwdU1Qb3Z4YlVwYXphODg0NXQ1OHh0NzBoRkRn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -461,19 +464,25 @@
       "related_sources": []
     },
     {
-      "id": "00ce2112eeaf24",
+      "id": "61f9bbea7ac001",
       "title": "Ajax brengt bod uit op centrale verdediger van Osasuna en mikt op huurdeal met koopoptie",
       "category": "Transfers",
-      "published": "2026-08-31T16:10:00+00:00",
+      "published": "2026-08-31T10:15:00+00:00",
       "updated": "2026-08-31T16:10:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGczbTJoUjBaZkNDdnh4STNmSHlDQWxvUGZrcjhOeGVwb0RBeUpYTDNycEJIOW5FTnBBV2dvN3FUbExhcHE0NV9CRmhzQVVaOVE5YWxYVG52eUg5MVk5c3B2QXBNTHg1dTJtWjVQdzBnbHFIbTAyVi1NX0tXSVVYUlhQTENoLUk3NGlkMXQ2OFVTdm5pRVoyUWcxOHhXM1MyazBLN1p4T2tudFF4NHpVazBTd1BGcE9xVFJYQVRoVzBPSUdidDdlZThscw?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "0391941809c427",
@@ -699,21 +708,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2stbF8xYmRJMnI3S1VUdXJGWkc3Mmd5cm1CMEFiUmRNNjY2M0tFS3dWVllTdmNoYVhJb0lqaVR6X1BjODQxVWVJSDctdXlOUWRVV1pJVHJjNE1NYTVVc1F1NjNLVGNETTZfUEV6RnYyTUlpZW02bUF1bV9Ua3ZrLW5QLVF1b3duelVWZVFYZTNidl9jMElpMEVaVzA0Y25GSTdyMW5WNW1OWmdfM2xzWDBwN0dvbFdr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9909d1250192b5",
-      "title": "Carrière van door Ajax begeerde Noa Lang neemt opeens heel andere wending bij Napoli",
-      "category": "Overig",
-      "published": "2026-08-31T11:18:00+00:00",
-      "updated": "2026-08-31T11:18:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXJ1Yk9nUWpSZ0s3cWNPb0hmVjNLSlF3cTBrQkNvUDJBOWh4VzVKS1hCX0lHQ0kzbHhKVnJPOHdMX05WdmwxN2lOY2VLbUo2YnNpSmlfRDl1bFMzaU5WZVQzS2s5ZHVXTS1kM1E5ckJldXNqWkY5YlRkM0hScU1PNVp1SV85c1VjYU9KQ2lpSE1XZVUtbVVPVjZTZGNCYnBRQkdWT0lycHBWQ2UwUHl2TGxQN2xLQ3NpaXRFUVFhV3RFZXRGYlo1bDdWaXZ1SmY3bTRfWA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
