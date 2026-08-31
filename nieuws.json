@@ -1,18 +1,114 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T13:54:58.791137+00:00",
+    "generated_at": "2026-08-31T14:25:18.273986+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 130,
+    "article_count": 131,
     "event_count": 40,
-    "discovered_event_count": 80,
+    "discovered_event_count": 83,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 66,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "5bab9e80bc2364",
+      "title": "Rondom Ajax: Ajax hoort scheidsrechter voor topper tegen PSV van komend weekend",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T14:20:00+00:00",
+      "updated": "2026-08-31T14:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ1hYb3N3TTZlY0h1empzRk92RU1RWmZzQjZRTl9TTDVQOEFmRTZoSXcwei1YZkNfUmY0c3dza0IzRkZ6LTNoRVdKTDRxdjh6NmVPRGlqdV94Y0tYQloxdGpzdy1xQTVwRFZtZ19xWmJlUVZtZndfWXNoOWJHcDhyZU1DTUJVYmphV2hGdGlrR21vTTd5M2dXV1E3ajgtaFZnbXVKWFNJekJORnFVRU1oN3cwWThSMGRqaUlCRkotczc3aG1UdkZLNA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0e2df0371730bc",
+      "title": "AD meldt meer details over aanstaand Ajax-vertrek: 'Krabbel is al gezet'",
+      "category": "Transfers",
+      "published": "2026-08-31T14:15:00+00:00",
+      "updated": "2026-08-31T14:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129741/ad-meldt-meer-details-over-aanstaand-ajax-vertrek-krabbel-is-al-gezet.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c285b3e17d9418",
+      "title": "Maduro kiest titelfavorieten: 'Hoe het er nu voorstaat, gaat het tussen die twee'",
+      "category": "Overig",
+      "published": "2026-08-31T14:08:36+00:00",
+      "updated": "2026-08-31T14:08:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129728/maduro-spreekt-zich-uit-over-transferperiode-en-titelkansen.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e37033421b5621",
+      "title": "Nicky van der Gijp over aanwinst Ajax: ‘Hij kan niet zo heel goed voetballen’",
+      "category": "Transfers",
+      "published": "2026-08-31T07:37:23+00:00",
+      "updated": "2026-08-31T14:07:29+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129716/nicky-van-der-gijp-zet-vraagtekens-bij-ajax-transfer-sofyan-amrabat.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGJ5RzdHeDN6eFBhanpGc1lNSlZHeDlFSjBtall4VzRrWWRTY1RPa25GbzRUdVBtRE9HcnNaWHZsV1A2N0xCX0xvZFBLQWxtbzJpaFlzY2JZZmRSUGJsSXlkVmZDZXUzQzZjV0N0ZFdwbV9qOVY1RkVtNEUzRkRKVlhIbDg3NEdVbERVclEzVW1SdXpSSUxMRU5hNUxBY2xzbmJsTlIwNUdpcXlFZVVMMU5kQ1pEYm9aZHlUeWttamU?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "d07c30a8ad64a9",
+      "title": "'Het wordt een heerlijke topper tussen Ajax en PSV' - NU",
+      "category": "Overig",
+      "published": "2026-08-31T13:58:27+00:00",
+      "updated": "2026-08-31T13:58:27+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUliY015RndPMHNOSDVINnpIUlJLVGVyNGx3YVhxZGpOdldOM21Dc3hNbXUzblJaY0tPb2R1ODBoSFdBMTJXX0FBZkhwM3lIVTVFckxidnQzbl95eVZDc3lxMF9PdlpJamxuamFWVDc4Vk9lVWxheC1iTi1qcnV3aWZ6X3hRQ01MMm9tbGt0TmRKS28?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e17c9760b90634",
+      "title": "Highlights Ajax O14 - PEC Zwolle O14 | Goede start",
+      "category": "Overig",
+      "published": "2026-08-31T13:57:39+00:00",
+      "updated": "2026-08-31T13:57:39+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2QyS0RUWmp0QWRiVDFhR1NhSVlEd2dmbkJYaUVKTG9paUtnVDM2Y0JJcWZGbFJsdUNzeThHalczbVMwYVZHbURFcFlCV290RElpMHpGN3UxYWd5ZFFnbjZsdEpjeERKOXlYYWtpVG1yaF8welBMQlRieEhIN2cyWTJqSQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "9bba78ad026892",
       "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
@@ -40,6 +136,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129704/bayern-verdediger-ito-aangeboden-bij-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7f48c21845c554",
+      "title": "'Ajax haakt ondanks persoonlijk akkoord definitief af; PSV kan toeslaan'",
+      "category": "Transfers",
+      "published": "2026-08-31T13:32:00+00:00",
+      "updated": "2026-08-31T13:32:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHhodkg4LWU3M0VQYnhXR1FoakEwaWxlZjRDbWUycUFsTlZRMVh4UVhhQkF2b2hnNFpXdVRxankybGh5MmVRMnNWSUo3NzIxR1lScy1zQzFFdFVxMnk2cUd3MnBhcVRDRGtBcHFrb2NRMTRfTnF5YTFmWm9GVWhZTTBDM0pEQWttRWpxZFpuXy14U2FQRFJucjhxazlJNTJiR3I3cmplWVFWNW5Ub00zM09IZTByQ2ZhU0c0Nk1lRWM?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -136,7 +247,7 @@
         },
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdy0wVzl6MVB3NUdYQlBRMjltdGZqeEM5TTRpd1RqU2VoQXpZeHRqMjg2NF9mcTZlcGFmVTdxNkhLU1NuZEtiUEJ0dVV2LVdyb3lOdmFWM2FvZENZX0huTGpSMS1kQ05MTlJkaGZrQ1RJbzdONWtjRG9INDh1cUVKTzM5TmJyUUxqNU5BVWktQzRkbDRnWVhRSTZnWDkxMHV5NVhqOVZTcnM4NDB2WUxLMjUzcWZxeEdLYnBnRlEwMHFXMFpJU0g5VnZZVC0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
           "via_google_news": true
         },
         {
@@ -303,21 +414,6 @@
       "related_sources": []
     },
     {
-      "id": "e37033421b5621",
-      "title": "Nicky van der Gijp kritisch over Ajax-aankoop Amrabat: 'Hij kan niet voetballen'",
-      "category": "Transfers",
-      "published": "2026-08-31T07:37:23+00:00",
-      "updated": "2026-08-31T07:37:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGJ5RzdHeDN6eFBhanpGc1lNSlZHeDlFSjBtall4VzRrWWRTY1RPa25GbzRUdVBtRE9HcnNaWHZsV1A2N0xCX0xvZFBLQWxtbzJpaFlzY2JZZmRSUGJsSXlkVmZDZXUzQzZjV0N0ZFdwbV9qOVY1RkVtNEUzRkRKVlhIbDg3NEdVbERVclEzVW1SdXpSSUxMRU5hNUxBY2xzbmJsTlIwNUdpcXlFZVVMMU5kQ1pEYm9aZHlUeWttamU?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "7060e94229b7fb",
       "title": "Amrabat past perfect bij Ajax van Míchel, één grote twijfel: 'Oogt dikwijls oud'",
       "category": "Transfers",
@@ -364,21 +460,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129455/ochtendkranten-over-psv-feyenoord-en-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c5b21ec983e632",
-      "title": "Aaron Bouwman heeft opvallende statistiek bij Ajax: 'Ik doe gewoon mijn ding'",
-      "category": "Selectie",
-      "published": "2026-08-31T06:36:57+00:00",
-      "updated": "2026-08-31T06:36:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129468/aaron-bouwman-heeft-bijzondere-statistiek-sinds-ajax-debuut.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -451,21 +532,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2pqX3BlcHFJZ3NtTUlacko4dkxVMGZ0bzRBOUpTZWVGb3BLNGR6dTRyWE9yYnlRRFp0OThtaGR4Q3ZfQ05OQmJEU3EtZTNwYXVJcjZPZkFVVG1YbzhFXzZUb3BtS1NLM1V0dkMxSFB0eXdRMV9pNmFpdGo1eWxTWk1kRHZwdlN2cEQ4WTFUdU1jUl9LZ2lZS09pNlVYcEJ2Q3VZRXcxbDJRb1pWcWhfT2J4WVlJQUNDOHRSWEdn?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0c813e11825209",
-      "title": "Perez verbaast zich over Van Dijk-vergelijking van Ajax-talent: 'Het is bijzonder'",
-      "category": "Overig",
-      "published": "2026-08-31T05:52:00+00:00",
-      "updated": "2026-08-31T05:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129447/el-ahmadi-en-perez-kritisch-op-van-dijk-vergelijking-van-ajax-talent.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -633,72 +699,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "f5f4918ef471a6",
-      "title": "Spannende dagen voor Míchel en Ajax: 'We hebben nog drie spelers nodig'",
-      "category": "Overig",
-      "published": "2026-08-30T18:42:33+00:00",
-      "updated": "2026-08-30T18:42:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/spannende-dagen-voor-michel-en-ajax-we-hebben-nog-drie-spelers-nodig",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d40c6206cc87c7",
-      "title": "Van der Vaart komt met duidelijke boodschap aan Ajax: ‘Die zou ik gewoon houden’",
-      "category": "Overig",
-      "published": "2026-08-30T18:42:17+00:00",
-      "updated": "2026-08-30T18:42:17+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2NvTFdwM0ZwaFlmMXZMZW5YWGxCeXZqSHdkamp3SXQzQzB3OFVrMks4UW4tNnNtVDMzTGd6ZWhKd2JoQXlINzhRT1ZxU0thOEkwUC1STTFCdERGXzgwRldVbkZPUldjbFlyYXNxR0hPR01nb2VhRloyRk84elltR2wybFhSTkxOcWJyVzFpSldHNFJNTHBnb2FVSFh0ZFJfOG1LOV9kdEd5R2tOb2ZENGlDRHVWRlljVGhqa0piRTk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6e36f91e30453f",
-      "title": "Bouwman verloor nog nooit met Ajax in Eredivisie: 'Ik zou niet weten hoe dat kan'",
-      "category": "Wedstrijden",
-      "published": "2026-08-30T18:29:32+00:00",
-      "updated": "2026-08-30T18:29:32+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/bouwman-verloor-nog-nooit-met-ajax-ik-zou-niet-weten-hoe-dat-kan",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1c2e67fe4cf27b",
-      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
-      "category": "Transfers",
-      "published": "2026-08-30T17:18:00+00:00",
-      "updated": "2026-08-30T18:19:36+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
