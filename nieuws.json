@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T11:55:24.323935+00:00",
+    "generated_at": "2026-08-31T12:25:42.873248+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 84,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
@@ -13,6 +13,42 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "39b0a6cbee12b6",
+      "title": "De Telegraaf meldt doorbraak: 'Ajax bereikt akkoord met Kopenhagen over huurdeal'",
+      "category": "Transfers",
+      "published": "2026-08-30T11:01:00+00:00",
+      "updated": "2026-08-31T12:02:03+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129645/ajax-en-fc-kopenhagen-bereiken-akkoord-over-huurdeal-van-maher-carrizo.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUhhUU1qdzc4RHFMS1JNSnBuU2RPX250TUxDeWVoRW1oUG14NWw3SjJUaFA1MktMbjNtQV9Od0pJQUZiM3VBaEh4b2xQaG1IMnk5QS05bmU1b1FEbkxhTktKQWk4NzlleEd3aW1qTDI1ZFVkUURydlI0dkpoVzVhY3pJZ0pkUEl0aXBlbnNxdWxXRVdTSUdMbHJURE9SSHhFN0kxMjJmS2thVUpMcXBhNHdrUQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55948/Kopenhagen-en-Ajax-akkoord-over-verhuur-Carrizo",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "0123dc79ad856f",
       "title": "Transfer Baas naar FC Porto op losse schroeven",
@@ -96,21 +132,6 @@
       ]
     },
     {
-      "id": "cc8c5eba9f975f",
-      "title": "Ajax ziet eerste bod op Borja Sainz (25) afgewezen worden",
-      "category": "Transfers",
-      "published": "2026-08-31T09:55:50+00:00",
-      "updated": "2026-08-31T09:55:50+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFJOTGJHTDF2dnRXTmJHSDVsRlpub25XRTZIdURFekNVRUxyQ1hrUHZMSUZQSXlLUmFrQWk5U0xkMlZqY1N4d2NpWEVIYmNua2dINTRGWGFfMldBM203SERxT09aa0NYNXBPRWFCbkZyaV95OXVNTTFpYzJnMkhTVTVOcm9sYjJJQmV6bWEweGwzc2d4X0tLUUNUVXV1eHR6LUpV?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "73a919e8e921b7",
       "title": "Rondom AS: Voormalig Ajacied Alderweireld schuift aan bij Rondo",
       "category": "Overig",
@@ -137,6 +158,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129543/rafael-van-der-vaart-kritisch-op-ajax-talent-jorthy-mokio.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c9ac6773a8697b",
+      "title": "Opvallende houding bij wisselspeler Ajax: ‘Hij zat er niet gezellig bij op de bank’",
+      "category": "Overig",
+      "published": "2026-08-31T08:47:39+00:00",
+      "updated": "2026-08-31T08:47:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLVhsOUJSQkVKbGJRLUNBSXpkU2lKVkFmRTBNTXlHY2tEVk5VdGJrdkdZVVhBMWd3bnVwdzJXak1weXhmZW1ycDY3MlU4OF9mcnRWV0VDZVdLUzM5bkkteUh5OE12cWpacDhBQVZSaFd0bUcwVExndzJzVVBjeHlyQWd4NFNBTUxiVHMyWW1yU3Y4ZEs5OTVNRlB4WjBqb1VLNzdhaHJSak5rMGNKSS1lUDE3WWM0Y2h3OHRzV282Rkszd08w?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -563,27 +599,6 @@
       "related_sources": []
     },
     {
-      "id": "a827ec64d4aa1c",
-      "title": "Done deal: voormalig Ajax-miskoop Tahirovic maakt nieuwe transfer",
-      "category": "Transfers",
-      "published": "2026-08-29T16:15:00+00:00",
-      "updated": "2026-08-30T20:53:37+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129389/benjamin-tahirovic-verruilt-brondby-op-huurbasis-voor-krc-genk.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa1NyZ1dZNGUyUHRVenVWSmp2TWpkeEJsSlU4VWo5ZDBFMHV3UVN5S0pQSDVfZkJmZUd3YVNWMFN0MDVTYXc1TVZqNEJMSS1DSHQxaFNaZWhnLUt2MGczdGxKUGtaM0ZRM0diUnpZb2pQUDdZU3ZMTFB6TW5aRVhJMFRyelpSSUw2a05oc3I3a2VTa1I1Mzk5bnJSX2ctcXl0Y3k0T2FqX0RwZHZXR3lQLVRvaFhqbXBq?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "2c5b69ff27faff",
       "title": "Van der Vaart wijst uitblinker van Telstar-uit aan als beste speler van Ajax",
       "category": "Selectie",
@@ -594,21 +609,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWZmYjAwcGhEel9CYkUxOGRNaEhtenAtNUZiMGVpVGhvUlJ6ZHFNM0t0MXdqUmhyU0tXVWtYdGlXVlRtejdEUGtlcVI5ZHJqRnpSQkpHbllIbmRSeTdqWVVRODNWb2hVRHpmbmhVQm1lNDcxS1VzSzVabEg3RXRSSmVPTFlhamk0TXF3OEZocFBtVHlzTGdmYmZPZmd2NzRxYmJBRV9KQnJ3M0dnMXA2ZkZR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2386ff944f8e9b",
-      "title": "Míchel vergelijkt toptalent van Ajax met wereldster: 'Hij kan de nieuwe Van Dijk worden'",
-      "category": "Selectie",
-      "published": "2026-08-30T20:15:00+00:00",
-      "updated": "2026-08-30T20:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU01neG4wVENqT3JpTHJFRUpzM2ljN0U5Q2Z4aUhmVEZWN2RUUU1ic1huMUhYUlFITjV0VVpvYk80X1doTjNKeUV1VjZSd3RrSzNWdzlMTFRLQW1XV1dFRTl1cm5RbXNTaTZCN1BYVXRyYkZrdUQ1b3gxZXhQcGpUbDJOMWVPdm5MREc5U252RVhBTzhxNzVNcUdudGs4SkRaTktMa2Fzdy15dnB5RWFnUnI5cEw4M0pGSjJsTk9yQ1haWjZ4?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -672,6 +672,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "1c2e67fe4cf27b",
+      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
+      "category": "Transfers",
+      "published": "2026-08-30T17:18:00+00:00",
+      "updated": "2026-08-30T18:19:36+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
+          "via_google_news": true
+        }
+      ]
     }
   ]
 }
