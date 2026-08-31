@@ -1,21 +1,72 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T05:55:04.629806+00:00",
+    "generated_at": "2026-08-31T06:25:17.496871+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 134,
+    "article_count": 136,
     "event_count": 40,
-    "discovered_event_count": 82,
+    "discovered_event_count": 83,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 68,
+    "excluded_video_only_count": 67,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "481e02c05800ed",
+      "title": "Transfer Baas naar FC Porto op losse schroeven",
+      "category": "Transfers",
+      "published": "2026-08-30T13:49:00+00:00",
+      "updated": "2026-08-31T06:18:10+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/transfer-baas-naar-fc-porto-op-losse-schroeven",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129465/ajax-en-fc-porto-komen-er-niet-uit-over-transfer-baas.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55950/Farioli-en-Porto-melden-zich-voor-Youri-Baas",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "47630add1d7489",
+      "title": "‘Jordi Cruijff loopt gevaar en kan Ajax opnieuw aan rand van afgrond brengen’",
+      "category": "Overig",
+      "published": "2026-08-31T06:00:52+00:00",
+      "updated": "2026-08-31T06:00:52+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2pqX3BlcHFJZ3NtTUlacko4dkxVMGZ0bzRBOUpTZWVGb3BLNGR6dTRyWE9yYnlRRFp0OThtaGR4Q3ZfQ05OQmJEU3EtZTNwYXVJcjZPZkFVVG1YbzhFXzZUb3BtS1NLM1V0dkMxSFB0eXdRMV9pNmFpdGo1eWxTWk1kRHZwdlN2cEQ4WTFUdU1jUl9LZ2lZS09pNlVYcEJ2Q3VZRXcxbDJRb1pWcWhfT2J4WVlJQUNDOHRSWEdn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "0c813e11825209",
-      "title": "El Ahmadi tempert Ajax-hype: 'Kan nu niet zeggen dat hij de nieuwe Van Dijk wordt'",
+      "title": "Perez verbaast zich over Van Dijk-vergelijking van Ajax-talent: 'Het is bijzonder'",
       "category": "Overig",
       "published": "2026-08-31T05:52:00+00:00",
       "updated": "2026-08-31T05:52:00+00:00",
@@ -25,6 +76,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129447/el-ahmadi-en-perez-kritisch-op-van-dijk-vergelijking-van-ajax-talent.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c1616a2c5a0e1e",
+      "title": "Kranten zien Ajax tussen transferdrukte door winnen: 'Weinig snelheid en diepgang op vleugels'",
+      "category": "Transfers",
+      "published": "2026-08-31T05:35:00+00:00",
+      "updated": "2026-08-31T05:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFZoR24xUVlYbmcwaXd1dmYyX2ZOLVBtNEVrbXBhTFJudndzblI0X25NaFo4YkFFLUZ3X3ZsLVQ4T2VvYnBDQkc5T3d2OHg4dXREUTRwZkx4djdRakp5eHI1TGdBcVJibHduQ21CanJYZllMR0x0Nkc3RlhucVFSV0xRRHF2WEVlUWIxaXljVlNkR0dmcE5VbkJzeEJWV0Q1WWZ5R3Zra25uUmw1bDE1UmI4TzZQekxTQmxaejNwOGFmQkpiRUxGUjlvWlJ3aDdvb21MeS1XWmhMUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -114,6 +180,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTjNwOHRFWDFmZGMyRmZkZUtlVWg1X3RwUlc2MGpTdmdCVENvWm1pM201U1gzSjEzelhwc3FhTEZCX1piU2tLc24xVldNc3NoMmUybDBHM1JIaUFOVVlJcTcwTmJTN041cWxFazF3OURSSWJWd05URmV4VlFLbmpwbDBwbEdQeVJwcXZ1aTg3YV8yYldoZHMzRmlFNDhNMzBtajVNTlppNGVyZWlOeW85WmtVUlJPV1NyTkdaMHN0c0c1OVFWbFE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "79328f538fc697",
+      "title": "Ajax 2-1 Burnley (26 jul., 2026) Uitslag",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T04:08:52+00:00",
+      "updated": "2026-08-31T04:08:52+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UmlnTHk4T0RIUkNJVm93b2NUb3RTd0VCYlhmMFVBWjFJa0dHRW41SW9CamdVcVJncEk1V2tQczRMcHR4UmUwTmY0bTFFVzRUZlJTRlFlcGV5cHUxWkJUT1ZEdzVyUkpBcndMN1VYUnJXX0hsZ3RPbE4wTy1qX0k?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -236,21 +317,6 @@
       ]
     },
     {
-      "id": "2386ff944f8e9b",
-      "title": "Míchel vergelijkt toptalent van Ajax met wereldster: 'Hij kan de nieuwe Van Dijk worden'",
-      "category": "Selectie",
-      "published": "2026-08-30T20:15:00+00:00",
-      "updated": "2026-08-30T20:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU01neG4wVENqT3JpTHJFRUpzM2ljN0U5Q2Z4aUhmVEZWN2RUUU1ic1huMUhYUlFITjV0VVpvYk80X1doTjNKeUV1VjZSd3RrSzNWdzlMTFRLQW1XV1dFRTl1cm5RbXNTaTZCN1BYVXRyYkZrdUQ1b3gxZXhQcGpUbDJOMWVPdm5MREc5U252RVhBTzhxNzVNcUdudGs4SkRaTktMa2Fzdy15dnB5RWFnUnI5cEw4M0pGSjJsTk9yQ1haWjZ4?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "6cb9ed0ebd33d6",
       "title": "Transfers Ajax: Amrabat hoopt tegen PSV meteen te spelen",
       "category": "Transfers",
@@ -268,42 +334,6 @@
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQndQZWZWY2NMNDQ4bWpFUVVSNUlBUHptNTVST1h4ZXBxZlBBSmRjeENjaUktbzRIeGZMdm9rQ0MzU1NhT1loejJoYVl0LWtnM1hCSGVhb05sbGpjZUlkdXc4OVJzR1QyZ3NsVi1SdUQ4Q1V3d2ZRMTNfZWNFM250MVdibEY5UW9OcFdvcWl6VzhmMVktRmhmS0w5RUp3SjZwOGhnR3hJUFBsTkZyY2hJZ180ck5sZW00b3B4bVRfaTNPWkVXd2N6S2Faa3lqSVdk?oc=5",
           "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "481e02c05800ed",
-      "title": "FC Porto meldt zich bij Ajax voor Youri Baas",
-      "category": "Transfers",
-      "published": "2026-08-30T12:34:04+00:00",
-      "updated": "2026-08-30T19:09:23+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/fc-porto-meldt-zich-voor-youri-baas",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55950/Farioli-en-Porto-melden-zich-voor-Youri-Baas",
-          "via_google_news": false
         }
       ]
     },
@@ -328,7 +358,7 @@
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-30T18:56:41+00:00",
-      "source_count": 6,
+      "source_count": 7,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -423,6 +453,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "18530ea8e543e1",
+      "title": "Ajax-coach Míchel Sánchez: 'Hij kan de nieuwe Virgil van Dijk worden'",
+      "category": "Overig",
+      "published": "2026-08-30T18:04:00+00:00",
+      "updated": "2026-08-30T18:04:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlk2dFNsTmlqOTJHbldRRjZkM1NSYloyOWo2ZkN6cE45QTRQSWhhZExDTksyRFp2QXdIWlFhcGxUR1BGWDVrZEk5QzVkWFlMenNIRHdib1IxYThrSTNGczUtRXBGaXlvRVF6bDE0Y1JZWjdkaThVdGwzQkFxX3cyRW1vd0l3SjBSNVdTQml3NGxEWXBlTkV0NDduUmw1N3JjLTFGTFJ4WDlNNmdZQmstcnFUTHBkVmZYU0dCaw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "a030fffe4df6d9",
@@ -653,57 +698,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSE1wUlBxa01nVnAzelFwcmtkcm12Zklfc3N6cUxjdGFvVGM5RDJZS1VDeTZHOGNobTVpc01OM21NcXdhZTRsZVVKU2dkclFIekhMWS1YT2JSY3VLNXEzNE9lZjhOM09QbmpITWxrcVBWcUpOZERkdWFXbG1UMWxsNWwycXVYTDBZNFBJTk1XS2xYSkFqVHJRNi1vX0oxZXNyNl9yOTVjYjBJU1drVnBuUFFBVWlKdzFUMEt3U2hYWlBzZmtCLVRwdVZRQi1pci0wdjU4M1o4LVI?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7060e94229b7fb",
-      "title": "Míchel reageert op hardnekkige transfergeruchten bij Ajax: 'Vandaag is hij ziek'",
-      "category": "Transfers",
-      "published": "2026-08-30T14:49:00+00:00",
-      "updated": "2026-08-30T15:48:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129283/michel-reageert-op-eventuele-transfer-van-youri-regeer-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXhja2EyY1JiYmZGXzdTYXpwamRaWFNQbUFfb2J0bUo4VktGQm5pT243VXdtRVc5Q2FYSnR6cmFUX3hDdGdGQTc2LWNxR0dHZnZZSk1rRC1PZnNWTVAwWkg3VGpGcmVJNy1GbjA3RGVobWxWeHdKOXpfOE5lNGF1dHJsQkVxZVJfaTQ1Rk9yUFV2dGtpdTJiS0JtdGRFTkwydHc0YXF1SV92UXJFaTF5eFFqeVMtYVFLaE5OblN3?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "40a7c78f2729e8",
-      "title": "Míchel belooft Ajax-fans vuurwerk: ‘Het is honderd procent zeker dat die komt’",
-      "category": "Overig",
-      "published": "2026-08-30T15:18:52+00:00",
-      "updated": "2026-08-30T15:18:52+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXVKemdyZmtnMVBKN3NuYk9PUmpoYmVkZFJSTmhWWW8wMXY2czJUcEtFN1U2NWdoRmVURk5rMXcxMmpDbS1oUlFPMTJYMm93b2dDV0JfNnBzanVKT2RQalZScmtKN0xoOWkzQlVSTm1BN1NkVzF0YXBFeExBejF5T2VXd0F0Vm9PYlFUYW9ZM0hyc1paNXNuM2JyN0o?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "877892e5386fef",
-      "title": "Michel: 'Er komt 100 procent nieuwe linksbuiten, iemand met één-tegen-één-actie'",
-      "category": "Transfers",
-      "published": "2026-08-30T14:56:00+00:00",
-      "updated": "2026-08-30T14:56:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129287/michel-verzekert-dat-ajax-linksbuiten-gaat-aantrekken-zoals-mika.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
