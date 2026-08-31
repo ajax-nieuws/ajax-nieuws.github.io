@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T18:25:16.575515+00:00",
+    "generated_at": "2026-08-31T18:55:07.245009+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 141,
+    "article_count": 138,
     "event_count": 40,
-    "discovered_event_count": 82,
+    "discovered_event_count": 83,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 51,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "03382852508d1c",
+      "title": "Groot transfernieuws: directeur bevestigt Ajax-interesse in La Liga-stopper (24)",
+      "category": "Transfers",
+      "published": "2026-08-31T18:52:02+00:00",
+      "updated": "2026-08-31T18:52:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129867/sportief-directeur-bevestigt-ajax-interesse-in-boyomo.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "c40db1b3614f52",
       "title": "Ajax verhuurt overbodige Regeer en Carrizo, Feyenoord loost Tengstedt",
@@ -95,19 +110,25 @@
       "related_sources": []
     },
     {
-      "id": "ffdd8fa18a17b5",
+      "id": "01b270ed6a9455",
       "title": "Ajax en FC Kopenhagen bezegelen huurtransfer, geen koopoptie voor de Denen",
       "category": "Transfers",
       "published": "2026-08-31T12:02:03+00:00",
       "updated": "2026-08-31T17:52:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129832/ajax-verhuurt-carrizo-aan-fc-kopenhagen.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWdaWFllS3hyeUFrVkV3aUNVUDNtNUpXVk5BQkdTeENqa0NfUllZWkhxRHZJSEwwbXdFeDhBRUxwV3VyaWlSdVRXYlJRMDdfcG9jZUt4YjcwZTZjcVByU3IyeTFvdEhteHh3UC13eFMzRTItdGtMTDhNQjFhb2ZUTkozZ3NlVDk4UVhUNWo3VUtZdTNDS2FXdnU2LXpXTi1jQk5telAwSmF5ZC1jU0U5WE81X2FHanBvWmRPWA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "95763cab3e467f",
@@ -507,21 +528,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDBNb01uVVZZWmtycHczWktmVGZDeHlvVkEwZ1RjeUFkcG5NWklEbF9XcENPX2Rjd3ZOcmtYT3RwSFlraFktSXRtSlE1VzRkRnNSdlVwRGRGcHQ3MTFwaGM3Vjlmb0Y4T2hmdERhYkpMYzZ0OWh4TENtZWRzVVJpYUJmTk1pS3FycWFIcl9Hd1o2d1VCWmFpUmpRMzRVS28xbUtlcm5heC1XLVhrTGR6Nk5DSQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "83ac1eee6c1363",
-      "title": "LIVE 20.00 uur | Jong Ajax gaat op bezoek bij Jong PSV voor nieuwe zege",
-      "category": "Jong Ajax",
-      "published": "2026-08-31T09:15:00+00:00",
-      "updated": "2026-08-31T09:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWVKTmdqSVNIbFd1dDZtLWk2M2NnSm9vRVZ0cWdhTkZEMW9SSXJDUGxUWm1WZlpZTkhYSU50UGs0allnZG1obEpfN3RfaURWb0xGQ1dfbWQzWGpWV1o2M2RsNEVRUmQzeGY4RmwyTUxzNDdNUXU2Vi1sYWtBdF9LRDgxWUg1MEpvOWZJLWY3MlY4Nng4QWRtNEk4WEpEX08yZ3FnN0tpeFIwNmZRYUE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
