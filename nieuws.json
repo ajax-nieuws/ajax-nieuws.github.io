@@ -1,22 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T12:55:19.447573+00:00",
+    "generated_at": "2026-08-31T13:25:13.608660+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 133,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 83,
+    "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 63,
+    "excluded_video_only_count": 65,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "ffd2e5954329c7",
-      "title": "'Ajax grijpt mis: Amsterdams bod op voormalig toptalent Barça afgewezen'",
+      "id": "f80f2e42896302",
+      "title": "Ajax werkt aan komst linksbuiten: 'Het is niet Noa Lang, Napoli vraagt 28 miljoen'",
       "category": "Transfers",
+      "published": "2026-08-30T09:20:00+00:00",
+      "updated": "2026-08-31T12:58:17+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129663/verwij-over-nieuwe-linksbuiten-ajax-noa-lang-wordt-het-niet.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVVlRTWtKb1N3ZThma09weC1JRVA0OHVTRFRnZUd4ZUdLRDJuVVhIVDh5QUZjTWtFZGlVZFB6ZlliTU8yMDNFTV9TZnB1cmR1Z2RwZHlOZEtXZlRVUzM0UjhKVS1LVFhvTm9nQnNvbVBwZm00LVA5VThzQ1RrZlBlczZGNUZSR25uUWMtNHVFRFVBbXUyem1sd0puSFdjSDEwMGpnek03MVMwWElMamxzWkE5bk5VWmFac1lYdGJYOF9DWnRMQ2xadEc2YTJ3cFUxWDhMcDFxdw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "ffd2e5954329c7",
+      "title": "'Pech voor Ajax: Amsterdammers zijn te laat, La Liga-club werkt niet meer mee'",
+      "category": "Overig",
       "published": "2026-08-31T12:48:33+00:00",
       "updated": "2026-08-31T12:48:33+00:00",
       "source_count": 1,
@@ -94,21 +120,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "61f9bbea7ac001",
-      "title": "Ajax brengt bod uit op linksbuiten die twintig miljoen euro waard is",
-      "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
-      "updated": "2026-08-31T10:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "c40db1b3614f52",
@@ -252,21 +263,6 @@
       "related_sources": []
     },
     {
-      "id": "de5f760f397e45",
-      "title": "Van der Vaart: ‘Ik zou hem bij Ajax houden, hij is nog altijd de beste speler’",
-      "category": "Transfers",
-      "published": "2026-08-31T07:43:43+00:00",
-      "updated": "2026-08-31T07:43:43+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "e37033421b5621",
       "title": "Nicky van der Gijp kritisch over Ajax-aankoop Amrabat: 'Hij kan niet voetballen'",
       "category": "Transfers",
@@ -303,7 +299,7 @@
       ]
     },
     {
-      "id": "4d42a9d40a161b",
+      "id": "e12e60af23972c",
       "title": "Nico Tagliafico: Argentijnse publiekslieveling",
       "category": "Overig",
       "published": "2026-08-31T07:02:25+00:00",
@@ -312,7 +308,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVnBFTGh4d2swRWFvWWtmNGItRXB5VkhHZ0hFWU5zU0p5alY2WkVKQlBUWGJRVm8zSmVRZlhYN3lmNmRxOFExel9UcmJ6Ml9FVXExYWYyaUFoOFpLbGJVVHppaG5Hd1BuNHFaMFh3UmRzMFI3N29jRmJabjk1UmxIZG5B?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5CampzcmQtSUVHUW5NdmtOaVY3dUYxVGpSSEhZN0JndFZsTVpWODZFNnlhQ0NrVnVOVUNKak1HSVQxNTlBdWhEeUtSQmpFQ195Q3hMTFYwUjQ3UG95MkpfdG1ZcklPcmltSFN1V1JfNkxKajM2NDM0bXdZdHhvMw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -509,21 +505,6 @@
       "related_sources": []
     },
     {
-      "id": "1ba30c4801dd7d",
-      "title": "De samenvattingen: Ajax en PSV doen goede zaken, Feyenoord wint thuis weer niet",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T05:05:00+00:00",
-      "updated": "2026-08-31T05:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129370/de-samenvattingen-psv-en-ajax-halen-uit-feyenoord-morst-opnieuw-punten.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "cb5a79025e1767",
       "title": "Lof voor nieuwe 'nummer zes' Amrabat bij Ajax: 'Precies de speler die ze nodig hebben'",
       "category": "Selectie",
@@ -685,6 +666,42 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/bouwman-verloor-nog-nooit-met-ajax-ik-zou-niet-weten-hoe-dat-kan",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1c2e67fe4cf27b",
+      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
+      "category": "Transfers",
+      "published": "2026-08-30T17:18:00+00:00",
+      "updated": "2026-08-30T18:19:36+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "18530ea8e543e1",
+      "title": "Ajax-coach Míchel Sánchez: 'Hij kan de nieuwe Virgil van Dijk worden'",
+      "category": "Overig",
+      "published": "2026-08-30T18:04:00+00:00",
+      "updated": "2026-08-30T18:04:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlk2dFNsTmlqOTJHbldRRjZkM1NSYloyOWo2ZkN6cE45QTRQSWhhZExDTksyRFp2QXdIWlFhcGxUR1BGWDVrZEk5QzVkWFlMenNIRHdib1IxYThrSTNGczUtRXBGaXlvRVF6bDE0Y1JZWjdkaThVdGwzQkFxX3cyRW1vd0l3SjBSNVdTQml3NGxEWXBlTkV0NDduUmw1N3JjLTFGTFJ4WDlNNmdZQmstcnFUTHBkVmZYU0dCaw?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     }
