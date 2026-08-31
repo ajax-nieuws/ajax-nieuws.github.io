@@ -1,18 +1,79 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T09:25:27.621728+00:00",
+    "generated_at": "2026-08-31T09:55:16.720941+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 136,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 63,
+    "excluded_video_only_count": 60,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0123dc79ad856f",
+      "title": "Transfer Baas naar FC Porto op losse schroeven",
+      "category": "Transfers",
+      "published": "2026-08-30T13:49:00+00:00",
+      "updated": "2026-08-31T09:53:35+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/transfer-baas-naar-fc-porto-op-losse-schroeven",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129465/ajax-en-fc-porto-komen-er-niet-uit-over-transfer-baas.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "ea74f29e29532b",
+      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
+      "category": "Transfers",
+      "published": "2026-08-31T09:36:09+00:00",
+      "updated": "2026-08-31T09:36:09+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "73a919e8e921b7",
+      "title": "Rondom AS: Voormalig Ajacied Alderweireld schuift aan bij Rondo",
+      "category": "Overig",
+      "published": "2026-08-31T09:25:00+00:00",
+      "updated": "2026-08-31T09:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDBNb01uVVZZWmtycHczWktmVGZDeHlvVkEwZ1RjeUFkcG5NWklEbF9XcENPX2Rjd3ZOcmtYT3RwSFlraFktSXRtSlE1VzRkRnNSdlVwRGRGcHQ3MTFwaGM3Vjlmb0Y4T2hmdERhYkpMYzZ0OWh4TENtZWRzVVJpYUJmTk1pS3FycWFIcl9Hd1o2d1VCWmFpUmpRMzRVS28xbUtlcm5heC1XLVhrTGR6Nk5DSQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "f4b594181f88aa",
       "title": "Van der Vaart ziet gemiste kans bij Ajax: 'Dan hadden ze Amrabat niet gehaald'",
@@ -74,21 +135,6 @@
       "related_sources": []
     },
     {
-      "id": "ea74f29e29532b",
-      "title": "Ueda vertrekt en drukte bij Ajax: hectische laatste dagen transferperiode op komst - NU",
-      "category": "Transfers",
-      "published": "2026-08-31T08:07:04+00:00",
-      "updated": "2026-08-31T08:07:04+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXpNdm85d0pZaUl3OG1PVkx3cVlqUURpQkJLTXlEQUluQ3JTdFBjbXdjOEs0ZmVhaUlENmRfcEFCX3RSZXhhM2lhUi00Z05ZcTlROS1haUZlOG10dW9Wb0lGMWlWWERmTVNCY3ZrQmY2UlVqOUxiMlBEeWJEQUpqR3hTd2VnUGNqRDZyQUs5NmZYUGNybXBSeUlPSWtyS3M5ZVYySC1RMEEtUkZOazlyQnVLMkpncExHWlNKZQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "d9daebbec4d641",
       "title": "Telstar-schlemiel verdedigd na zeperd tegen Ajax: 'Hij is fantastisch voor ons'",
       "category": "Overig",
@@ -115,6 +161,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129384/rafael-van-der-vaart-wil-steven-berghuis-bij-ajax-houden.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e37033421b5621",
+      "title": "Nicky van der Gijp kritisch over Ajax-aankoop Amrabat: 'Hij kan niet voetballen'",
+      "category": "Transfers",
+      "published": "2026-08-31T07:37:23+00:00",
+      "updated": "2026-08-31T07:37:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGJ5RzdHeDN6eFBhanpGc1lNSlZHeDlFSjBtall4VzRrWWRTY1RPa25GbzRUdVBtRE9HcnNaWHZsV1A2N0xCX0xvZFBLQWxtbzJpaFlzY2JZZmRSUGJsSXlkVmZDZXUzQzZjV0N0ZFdwbV9qOVY1RkVtNEUzRkRKVlhIbDg3NEdVbERVclEzVW1SdXpSSUxMRU5hNUxBY2xzbmJsTlIwNUdpcXlFZVVMMU5kQ1pEYm9aZHlUeWttamU?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -185,6 +246,32 @@
       "related_sources": []
     },
     {
+      "id": "481e02c05800ed",
+      "title": "AD heeft groot nieuws over toekomst Youri Baas bij Ajax",
+      "category": "Transfers",
+      "published": "2026-08-30T12:34:04+00:00",
+      "updated": "2026-08-31T06:36:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEtvRlYxR21XRFJxUTBXSlJwMnhTVU5TSUFjdlhVTjlZOWREeXVSUUhkcjduM28wUkVMMGpuZ1FqTk41V2tXX3k5VmxPeVEzTzEwck9paE1VYW5vcnNsZXRpbm9uZUZvUmJTU0gta1VJMm1YNllLQWRZS3dKcXQwMW1zWEVEeHRFRXRDcHducmFvX0pHLU5iVVJQX0xfbko0VHpmOGFpZHVhTU5TdWc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55950/Farioli-en-Porto-melden-zich-voor-Youri-Baas",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "ccda6b155a443d",
       "title": "Bekijk hier alle samenvattingen van speelronde 4 in de Eredivisie",
       "category": "Wedstrijden",
@@ -200,43 +287,7 @@
       "related_sources": []
     },
     {
-      "id": "481e02c05800ed",
-      "title": "Transfer Baas naar FC Porto op losse schroeven",
-      "category": "Transfers",
-      "published": "2026-08-30T13:49:00+00:00",
-      "updated": "2026-08-31T06:25:53+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/transfer-baas-naar-fc-porto-op-losse-schroeven",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129465/ajax-en-fc-porto-komen-er-niet-uit-over-transfer-baas.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEduNjVhS3p3VnZxdVBMQmdJaXR2VzNPcWRwakhZMWpOa1pKUFo5bUdmVjVDbDR5aDJfdi1zcDNqNXVsU2ticHhhanBNMjNLcF9EVUQzV2o2UG1VZVRhWmE0blVCeUhvbGFidTBDYXJ3ZVQyd3VydFZjVnd2NTgyQzVXdGg1NVR6Q1VMMFdGZ0dRdXlSb2dONjAyc0VkVzItSDRhXzk1ZUxuX2I3c2dUMWl5WjBHcnB2OFNFb3VmQjdOak5mcElwQkxsNl8?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55950/Farioli-en-Porto-melden-zich-voor-Youri-Baas",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "0123dc79ad856f",
+      "id": "927dddf8c746d6",
       "title": "'Baas lijkt bij Ajax te blijven; voorstel FC Porto onvoldoende om mee te werken'",
       "category": "Overig",
       "published": "2026-08-31T06:25:00+00:00",
@@ -245,7 +296,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWG5jVW9faG9QMUppQ1dUSnZJV3otUVBzOVZkeFd2cWpaZXBNaVBmcXZvUVF0WmdfdU1RLU9HRmpSWVZ1cGY3SEJ2VUZ1cm1JWjRFNlZDeFJoeUNPRmRuckVVTHZQdWZNdFNwYW1hUElWZERkdkV0VUNtWEcyd1pZdllHTThQRzQ5RGdNbVNoS3M3dHZPSFpiY2MyeEc5WUZWYW5qbUNpQ2YyTW5HUWRHT1UtMDBBYnJyc0c1MThRRFBzTkJ4Wlk3dGMyanpnenF4RkVpZFF3YVh2VWkw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -553,7 +604,7 @@
       "category": "Transfers",
       "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-30T18:56:41+00:00",
-      "source_count": 7,
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -563,7 +614,7 @@
       "related_sources": [
         {
           "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
           "via_google_news": true
         },
         {
@@ -624,57 +675,6 @@
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/bouwman-verloor-nog-nooit-met-ajax-ik-zou-niet-weten-hoe-dat-kan",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1c2e67fe4cf27b",
-      "title": "Berghuis raakt niet in de war van komst Tsygankov en bedankt Blind voor goal",
-      "category": "Transfers",
-      "published": "2026-08-30T17:18:00+00:00",
-      "updated": "2026-08-30T18:19:36+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/berghuis-raakt-niet-in-de-war-van-komst-tsygankov-en-bedankt-blind-voor-goal",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDJzOGxjY3Q0cVowR3hKLXkwcm5hdjY1SjdfUUdiNDItVXhCMGU0NEEyVEdsMlBzdl9kWVR0bWU4VUVOSkZkM3N2bWxoaXpTVDl4OWRSRlVPd1hRLUwzWXJCSXJsT2hOdFFrMklkQ2pBZXk1Q0NyN2JETlJIamd6X3p3YXFvSEpEbHd1emVzRzNQb0lJODllUFdTQWtaVTRpbVk1VFA2YUF3U2hGa2pUaWdHNXpqc3JIS3c?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "b2097990cba449",
-      "title": "Ajax-coach Míchel Sánchez: 'Hij kan de nieuwe Virgil van Dijk worden'",
-      "category": "Overig",
-      "published": "2026-08-30T14:48:00+00:00",
-      "updated": "2026-08-30T18:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlk2dFNsTmlqOTJHbldRRjZkM1NSYloyOWo2ZkN6cE45QTRQSWhhZExDTksyRFp2QXdIWlFhcGxUR1BGWDVrZEk5QzVkWFlMenNIRHdib1IxYThrSTNGczUtRXBGaXlvRVF6bDE0Y1JZWjdkaThVdGwzQkFxX3cyRW1vd0l3SjBSNVdTQml3NGxEWXBlTkV0NDduUmw1N3JjLTFGTFJ4WDlNNmdZQmstcnFUTHBkVmZYU0dCaw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a030fffe4df6d9",
-      "title": "Berghuis volgt opvallende Ajax-tip op en scoort: 'Moet hem bedanken...'",
-      "category": "Overig",
-      "published": "2026-08-30T17:34:00+00:00",
-      "updated": "2026-08-30T17:34:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129336/steven-berghuis-belangrijk-voor-ajax-en-blij-met-komst-tolu-arokodare.html",
         "via_google_news": false
       },
       "related_sources": []
