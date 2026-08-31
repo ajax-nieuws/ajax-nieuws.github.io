@@ -1,32 +1,58 @@
 {
   "meta": {
-    "generated_at": "2026-08-31T14:55:23.259924+00:00",
+    "generated_at": "2026-08-31T15:25:16.724832+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 135,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 85,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 53,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "2eed751231233b",
-      "title": "Verrassend transfernieuws: oud-toptalent van Ajax (21) tekent bij NAC",
-      "category": "Transfers",
-      "published": "2026-08-31T14:51:11+00:00",
-      "updated": "2026-08-31T14:51:11+00:00",
+      "id": "ca6eff8a111ac9",
+      "title": "Van der Eijk fluit met Ajax-PSV eerste Eredivisie-topper uit zijn carrière - NU",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T15:01:27+00:00",
+      "updated": "2026-08-31T15:01:27+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129770/gabriel-misehouy-keert-terug-naar-nederland-met-nac-breda-transfer.html",
-        "via_google_news": false
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdS1POW5XS0lzQjBTdEE2MnNXOTZLZktRXzB6SE1mc05CRzVNX05CT29wOW5OV3ljdVp3S2Y3SkxOODVnZXFRM3lNV2pQWkZReDRpdWtGLWZrcWpqNEltUHlxNUpob01vWkxzaFVlQldQUWVkV2FuaVN5T3lUcTJsc29IOFc1NGh0Z0d4Y2lXVVZobVBhblRER0U0MmNLV19URWNqaHE3N1FrWWlzVElIeURNMA?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "6df0ea6846921e",
+      "title": "NAC huurt voormalig Ajax-talent Misehouy van Girona: ‘Wij zochten aanvallend een extra impuls’",
+      "category": "Transfers",
+      "published": "2026-08-31T14:45:19+00:00",
+      "updated": "2026-08-31T14:58:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXVjTHFndWNTTU9zWmxHSkdYLXBuOC11ZXUwUmlzS3c1YTZnTGExaENPVTE0dmFSTTZodUV1TzdNN2s1V051MFp0VE4zTlVqZEhObDBXUHVhWFp3ejZCWTB0Znk3U0lVWVNlc3dLT2Q5RW5Za3dXME13RV9tbndWVW5KY2JvU2tnbE5nd29DdHo0X3Q4X01iMWFlOHFCVHFVZXE1ZnZwMUhUUk5RNGJ2RW9Xd2x3aGQxUGtqZGxqR2ZPcmRFdVFiUC1NSGFIRjBUT1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129770/gabriel-misehouy-keert-terug-naar-nederland-met-nac-breda-transfer.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2lLWkx6MFVsSnByYnZsZi1ZWi1haFZCUlBRaEg0OFdVNEEtSkJOUXF6TVVkYzhHalFpWUZhcTJyeHFvVGZyaVVZcEU3dzQzd3NQSFBFZlZLYU1SSHNsMUFBYkZaNlpsWi0wNDFnVmJQcjhpT1oxdUZEbHNYLXBBUzZ6Z0ZHd3dPMzk3emNteVV2NXZCa0c2S0dobGJCZlFSNldWRHYxQnN0WFNIX1gyZzhCOUFJOHNCY2k0?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "5bab9e80bc2364",
@@ -48,21 +74,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "6df0ea6846921e",
-      "title": "NAC huurt voormalig Ajax-talent Misehouy van Girona: ‘Wij zochten aanvallend een extra impuls’",
-      "category": "Transfers",
-      "published": "2026-08-31T14:45:19+00:00",
-      "updated": "2026-08-31T14:45:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXVjTHFndWNTTU9zWmxHSkdYLXBuOC11ZXUwUmlzS3c1YTZnTGExaENPVTE0dmFSTTZodUV1TzdNN2s1V051MFp0VE4zTlVqZEhObDBXUHVhWFp3ejZCWTB0Znk3U0lVWVNlc3dLT2Q5RW5Za3dXME13RV9tbndWVW5KY2JvU2tnbE5nd29DdHo0X3Q4X01iMWFlOHFCVHFVZXE1ZnZwMUhUUk5RNGJ2RW9Xd2x3aGQxUGtqZGxqR2ZPcmRFdVFiUC1NSGFIRjBUT1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "9ef8055bce1e03",
@@ -246,7 +257,7 @@
       "title": "De Telegraaf meldt doorbraak: 'Ajax bereikt akkoord met Kopenhagen over huurdeal'",
       "category": "Transfers",
       "published": "2026-08-30T11:01:00+00:00",
-      "updated": "2026-08-31T12:20:00+00:00",
+      "updated": "2026-08-31T12:02:03+00:00",
       "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
@@ -256,9 +267,9 @@
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWdaWFllS3hyeUFrVkV3aUNVUDNtNUpXVk5BQkdTeENqa0NfUllZWkhxRHZJSEwwbXdFeDhBRUxwV3VyaWlSdVRXYlJRMDdfcG9jZUt4YjcwZTZjcVByU3IyeTFvdEhteHh3UC13eFMzRTItdGtMTDhNQjFhb2ZUTkozZ3NlVDk4UVhUNWo3VUtZdTNDS2FXdnU2LXpXTi1jQk5telAwSmF5ZC1jU0U5WE81X2FHanBvWmRPWA?oc=5",
-          "via_google_news": true
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
+          "via_google_news": false
         },
         {
           "name": "Voetbalzone",
@@ -266,9 +277,9 @@
           "via_google_news": true
         },
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-en-fc-kopenhagen-akkoord-over-verhuur-carrizo",
-          "via_google_news": false
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUhhUU1qdzc4RHFMS1JNSnBuU2RPX250TUxDeWVoRW1oUG14NWw3SjJUaFA1MktMbjNtQV9Od0pJQUZiM3VBaEh4b2xQaG1IMnk5QS05bmU1b1FEbkxhTktKQWk4NzlleEd3aW1qTDI1ZFVkUURydlI0dkpoVzVhY3pJZ0pkUEl0aXBlbnNxdWxXRVdTSUdMbHJURE9SSHhFN0kxMjJmS2thVUpMcXBhNHdrUQ?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Ajax.supporters.nl",
@@ -278,12 +289,12 @@
       ]
     },
     {
-      "id": "eb55560edc9e82",
+      "id": "481e02c05800ed",
       "title": "Transfer Baas naar FC Porto op losse schroeven",
       "category": "Transfers",
-      "published": "2026-08-30T13:49:00+00:00",
+      "published": "2026-08-30T11:52:00+00:00",
       "updated": "2026-08-31T11:52:00+00:00",
-      "source_count": 5,
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -298,18 +309,18 @@
         },
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDFzRG1zdlBRMU91MEMzVVhiYjd3M1RjS21USVJXV0JVd0ZEUkNPQnBlbjJyd3VZclpnVmxVMldPaTJPMW9JdjVZS0xFbDJkQ0ZuOU8teTkwYjF6Q1hZSjVFMWc1c0NnSW1vd3Y2aUVxbDM2QWw2N1hGSXphMFQwOGlaUENoOW1kMDgyQ2Q0enNJSUR1RXJNMGNnbDJsOURZRGtlWVh2ZGJ1RVM2NzBDWVZ4c2J1TWFWTi1nNVMxMUJ3ZFVhNXM0?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdy0wVzl6MVB3NUdYQlBRMjltdGZqeEM5TTRpd1RqU2VoQXpZeHRqMjg2NF9mcTZlcGFmVTdxNkhLU1NuZEtiUEJ0dVV2LVdyb3lOdmFWM2FvZENZX0huTGpSMS1kQ05MTlJkaGZrQ1RJbzdONWtjRG9INDh1cUVKTzM5TmJyUUxqNU5BVWktQzRkbDRnWVhRSTZnWDkxMHV5NVhqOVZTcnM4NDB2WUxLMjUzcWZxeEdLYnBnRlEwMHFXMFpJU0g5VnZZVC0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
           "via_google_news": true
         },
         {
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/55954/Porto-stopt-onderhandelingen-met-Ajax-over-Baas",
           "via_google_news": false
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYTE5Zlh5MGxEVGdYR01TbXFmTHJVcUt6RmVMZ2k0OHVoUnVSeVpwVEV0NXdDSUp2X2pmSUZqWmNYUVM3ZnRHU1E1aEdJclZmczZlcE40QUoyOWowak5KSDFBM3BzZDlCRC1KZW1oMUhadGtTQTd5NXNKaF9naHNsQkNXamZEdDdzamdud2F2MU9pd3NHeGZZRHVpNXVWRjFIa3NSd1d2X2NWRl9OT1FiakpPUWk5YzI2X3Izb2l1b1RIT21rVmY4elJqOA?oc=5",
-          "via_google_news": true
         }
       ]
     },
@@ -515,32 +526,6 @@
       "related_sources": []
     },
     {
-      "id": "481e02c05800ed",
-      "title": "AD heeft groot nieuws over toekomst Youri Baas bij Ajax",
-      "category": "Transfers",
-      "published": "2026-08-30T11:52:00+00:00",
-      "updated": "2026-08-31T06:36:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEtvRlYxR21XRFJxUTBXSlJwMnhTVU5TSUFjdlhVTjlZOWREeXVSUUhkcjduM28wUkVMMGpuZ1FqTk41V2tXX3k5VmxPeVEzTzEwck9paE1VYW5vcnNsZXRpbm9uZUZvUmJTU0gta1VJMm1YNllLQWRZS3dKcXQwMW1zWEVEeHRFRXRDcHducmFvX0pHLU5iVVJQX0xfbko0VHpmOGFpZHVhTU5TdWc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkVoWmo2MV83Vms0d1RZZUxnUUgwWDlRc0E4Zzl1SDZfVVJXMDdrSjRuVXlaclRkV0p5TXkzTUpfM0JGSmNTdmE0N1dYNGd2dDJXVkVSdXliMXhBTXVFSTFEQmJpYkxmZU91TjFQRS05eWstS3FIVjhyZXBfUjE4dVRxeU9JajZQTFZ0T2EyTlFxWm9ITXJPa3VydTZFNGJST3FMSFh0UFo0MzJRWjY5blc3Q3oyeXpZaWJwY2djRVo5M2hvQS1vZTc5cmtGNDgxYmtFbGhhZHduUFVFaVN3YWdR?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55950/Farioli-en-Porto-melden-zich-voor-Youri-Baas",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
       "id": "ccda6b155a443d",
       "title": "Bekijk hier alle samenvattingen van speelronde 4 in de Eredivisie",
       "category": "Wedstrijden",
@@ -702,6 +687,21 @@
         "name": "AT5",
         "url": "https://www.at5.nl/artikelen/239699/michel-sanchez-hoopt-dat-ploeg-mee-kan-doen-om-de-titel",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6c1f31cbbebc70",
+      "title": "Dit is Telstar - Ajax in foto's",
+      "category": "Overig",
+      "published": "2026-08-30T21:19:37+00:00",
+      "updated": "2026-08-30T21:19:37+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80S3NrZjA4d3pvMVNJaVVFVXBMcTZhQjZfN05na21VX2lxakRmV2hqUVJwQUdNODJEeFJycmpxZmk0SUxtZmdMQVVyMWJDNmpKU1RFSUVoZzc1bTM5RFhFaERvMkFJdzlsaWJuaHU3dTY?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     }
