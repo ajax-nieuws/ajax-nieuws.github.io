@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T06:58:18.188938+00:00",
+    "generated_at": "2026-09-01T07:30:15.258665+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 146,
     "event_count": 40,
@@ -8,11 +8,26 @@
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 49,
+    "excluded_video_only_count": 46,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ca58b4a706bb3b",
+      "title": "Punten gedeeld in spannende beloftentopper op De Herdgang",
+      "category": "Overig",
+      "published": "2026-09-01T07:28:25+00:00",
+      "updated": "2026-09-01T07:28:25+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa0RNUjVVSWtfa1lSLTRGNE9hU3ZiVk02czBPanN5VE5xdGFET2s5M0pkWUNZZ0ZTS0JZTGNuZU1VWjhDUHpzTTBwTDRZbk1sbFV6SkVGUTVBRXZjTEdPOV96c1pfOTMwV2Vjd1ZNT1ZWVm5rQ3FDbUdOZFRpWGtlMFgzOXhMd0E3Q1lpRTduN0s3dw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "24acaa7a63c1b6",
       "title": "Ajax-fan wil afgepakte sjaal terug en wordt zwaar mishandeld, politie deelt beelden",
@@ -95,19 +110,25 @@
       "related_sources": []
     },
     {
-      "id": "9bba78ad026892",
+      "id": "3f7b5fc968ab11",
       "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
       "category": "Transfers",
-      "published": "2026-09-01T04:43:00+00:00",
+      "published": "2026-08-31T16:40:00+00:00",
       "updated": "2026-09-01T04:43:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129707/ajax-is-zich-aan-het-terugtrekken-in-strijd-om-ounahi-psv-juist-aan-het-pushen.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2lxUEM0X2ZrNW51Mmkwa3NHYkFZRXVvMmRiaWswVjhvaXBrVURZenAzZHozTlNsTUJmYVZEaEQxYTBrX3VtVU1qM2xPajR4cnQtUjlZVnY5bXlKVmlUY0tJOXM1ckZfcXNCNXZKRmZBZnQtNC1EeU9idzRLbGhINHotdk0wOW9IekNtYlBzZktXOGtGcDZUYkxkdzZkRENvT1VFOTJGOTBlempiNVpnalBWeFNSYVBLWnhOV2h5WjJtYUF4djhUWDFFRHI1QmU3bFE?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "03382852508d1c",
@@ -136,6 +157,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129855/enzo-boyomo-van-osasuna-mogelijk-naar-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0c4cd2f7199a6b",
+      "title": "'Fontein was het lek binnen Ajax'",
+      "category": "Overig",
+      "published": "2026-09-01T03:54:14+00:00",
+      "updated": "2026-09-01T03:54:14+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaF9JRzVqM21uX19JUGJIeEpwRTFJRWUxa2dfc3U1NFhGbVE0MGhCRV9PMzZzSWFsYWNLemRuUXRRU3l4OEFJU2JJY2E1bVh6bjZ6TkZVZFc3RUpzNjB5cjVUWVNaTVotNWt4eTdZZDlXbHd2cGN0anN1NVhFNGxfTXJiQ2Jxb01NWEJmQzlYZXR3V0dRZmtRMTFPY2sxRHMzbmY4YV9uMFI?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -494,7 +530,7 @@
       ]
     },
     {
-      "id": "28bf347ad52201",
+      "id": "cf71e863111a14",
       "title": "Na Vitesse-Ajax loopt avondje uit gruwelijk uit de hand op de Korenmarkt",
       "category": "Overig",
       "published": "2026-08-31T17:43:00+00:00",
@@ -503,10 +539,46 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQy1mbGp2WUxQWXlmYW5Dc0xVdTRVUzhWMUZFbGd3RkZyNTh4VmNZdl9lMUowSWtsTFM1WEZ3RnJPbXFyV09tOHN4TkVobmlVOFNQZnotWENkV09lZ294MF9xOXRFRjJnU3pjeWVmT0doeExraGhaS3FLMXdCN3FsMlcwTjd3aUppd0JmSW5kRGtJSzJRR2hwcHF0VVhXN1VmdUp5TTdRZTZ2UzA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaWIzNkxFTll4U1UxZC1JQVVVUUtTQ2JqYnZxMC1vQ2ZDSU5Gc0hCTHNIbEZWMXRWRlJBQWNmQzNobHcxdUJmUnctUUpoMXJ1LTl2Vm1SVE1vRjhMaUl6MURUX19lRWJGVUdVcklJOVB0N0ZnQjFaRXllandtMkdBdVdXNDJYX2RtQVNCMkh0S3VPSDlncHltRjVETWpxeUJ0ZW9yUUhYZGJfR0RoaTZ1TVNIVTVST05jQ0JheTlWai1xRmpienZRYXVtejh1VkpBQm1MMjNLc1VzM293cGtNd0lJaw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "c40db1b3614f52",
+      "title": "Ajax en Werder Bremen akkoord over huurdeal Youri Regeer, inclusief optie tot koop",
+      "category": "Transfers",
+      "published": "2026-08-30T11:52:00+00:00",
+      "updated": "2026-08-31T17:42:00+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1M4UmRMc0ZuMVVmVXMwOHJ3RkxPaUNUMy1tNm9ieThvbkJGdGEwNzh3Y2ZPNnplWmd5RUpMNF96Q0M0RDdNeWF5YmszRHBHUnZiY0JKR3JZOVFxR1JJaHBOeXcyZ1UzU2ZHckk5UVpYM2dyOTNCd1lKUGFTdkFmTno3dnhYOGZKdmk0a2dhT2tCT2lqYl9mdHltLW8zT2t5U0JiOFJzelp0OEtwNjIxYmZjaTA5RnRE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTN4VE4yNm4tcF81QkVJWTdMWURfODluSzRhR0dLZnAyZ2NNWTNSUkFFbW9XWFRIOEtPbmo5U2NlYnBzR19BdGl2SXNMb0dtcTRqblB0YndOS19TSS1mNV9iQlVwM19rSm5Pa3p0RmpCOGtNNV9nemFLbVdrbmk4ekVCRllrN2xsWk8wZG83ZGtqVzhQblkwWUhyY2NUVk1KZkRsajU5WGh4Zw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUG9qUHhoZ25RREN6U1lqcnRQbjdtTVFkbW9WaWY3QlFPU2h2Q0VHOU0zZG9ObXBLTE5FM05tNWczY1M3M2RUZVd0XzdqZWhjODNfaXdVY3FhV3lDZ20zdi05Q2tNR2NicTdfMU9zd21DdDYwaG1ISjJaVXd5RVVhUnpTR3pNdi1PckJXWTQ5RXcyX0ViOW9ySVQwOHJxSm1wQzBZTlhjV25VT0VVanVCVjMwVTZTN0NDN19hcWJUdEI?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkNaTGFIQUNvb0pTcUg4STluMmlITWozWGE4NllhNEVCX2NIeEg5RjJxN2VCTWsySXBseE9YTXpodlJjRUtacW1YMmJqSm5haHR6V1B3ejA0bjFLazBpeHMwSmI1a290VmpKckdkeFJ4WTIwSmhDTmVJa0xlalRBSEthZ04zQTJZZ0E?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55949/Regeer-op-weg-naar-Werder-Bremen",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "c5a0f681f82747",
@@ -637,62 +709,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXZUZ3ZkOFFEbzdMS1pZblNEUzJlb0Q0eXJpTFlvMWhkQ3ppT25nYVRFWWtVVVF1aEM0R1VvYm4tMzZrUjRLMVI0MUVOb0NIVlFxcWxDRERxWWhrVHVnU2lKLXJUQk1ET2psV21UZEVJWW9EZDJ2ZzlYNGJhakZkZUFGWU9aRUVmX0FZb1EwQ0FsZTZKN1RCbkFIR3hWdTAzOTdhdFl4dzZNbklNa0Rn?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ca6eff8a111ac9",
-      "title": "Ajax-PSV eerste topper voor scheidsrechter Van der Eijk",
-      "category": "Wedstrijden",
-      "published": "2026-08-31T14:46:17+00:00",
-      "updated": "2026-08-31T15:38:51+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-psv-eerste-topper-voor-scheidsrechter-van-der-eijk",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2129765/knvb-maakt-scheidsrechter-voor-topper-tussen-ajax-en-psv-bekend.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdS1POW5XS0lzQjBTdEE2MnNXOTZLZktRXzB6SE1mc05CRzVNX05CT29wOW5OV3ljdVp3S2Y3SkxOODVnZXFRM3lNV2pQWkZReDRpdWtGLWZrcWpqNEltUHlxNUpob01vWkxzaFVlQldQUWVkV2FuaVN5T3lUcTJsc29IOFc1NGh0Z0d4Y2lXVVZobVBhblRER0U0MmNLV19URWNqaHE3N1FrWWlzVElIeURNMA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "54ab3b3fb8d90d",
-      "title": "Jongste Ajacieden actief op jeugdtoernooien, debutanten bij O19",
-      "category": "Jeugd",
-      "published": "2026-08-31T14:42:32+00:00",
-      "updated": "2026-08-31T14:42:32+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUdOUGhmaGVrWTNmVFI0SlQzWEtDdjJJdUhzcF8zeHNETHJ3LXUtdmdQUXBiTVlpcTAybjlHdTBmcFBwNXgzc29rcFExRFZRZjE1N1dvUmstNHdoS0lPWF8xRkJGcFB0R3FrSHltQ2l1eWVtQ1pLd0lzdVVDb2Ytc2NaUnJJRnA3QTVEa0VkVm1ZZ1oyTkdV?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0e2df0371730bc",
-      "title": "AD meldt meer details over aanstaand Ajax-vertrek: 'Krabbel is al gezet'",
-      "category": "Transfers",
-      "published": "2026-08-31T14:15:00+00:00",
-      "updated": "2026-08-31T14:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129741/ad-meldt-meer-details-over-aanstaand-ajax-vertrek-krabbel-is-al-gezet.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
