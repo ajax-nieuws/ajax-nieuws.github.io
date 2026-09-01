@@ -1,18 +1,80 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T17:00:02.860563+00:00",
+    "generated_at": "2026-09-01T17:29:16.822165+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 130,
     "event_count": 40,
-    "discovered_event_count": 97,
+    "discovered_event_count": 98,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 106,
-    "excluded_video_only_count": 37,
+    "excluded_paywall_count": 107,
+    "excluded_video_only_count": 38,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "50b03438963bc0",
+      "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
+      "category": "Transfers",
+      "published": "2026-08-31T10:15:00+00:00",
+      "updated": "2026-09-01T17:05:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "8282b824eaaeea",
+      "title": "Ajax verhuurt overbodige Regeer en Carrizo, Feyenoord loost Tengstedt",
+      "category": "Transfers",
+      "published": "2026-08-31T17:16:44+00:00",
+      "updated": "2026-09-01T16:54:11+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629166",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ25WUjMyeGNab2pjQXVpal9NTFotcEk3Q2FZRmpSYy1nYzlBZ0c3QjVQZnJQNWNXZWl6ckMwd3dmUmt5SFhpeUI1UDZqNDloLWxLa3V4Zm0zaEUyVmR2UG10U1p6VjlISUhKN3d2UHdNdDBRZm1ock1WbC0zQkNNdHhXY3F1Y3hkMU05Rk1hVzE0M0tpcXFWc2lVdGRjMVE3QjQwbXRwX0h1bVQyZGV5Um8xa2JTRG1K?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/werder-bremen-maakt-komst-van-ajacied-regeer-bekend",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTR0NDVqem40b0kyRDcwSjV5bVhqX0pmYkM5dWVNeExrbm9UZlJCYVBWMnhSWlQ5eF9RY2k4eENNejlHeXRFQlk1c2J6Y2lRbVBtSnJxWmlqN3h3TlFzc0pzd0ktSHRiZHlOYnNqU0xEN0RlM2VGajRUeDU1MUZDNDdmbjVVRTJ5em4xa2FoOEVpUF9DWVc4NDRoV2V2c21KRUdDalRZeFlHbHI0VF9QYlV2MW9LbnNzUzAwbHVvN0hTSDNJ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "82e5dd42750dfc",
       "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst",
@@ -42,27 +104,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "61f9bbea7ac001",
-      "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
-      "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
-      "updated": "2026-09-01T16:11:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "fe40d587d0fb11",
@@ -181,16 +222,16 @@
       "related_sources": []
     },
     {
-      "id": "bbbef54fb32c89",
-      "title": "Nog twee spelers in aantocht bij Ajax en drukte bij FC Utrecht: kijk hier naar de dagelijkse Transfer Deadlineshow",
-      "category": "Transfers",
-      "published": "2026-09-01T15:03:08+00:00",
-      "updated": "2026-09-01T15:03:08+00:00",
+      "id": "311d6dda65bad0",
+      "title": "Van Basten plaatst vraagtekens bij beleid Ajax: ‘Heel vreemd’",
+      "category": "Club",
+      "published": "2026-09-01T15:10:00+00:00",
+      "updated": "2026-09-01T15:10:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMkUtWlJqNVlHNUpzbHpCSzR2RlE4VGZuOFdxZHhyWFBYdTRNZF9aVjBLdmg4R3lqOE1CUGVENUlMWjJYQnpSdzU4VDlQYVNKdVI1UGMwUUZSaUFmUEw3VkNHWjIyQnJIVjRvTEF6Z3ZUMnMwRGUwaGJEOThaMF9mX0NDaC1jR0FrV240THJzQ0V0ZDV3V3hYREhzV0NTLV9sdmRtdWM2bV9UTG95OVNReTJuS3JLMkxTcU9IcXZrR3otTV9nTHRsdXYxUjQtNjExOGg3eFVKNm1CaWZrOFVVbE5CUQ?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2hiYUZBeURKVFZZc0tVVW5BZ0dqN1RsQkd6WS0ybDBGT1dWbnB6M0tBMUdPLWxHX0wzcFRmTWlBZlBvR3FlSFNINndyNnJkZm1PVjZMMGFieDNWNm81ZV9ZSXZUSURNbXhMWVVMWFo1cDlrcnJUTFNYU0RFYzRMQjVRY2xxQmZHNHdHSzByYjN3N29VbjNqQVhuWEdSaFFxNVE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -355,9 +396,9 @@
     },
     {
       "id": "a967d1009d9ccd",
-      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
+      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe) - voetbalzone.nl",
       "category": "Transfers",
-      "published": "2026-09-01T12:17:00+00:00",
+      "published": "2026-08-31T18:47:00+00:00",
       "updated": "2026-09-01T12:17:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -622,7 +663,7 @@
     },
     {
       "id": "d112a376ddf883",
-      "title": "Ajax maakt extra ruimte vrij in salarishuis door verhuur met optie tot koop binnen Nederland",
+      "title": "Ajax maakt extra ruimte vrij in salarishuis door verhuur met optie tot koop binnen Nederland - voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-08-31T15:06:43+00:00",
       "updated": "2026-09-01T09:20:00+00:00",
@@ -652,7 +693,7 @@
     },
     {
       "id": "cbd985da3c0584",
-      "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen",
+      "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-01T09:11:00+00:00",
       "updated": "2026-09-01T09:11:00+00:00",
@@ -662,21 +703,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1BETUctR0FLMDZIT3owU1JvM3ZFbnYtLTFjdncxZkVWZ0lmMVJYOEpOcTJBaWlYOEJzLUpmQWJpSDZ0OVAyNHN2d01yZHNFcG9yTTdFV0x0WDN2VkZCOE00QTVxTWg4SWdLeEszX0JJTXJiTkRTTXdRSTFuUUdKVlBFQ05iMnlSWmlTbWsyRGFEQnZhU2pJYmpXZW5iV3ItXzRlLW1zaTdEbXlLSW1j?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "98b94908114aeb",
-      "title": "Sky Sport weet meer over Ajax-geruchten: 'Ito gaat niet naar Ajax, tenzij...'",
-      "category": "Overig",
-      "published": "2026-09-01T09:10:25+00:00",
-      "updated": "2026-09-01T09:10:25+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130070/sky-sport-stellig-verdediger-tenzij-er-iets-bijzonders-gebeurt-niet-naar-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
