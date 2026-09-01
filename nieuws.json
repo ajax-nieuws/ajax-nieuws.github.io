@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T07:30:15.258665+00:00",
+    "generated_at": "2026-09-01T07:56:23.415553+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 146,
+    "article_count": 142,
     "event_count": 40,
     "discovered_event_count": 97,
     "source_count": 12,
@@ -13,6 +13,36 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "abfd48d32f4b6e",
+      "title": "'Verrassing uit Amsterdam: Ajax onderhandelt over 28-voudig Duits international'",
+      "category": "Overig",
+      "published": "2026-09-01T07:47:00+00:00",
+      "updated": "2026-09-01T07:47:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130006/ajax-wil-as-monaco-verdediger-kehrer-huren.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b435b375304a66",
+      "title": "28-voudig Duits international topkandidaat om defensie Ajax te versterken; ook vervanger Godts bijna binnen",
+      "category": "Overig",
+      "published": "2026-09-01T07:44:00+00:00",
+      "updated": "2026-09-01T07:44:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEVlV29mVnl5YzQ4NG9GWjZfMWEzRVJvdWtQekltUkJhWXdYUTQySkdCdnhreEZfc25iSzM2T2NNdlU5dmxHSlpIMVZ2MGQ4T1BBMHpZOWZzVkZqNWVCbmFoVEpVTmk0UG93endkLThSclVPU0Q0YlFCVWdPeUgzWmFsdzZnVS1NUUkzYmF3eHI0cUxKWHNLbHRYTDNUaEhXd3dUSTVjanJXRm03RjhrQVAxUV9aQ3hMWW5pOUVlZ0laSkEyYThjWnJFSmh0NmxiWjBVcmRBcVBEZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "ca58b4a706bb3b",
       "title": "Punten gedeeld in spannende beloftentopper op De Herdgang",
@@ -80,19 +110,25 @@
       ]
     },
     {
-      "id": "b3012f4be38fd4",
+      "id": "74d912a41ea86e",
       "title": "Dit forse bedrag gaat Ajax betalen voor Simon Adingra",
       "category": "Overig",
-      "published": "2026-09-01T05:21:00+00:00",
+      "published": "2026-08-31T22:20:24+00:00",
       "updated": "2026-09-01T05:21:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUZRRXlwZ19rR0gyLWpxcUtnRS1pdUdWWmM0V043RmJKMjhBNmE5Rm55T2NTeWhoN01FanpIRkJNYzR4dTU2dS04dldzNFg2TnZqUWZhZ1BxbnBPbmNNQXJ3ODFpQ1g0WGpWZ2JHUHJhdHFrZ3p3ZjF1cTk4LWZqenZ5OEZmNC1oZDVIMm9FbWQ1SzdHRHVxSi1HV2FEVFd3dUd0b09TbWEzSW8?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbENWMllzamgxRkdIRmw0aDFEU2c5NUVVVTYwQ3duYXZJbFlGd1cyT0dUOHNHZlNkMUpSRjNfYnE4Q1l1WWd0Y3kzRl9SVGYwTk5wM2dxbUxVazRHZXJsNGFzejAwTmpfa1dFRnNQU1BnRjhSQml4R0dqZlQ1VXFoYlJ2emxMLUMzb0N5ekVTenJVbGNhS2JNbm5TMA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "c8fb616250d3a7",
@@ -161,21 +197,6 @@
       "related_sources": []
     },
     {
-      "id": "0c4cd2f7199a6b",
-      "title": "'Fontein was het lek binnen Ajax'",
-      "category": "Overig",
-      "published": "2026-09-01T03:54:14+00:00",
-      "updated": "2026-09-01T03:54:14+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaF9JRzVqM21uX19JUGJIeEpwRTFJRWUxa2dfc3U1NFhGbVE0MGhCRV9PMzZzSWFsYWNLemRuUXRRU3l4OEFJU2JJY2E1bVh6bjZ6TkZVZFc3RUpzNjB5cjVUWVNaTVotNWt4eTdZZDlXbHd2cGN0anN1NVhFNGxfTXJiQ2Jxb01NWEJmQzlYZXR3V0dRZmtRMTFPY2sxRHMzbmY4YV9uMFI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "6b03d741b03957",
       "title": "Mini-topper tussen Jong PSV en Jong Ajax eindigt gelijk, Oufkir scoort voor winnend Jong AZ",
       "category": "Jong Ajax",
@@ -197,25 +218,10 @@
       ]
     },
     {
-      "id": "74d912a41ea86e",
-      "title": "Simon Adingra komt naar Ajax als vervanger van Mika Godts",
-      "category": "Overig",
-      "published": "2026-08-31T22:20:24+00:00",
-      "updated": "2026-08-31T22:20:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbENWMllzamgxRkdIRmw0aDFEU2c5NUVVVTYwQ3duYXZJbFlGd1cyT0dUOHNHZlNkMUpSRjNfYnE4Q1l1WWd0Y3kzRl9SVGYwTk5wM2dxbUxVazRHZXJsNGFzejAwTmpfa1dFRnNQU1BnRjhSQml4R0dqZlQ1VXFoYlJ2emxMLUMzb0N5ekVTenJVbGNhS2JNbm5TMA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "82e971da771515",
+      "id": "dc3794f32a85f2",
       "title": "Fans reageren op aanstaande Ajax-transfer: 'Hij is beter dan Noa Lang'",
       "category": "Transfers",
-      "published": "2026-08-31T12:58:17+00:00",
+      "published": "2026-08-31T21:05:24+00:00",
       "updated": "2026-08-31T21:05:24+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -276,6 +282,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "23e7d60fb9c892",
+      "title": "Geruchtenmolen: 'Ajax doet navraag naar 24-jarige linksbuiten van Sunderland'",
+      "category": "Overig",
+      "published": "2026-08-31T20:30:00+00:00",
+      "updated": "2026-08-31T20:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelA0NksyTkFQOVRJSFNmOFA1SzZ5dERMSEIwZmNsTFJMX1VGRDV0MEU3TlBJckdaaHhOOUtRLXdTOXpHdTZ0M2VfME5GcEM4ZFZhay1udVZQdlB1ampRQ1VlSm9DZ2Jxb2NReEdoSE5aODhYWmV3SEVuWDEzd29ZNGg4LTV6MDF5bFFuLTk1XzBTZy1wQlJjekZiU2NENUExbV9uWWhvR3ZiX0FGTzVBWi1tTV9zdndIclB4UEc2amY4ZGM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "afe21249b3473e",
@@ -411,6 +432,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "cc8c5eba9f975f",
+      "title": "Ajax ziet eerste bod afgewezen worden; vraagprijs bedraagt 13 miljoen euro",
+      "category": "Transfers",
+      "published": "2026-08-31T09:55:50+00:00",
+      "updated": "2026-08-31T18:47:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1d4Uy1zdDhoRTRKVF95ODV0c0ptdUpPaHpJMzVtZ3pEcE4xY1diTmdhNkRJeUMzNDl4MjltSjZfRzVyVENkX2RuMTNENk4tTDh2ZWFaLW5HUm9RanIyZVBCLVlNQ2xnMV84NlY3ajFQX3NIbnBxdGRDRTlyNndjME5tRFItZHNubW45QTIwRS1EOXM0VHdhcEJIODNhSzJraGJwa0FUTDloNjNlWE1UMWIwUWJ6eU5IUnU1RE10ODZ3d05ZSXc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFJOTGJHTDF2dnRXTmJHSDVsRlpub25XRTZIdURFekNVRUxyQ1hrUHZMSUZQSXlLUmFrQWk5U0xkMlZqY1N4d2NpWEVIYmNua2dINTRGWGFfMldBM203SERxT09aa0NYNXBPRWFCbkZyaV95OXVNTTFpYzJnMkhTVTVOcm9sYjJJQmV6bWEweGwzc2d4X0tLUUNUVXV1eHR6LUpV?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "e17c9760b90634",
@@ -678,36 +720,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDVOd1gycV9rZmJ3T211b3dRekstaG0tS2RSbjFHVGRaNTBDcm9waDlCX0wyRG5PeHlaWlBYMmEyUmdiWi1UR2NUdDNJTV8yZ1pqanY1bHRRcEJtMmpJaTByUUh0MmJJejJDem0yWHNsbnVZRXQ2UnNKQnh2MV91RzJPUkxycW9wci16OVdaZmNKYXJNNEh3bVpja1F1SUN6bF9sV3ZYMFNrb01aaEN2TldRUkNvbTFt?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "00ce2112eeaf24",
-      "title": "Ajax brengt bod uit op centrale verdediger van Osasuna en mikt op huurdeal met koopoptie",
-      "category": "Transfers",
-      "published": "2026-08-31T16:10:00+00:00",
-      "updated": "2026-08-31T16:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGczbTJoUjBaZkNDdnh4STNmSHlDQWxvUGZrcjhOeGVwb0RBeUpYTDNycEJIOW5FTnBBV2dvN3FUbExhcHE0NV9CRmhzQVVaOVE5YWxYVG52eUg5MVk5c3B2QXBNTHg1dTJtWjVQdzBnbHFIbTAyVi1NX0tXSVVYUlhQTENoLUk3NGlkMXQ2OFVTdm5pRVoyUWcxOHhXM1MyazBLN1p4T2tudFF4NHpVazBTd1BGcE9xVFJYQVRoVzBPSUdidDdlZThscw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0391941809c427",
-      "title": "'Ajax gaat vol voor centrumverdediger van 15 miljoen euro'",
-      "category": "Selectie",
-      "published": "2026-08-31T15:42:00+00:00",
-      "updated": "2026-08-31T15:42:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWXZUZ3ZkOFFEbzdMS1pZblNEUzJlb0Q0eXJpTFlvMWhkQ3ppT25nYVRFWWtVVVF1aEM0R1VvYm4tMzZrUjRLMVI0MUVOb0NIVlFxcWxDRERxWWhrVHVnU2lKLXJUQk1ET2psV21UZEVJWW9EZDJ2ZzlYNGJhakZkZUFGWU9aRUVmX0FZb1EwQ0FsZTZKN1RCbkFIR3hWdTAzOTdhdFl4dzZNbklNa0Rn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
