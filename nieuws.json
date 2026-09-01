@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T02:56:10.513592+00:00",
+    "generated_at": "2026-09-01T03:30:48.862421+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 134,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 90,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 53,
+    "excluded_video_only_count": 51,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -90,21 +90,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVY0eDBSeWN6ZjBJMFd5UEkxTHppejlWQk5HdnZqOFo2MkFmSWc3T3B2RXRqZlNWMnhEOVRTWVhlU3dZM0lsdTZpc2syVjdScnZkdTZuaEZGMFBCUllxX2o2djQ5M2JUeWhFSDZiTFJFTkQ5dEluZ21kaExNZXU3QUxFZ3BabnlkSm9PZEhiX2N4WkpLdmN3YWMya1hGVl9aM2dxUnd1c2gtc2V0V2QtVGtvSngwSGoxVnJPcVMtR0ZZME0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "52ae027d517a22",
-      "title": "Ajax heeft beet en haalt gedroomde opvolger binnen voor Godts",
-      "category": "Transfers",
-      "published": "2026-08-31T20:47:00+00:00",
-      "updated": "2026-08-31T20:47:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlk4Vi0zUFVNOWJjejhNVEM3Q1RrLXYwOFQ3cUFnTmw5NDRIUmNyTkJoWEtJMVNkLW5uZGc5bnRiS0NxbVIxckwtR2x1Zm9FQ3RHQ0IwYnEtWkk5bnM5NnN2LVlYY3NrdzBkUFNiRFRyYTR4WGwxNHRGSW4xMTZ4SU9ORFNJTEJnbXcwWmpTYktfVFBPLXAxR0lFM0Ffckp2aFB5a1NRYTNxNi1YRDBINkxGYzJQZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -407,6 +392,21 @@
       "related_sources": []
     },
     {
+      "id": "c5a0f681f82747",
+      "title": "Verbazing over aangestelde scheidsrechter Ajax - PSV: 'Hij is niet de beste'",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T17:32:37+00:00",
+      "updated": "2026-08-31T17:32:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEgtTE5PZFBYNnRJcngtZEUyNHoyRVlYUzVSeE80WmxtWTNkR1dzVWhSRGJzVnU3dXJ2N083Xy1RTDVrOEV4U1lGRXBhN0RQRDM2S0ZfSWlWRzlucTlIQzFUWk14b0hKN04tTVFSclNtMmhITjZDMVlMM0ZzcVEzMXVpLUJlczNDa2FOeDEyc3R3MVhFR3ZMWXN1WjAtMmJaRkgyLWxGamdIZk8y?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "c4d153c5cc33cd",
       "title": "Youri Regeer naar Werder Bremen op huurbasis",
       "category": "Selectie",
@@ -518,14 +518,14 @@
       },
       "related_sources": [
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdS1POW5XS0lzQjBTdEE2MnNXOTZLZktRXzB6SE1mc05CRzVNX05CT29wOW5OV3ljdVp3S2Y3SkxOODVnZXFRM3lNV2pQWkZReDRpdWtGLWZrcWpqNEltUHlxNUpob01vWkxzaFVlQldQUWVkV2FuaVN5T3lUcTJsc29IOFc1NGh0Z0d4Y2lXVVZobVBhblRER0U0MmNLV19URWNqaHE3N1FrWWlzVElIeURNMA?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2129765/knvb-maakt-scheidsrechter-voor-topper-tussen-ajax-en-psv-bekend.html",
           "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdS1POW5XS0lzQjBTdEE2MnNXOTZLZktRXzB6SE1mc05CRzVNX05CT29wOW5OV3ljdVp3S2Y3SkxOODVnZXFRM3lNV2pQWkZReDRpdWtGLWZrcWpqNEltUHlxNUpob01vWkxzaFVlQldQUWVkV2FuaVN5T3lUcTJsc29IOFc1NGh0Z0d4Y2lXVVZobVBhblRER0U0MmNLV19URWNqaHE3N1FrWWlzVElIeURNMA?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Ajax Showtime",
@@ -676,16 +676,16 @@
       "related_sources": []
     },
     {
-      "id": "6b8a49fabf6c37",
-      "title": "Hugo Borst snapt helemaal niets van keuze Ajax: 'Uitgerekend hij moet weg'",
+      "id": "9909d1250192b5",
+      "title": "Carrière van door Ajax begeerde Noa Lang neemt opeens heel andere wending bij Napoli",
       "category": "Overig",
-      "published": "2026-08-31T11:25:22+00:00",
-      "updated": "2026-08-31T11:25:22+00:00",
+      "published": "2026-08-31T11:18:00+00:00",
+      "updated": "2026-08-31T11:18:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2stbF8xYmRJMnI3S1VUdXJGWkc3Mmd5cm1CMEFiUmRNNjY2M0tFS3dWVllTdmNoYVhJb0lqaVR6X1BjODQxVWVJSDctdXlOUWRVV1pJVHJjNE1NYTVVc1F1NjNLVGNETTZfUEV6RnYyTUlpZW02bUF1bV9Ua3ZrLW5QLVF1b3duelVWZVFYZTNidl9jMElpMEVaVzA0Y25GSTdyMW5WNW1OWmdfM2xzWDBwN0dvbFdr?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdXJ1Yk9nUWpSZ0s3cWNPb0hmVjNLSlF3cTBrQkNvUDJBOWh4VzVKS1hCX0lHQ0kzbHhKVnJPOHdMX05WdmwxN2lOY2VLbUo2YnNpSmlfRDl1bFMzaU5WZVQzS2s5ZHVXTS1kM1E5ckJldXNqWkY5YlRkM0hScU1PNVp1SV85c1VjYU9KQ2lpSE1XZVUtbVVPVjZTZGNCYnBRQkdWT0lycHBWQ2UwUHl2TGxQN2xLQ3NpaXRFUVFhV3RFZXRGYlo1bDdWaXZ1SmY3bTRfWA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
