@@ -1,24 +1,90 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T15:50:29.486629+00:00",
+    "generated_at": "2026-09-01T16:44:23.033640+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 137,
+    "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 101,
+    "discovered_event_count": 99,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 43,
+    "excluded_video_only_count": 38,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "1d4c1dbf232a74",
-      "title": "Amrabat debuteert op trainingsveld; ook Tsygankov present",
+      "id": "82e5dd42750dfc",
+      "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst",
       "category": "Selectie",
-      "published": "2026-09-01T15:48:04+00:00",
-      "updated": "2026-09-01T15:48:04+00:00",
+      "published": "2026-09-01T16:25:00+00:00",
+      "updated": "2026-09-01T16:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGpsbmRHV21obFJ3dFhWRGppQmUtVWJsZTczUlh6TGNlc2tYS09naGUyNUFwNy1CUW5KS1NUc0ZnbVFQZkhxSUhPSnVyZzRxVFpFcXUxYl83NllFTUV3MGVSaENRblRyQjIzNlFNUUcxWE9OY09mR3J3cVozZGp4YTR2YTlaeDdNem9NMlk0SHNUQUpXX2pxMm1Hc2JpS0x5QWt5T2Q3WVdhalQxbzlXTzhUeWtGNWZCd0pWOUdzYm1SdlRkWTEzVQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "72951373920f69",
+      "title": "FC Utrecht heeft beet: ex-Ajacied Medic keert terug in de Eredivisie",
+      "category": "Wedstrijden",
+      "published": "2026-09-01T16:14:03+00:00",
+      "updated": "2026-09-01T16:14:03+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130360/fc-utrecht-heeft-beet-ex-ajacied-medic-terug-in-eredivisie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "61f9bbea7ac001",
+      "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
+      "category": "Transfers",
+      "published": "2026-08-31T10:15:00+00:00",
+      "updated": "2026-09-01T16:11:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "fe40d587d0fb11",
+      "title": "Adingra geeft ja-woord aan Ajax, ook Kehrer onderweg",
+      "category": "Overig",
+      "published": "2026-09-01T16:05:00+00:00",
+      "updated": "2026-09-01T16:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/adingra-geeft-ja-woord-aan-ajax-ook-kehrer-onderweg",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1d4c1dbf232a74",
+      "title": "Amrabat debuteert op trainingsveld; ook Tsygankov present - Ajax",
+      "category": "Selectie",
+      "published": "2026-09-01T15:47:48+00:00",
+      "updated": "2026-09-01T15:47:48+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
@@ -115,6 +181,21 @@
       "related_sources": []
     },
     {
+      "id": "bbbef54fb32c89",
+      "title": "Nog twee spelers in aantocht bij Ajax en drukte bij FC Utrecht: kijk hier naar de dagelijkse Transfer Deadlineshow",
+      "category": "Transfers",
+      "published": "2026-09-01T15:03:08+00:00",
+      "updated": "2026-09-01T15:03:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMkUtWlJqNVlHNUpzbHpCSzR2RlE4VGZuOFdxZHhyWFBYdTRNZF9aVjBLdmg4R3lqOE1CUGVENUlMWjJYQnpSdzU4VDlQYVNKdVI1UGMwUUZSaUFmUEw3VkNHWjIyQnJIVjRvTEF6Z3ZUMnMwRGUwaGJEOThaMF9mX0NDaC1jR0FrV240THJzQ0V0ZDV3V3hYREhzV0NTLV9sdmRtdWM2bV9UTG95OVNReTJuS3JLMkxTcU9IcXZrR3otTV9nTHRsdXYxUjQtNjExOGg3eFVKNm1CaWZrOFVVbE5CUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "5a098836f1188c",
       "title": "Kale En Kokkie En Het Nieuwe Kanon Van Ajax | Kale & Kokkie Podcast #33",
       "category": "Overig",
@@ -128,6 +209,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "b4e1b503d81095",
+      "title": "Schokkende beelden: Ajax-fan zwaar mishandeld na ruzie om sjaal",
+      "category": "Overig",
+      "published": "2026-09-01T13:13:00+00:00",
+      "updated": "2026-09-01T14:33:43+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130235/politie-zoekt-verdachten-na-zware-mishandeling-ajax-fan-om-sjaal.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDZqZHAzZGR3MS1nRG5aeXdlSmloLWZnTmgxVy1YWEJ4T1cxOENhRDNWM0RUYUJlV0pIcUFBR2toanh2bHhqTXRLNS1GOHktZDNWSGlSd0RfUHdWdzhqelFBNmRnckRueFVLVWd0UWFpX0xkSVdRQm5teFZ2ZEluZ0J4d3FZQW1kdC1WVXphVkZtSHhuTFRSUVRydEJsVjZPSzNqY0dHS3MzOUhHS24wbWI0NE0tQQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "cc1089f31c7fc3",
@@ -205,21 +307,6 @@
       "related_sources": []
     },
     {
-      "id": "ea0a6eeb000b8a",
-      "title": "Schokkende beelden: Ajax-fan zwaar mishandeld na ruzie om sjaal",
-      "category": "Overig",
-      "published": "2026-09-01T13:13:00+00:00",
-      "updated": "2026-09-01T13:13:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130235/politie-zoekt-verdachten-na-zware-mishandeling-ajax-fan-om-sjaal.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "16634265ba2c00",
       "title": "'Meer details over Kehrer-deal: Ajax neemt volledig salaris over van Monaco'",
       "category": "Transfers",
@@ -265,6 +352,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "a967d1009d9ccd",
+      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
+      "category": "Transfers",
+      "published": "2026-09-01T12:17:00+00:00",
+      "updated": "2026-09-01T12:17:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "5759231be29d91",
@@ -535,7 +637,7 @@
     },
     {
       "id": "e574e5e165b739",
-      "title": "Paul Reverson op huurbasis naar De Graafschap",
+      "title": "Paul Reverson op huurbasis naar De Graafschap - Ajax",
       "category": "Selectie",
       "published": "2026-09-01T09:15:10+00:00",
       "updated": "2026-09-01T09:15:10+00:00",
@@ -550,24 +652,18 @@
     },
     {
       "id": "cbd985da3c0584",
-      "title": "'Ajax verrast en onderhandelt over 28-voudig Duits international voor defensie'",
+      "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen",
       "category": "Overig",
-      "published": "2026-09-01T07:57:42+00:00",
+      "published": "2026-09-01T09:11:00+00:00",
       "updated": "2026-09-01T09:11:00+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130006/ajax-wil-as-monaco-verdediger-kehrer-huren.html",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1BETUctR0FLMDZIT3owU1JvM3ZFbnYtLTFjdncxZkVWZ0lmMVJYOEpOcTJBaWlYOEJzLUpmQWJpSDZ0OVAyNHN2d01yZHNFcG9yTTdFV0x0WDN2VkZCOE00QTVxTWg4SWdLeEszX0JJTXJiTkRTTXdRSTFuUUdKVlBFQ05iMnlSWmlTbWsyRGFEQnZhU2pJYmpXZW5iV3ItXzRlLW1zaTdEbXlLSW1j?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1BETUctR0FLMDZIT3owU1JvM3ZFbnYtLTFjdncxZkVWZ0lmMVJYOEpOcTJBaWlYOEJzLUpmQWJpSDZ0OVAyNHN2d01yZHNFcG9yTTdFV0x0WDN2VkZCOE00QTVxTWg4SWdLeEszX0JJTXJiTkRTTXdRSTFuUUdKVlBFQ05iMnlSWmlTbWsyRGFEQnZhU2pJYmpXZW5iV3ItXzRlLW1zaTdEbXlLSW1j?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "98b94908114aeb",
@@ -581,96 +677,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130070/sky-sport-stellig-verdediger-tenzij-er-iets-bijzonders-gebeurt-niet-naar-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d37ddfa6a19603",
-      "title": "Punten gedeeld in spannende beloftentopper op De Herdgang",
-      "category": "Overig",
-      "published": "2026-09-01T07:28:25+00:00",
-      "updated": "2026-09-01T07:28:25+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2VydF80MXRwMXlpUlBNTmZ0VW9jOXZpd3Y1cjVTVEtrbWpVZHBJdmgya2xzTzF1ME9VVVFGaDNCR3BWOUZrZEpxbUNabjAxTUFNM2FrOGRfb0pIMjdrZlJNR1ZWYU5tTmZHczAyN2lRQkxHUldFeE05Y3Q3MXI1Q2x5VjRQanY2Ukx6eC1EVzU?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "24acaa7a63c1b6",
-      "title": "Ajax-fan wil afgepakte sjaal terug en wordt zwaar mishandeld, politie deelt beelden",
-      "category": "Club",
-      "published": "2026-09-01T06:27:00+00:00",
-      "updated": "2026-09-01T06:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239712/ajax-fan-wil-afgepakte-sjaal-terug-en-wordt-zwaar-mishandeld-politie-deelt-beelden",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "83a4f28bf02e5b",
-      "title": "Verweij: Ajax heeft 'stunt van jewelste' binnen handbereik",
-      "category": "Overig",
-      "published": "2026-09-01T05:42:15+00:00",
-      "updated": "2026-09-01T05:42:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXNqa3dkRGEtLUJINDJ0d3g5QTdDR3g4LW5mbjQwOGpQSGF5elRaNXFCZXctMk1PSnNzdGZ4N2tpekl1SldSRkVnRUhtdXhJd1ZkWnB5SzB5TWZTV0Nxc1A1Mkk3M25MV0c1VjhheXFIMFZDWGdlMXRJTk03cXdLMWlhNVlFMHFvbzhnZWozUnJWeFRTeFlId09jSXRSWnhIbXZBVzhnemtsMnZLcGR3MjA5MTFHRTd0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "118c3f44369835",
-      "title": "Ajax-toptalent kritisch op zichzelf: 'Dat moet eruit, levert meteen grote kans op'",
-      "category": "Selectie",
-      "published": "2026-09-01T05:28:00+00:00",
-      "updated": "2026-09-01T05:28:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129943/ajax-toptalent-bouwman-kritisch-op-zichzelf.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7239935164e2ed",
-      "title": "Ruud Gullit schrikt van Ajax-lieveling Tolu Arokodare: 'Hoe is dit nou mogelijk?'",
-      "category": "Overig",
-      "published": "2026-09-01T05:25:25+00:00",
-      "updated": "2026-09-01T05:25:25+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2Q5bHZ6c3Q1X2dxR0lETUs2eVk2UUs4Ml8tcHI4bEI3al9oODFtUllQd0ZyQVVpZXRTeXVZOHRSenhQd2hZWGVmNjJvXzM5ZHEyb0loREpvaXUwWXF4YVBfU3dLdVFuZnFOTkduMjJLbzVPRGZUVzhEY0NxUDZUaG5OZ3l2djR6NncxV3BaV0tmUElNUjRoZTRXNXAzQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b3012f4be38fd4",
-      "title": "Dit forse bedrag gaat Ajax betalen voor Simon Adingra",
-      "category": "Overig",
-      "published": "2026-09-01T05:21:00+00:00",
-      "updated": "2026-09-01T05:21:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUZRRXlwZ19rR0gyLWpxcUtnRS1pdUdWWmM0V043RmJKMjhBNmE5Rm55T2NTeWhoN01FanpIRkJNYzR4dTU2dS04dldzNFg2TnZqUWZhZ1BxbnBPbmNNQXJ3ODFpQ1g0WGpWZ2JHUHJhdHFrZ3p3ZjF1cTk4LWZqenZ5OEZmNC1oZDVIMm9FbWQ1SzdHRHVxSi1HV2FEVFd3dUd0b09TbWEzSW8?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
