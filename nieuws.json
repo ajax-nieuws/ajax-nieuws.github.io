@@ -1,24 +1,45 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T08:32:29.201680+00:00",
+    "generated_at": "2026-09-01T08:57:13.028330+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 143,
+    "article_count": 142,
     "event_count": 40,
     "discovered_event_count": 95,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 47,
+    "excluded_video_only_count": 48,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "84cf3822b7f111",
+      "title": "Transfers Ajax: Franse media melden interesse in Kehrer",
+      "category": "Transfers",
+      "published": "2026-09-01T08:00:00+00:00",
+      "updated": "2026-09-01T08:33:15+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/transfers-ajax-franse-media-melden-interesse-in-kehrer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGhhX2ZER0k4Qzhpc0ZvZWl3Y0xyMXNnUFBadFZob2FLYU8wTThkYXUxWmRKV1hVbkRUY3RFYWZjTXZZNWZoMGRZSmo5NE5GR0gyVVg4R3AzVG9PNFFzeEZWYlFlMHFtNjZJNmdPbUFFVDg2RzRTZExsbzJHUmdvdmxPUl9aQ2Z0eFU1TGR3UnVtWVptRzZtMmR0b2FVUmFqMGNRdE15cHFUUVpCTG9JZTdHN1JXc2N4bDNtdGU3amVaeDRhOWJST0VlcmZoUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "b4a25def9fad2a",
       "title": "Ajax ziet in Adingra opvolger van Godts",
       "category": "Transfers",
       "published": "2026-08-31T20:45:00+00:00",
-      "updated": "2026-09-01T08:21:09+00:00",
+      "updated": "2026-09-01T08:26:15+00:00",
       "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
@@ -50,34 +71,25 @@
       ]
     },
     {
-      "id": "9bba78ad026892",
+      "id": "3f7b5fc968ab11",
       "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
       "category": "Transfers",
-      "published": "2026-09-01T08:10:44+00:00",
+      "published": "2026-08-31T16:40:00+00:00",
       "updated": "2026-09-01T08:10:44+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129707/ajax-is-zich-aan-het-terugtrekken-in-strijd-om-ounahi-psv-juist-aan-het-pushen.html",
         "via_google_news": false
       },
-      "related_sources": []
-    },
-    {
-      "id": "84cf3822b7f111",
-      "title": "'Kehrer topkandidaat om defensie van Ajax in slotfase transferperiode te versterken' - ajaxshowtime.com",
-      "category": "Transfers",
-      "published": "2026-09-01T08:00:00+00:00",
-      "updated": "2026-09-01T08:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGhhX2ZER0k4Qzhpc0ZvZWl3Y0xyMXNnUFBadFZob2FLYU8wTThkYXUxWmRKV1hVbkRUY3RFYWZjTXZZNWZoMGRZSmo5NE5GR0gyVVg4R3AzVG9PNFFzeEZWYlFlMHFtNjZJNmdPbUFFVDg2RzRTZExsbzJHUmdvdmxPUl9aQ2Z0eFU1TGR3UnVtWVptRzZtMmR0b2FVUmFqMGNRdE15cHFUUVpCTG9JZTdHN1JXc2N4bDNtdGU3amVaeDRhOWJST0VlcmZoUQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2lxUEM0X2ZrNW51Mmkwa3NHYkFZRXVvMmRiaWswVjhvaXBrVURZenAzZHozTlNsTUJmYVZEaEQxYTBrX3VtVU1qM2xPajR4cnQtUjlZVnY5bXlKVmlUY0tJOXM1ckZfcXNCNXZKRmZBZnQtNC1EeU9idzRLbGhINHotdk0wOW9IekNtYlBzZktXOGtGcDZUYkxkdzZkRENvT1VFOTJGOTBlempiNVpnalBWeFNSYVBLWnhOV2h5WjJtYUF4djhUWDFFRHI1QmU3bFE?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "b435b375304a66",
@@ -168,7 +180,7 @@
     },
     {
       "id": "b3012f4be38fd4",
-      "title": "Dit forse bedrag gaat Ajax betalen voor Simon Adingra",
+      "title": "Dit forse bedrag gaat Ajax betalen voor Simon Adingra - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-01T05:21:00+00:00",
       "updated": "2026-09-01T05:21:00+00:00",
@@ -279,7 +291,7 @@
     },
     {
       "id": "ad6e0f86b2e15f",
-      "title": "'FC Utrecht denkt aan voormalig Ajax-verdediger als versterking voor de achterhoede' - ajaxshowtime.com",
+      "title": "'FC Utrecht denkt aan voormalig Ajax-verdediger als versterking voor de achterhoede'",
       "category": "Selectie",
       "published": "2026-08-31T20:50:00+00:00",
       "updated": "2026-08-31T20:50:00+00:00",
@@ -353,10 +365,25 @@
       "related_sources": []
     },
     {
+      "id": "3b254e15162506",
+      "title": "Jong Ajax-talent verrast doelman Nick Olij en scoort tegen Jong PSV bijna vanaf 50 meter",
+      "category": "Jong Ajax",
+      "published": "2026-08-31T19:30:00+00:00",
+      "updated": "2026-08-31T19:59:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmhRa0FpYkYzcFI1dW43NU91NVR1d1B1QW1LTVpYRDdVZ0N0a3FUdkxKeW1DeFlrZk5XanV0UHNQT0ZVLUUwZmNuYzVQVUhPazBjeXlRdUV5c08yaE55M19fbGpCczFWNHVFS3hteEpfbDNYblV1cFZpcTRlOUVqMVFKa21JbEFZcTU2N1lFWGNibHItV01OeEtFYWFVRmlFT2thOHFYeE55T0JfbnYwc1JfSUZVUkdEaDZ3M1JMQXJ1dw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "3900321524f6ad",
-      "title": "Ajax meldt zich officieel in Premier League voor man van 22 miljoen euro",
+      "title": "Ajax meldt zich officieel in Premier League voor man van 22 miljoen euro - voetbalzone.nl",
       "category": "Transfers",
-      "published": "2026-08-31T19:55:00+00:00",
+      "published": "2026-08-31T18:47:00+00:00",
       "updated": "2026-08-31T19:55:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -368,22 +395,7 @@
       "related_sources": []
     },
     {
-      "id": "3b254e15162506",
-      "title": "Nick Olij laat zich bijna verrassen vanaf 50 meter: Jong PSV redt punt tegen Jong Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-08-31T19:30:00+00:00",
-      "updated": "2026-08-31T19:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTVCaFM2blA1S3RGdy1MV1FCTmZVMUh3WmpkaXB1ampuQzZYQmZZamhlcnJTYXVYRWFMNmFscTA3bFpoUmlfbVpfa0pxVzhhN1hpM051WmVzMEhVaHF0b2NuZDBWSTBjUGR0QVVlaVdEdjVIRUJBU19wMVNXcmswT3VUTklPRnk3Tm9QaGZFSDRUeW42QklKVkxKYXp2Z2kyUkhwdU1Qb3Z4YlVwYXphODg0NXQ1OHh0NzBoRkRn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4510aec725c024",
+      "id": "70a3a3dd6d1ef3",
       "title": "LIVE Keuken Kampioen Divisie | Jones benut strafschop en zet Jong PSV weer naast Jong Ajax",
       "category": "Jong Ajax",
       "published": "2026-08-31T19:30:00+00:00",
@@ -392,14 +404,14 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQndhRDJILTRKa0VsSGRDRWR6cWtwZmk0TVVuWHFIb1JhbjBUZ2xabkxZR2JSbHg3Tk9hSmRZZ1lxSFJ3ZVMtc2FqLW1mSzVWeHBUTjMwSVpwMVlVejFZQ3ExemhGSFVXU2VOMVQtMHJYUFNzM2JDOE1udS1zMXctVXY5OS1ZLVBXOFN6M29VVk9vTDY4cDBwZXotc3Y3eTdOOFhVQ1N3ZUx5VXo0Z2IyMWZjNzRIME5fTkdMUDBWNGxrZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenl5VllDYVRVbHYzaU4yYlZpb2RmbUNkSGpPMjQ1aC1ud1NkZWFOTUx4Z2M0ODc1Q3FTUVFBcXliTnZmdUhuUHdEcFBLT2QyU09wcGh1Ynh1c1JMXzhNTE1USENzTi1zRndkZ1ktYnVQc2NXQzZ5VDRjeHF2SFE0RW5YdXp3Z3oyQXpxUU40TVMxRW1uRU8teGphYTd0bnBWV05KTXpkVGdqY1ZwdW5ycnFpbHJJMk94ZG4wdjhrWHJlQjJKYUlVVDk3V0tTX1VnellLbmlyUDU5Zw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
     },
     {
       "id": "b0e2424000af3e",
-      "title": "Rondom Ajax: Ajax-target Spina aanwezig tijdens competitiewedstrijd van Jong Ajax - ajaxshowtime.com",
+      "title": "Rondom Ajax: Ajax-target Spina aanwezig tijdens competitiewedstrijd van Jong Ajax",
       "category": "Jong Ajax",
       "published": "2026-08-31T19:25:00+00:00",
       "updated": "2026-08-31T19:25:00+00:00",
@@ -426,27 +438,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "cc8c5eba9f975f",
-      "title": "Ajax ziet eerste bod afgewezen worden; vraagprijs bedraagt 13 miljoen euro",
-      "category": "Transfers",
-      "published": "2026-08-31T09:55:50+00:00",
-      "updated": "2026-08-31T18:47:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1d4Uy1zdDhoRTRKVF95ODV0c0ptdUpPaHpJMzVtZ3pEcE4xY1diTmdhNkRJeUMzNDl4MjltSjZfRzVyVENkX2RuMTNENk4tTDh2ZWFaLW5HUm9RanIyZVBCLVlNQ2xnMV84NlY3ajFQX3NIbnBxdGRDRTlyNndjME5tRFItZHNubW45QTIwRS1EOXM0VHdhcEJIODNhSzJraGJwa0FUTDloNjNlWE1UMWIwUWJ6eU5IUnU1RE10ODZ3d05ZSXc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFJOTGJHTDF2dnRXTmJHSDVsRlpub25XRTZIdURFekNVRUxyQ1hrUHZMSUZQSXlLUmFrQWk5U0xkMlZqY1N4d2NpWEVIYmNua2dINTRGWGFfMldBM203SERxT09aa0NYNXBPRWFCbkZyaV95OXVNTTFpYzJnMkhTVTVOcm9sYjJJQmV6bWEweGwzc2d4X0tLUUNUVXV1eHR6LUpV?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "e17c9760b90634",
@@ -479,7 +470,7 @@
       "related_sources": [
         {
           "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/transfers-ajax-trainer-werder-bremen-onder-de-indruk-van-regeer",
+          "url": "https://www.vi.nl/nieuws/werder-bremen-maakt-komst-van-ajacied-regeer-bekend",
           "via_google_news": false
         },
         {
@@ -658,8 +649,39 @@
       ]
     },
     {
+      "id": "6df0ea6846921e",
+      "title": "NAC huurt voormalig Ajax-talent Misehouy van Girona: ‘Wij zochten aanvallend een extra impuls’",
+      "category": "Transfers",
+      "published": "2026-08-31T14:45:00+00:00",
+      "updated": "2026-08-31T16:25:00+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXVjTHFndWNTTU9zWmxHSkdYLXBuOC11ZXUwUmlzS3c1YTZnTGExaENPVTE0dmFSTTZodUV1TzdNN2s1V051MFp0VE4zTlVqZEhObDBXUHVhWFp3ejZCWTB0Znk3U0lVWVNlc3dLT2Q5RW5Za3dXME13RV9tbndWVW5KY2JvU2tnbE5nd29DdHo0X3Q4X01iMWFlOHFCVHFVZXE1ZnZwMUhUUk5RNGJ2RW9Xd2x3aGQxUGtqZGxqR2ZPcmRFdVFiUC1NSGFIRjBUT1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2129770/gabriel-misehouy-keert-terug-naar-nederland-met-nac-breda-transfer.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWRKZkdHbmdmeUZ1Z2xLaDN2RHFIb3N4M3JkUmpuaGY0NWQ0eXJEQkhfSHNEY3JGYnlyajN2TFRsQ1Jjc3RaWmdrd2xpVGticFFBVWxBMU0wZTVxbE5SUUkwTGxWRS1hOG5uYnhiaXRzNGFMclRHbE1LZGt4dFlNVlNuRm0tMl96V1pRT3JqaVpyWXgzX0piQmRZUzlTbEI1N29iNm4zUXNpaDVQenhKbXBXdERSZw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2lLWkx6MFVsSnByYnZsZi1ZWi1haFZCUlBRaEg0OFdVNEEtSkJOUXF6TVVkYzhHalFpWUZhcTJyeHFvVGZyaVVZcEU3dzQzd3NQSFBFZlZLYU1SSHNsMUFBYkZaNlpsWi0wNDFnVmJQcjhpT1oxdUZEbHNYLXBBUzZ6Z0ZHd3dPMzk3emNteVV2NXZCa0c2S0dobGJCZlFSNldWRHYxQnN0WFNIX1gyZzhCOUFJOHNCY2k0?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "4a3e15a267d911",
-      "title": "Supporters begrijpen niets van besluit over Ajax - PSV: 'Schandalig!'",
+      "title": "Supporters begrijpen niets van besluit over Ajax - PSV: 'Schandalig!' - voetbalzone.nl",
       "category": "Club",
       "published": "2026-08-31T16:12:00+00:00",
       "updated": "2026-08-31T16:12:00+00:00",
@@ -674,7 +696,7 @@
     },
     {
       "id": "128f181d6dfbf9",
-      "title": "Ajax-flop Jakov Medic nadert onverwachts terugkeer in de Eredivisie",
+      "title": "Ajax-flop Jakov Medic nadert onverwachts terugkeer in de Eredivisie - voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-08-31T16:11:00+00:00",
       "updated": "2026-08-31T16:11:00+00:00",
@@ -704,7 +726,7 @@
     },
     {
       "id": "0391941809c427",
-      "title": "'Ajax gaat vol voor centrumverdediger van 15 miljoen euro'",
+      "title": "'Ajax gaat vol voor centrumverdediger van 15 miljoen euro' - voetbalzone.nl",
       "category": "Selectie",
       "published": "2026-08-31T15:42:00+00:00",
       "updated": "2026-08-31T15:42:00+00:00",
