@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T17:29:16.822165+00:00",
+    "generated_at": "2026-09-01T17:55:04.517704+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 130,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 98,
+    "discovered_event_count": 101,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 38,
+    "excluded_video_only_count": 35,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -40,37 +40,27 @@
       ]
     },
     {
-      "id": "8282b824eaaeea",
-      "title": "Ajax verhuurt overbodige Regeer en Carrizo, Feyenoord loost Tengstedt",
+      "id": "1b205e8d0ad2a8",
+      "title": "Niet naar Feyenoord, maar naar PSV: Sami Ouaissa tekent voor vijf jaar bij de kampioen en kan debuteren tegen Ajax",
       "category": "Transfers",
-      "published": "2026-08-31T17:16:44+00:00",
+      "published": "2026-08-31T18:08:33+00:00",
       "updated": "2026-09-01T16:54:11+00:00",
-      "source_count": 5,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629166",
-        "via_google_news": false
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTXBYblZ0eUd3aWI2NV9YYnRZNkJKa2JSMHVNanFhTFc2d2s1YnI1S3pQeVhPYkM3VU03bGNfLUxwNTNvU194TC1wMTFfYkE3MVlOaldNNFpJNjhTR0NseTdZVlM3UmJIYmVXTV9VQWJnczBJeHNoM3VSNm1tdUppTWMyY3VpbTNEdVVHMThLMEtnVlRqdTZxV0poTHVMdGpxazJEaktReVdsWU13RkR5SVNOeTIwQ09QX1pOY3I3UDQtR0FmQzBrMTNOb2tkYUxhbHpJc2xuaTNNc2F0RlJZT2R3?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ25WUjMyeGNab2pjQXVpal9NTFotcEk3Q2FZRmpSYy1nYzlBZ0c3QjVQZnJQNWNXZWl6ckMwd3dmUmt5SFhpeUI1UDZqNDloLWxLa3V4Zm0zaEUyVmR2UG10U1p6VjlISUhKN3d2UHdNdDBRZm1ock1WbC0zQkNNdHhXY3F1Y3hkMU05Rk1hVzE0M0tpcXFWc2lVdGRjMVE3QjQwbXRwX0h1bVQyZGV5Um8xa2JTRG1K?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/werder-bremen-maakt-komst-van-ajacied-regeer-bekend",
+          "name": "NOS",
+          "url": "https://nos.nl/l/2629166",
           "via_google_news": false
         },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTR0NDVqem40b0kyRDcwSjV5bVhqX0pmYkM5dWVNeExrbm9UZlJCYVBWMnhSWlQ5eF9RY2k4eENNejlHeXRFQlk1c2J6Y2lRbVBtSnJxWmlqN3h3TlFzc0pzd0ktSHRiZHlOYnNqU0xEN0RlM2VGajRUeDU1MUZDNDdmbjVVRTJ5em4xa2FoOEVpUF9DWVc4NDRoV2V2c21KRUdDalRZeFlHbHI0VF9QYlV2MW9LbnNzUzAwbHVvN0hTSDNJ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ25WUjMyeGNab2pjQXVpal9NTFotcEk3Q2FZRmpSYy1nYzlBZ0c3QjVQZnJQNWNXZWl6ckMwd3dmUmt5SFhpeUI1UDZqNDloLWxLa3V4Zm0zaEUyVmR2UG10U1p6VjlISUhKN3d2UHdNdDBRZm1ock1WbC0zQkNNdHhXY3F1Y3hkMU05Rk1hVzE0M0tpcXFWc2lVdGRjMVE3QjQwbXRwX0h1bVQyZGV5Um8xa2JTRG1K?oc=5",
           "via_google_news": true
         }
       ]
@@ -147,6 +137,21 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/transfers-ajax-franse-media-melden-interesse-in-kehrer",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1224148ce9222b",
+      "title": "'Ajax wil nog een nieuwe nummer zes: Míchel belt hoogstpersoonlijk met speler zelf'",
+      "category": "Selectie",
+      "published": "2026-09-01T15:44:00+00:00",
+      "updated": "2026-09-01T15:44:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOVFadlMzMHRVb3NKcnJCVUpuSnFGMWZDb1dSVlQ1eUlvMHFQVE94V0JkVGdhcGx0SUw5bmZ1RzdHZ2p1V2hJTE5landtRXlSdllKRU1UX2lGZmlqOFlmU3ZPY0E0VndwSktMYy03UmRDakpERF9kend0cXc0ZW1heTRCQlJWSXZWdG8wSEpaLUJhUFNtY2dOSjFBR1JpSVdia01kM3FNaVFOQV9RMDN6VlNQRHRHU2xHbTlTMVFpdXBPYVpIWHNrSG9uYWxaREU?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -232,6 +237,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2hiYUZBeURKVFZZc0tVVW5BZ0dqN1RsQkd6WS0ybDBGT1dWbnB6M0tBMUdPLWxHX0wzcFRmTWlBZlBvR3FlSFNINndyNnJkZm1PVjZMMGFieDNWNm81ZV9ZSXZUSURNbXhMWVVMWFo1cDlrcnJUTFNYU0RFYzRMQjVRY2xxQmZHNHdHSzByYjN3N29VbjNqQVhuWEdSaFFxNVE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bbbef54fb32c89",
+      "title": "Nog twee spelers in aantocht bij Ajax en drukte bij FC Utrecht: kijk hier naar de dagelijkse Transfer Deadlineshow",
+      "category": "Transfers",
+      "published": "2026-09-01T15:03:08+00:00",
+      "updated": "2026-09-01T15:03:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMkUtWlJqNVlHNUpzbHpCSzR2RlE4VGZuOFdxZHhyWFBYdTRNZF9aVjBLdmg4R3lqOE1CUGVENUlMWjJYQnpSdzU4VDlQYVNKdVI1UGMwUUZSaUFmUEw3VkNHWjIyQnJIVjRvTEF6Z3ZUMnMwRGUwaGJEOThaMF9mX0NDaC1jR0FrV240THJzQ0V0ZDV3V3hYREhzV0NTLV9sdmRtdWM2bV9UTG95OVNReTJuS3JLMkxTcU9IcXZrR3otTV9nTHRsdXYxUjQtNjExOGg3eFVKNm1CaWZrOFVVbE5CUQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -374,6 +394,21 @@
       ]
     },
     {
+      "id": "a3dcf97b97dae4",
+      "title": "Paul Reverson op huurbasis naar De Graafschap - Ajax",
+      "category": "Selectie",
+      "published": "2026-09-01T12:24:58+00:00",
+      "updated": "2026-09-01T12:24:58+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHFrdXpuM1AydXlaT3o2RXFKc1dTbmZzbmpGdmF6S3F3RTN2UFZDNUhJSDhvdUVfUnV3blQ2U2VBcWVmNmx0X3lpUjl1V3haSkdmbzBiZi1EcUk5WmNRMjhESkh6anFUSVdGSjhDWnptbThWbGNIZEdJR0hfdkRPVGdWQm9zc3Y3eFdVUHlBMm52WEE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "5b4baef7abcfec",
       "title": "Hoofdrol bij Europese vernedering van Ajax en aanwezig op het WK: dit is de beoogde vervanger van Mika Godts",
       "category": "Overig",
@@ -396,9 +431,9 @@
     },
     {
       "id": "a967d1009d9ccd",
-      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe) - voetbalzone.nl",
+      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
       "category": "Transfers",
-      "published": "2026-08-31T18:47:00+00:00",
+      "published": "2026-09-01T12:17:00+00:00",
       "updated": "2026-09-01T12:17:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -658,51 +693,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/ajax-stalt-reverson-bij-de-graafschap",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d112a376ddf883",
-      "title": "Ajax maakt extra ruimte vrij in salarishuis door verhuur met optie tot koop binnen Nederland - voetbalzone.nl",
-      "category": "Transfers",
-      "published": "2026-08-31T15:06:43+00:00",
-      "updated": "2026-09-01T09:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGhmdWF5M2xrZzNHSUlLNUFkU1AyMkVHc04xNHlvVDluTER4Sm82WWdkNWFXREdRS0czS0RxdWt1Q0Uyc2VLaDdDclEwYkMwOFVidGZscjVhaDNHRTJLNWVYQW1yazJRLU0wV0l6UDhxdmVXbERsNGlKcmNoTThpQnpQVnFxelR6cnJTQ3UxWU51d21NUm1sUlhXaW1mdU5NZlRwVTcxVG5ob29FX2NIWVJaUWlVeHB6THVmbVNn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e574e5e165b739",
-      "title": "Paul Reverson op huurbasis naar De Graafschap - Ajax",
-      "category": "Selectie",
-      "published": "2026-09-01T09:15:10+00:00",
-      "updated": "2026-09-01T09:15:10+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXhCaG1aVXN0dElxQWxISGVWTXB5ZmdBYUVzU0xtczRsVWJOV2d3VW9JOURHcFc1QUhYLUJtVlRPM2tZcHlwWTJOQnN5ZnZKV09yeFg5NWZ4LWk3ck4yY3VHMDlCRm1fdVpEZmJydVJYSmxaeFVxemYwU1Y3Ql9EME8tOUJhY1ZOLXg0LXFONUlvLVhs?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cbd985da3c0584",
-      "title": "Ajax heeft ervaren 28-voudig Duits international bijna binnen - voetbalzone.nl",
-      "category": "Overig",
-      "published": "2026-09-01T09:11:00+00:00",
-      "updated": "2026-09-01T09:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1BETUctR0FLMDZIT3owU1JvM3ZFbnYtLTFjdncxZkVWZ0lmMVJYOEpOcTJBaWlYOEJzLUpmQWJpSDZ0OVAyNHN2d01yZHNFcG9yTTdFV0x0WDN2VkZCOE00QTVxTWg4SWdLeEszX0JJTXJiTkRTTXdRSTFuUUdKVlBFQ05iMnlSWmlTbWsyRGFEQnZhU2pJYmpXZW5iV3ItXzRlLW1zaTdEbXlLSW1j?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
