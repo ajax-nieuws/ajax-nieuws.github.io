@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T10:33:13.649463+00:00",
+    "generated_at": "2026-09-01T10:56:35.014318+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 140,
+    "article_count": 139,
     "event_count": 40,
-    "discovered_event_count": 100,
+    "discovered_event_count": 99,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 43,
+    "excluded_video_only_count": 44,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "035869c51e940a",
+      "title": "Rondom Ajax: Zakaria Ouazane officieel gepresenteerd bij FC Twente/Heracles - ajaxshowtime.com",
+      "category": "Overig",
+      "published": "2026-09-01T10:40:00+00:00",
+      "updated": "2026-09-01T10:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk9KQnh6dXNua2x6SlBnNnBPSE5kcEowYXBscGJkUHNOZGRQQllEUTNKNWt6Tk0wNHdQWFRNbU1rZFZWQWJ6X2xOTEtIVXZqeEszSFk2WG5wWWJWV2ZZMHl5WnZuTU0zZTEzM054dWFaRVlTTG9DSFRXM1NER25jLUxxaEFuYWFiQnVrVEEyU0FKSlpuNnRRanQwbVRrdG4wT2JNenpGZzVGX1hJRjU1RHFfTFVjV0xpRE9BWmJxTjM5QQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "b5a3bdba4fb50b",
       "title": "Ajax denkt aan ervaren Kehrer als defensieve versterking",
@@ -45,7 +60,7 @@
     },
     {
       "id": "c5a416a4904d05",
-      "title": "'FC Utrecht neemt voormalig Ajax-verdediger op huurbasis over van Norwich City'",
+      "title": "'FC Utrecht neemt voormalig Ajax-verdediger op huurbasis over van Norwich City' - ajaxshowtime.com",
       "category": "Selectie",
       "published": "2026-08-31T20:50:00+00:00",
       "updated": "2026-09-01T10:00:00+00:00",
@@ -89,8 +104,44 @@
       "related_sources": []
     },
     {
+      "id": "b4a25def9fad2a",
+      "title": "Ajax ziet in Adingra opvolger van Godts",
+      "category": "Transfers",
+      "published": "2026-08-31T20:45:00+00:00",
+      "updated": "2026-09-01T09:45:00+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXpULW4tRFpGY2p3Nngwa1FzZGxJMGt2SndheFFWQi1JMlFDanB3cldEYmhLTnA3dlk4MGxQUzZsc3lKS0pyai11VWpKNFEwZ0lSSFl6a3lqbE04REJYTGV5Szd0SnBfZjVTRVVaZkk4NzZicEw1YWF6eTBfTDNhcWtWc3NSM29EdWdsZ3cyUGRVNTRlQkFNbDBSS2RnektpczVnYzd0eFBPUEp1QndOdHJPREo2VGY1cjRCQmhKTFlSUG9CUi01d2ZKM3VXYzJnZjU0N1VkLXRSZUdDRU5BeHVR?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3o4dUk1OGJlSVVyaFZRUjF3bURvMFhHaG8za2xWMzFZb2NGQ3BLcnB6S3FVcUp6QjZnUGdCTnRHNnRWSEJOWWlmUjdLSERFN2hMZ0N4UHJTcGFWTVNCbGtFaC1KaVloUmpZR0VZT3FZbTdKTGRIQWkwWml0eXNqT0lMUnpadEVMQUZFTE9xWE9pU1QzWVFHalliaExHMU9QZFFfTG82VmQ5cXdGQnY0WFMtdFJwbFpmeVpQNVA0Q3FBQQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZjlFSG9ueTl6Nndkb0d5RUtyS2d2dHdrZDIwVW9MQVBIX2dsQ05RTlB1R2pqdzRMRnFBUnRYOHBHdlJQbnU0TzYyLTg2T2JrN0g1QjF5Nl93N3FqQWF1dC1aNGNXTHU4RC1HV0IwQ0habXpvYzV6cmhFTEx6R2xtVlJKMlhJUHJmSkZVLU1hV1ZXTTlsVzNkRFh1R3RWMXBUTXlRc2haZlIxZlhmS01yMHVzdUI5blBlZkFPNXhGc0JzdUNo?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55957/Ajax-huurt-opvolger-Godts-van-Sunderland",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "6e1573dbdd9af5",
-      "title": "'Ajax gaat voor nog een linksbuiten; club plant ruimte in voor drie medische keuringen'",
+      "title": "'Ajax gaat voor nog een linksbuiten; club plant ruimte in voor drie medische keuringen' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-01T09:45:00+00:00",
       "updated": "2026-09-01T09:45:00+00:00",
@@ -215,42 +266,6 @@
       ]
     },
     {
-      "id": "b4a25def9fad2a",
-      "title": "Ajax ziet in Adingra opvolger van Godts",
-      "category": "Transfers",
-      "published": "2026-08-31T20:45:00+00:00",
-      "updated": "2026-09-01T08:26:15+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXpULW4tRFpGY2p3Nngwa1FzZGxJMGt2SndheFFWQi1JMlFDanB3cldEYmhLTnA3dlk4MGxQUzZsc3lKS0pyai11VWpKNFEwZ0lSSFl6a3lqbE04REJYTGV5Szd0SnBfZjVTRVVaZkk4NzZicEw1YWF6eTBfTDNhcWtWc3NSM29EdWdsZ3cyUGRVNTRlQkFNbDBSS2RnektpczVnYzd0eFBPUEp1QndOdHJPREo2VGY1cjRCQmhKTFlSUG9CUi01d2ZKM3VXYzJnZjU0N1VkLXRSZUdDRU5BeHVR?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkIzS0t4Y0lZVXMtaTFvVHRwTzdOeFg0NEdBN2hmcnotQ2xtWFdjcnV1QUJwM0l3bVJCLVh0dU12ZjVUTEdWNE1DUTBrRlBDUDRBbkVCV1JNUVM5eGhFNGVGaDIxSy03Um1FeXc2QkczUGxVeVdiNnZBMmtidFI0RFU1YTZySmRrWVIxNnBOb0s2TzM4WlpoaGR6VlkxRll5ZEpXQWw3d3RRQkRPbE9NcVNSNDlxNXBEZkE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlk4Vi0zUFVNOWJjejhNVEM3Q1RrLXYwOFQ3cUFnTmw5NDRIUmNyTkJoWEtJMVNkLW5uZGc5bnRiS0NxbVIxckwtR2x1Zm9FQ3RHQ0IwYnEtWkk5bnM5NnN2LVlYY3NrdzBkUFNiRFRyYTR4WGwxNHRGSW4xMTZ4SU9ORFNJTEJnbXcwWmpTYktfVFBPLXAxR0lFM0Ffckp2aFB5a1NRYTNxNi1YRDBINkxGYzJQZw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55957/Ajax-huurt-opvolger-Godts-van-Sunderland",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
       "id": "9bba78ad026892",
       "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
       "category": "Transfers",
@@ -266,40 +281,19 @@
       "related_sources": []
     },
     {
-      "id": "1bd8f400065a3b",
-      "title": "AD bevestigt: Thilo Kehrer 'topkandidaat' bij Ajax",
+      "id": "abfd48d32f4b6e",
+      "title": "'Ajax verrast en onderhandelt over 28-voudig Duits international voor defensie'",
       "category": "Overig",
-      "published": "2026-09-01T08:04:16+00:00",
-      "updated": "2026-09-01T08:04:16+00:00",
+      "published": "2026-09-01T07:57:42+00:00",
+      "updated": "2026-09-01T07:57:42+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3Q1VUZ2MWRoQTVPMVRtSHo3S0RJNjNjY19Hc0E2cS04MW5RTkthZ0ZhamNhSHNGRHFrTU1sQnFCTEtsekctNTVaLURhdXlEeDNaQVBKQjAtSWxycDJTWkJVRkxaRG9fdC1LZ1ZDREYtWWRUdEhZM0lYX2ROV29sd1VHSENRUDAySm9kbFlQbVozWkpFTmFiaA?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130006/ajax-wil-as-monaco-verdediger-kehrer-huren.html",
+        "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "b435b375304a66",
-      "title": "28-voudig Duits international topkandidaat om defensie Ajax te versterken; ook vervanger Godts bijna binnen",
-      "category": "Overig",
-      "published": "2026-09-01T07:44:00+00:00",
-      "updated": "2026-09-01T07:57:42+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEVlV29mVnl5YzQ4NG9GWjZfMWEzRVJvdWtQekltUkJhWXdYUTQySkdCdnhreEZfc25iSzM2T2NNdlU5dmxHSlpIMVZ2MGQ4T1BBMHpZOWZzVkZqNWVCbmFoVEpVTmk0UG93endkLThSclVPU0Q0YlFCVWdPeUgzWmFsdzZnVS1NUUkzYmF3eHI0cUxKWHNLbHRYTDNUaEhXd3dUSTVjanJXRm03RjhrQVAxUV9aQ3hMWW5pOUVlZ0laSkEyYThjWnJFSmh0NmxiWjBVcmRBcVBEZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2130006/ajax-wil-as-monaco-verdediger-kehrer-huren.html",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "ca58b4a706bb3b",
@@ -594,7 +588,7 @@
     },
     {
       "id": "b0e2424000af3e",
-      "title": "Rondom Ajax: Ajax-target Spina aanwezig tijdens competitiewedstrijd van Jong Ajax",
+      "title": "Rondom Ajax: Ajax-target Spina aanwezig tijdens competitiewedstrijd van Jong Ajax - ajaxshowtime.com",
       "category": "Jong Ajax",
       "published": "2026-08-31T19:25:00+00:00",
       "updated": "2026-08-31T19:25:00+00:00",
@@ -608,7 +602,7 @@
       "related_sources": []
     },
     {
-      "id": "9c8c2f1b358f0d",
+      "id": "e17c9760b90634",
       "title": "Highlights Ajax O14 - PEC Zwolle O14 | Goede start",
       "category": "Overig",
       "published": "2026-08-31T18:22:41+00:00",
@@ -617,7 +611,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXdCZTc0aVpKbzBGbUlQQy0zd0lYNEtXa1ptTG1iZnNNS2Y3YlFhX2FHVVNZVWx0aGRIbTNIZnRPVmM0dGN5ZERLQW9JcUE0dWRmb1ozXzZRc3dhVlFZWEFqOENmcG4yTVE5c3NNR2c3NmJKLU1kbFdYWVpXZnZNeWtR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2QyS0RUWmp0QWRiVDFhR1NhSVlEd2dmbkJYaUVKTG9paUtnVDM2Y0JJcWZGbFJsdUNzeThHalczbVMwYVZHbURFcFlCV290RElpMHpGN3UxYWd5ZFFnbjZsdEpjeERKOXlYYWtpVG1yaF8welBMQlRieEhIN2cyWTJqSQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
