@@ -1,24 +1,69 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T09:56:52.138145+00:00",
+    "generated_at": "2026-09-01T10:33:13.649463+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 142,
+    "article_count": 140,
     "event_count": 40,
-    "discovered_event_count": 101,
+    "discovered_event_count": 100,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 102,
+    "excluded_paywall_count": 104,
     "excluded_video_only_count": 43,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "598bf56006f57e",
-      "title": "De Telegraaf: Ajax wil naast Adingra nóg een linksbuiten en klopt aan in La Liga",
+      "id": "b5a3bdba4fb50b",
+      "title": "Ajax denkt aan ervaren Kehrer als defensieve versterking",
       "category": "Overig",
-      "published": "2026-09-01T09:50:49+00:00",
-      "updated": "2026-09-01T09:50:49+00:00",
+      "published": "2026-09-01T10:29:21+00:00",
+      "updated": "2026-09-01T10:29:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-denkt-aan-ervaren-kehrer-als-defensieve-versterking",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ae4e9a465d1d5b",
+      "title": "Ajax laat doelman Paul Reverson per direct vertrekken, huurdeal mét optie tot koop",
+      "category": "Transfers",
+      "published": "2026-09-01T10:14:12+00:00",
+      "updated": "2026-09-01T10:14:12+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130076/ajax-verhuurt-paul-reverson-aan-de-graafschap.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c5a416a4904d05",
+      "title": "'FC Utrecht neemt voormalig Ajax-verdediger op huurbasis over van Norwich City'",
+      "category": "Selectie",
+      "published": "2026-08-31T20:50:00+00:00",
+      "updated": "2026-09-01T10:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUNuMmwzUWNKaHpKazFpOFlTMFRJYUItaVhQV2JEcGVETnlHTUVmSkhHX3I0aE9WNGJtZ2VRZllzV24yVGYyd19jN2hNNVlwc2pPemFkTHVxOHk2MWh6YV9kV2FzMG10MUZpZERvX29zckVScVFadXY3S1NjZktzQWpSZzllNGhBX0NybURpOER0aXg5RWV4Q2FPUFVyZ3Vuc21ua1VaZnNCYzhRYUp0eHFkQjFVX1RJTzdPNQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "598bf56006f57e",
+      "title": "Verrassing: 'Ajax wil naast Adingra nóg een linksbuiten en klopt aan in La Liga'",
+      "category": "Overig",
+      "published": "2026-09-01T09:57:38+00:00",
+      "updated": "2026-09-01T09:57:38+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -119,21 +164,6 @@
       "related_sources": []
     },
     {
-      "id": "ae4e9a465d1d5b",
-      "title": "Ajax en De Graafschap maken huurdeal wereldkundig, KKD-club bedingt optie tot koop",
-      "category": "Transfers",
-      "published": "2026-09-01T09:16:00+00:00",
-      "updated": "2026-09-01T09:16:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130076/ajax-verhuurt-paul-reverson-aan-de-graafschap.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "e574e5e165b739",
       "title": "Paul Reverson op huurbasis naar De Graafschap",
       "category": "Selectie",
@@ -164,12 +194,12 @@
       "related_sources": []
     },
     {
-      "id": "e4d0ef2e2cceff",
+      "id": "84cf3822b7f111",
       "title": "Transfers Ajax: Franse media melden interesse in Kehrer",
       "category": "Transfers",
       "published": "2026-09-01T08:00:00+00:00",
       "updated": "2026-09-01T08:33:15+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -177,11 +207,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXpULW4tRFpGY2p3Nngwa1FzZGxJMGt2SndheFFWQi1JMlFDanB3cldEYmhLTnA3dlk4MGxQUzZsc3lKS0pyai11VWpKNFEwZ0lSSFl6a3lqbE04REJYTGV5Szd0SnBfZjVTRVVaZkk4NzZicEw1YWF6eTBfTDNhcWtWc3NSM29EdWdsZ3cyUGRVNTRlQkFNbDBSS2RnektpczVnYzd0eFBPUEp1QndOdHJPREo2VGY1cjRCQmhKTFlSUG9CUi01d2ZKM3VXYzJnZjU0N1VkLXRSZUdDRU5BeHVR?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGhhX2ZER0k4Qzhpc0ZvZWl3Y0xyMXNnUFBadFZob2FLYU8wTThkYXUxWmRKV1hVbkRUY3RFYWZjTXZZNWZoMGRZSmo5NE5GR0gyVVg4R3AzVG9PNFFzeEZWYlFlMHFtNjZJNmdPbUFFVDg2RzRTZExsbzJHUmdvdmxPUl9aQ2Z0eFU1TGR3UnVtWVptRzZtMmR0b2FVUmFqMGNRdE15cHFUUVpCTG9JZTdHN1JXc2N4bDNtdGU3amVaeDRhOWJST0VlcmZoUQ?oc=5",
@@ -194,8 +219,8 @@
       "title": "Ajax ziet in Adingra opvolger van Godts",
       "category": "Transfers",
       "published": "2026-08-31T20:45:00+00:00",
-      "updated": "2026-09-01T08:14:00+00:00",
-      "source_count": 4,
+      "updated": "2026-09-01T08:26:15+00:00",
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -203,6 +228,11 @@
         "via_google_news": false
       },
       "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXpULW4tRFpGY2p3Nngwa1FzZGxJMGt2SndheFFWQi1JMlFDanB3cldEYmhLTnA3dlk4MGxQUzZsc3lKS0pyai11VWpKNFEwZ0lSSFl6a3lqbE04REJYTGV5Szd0SnBfZjVTRVVaZkk4NzZicEw1YWF6eTBfTDNhcWtWc3NSM29EdWdsZ3cyUGRVNTRlQkFNbDBSS2RnektpczVnYzd0eFBPUEp1QndOdHJPREo2VGY1cjRCQmhKTFlSUG9CUi01d2ZKM3VXYzJnZjU0N1VkLXRSZUdDRU5BeHVR?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkIzS0t4Y0lZVXMtaTFvVHRwTzdOeFg0NEdBN2hmcnotQ2xtWFdjcnV1QUJwM0l3bVJCLVh0dU12ZjVUTEdWNE1DUTBrRlBDUDRBbkVCV1JNUVM5eGhFNGVGaDIxSy03Um1FeXc2QkczUGxVeVdiNnZBMmtidFI0RFU1YTZySmRrWVIxNnBOb0s2TzM4WlpoaGR6VlkxRll5ZEpXQWw3d3RRQkRPbE9NcVNSNDlxNXBEZkE?oc=5",
@@ -232,6 +262,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129707/ajax-is-zich-aan-het-terugtrekken-in-strijd-om-ounahi-psv-juist-aan-het-pushen.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1bd8f400065a3b",
+      "title": "AD bevestigt: Thilo Kehrer 'topkandidaat' bij Ajax",
+      "category": "Overig",
+      "published": "2026-09-01T08:04:16+00:00",
+      "updated": "2026-09-01T08:04:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3Q1VUZ2MWRoQTVPMVRtSHo3S0RJNjNjY19Hc0E2cS04MW5RTkthZ0ZhamNhSHNGRHFrTU1sQnFCTEtsekctNTVaLURhdXlEeDNaQVBKQjAtSWxycDJTWkJVRkxaRG9fdC1LZ1ZDREYtWWRUdEhZM0lYX2ROV29sd1VHSENRUDAySm9kbFlQbVozWkpFTmFiaA?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -317,25 +362,19 @@
       "related_sources": []
     },
     {
-      "id": "61f9bbea7ac001",
+      "id": "c23e242445f6e7",
       "title": "'Stunt van jewelste: Ajax nadert akkoord over linksbuiten, optie van 16 miljoen'",
       "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
+      "published": "2026-09-01T05:22:06+00:00",
       "updated": "2026-09-01T05:22:06+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129944/ajax-en-sunderland-naderen-akkoord-over-adingra.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "b3012f4be38fd4",
@@ -445,21 +484,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129917/ajax-heeft-adingra-van-sunderland-binnen.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ad6e0f86b2e15f",
-      "title": "'FC Utrecht denkt aan voormalig Ajax-verdediger als versterking voor de achterhoede'",
-      "category": "Selectie",
-      "published": "2026-08-31T20:50:00+00:00",
-      "updated": "2026-08-31T20:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVY0eDBSeWN6ZjBJMFd5UEkxTHppejlWQk5HdnZqOFo2MkFmSWc3T3B2RXRqZlNWMnhEOVRTWVhlU3dZM0lsdTZpc2syVjdScnZkdTZuaEZGMFBCUllxX2o2djQ5M2JUeWhFSDZiTFJFTkQ5dEluZ21kaExNZXU3QUxFZ3BabnlkSm9PZEhiX2N4WkpLdmN3YWMya1hGVl9aM2dxUnd1c2gtc2V0V2QtVGtvSngwSGoxVnJPcVMtR0ZZME0?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -584,22 +608,7 @@
       "related_sources": []
     },
     {
-      "id": "8e86decd600212",
-      "title": "Ajax-salaris Weghorst onthuld: 'Ongelooflijk bedrag, Feyenoord betaalt het niet'",
-      "category": "Club",
-      "published": "2026-08-31T18:56:40+00:00",
-      "updated": "2026-08-31T18:56:40+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDhhUVdaVmIzdWExeDlBNG9nQS02TE14SmZSOFBnRkQ1bk9sZ2xqRnh6bE45OWVPRE1SbzJOXzlBNHFXdl9yS2Rmc0ZYSGVxcENHamVjM3NNTmp4alNwXzF6YjFNOHRubk9kOWl6cTdFVjZiX0tqNTdmaEdFMXc4T3R2RHZPd1ZrZEpHc0oxZGk2MGs4US1VejJKMFVGcVE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e17c9760b90634",
+      "id": "9c8c2f1b358f0d",
       "title": "Highlights Ajax O14 - PEC Zwolle O14 | Goede start",
       "category": "Overig",
       "published": "2026-08-31T18:22:41+00:00",
@@ -608,7 +617,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ2QyS0RUWmp0QWRiVDFhR1NhSVlEd2dmbkJYaUVKTG9paUtnVDM2Y0JJcWZGbFJsdUNzeThHalczbVMwYVZHbURFcFlCV290RElpMHpGN3UxYWd5ZFFnbjZsdEpjeERKOXlYYWtpVG1yaF8welBMQlRieEhIN2cyWTJqSQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXdCZTc0aVpKbzBGbUlQQy0zd0lYNEtXa1ptTG1iZnNNS2Y3YlFhX2FHVVNZVWx0aGRIbTNIZnRPVmM0dGN5ZERLQW9JcUE0dWRmb1ozXzZRc3dhVlFZWEFqOENmcG4yTVE5c3NNR2c3NmJKLU1kbFdYWVpXZnZNeWtR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -660,21 +669,6 @@
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TdjdtNThTd2NoZTlScDBWcExHbjktM0JQNVFVNkMyZi16Yk1xYVIwdjBLdHp6UFU4VkFFaGhGSVI4Q25xWHlELVVYcVdVZmswQUVVM1BSNUZSbXNobUhLSjVvS2x1RS12bm5pT25R?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7dbbb009ab2792",
-      "title": "Maher Carrizo op huurbasis naar FC Kopenhagen",
-      "category": "Selectie",
-      "published": "2026-08-31T17:52:24+00:00",
-      "updated": "2026-08-31T17:52:24+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVU92dlBZdmtIZmpXc3dEUU4zajVMQ2ppSnNRRGZJTWpkTmhybDl4am9mbEM3enQxeDhORTN4dkREY1dUaWx5RDJFTFNxanFWOWRSclBaSHFZMTZfZWF3aGYxYWJMX1pXaGtlRFppZ1VlYkhaRFVNRXprWXdMbjhtTUt2N20yM3JoakpaWDUwVUExb25B?oc=5",
         "via_google_news": true
       },
       "related_sources": []
