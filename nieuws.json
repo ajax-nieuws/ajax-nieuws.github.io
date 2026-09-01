@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T05:55:25.800875+00:00",
+    "generated_at": "2026-09-01T06:36:44.129297+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 144,
+    "article_count": 145,
     "event_count": 40,
-    "discovered_event_count": 96,
+    "discovered_event_count": 97,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 50,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "24acaa7a63c1b6",
+      "title": "Ajax-fan wil afgepakte sjaal terug en wordt zwaar mishandeld, politie deelt beelden",
+      "category": "Club",
+      "published": "2026-09-01T06:27:00+00:00",
+      "updated": "2026-09-01T06:27:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239712/ajax-fan-wil-afgepakte-sjaal-terug-en-wordt-zwaar-mishandeld-politie-deelt-beelden",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "118c3f44369835",
       "title": "Ajax-toptalent kritisch op zichzelf: 'Dat moet eruit, levert meteen grote kans op'",
@@ -48,6 +63,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "b3012f4be38fd4",
+      "title": "Dit forse bedrag gaat Ajax betalen voor Simon Adingra",
+      "category": "Overig",
+      "published": "2026-09-01T05:21:00+00:00",
+      "updated": "2026-09-01T05:21:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUZRRXlwZ19rR0gyLWpxcUtnRS1pdUdWWmM0V043RmJKMjhBNmE5Rm55T2NTeWhoN01FanpIRkJNYzR4dTU2dS04dldzNFg2TnZqUWZhZ1BxbnBPbmNNQXJ3ODFpQ1g0WGpWZ2JHUHJhdHFrZ3p3ZjF1cTk4LWZqenZ5OEZmNC1oZDVIMm9FbWQ1SzdHRHVxSi1HV2FEVFd3dUd0b09TbWEzSW8?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "c8fb616250d3a7",
@@ -356,13 +386,13 @@
           "via_google_news": false
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1ZVeTBSWFR5Z1NyQ1ZsR2NhT1RaY09OQkl2cHhJS19jUXg4SHBHR3RYa3ctTEpJRjU5VDJhdU9UdTAzOHR5WXZndkNOZi1MekdELVdFTkV0X3c1Q0p2eHhqam1PNmR5T0o5cHJHV1JOZkJnM1F2cFJwNTdRalBiejZoRGdoYlR3VDNKelpLYTl1OGNva1J3V3l4NVF0Q2tSb2JpQnlkczJtTkczanNhc3l5ZW8?oc=5",
           "via_google_news": true
         },
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1ZVeTBSWFR5Z1NyQ1ZsR2NhT1RaY09OQkl2cHhJS19jUXg4SHBHR3RYa3ctTEpJRjU5VDJhdU9UdTAzOHR5WXZndkNOZi1MekdELVdFTkV0X3c1Q0p2eHhqam1PNmR5T0o5cHJHV1JOZkJnM1F2cFJwNTdRalBiejZoRGdoYlR3VDNKelpLYTl1OGNva1J3V3l4NVF0Q2tSb2JpQnlkczJtTkczanNhc3l5ZW8?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczdVRjFmMnJzM0Vjd1E2WmpBQXpnSUowanozak5iZ3NnaE5zcHJlMWZJRmJDVG5WYmpmeGpBZ2ltek5LbG1STFpvTjhKRzluendEZHZoWi1JZzNaeTduTHJIdlBHQTlkVU1SVHpvZ1NMaGxnVW55bVVvT21mdFdCdE54QmxwdkdfZTlKT3RSVy1uUzFvOTM1MW51SDdaNVU2WTNvb0c3OXg5WDdV?oc=5",
           "via_google_news": true
         }
       ]
@@ -459,6 +489,21 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaWIzNkxFTll4U1UxZC1JQVVVUUtTQ2JqYnZxMC1vQ2ZDSU5Gc0hCTHNIbEZWMXRWRlJBQWNmQzNobHcxdUJmUnctUUpoMXJ1LTl2Vm1SVE1vRjhMaUl6MURUX19lRWJGVUdVcklJOVB0N0ZnQjFaRXllandtMkdBdVdXNDJYX2RtQVNCMkh0S3VPSDlncHltRjVETWpxeUJ0ZW9yUUhYZGJfR0RoaTZ1TVNIVTVST05jQ0JheTlWai1xRmpienZRYXVtejh1VkpBQm1MMjNLc1VzM293cGtNd0lJaw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c5a0f681f82747",
+      "title": "Verbazing over aangestelde scheidsrechter Ajax - PSV: 'Hij is niet de beste'",
+      "category": "Wedstrijden",
+      "published": "2026-08-31T17:32:37+00:00",
+      "updated": "2026-08-31T17:32:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEgtTE5PZFBYNnRJcngtZEUyNHoyRVlYUzVSeE80WmxtWTNkR1dzVWhSRGJzVnU3dXJ2N083Xy1RTDVrOEV4U1lGRXBhN0RQRDM2S0ZfSWlWRzlucTlIQzFUWk14b0hKN04tTVFSclNtMmhITjZDMVlMM0ZzcVEzMXVpLUJlczNDa2FOeDEyc3R3MVhFR3ZMWXN1WjAtMmJaRkgyLWxGamdIZk8y?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -647,57 +692,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129728/maduro-spreekt-zich-uit-over-transferperiode-en-titelkansen.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e37033421b5621",
-      "title": "Nicky van der Gijp over aanwinst Ajax: ‘Hij kan niet zo heel goed voetballen’",
-      "category": "Transfers",
-      "published": "2026-08-31T07:37:23+00:00",
-      "updated": "2026-08-31T14:07:29+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129716/nicky-van-der-gijp-zet-vraagtekens-bij-ajax-transfer-sofyan-amrabat.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGJ5RzdHeDN6eFBhanpGc1lNSlZHeDlFSjBtall4VzRrWWRTY1RPa25GbzRUdVBtRE9HcnNaWHZsV1A2N0xCX0xvZFBLQWxtbzJpaFlzY2JZZmRSUGJsSXlkVmZDZXUzQzZjV0N0ZFdwbV9qOVY1RkVtNEUzRkRKVlhIbDg3NEdVbERVclEzVW1SdXpSSUxMRU5hNUxBY2xzbmJsTlIwNUdpcXlFZVVMMU5kQ1pEYm9aZHlUeWttamU?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "d07c30a8ad64a9",
-      "title": "'Het wordt een heerlijke topper tussen Ajax en PSV' - NU",
-      "category": "Overig",
-      "published": "2026-08-31T13:58:27+00:00",
-      "updated": "2026-08-31T13:58:27+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUliY015RndPMHNOSDVINnpIUlJLVGVyNGx3YVhxZGpOdldOM21Dc3hNbXUzblJaY0tPb2R1ODBoSFdBMTJXX0FBZkhwM3lIVTVFckxidnQzbl95eVZDc3lxMF9PdlpJamxuamFWVDc4Vk9lVWxheC1iTi1qcnV3aWZ6X3hRQ01MMm9tbGt0TmRKS28?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9bba78ad026892",
-      "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
-      "category": "Transfers",
-      "published": "2026-08-31T13:34:34+00:00",
-      "updated": "2026-08-31T13:34:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129707/ajax-is-zich-aan-het-terugtrekken-in-strijd-om-ounahi-psv-juist-aan-het-pushen.html",
         "via_google_news": false
       },
       "related_sources": []
