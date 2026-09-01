@@ -1,32 +1,74 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T04:55:30.967508+00:00",
+    "generated_at": "2026-09-01T05:29:25.375149+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 135,
+    "article_count": 145,
     "event_count": 40,
-    "discovered_event_count": 90,
-    "source_count": 11,
+    "discovered_event_count": 96,
+    "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 51,
+    "excluded_video_only_count": 54,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "e6ef8a1869dcff",
+      "id": "61f9bbea7ac001",
+      "title": "'Stunt van jewelste: Ajax nadert akkoord over linksbuiten, optie van 16 miljoen'",
+      "category": "Transfers",
+      "published": "2026-08-31T10:15:00+00:00",
+      "updated": "2026-09-01T05:22:06+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129944/ajax-en-sunderland-naderen-akkoord-over-adingra.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "c8fb616250d3a7",
+      "title": "De Telegraaf: 'Akkoord huur van linksbuiten Adingra binnen handbereik voor Ajax'",
+      "category": "Transfers",
+      "published": "2026-09-01T05:20:00+00:00",
+      "updated": "2026-09-01T05:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkIzS0t4Y0lZVXMtaTFvVHRwTzdOeFg0NEdBN2hmcnotQ2xtWFdjcnV1QUJwM0l3bVJCLVh0dU12ZjVUTEdWNE1DUTBrRlBDUDRBbkVCV1JNUVM5eGhFNGVGaDIxSy03Um1FeXc2QkczUGxVeVdiNnZBMmtidFI0RFU1YTZySmRrWVIxNnBOb0s2TzM4WlpoaGR6VlkxRll5ZEpXQWw3d3RRQkRPbE9NcVNSNDlxNXBEZkE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6b03d741b03957",
       "title": "Mini-topper tussen Jong PSV en Jong Ajax eindigt gelijk, Oufkir scoort voor winnend Jong AZ",
       "category": "Jong Ajax",
-      "published": "2026-09-01T01:25:22+00:00",
+      "published": "2026-08-31T19:51:00+00:00",
       "updated": "2026-09-01T01:25:22+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTnFGN3NoX0RIWmxkMGlCeVRhbzhUeGNCdVM1T3laX3lGSXAzZFBPNlk4bkFxT2JUamlRMG1YUUJsbFAyMG85TnA3b3lCTnFhNzc0SW1LZW9oeF9rcVFfYlR2czlKVGVvb0ZxZi15QXRWaHg0ZDFYWFhUczBJWDBHWW1QN0FiTHM0ci1pN2NuVzRXVkk4dnFvdHBZdTM3bXBvZzBDX2NQU25oUDlwVXc1eHpSVDlUb0lvNlNPVktDQUpfZjMxc2ZldEZ5aVNWX3Q2SDY0UUpsdw?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55956/Jong-Ajax-pakt-punt-bij-Jong-PSV-in-mini-topper",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "74d912a41ea86e",
@@ -59,25 +101,19 @@
       "related_sources": []
     },
     {
-      "id": "61f9bbea7ac001",
+      "id": "807faca130ea5a",
       "title": "'Bliksemdeal: Ajax vindt linksbuiten in Engeland, akkoord met Sunderland'",
       "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
+      "published": "2026-08-31T19:41:00+00:00",
       "updated": "2026-08-31T20:55:06+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129917/ajax-heeft-adingra-van-sunderland-binnen.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "ad6e0f86b2e15f",
@@ -95,19 +131,25 @@
       "related_sources": []
     },
     {
-      "id": "52ae027d517a22",
-      "title": "Ajax heeft beet en haalt gedroomde opvolger binnen voor Godts - voetbalzone.nl",
+      "id": "b4a25def9fad2a",
+      "title": "Ajax heeft beet en haalt gedroomde opvolger binnen voor Godts",
       "category": "Transfers",
-      "published": "2026-08-31T20:47:00+00:00",
+      "published": "2026-08-31T20:45:00+00:00",
       "updated": "2026-08-31T20:47:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlk4Vi0zUFVNOWJjejhNVEM3Q1RrLXYwOFQ3cUFnTmw5NDRIUmNyTkJoWEtJMVNkLW5uZGc5bnRiS0NxbVIxckwtR2x1Zm9FQ3RHQ0IwYnEtWkk5bnM5NnN2LVlYY3NrdzBkUFNiRFRyYTR4WGwxNHRGSW4xMTZ4SU9ORFNJTEJnbXcwWmpTYktfVFBPLXAxR0lFM0Ffckp2aFB5a1NRYTNxNi1YRDBINkxGYzJQZw?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55957/Ajax-huurt-opvolger-Godts-van-Sunderland",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "afe21249b3473e",
@@ -170,23 +212,8 @@
       "related_sources": []
     },
     {
-      "id": "d939b13635086f",
-      "title": "Jong Ajax-talent verrast doelman Nick Olij en scoort tegen Jong PSV bijna vanaf 50 meter",
-      "category": "Jong Ajax",
-      "published": "2026-08-31T19:59:00+00:00",
-      "updated": "2026-08-31T19:59:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmhRa0FpYkYzcFI1dW43NU91NVR1d1B1QW1LTVpYRDdVZ0N0a3FUdkxKeW1DeFlrZk5XanV0UHNQT0ZVLUUwZmNuYzVQVUhPazBjeXlRdUV5c08yaE55M19fbGpCczFWNHVFS3hteEpfbDNYblV1cFZpcTRlOUVqMVFKa21JbEFZcTU2N1lFWGNibHItV01OeEtFYWFVRmlFT2thOHFYeE55T0JfbnYwc1JfSUZVUkdEaDZ3M1JMQXJ1dw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "3900321524f6ad",
-      "title": "Ajax meldt zich officieel in Premier League voor man van 22 miljoen euro - voetbalzone.nl",
+      "title": "Ajax meldt zich officieel in Premier League voor man van 22 miljoen euro",
       "category": "Transfers",
       "published": "2026-08-31T19:55:00+00:00",
       "updated": "2026-08-31T19:55:00+00:00",
@@ -200,7 +227,22 @@
       "related_sources": []
     },
     {
-      "id": "70a3a3dd6d1ef3",
+      "id": "3b254e15162506",
+      "title": "Nick Olij laat zich bijna verrassen vanaf 50 meter: Jong PSV redt punt tegen Jong Ajax",
+      "category": "Jong Ajax",
+      "published": "2026-08-31T19:30:00+00:00",
+      "updated": "2026-08-31T19:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTVCaFM2blA1S3RGdy1MV1FCTmZVMUh3WmpkaXB1ampuQzZYQmZZamhlcnJTYXVYRWFMNmFscTA3bFpoUmlfbVpfa0pxVzhhN1hpM051WmVzMEhVaHF0b2NuZDBWSTBjUGR0QVVlaVdEdjVIRUJBU19wMVNXcmswT3VUTklPRnk3Tm9QaGZFSDRUeW42QklKVkxKYXp2Z2kyUkhwdU1Qb3Z4YlVwYXphODg0NXQ1OHh0NzBoRkRn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4510aec725c024",
       "title": "LIVE Keuken Kampioen Divisie | Jones benut strafschop en zet Jong PSV weer naast Jong Ajax",
       "category": "Jong Ajax",
       "published": "2026-08-31T19:30:00+00:00",
@@ -209,7 +251,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenl5VllDYVRVbHYzaU4yYlZpb2RmbUNkSGpPMjQ1aC1ud1NkZWFOTUx4Z2M0ODc1Q3FTUVFBcXliTnZmdUhuUHdEcFBLT2QyU09wcGh1Ynh1c1JMXzhNTE1USENzTi1zRndkZ1ktYnVQc2NXQzZ5VDRjeHF2SFE0RW5YdXp3Z3oyQXpxUU40TVMxRW1uRU8teGphYTd0bnBWV05KTXpkVGdqY1ZwdW5ycnFpbHJJMk94ZG4wdjhrWHJlQjJKYUlVVDk3V0tTX1VnellLbmlyUDU5Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQndhRDJILTRKa0VsSGRDRWR6cWtwZmk0TVVuWHFIb1JhbjBUZ2xabkxZR2JSbHg3Tk9hSmRZZ1lxSFJ3ZVMtc2FqLW1mSzVWeHBUTjMwSVpwMVlVejFZQ3ExemhGSFVXU2VOMVQtMHJYUFNzM2JDOE1udS1zMXctVXY5OS1ZLVBXOFN6M29VVk9vTDY4cDBwZXotc3Y3eTdOOFhVQ1N3ZUx5VXo0Z2IyMWZjNzRIME5fTkdMUDBWNGxrZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -246,7 +288,7 @@
     },
     {
       "id": "8e86decd600212",
-      "title": "Ajax-salaris Wout Weghorst onthuld: 'Ongelooflijk bedrag, Feyenoord betaalt het niet'",
+      "title": "Ajax-salaris Weghorst onthuld: 'Ongelooflijk bedrag, Feyenoord betaalt het niet'",
       "category": "Club",
       "published": "2026-08-31T18:56:40+00:00",
       "updated": "2026-08-31T18:56:40+00:00",
@@ -422,12 +464,12 @@
       "related_sources": []
     },
     {
-      "id": "c4d153c5cc33cd",
+      "id": "f993da03409968",
       "title": "Youri Regeer naar Werder Bremen op huurbasis",
       "category": "Selectie",
-      "published": "2026-08-31T17:17:16+00:00",
+      "published": "2026-08-31T17:16:00+00:00",
       "updated": "2026-08-31T17:24:00+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -439,27 +481,11 @@
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXpCc2JJd1RpaHlhcWFMOG0taDBndms5bTFYZmFkS212ZlBZbTRQSlIyS2ZDQWtFbFlRUVIybHI5UXkxd2RJVFhSUmo1elZyVVBjbm02QlBLVkUyVmx0SUtHOGF1eG1GbTB0bThPN09qS3gzTW5NRGVGRWtBclJwa2x3dG42U25uQ04wWTFuSXNFeVZBTkJwZ3Y3WHg5MUUyQWE2ag?oc=5",
           "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "3f7b5fc968ab11",
-      "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
-      "category": "Transfers",
-      "published": "2026-08-31T13:34:34+00:00",
-      "updated": "2026-08-31T16:40:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129707/ajax-is-zich-aan-het-terugtrekken-in-strijd-om-ounahi-psv-juist-aan-het-pushen.html",
-        "via_google_news": false
-      },
-      "related_sources": [
+        },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2lxUEM0X2ZrNW51Mmkwa3NHYkFZRXVvMmRiaWswVjhvaXBrVURZenAzZHozTlNsTUJmYVZEaEQxYTBrX3VtVU1qM2xPajR4cnQtUjlZVnY5bXlKVmlUY0tJOXM1ckZfcXNCNXZKRmZBZnQtNC1EeU9idzRLbGhINHotdk0wOW9IekNtYlBzZktXOGtGcDZUYkxkdzZkRENvT1VFOTJGOTBlempiNVpnalBWeFNSYVBLWnhOV2h5WjJtYUF4djhUWDFFRHI1QmU3bFE?oc=5",
-          "via_google_news": true
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55955/Bevestigd-Regeer-op-huurbasis-naar-Bremen",
+          "via_google_news": false
         }
       ]
     },
@@ -496,7 +522,7 @@
     },
     {
       "id": "4a3e15a267d911",
-      "title": "Supporters begrijpen niets van besluit over Ajax - PSV: 'Schandalig!' - voetbalzone.nl",
+      "title": "Supporters begrijpen niets van besluit over Ajax - PSV: 'Schandalig!'",
       "category": "Club",
       "published": "2026-08-31T16:12:00+00:00",
       "updated": "2026-08-31T16:12:00+00:00",
@@ -511,7 +537,7 @@
     },
     {
       "id": "128f181d6dfbf9",
-      "title": "Ajax-flop Jakov Medic nadert onverwachts terugkeer in de Eredivisie - voetbalzone.nl",
+      "title": "Ajax-flop Jakov Medic nadert onverwachts terugkeer in de Eredivisie",
       "category": "Wedstrijden",
       "published": "2026-08-31T16:11:00+00:00",
       "updated": "2026-08-31T16:11:00+00:00",
@@ -525,8 +551,23 @@
       "related_sources": []
     },
     {
+      "id": "00ce2112eeaf24",
+      "title": "Ajax brengt bod uit op centrale verdediger van Osasuna en mikt op huurdeal met koopoptie",
+      "category": "Transfers",
+      "published": "2026-08-31T16:10:00+00:00",
+      "updated": "2026-08-31T16:10:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGczbTJoUjBaZkNDdnh4STNmSHlDQWxvUGZrcjhOeGVwb0RBeUpYTDNycEJIOW5FTnBBV2dvN3FUbExhcHE0NV9CRmhzQVVaOVE5YWxYVG52eUg5MVk5c3B2QXBNTHg1dTJtWjVQdzBnbHFIbTAyVi1NX0tXSVVYUlhQTENoLUk3NGlkMXQ2OFVTdm5pRVoyUWcxOHhXM1MyazBLN1p4T2tudFF4NHpVazBTd1BGcE9xVFJYQVRoVzBPSUdidDdlZThscw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "0391941809c427",
-      "title": "'Ajax gaat vol voor centrumverdediger van 15 miljoen euro' - voetbalzone.nl",
+      "title": "'Ajax gaat vol voor centrumverdediger van 15 miljoen euro'",
       "category": "Selectie",
       "published": "2026-08-31T15:42:00+00:00",
       "updated": "2026-08-31T15:42:00+00:00",
@@ -647,46 +688,16 @@
       "related_sources": []
     },
     {
-      "id": "9ec1670e86aa68",
-      "title": "'Ajax krijgt extra optie: Bayern München-verdediger aangeboden in Amsterdam'",
+      "id": "9bba78ad026892",
+      "title": "'Ajax is zich aan het terugtrekken in strijd om Ounahi, PSV juist aan het pushen'",
       "category": "Transfers",
-      "published": "2026-08-31T13:32:24+00:00",
-      "updated": "2026-08-31T13:32:24+00:00",
+      "published": "2026-08-31T13:34:34+00:00",
+      "updated": "2026-08-31T13:34:34+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129704/bayern-verdediger-ito-aangeboden-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7f48c21845c554",
-      "title": "'Ajax haakt ondanks persoonlijk akkoord definitief af; PSV kan toeslaan' - voetbalzone.nl",
-      "category": "Transfers",
-      "published": "2026-08-30T06:24:00+00:00",
-      "updated": "2026-08-31T13:32:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHhodkg4LWU3M0VQYnhXR1FoakEwaWxlZjRDbWUycUFsTlZRMVh4UVhhQkF2b2hnNFpXdVRxankybGh5MmVRMnNWSUo3NzIxR1lScy1zQzFFdFVxMnk2cUd3MnBhcVRDRGtBcHFrb2NRMTRfTnF5YTFmWm9GVWhZTTBDM0pEQWttRWpxZFpuXy14U2FQRFJucjhxazlJNTJiR3I3cmplWVFWNW5Ub00zM09IZTByQ2ZhU0c0Nk1lRWM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ffd2e5954329c7",
-      "title": "'Pech voor Ajax: Amsterdammers zijn te laat, La Liga-club werkt niet meer mee'",
-      "category": "Overig",
-      "published": "2026-08-31T12:48:33+00:00",
-      "updated": "2026-08-31T12:48:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129673/ajax-ziet-celta-bod-afslaan-moriba-mag-niet-meer-weg.html",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2129707/ajax-is-zich-aan-het-terugtrekken-in-strijd-om-ounahi-psv-juist-aan-het-pushen.html",
         "via_google_news": false
       },
       "related_sources": []
