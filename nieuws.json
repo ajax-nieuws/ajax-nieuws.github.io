@@ -1,24 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T09:55:57.165369+00:00",
+    "generated_at": "2026-09-02T10:31:01.945342+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 96,
+    "discovered_event_count": 97,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 30,
+    "excluded_video_only_count": 29,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "569a48c71744ed",
+      "title": "'Ajax loert op buitenkansje: Cruijff wil één positie versterken op Deadline Day'",
+      "category": "Selectie",
+      "published": "2026-09-02T10:02:30+00:00",
+      "updated": "2026-09-02T10:02:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130491/cruijff-loert-op-buitenkansje-met-ajax-op-deadline-day.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "16634265ba2c00",
       "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
       "published": "2026-09-01T08:00:00+00:00",
-      "updated": "2026-09-02T09:54:05+00:00",
+      "updated": "2026-09-02T09:59:22+00:00",
       "source_count": 6,
       "official_confirmation": true,
       "primary_source": {
@@ -48,21 +63,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "569a48c71744ed",
-      "title": "'Ajax loert op buitenkansje: Cruijff wil één positie versterken op Deadline Day'",
-      "category": "Selectie",
-      "published": "2026-09-02T09:40:25+00:00",
-      "updated": "2026-09-02T09:40:25+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130491/cruijff-loert-op-buitenkansje-met-ajax-op-deadline-day.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "e6fe668ef36540",
@@ -364,19 +364,25 @@
       "related_sources": []
     },
     {
-      "id": "19ea6010de1e15",
+      "id": "50b03438963bc0",
       "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
       "category": "Transfers",
-      "published": "2026-09-02T07:39:26+00:00",
+      "published": "2026-09-01T17:05:00+00:00",
       "updated": "2026-09-02T07:39:26+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "d99b18ff0ba557",
@@ -427,22 +433,16 @@
       "id": "345e076f6dcae4",
       "title": "Ajax-watcher vertelt hoe Alex Kroes naar transferbeleid Jordi Cruijff kijkt",
       "category": "Transfers",
-      "published": "2026-09-01T17:05:00+00:00",
+      "published": "2026-09-02T07:19:56+00:00",
       "updated": "2026-09-02T07:19:56+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVzTjRZMXRZX2pxMU5kc1lUWkJFYmZzaThFWk9BSWFVSHNWTFRyWDc2YmZCcVlnVEpMbUVJTnM4Z2lpNmZSQ1BHT0xfTkJmclYyRTlFVGJEbWJvR243Z3J2WE8xRXNyRTZOVFY0bGdKRG9Fc2xzTGFIOHlPNFlaTTlHNFp0SDlQdEJ5aTVOb25IeE9tX3R0UjNvNXZaNnNGQTNlblhnd3gtM1doRXlyZ3NfeUU0YUk5NEFmVmtn?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "16834bd533effa",
