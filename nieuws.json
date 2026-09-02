@@ -1,18 +1,79 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T10:31:01.945342+00:00",
+    "generated_at": "2026-09-02T10:55:48.127088+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 133,
+    "article_count": 134,
     "event_count": 40,
-    "discovered_event_count": 97,
+    "discovered_event_count": 98,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 29,
+    "excluded_video_only_count": 28,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "36c46f90c4290e",
+      "title": "Uitsluitsel over Ajax-transfer: 'Adingra doorstaat keuring, deal kwestie van tijd'",
+      "category": "Transfers",
+      "published": "2026-09-01T05:20:00+00:00",
+      "updated": "2026-09-02T10:52:24+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130697/verweij-duidelijk-over-ajax-transfer-adingra-kwestie-van-tijd.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
+          "via_google_news": false
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjZRVTgxRXVudHB2LWNzd3ZVQ2UwaGFJeHJhQlZMa256X1VDYnF3VThUVkVBbTFmbWxmRFRWcURtajZ4SWFMSFoxWERvcy1JRDRUWEJ5M3BHVG4yX1BNQXNkUDFueUV5NTctS0IxZkRfcHAzZklzUG5IV0gzVURPMTdMbVhkRFMxbV9zeXNNenAwNVEzVXYxb1BxOEZtd1JuMHBIb09fYw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkIzS0t4Y0lZVXMtaTFvVHRwTzdOeFg0NEdBN2hmcnotQ2xtWFdjcnV1QUJwM0l3bVJCLVh0dU12ZjVUTEdWNE1DUTBrRlBDUDRBbkVCV1JNUVM5eGhFNGVGaDIxSy03Um1FeXc2QkczUGxVeVdiNnZBMmtidFI0RFU1YTZySmRrWVIxNnBOb0s2TzM4WlpoaGR6VlkxRll5ZEpXQWw3d3RRQkRPbE9NcVNSNDlxNXBEZkE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "f3ee86bf8beb9c",
+      "title": "Ajax-fans zien 'talent van buitencategorie': 'Verloren broertje van Bellingham'",
+      "category": "Jong Ajax",
+      "published": "2026-09-02T10:43:51+00:00",
+      "updated": "2026-09-02T10:43:51+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130685/ajax-fans-lyrisch-over-abdalla-verloren-broertje-bellingham.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2be320b1e7d253",
+      "title": "Het Parool over Ajax-aanwinst: 'Hij is niet het type dat trainer Míchel wenste'",
+      "category": "Transfers",
+      "published": "2026-09-02T10:43:43+00:00",
+      "updated": "2026-09-02T10:43:43+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130689/kritische-analyse-in-het-parool-over-ajax-aanwinst-sofyan-amrabat.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "569a48c71744ed",
       "title": "'Ajax loert op buitenkansje: Cruijff wil één positie versterken op Deadline Day'",
@@ -78,42 +139,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "b4a25def9fad2a",
-      "title": "Ajax ziet in Adingra opvolger van Godts",
-      "category": "Transfers",
-      "published": "2026-08-31T20:45:00+00:00",
-      "updated": "2026-09-02T09:32:00+00:00",
-      "source_count": 6,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjZRVTgxRXVudHB2LWNzd3ZVQ2UwaGFJeHJhQlZMa256X1VDYnF3VThUVkVBbTFmbWxmRFRWcURtajZ4SWFMSFoxWERvcy1JRDRUWEJ5M3BHVG4yX1BNQXNkUDFueUV5NTctS0IxZkRfcHAzZklzUG5IV0gzVURPMTdMbVhkRFMxbV9zeXNNenAwNVEzVXYxb1BxOEZtd1JuMHBIb09fYw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3o4dUk1OGJlSVVyaFZRUjF3bURvMFhHaG8za2xWMzFZb2NGQ3BLcnB6S3FVcUp6QjZnUGdCTnRHNnRWSEJOWWlmUjdLSERFN2hMZ0N4UHJTcGFWTVNCbGtFaC1KaVloUmpZR0VZT3FZbTdKTGRIQWkwWml0eXNqT0lMUnpadEVMQUZFTE9xWE9pU1QzWVFHalliaExHMU9QZFFfTG82VmQ5cXdGQnY0WFMtdFJwbFpmeVpQNVA0Q3FBQQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkIzS0t4Y0lZVXMtaTFvVHRwTzdOeFg0NEdBN2hmcnotQ2xtWFdjcnV1QUJwM0l3bVJCLVh0dU12ZjVUTEdWNE1DUTBrRlBDUDRBbkVCV1JNUVM5eGhFNGVGaDIxSy03Um1FeXc2QkczUGxVeVdiNnZBMmtidFI0RFU1YTZySmRrWVIxNnBOb0s2TzM4WlpoaGR6VlkxRll5ZEpXQWw3d3RRQkRPbE9NcVNSNDlxNXBEZkE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlk4Vi0zUFVNOWJjejhNVEM3Q1RrLXYwOFQ3cUFnTmw5NDRIUmNyTkJoWEtJMVNkLW5uZGc5bnRiS0NxbVIxckwtR2x1Zm9FQ3RHQ0IwYnEtWkk5bnM5NnN2LVlYY3NrdzBkUFNiRFRyYTR4WGwxNHRGSW4xMTZ4SU9ORFNJTEJnbXcwWmpTYktfVFBPLXAxR0lFM0Ffckp2aFB5a1NRYTNxNi1YRDBINkxGYzJQZw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "81a3030866cbb3",
@@ -575,36 +600,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130433/lof-voor-ajax-aanwinst-kehrer-opbouwende-leider.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8016f5327a5ef3",
-      "title": "Groot probleem bij Ajax gespot: 'Veel grote talenten gingen daarom naar Feyenoord'",
-      "category": "Overig",
-      "published": "2026-09-01T19:00:35+00:00",
-      "updated": "2026-09-01T19:00:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130188/cruijff-moet-heel-goed-kijken-naar-jeugdopleiding-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "807986b52c59eb",
-      "title": "Verweij onthult opvallend detail over Amrabat-transfer: 'Ajax was doodsbang'",
-      "category": "Transfers",
-      "published": "2026-09-01T18:41:15+00:00",
-      "updated": "2026-09-01T18:41:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130244/verweij-onthult-opvallend-detail-over-amrabat-transfer.html",
         "via_google_news": false
       },
       "related_sources": []
