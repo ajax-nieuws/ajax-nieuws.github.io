@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T07:55:23.164278+00:00",
+    "generated_at": "2026-09-02T08:31:42.743953+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 124,
     "event_count": 40,
-    "discovered_event_count": 92,
+    "discovered_event_count": 96,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 30,
+    "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b0a8b82956fb2b",
+      "title": "PSV, Feyenoord, AZ, NEC, Ajax en FC Twente opgelet: ook UEFA-deadline nadert",
+      "category": "Wedstrijden",
+      "published": "2026-09-02T08:24:00+00:00",
+      "updated": "2026-09-02T08:24:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/dit-is-de-deadline-voor-het-inleveren-van-de-europese-selecties",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "01f4da5220b50e",
+      "title": "Kwakman ziet 'serieuze aankopen' bij Ajax: 'Dit zijn meteen basisspelers'",
+      "category": "Selectie",
+      "published": "2026-09-02T08:13:09+00:00",
+      "updated": "2026-09-02T08:13:09+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130568/het-wordt-een-soort-vreemdelingenlegioen-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3ca87bf05b012d",
+      "title": "Vink wijst favoriet voor Topper tussen Ajax en PSV aan: 'Geraamte staat bij ze'",
+      "category": "Overig",
+      "published": "2026-09-02T08:03:23+00:00",
+      "updated": "2026-09-02T08:03:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130569/vink-wijst-psv-als-lichte-favoriet-aan-in-topper-tegen-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "19ea6010de1e15",
       "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
@@ -60,7 +105,7 @@
     },
     {
       "id": "146466801ce2bf",
-      "title": "Rondom Ajax: Ajax staat stil bij zeventig jaar Eredivisie",
+      "title": "Rondom Ajax: Ajax staat stil bij zeventig jaar Eredivisie - ajaxshowtime.com",
       "category": "Wedstrijden",
       "published": "2026-09-02T07:20:00+00:00",
       "updated": "2026-09-02T07:20:00+00:00",
@@ -77,22 +122,31 @@
       "id": "345e076f6dcae4",
       "title": "Ajax-watcher vertelt hoe Alex Kroes naar transferbeleid Jordi Cruijff kijkt",
       "category": "Transfers",
-      "published": "2026-09-01T17:05:00+00:00",
+      "published": "2026-09-02T07:19:56+00:00",
       "updated": "2026-09-02T07:19:56+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVzTjRZMXRZX2pxMU5kc1lUWkJFYmZzaThFWk9BSWFVSHNWTFRyWDc2YmZCcVlnVEpMbUVJTnM4Z2lpNmZSQ1BHT0xfTkJmclYyRTlFVGJEbWJvR243Z3J2WE8xRXNyRTZOVFY0bGdKRG9Fc2xzTGFIOHlPNFlaTTlHNFp0SDlQdEJ5aTVOb25IeE9tX3R0UjNvNXZaNnNGQTNlblhnd3gtM1doRXlyZ3NfeUU0YUk5NEFmVmtn?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
+    },
+    {
+      "id": "c07cb88f87e297",
+      "title": "Ajax-watcher onthult of Alex Kroes Jordi Cruijff verafschuwt",
+      "category": "Overig",
+      "published": "2026-09-02T07:19:56+00:00",
+      "updated": "2026-09-02T07:19:56+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQem1leHBjU29XeFpQVWhLeHhOMjJZWG1PSUhnRnJQVU9KWU44WXl0UFhKQTd1RGFsODBRNGVHYXg4emJRMGlNallZMlNmam5iNy1GX2RPTy1VNXlkS083V25SMWJwSmhjWWNYNHRQeWdQbjQ4TzFHZlVQVDdDUkI5dkpXdEJJQjY5em1sQ0RNVjh3VFFCUDdOWGM0MHg3Z1pRdWQ5MEc2aHdFQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "16834bd533effa",
@@ -110,10 +164,10 @@
       "related_sources": []
     },
     {
-      "id": "11b0ec18fc00cb",
-      "title": "'Deze afgetrainde Amrabat moet in Eredivisie bij Ajax échte opvolger worden van Henderson'",
+      "id": "50b03438963bc0",
+      "title": "'Deze afgetrainde Amrabat moet in Eredivisie bij Ajax échte opvolger worden van Henderson' - ajaxshowtime.com",
       "category": "Transfers",
-      "published": "2026-09-02T07:00:00+00:00",
+      "published": "2026-09-01T17:05:00+00:00",
       "updated": "2026-09-02T07:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -135,6 +189,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHFsNTgtYlJPY1lJV2tFQkxJTVdfZTVQQnFtSWtvSGZ1UTdLS0R3VHdvTGlDNTdBbEJaZGZUTFc5VGlfdFZsUjMtNngtU00wcVB6ZmJRSUY2OS1MYmZhWG5PWmpxYmRjOVliZ1g4Q3lrWmNqeFYwYUNTYVRwZEFpdmRZbldvcFVHbGV4SHZUZXgzazZSaXIwQjRkbkZvalNxVXR6NEhfdHpER3pRRUN3cTlwTlpmeFIyckxv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1d4712cdac5bfe",
+      "title": "Transfer Tagliafico naar Atlético Madrid ketst op het laatste moment af - ajaxshowtime.com",
+      "category": "Transfers",
+      "published": "2026-09-02T06:25:00+00:00",
+      "updated": "2026-09-02T06:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3AxcWJrMWdBby1HRmdnOXhVQkNNWk96RFZtQWFVMHNmZDYzQkZhRTRPT21BUjZDUGtEVTgxSjhIS1ZQZFEyVzl0X1hOT05OMGtscE9QVllFeG1oLWp1U2xVQzl2b1lnekFhYjc1TGlORk5wR2dscVluQWd6ZWxRdW5ZUlBBQ2Vmd2tqZE9yX1YwTFEtSThJakFQZHhMZlNybFlRQ3RodTUyU3FjOU42TzV1MWRxeXBhZVJoX1hfcw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -291,7 +360,7 @@
     },
     {
       "id": "dd250c8cc02493",
-      "title": "Ajax strikt topkandidaat voor de achterhoede",
+      "title": "Ajax strikt topkandidaat voor de achterhoede - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-01T17:42:00+00:00",
       "updated": "2026-09-01T17:42:00+00:00",
@@ -306,7 +375,7 @@
     },
     {
       "id": "82e5dd42750dfc",
-      "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst",
+      "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst - ajaxshowtime.com",
       "category": "Selectie",
       "published": "2026-09-01T16:25:00+00:00",
       "updated": "2026-09-01T16:25:00+00:00",
@@ -417,7 +486,7 @@
     },
     {
       "id": "1224148ce9222b",
-      "title": "'Ajax wil nog een nieuwe nummer zes: Míchel belt hoogstpersoonlijk met speler zelf'",
+      "title": "'Ajax wil nog een nieuwe nummer zes: Míchel belt hoogstpersoonlijk met speler zelf' - voetbalzone.nl",
       "category": "Selectie",
       "published": "2026-09-01T15:44:00+00:00",
       "updated": "2026-09-01T15:44:00+00:00",
@@ -446,19 +515,29 @@
       "related_sources": []
     },
     {
-      "id": "16634265ba2c00",
-      "title": "'Ajax-transfer Kehrer heeft opvallende gevolgen voor oud-PSV'er Teze'",
+      "id": "b4a25def9fad2a",
+      "title": "Ajax akkoord met Sunderland over huurdeal Adingra, Kehrer moet nieuwe verdediger worden",
       "category": "Transfers",
-      "published": "2026-09-01T08:00:00+00:00",
+      "published": "2026-08-31T20:45:00+00:00",
       "updated": "2026-09-01T15:38:43+00:00",
-      "source_count": 4,
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130318/as-monaco-houdt-jordan-teze-binnen-na-vertrek-thilo-kehrer-naar-ajax.html",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3Fud1lMUlBJX2xidjdoWEw2eHpJZ2l0cUJ0bGhWVk55RmdLVVRUODRMNG5nRVJLdHBfVHkydTgxaFYwbkNQdlZ4QnE0Yi1RdzR3OTdLUTc3dHBLU2ZtSDMtRHo2ZE5WU3pFLWVuQlJJM1FaTTgxcm9jRF9lNGR1RllzOEJtM1BHUXpob0pJTzY3WWt6R2ozSnVuZlJwNDlrSVp3ejV0ZC1KbjZub3lFbE54OE9tMFFpaUVacnI3SkNNTTdCWm10c1VqcmM4emlUU1E?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
+          "via_google_news": false
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130318/as-monaco-houdt-jordan-teze-binnen-na-vertrek-thilo-kehrer-naar-ajax.html",
+          "via_google_news": false
+        },
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
@@ -468,11 +547,6 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3Q1VUZ2MWRoQTVPMVRtSHo3S0RJNjNjY19Hc0E2cS04MW5RTkthZ0ZhamNhSHNGRHFrTU1sQnFCTEtsekctNTVaLURhdXlEeDNaQVBKQjAtSWxycDJTWkJVRkxaRG9fdC1LZ1ZDREYtWWRUdEhZM0lYX2ROV29sd1VHSENRUDAySm9kbFlQbVozWkpFTmFiaA?oc=5",
           "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55958/Monaco-doet-opnieuw-zaken-met-Ajax-en-verhuurt-Kehrer",
-          "via_google_news": false
         }
       ]
     },
@@ -493,7 +567,7 @@
     },
     {
       "id": "9c6bd7a341332f",
-      "title": "Kehrer biedt Ajax veel mogelijkheden: 'Kan op vijf posities spelen en is puur tweebenig'",
+      "title": "Kehrer biedt Ajax veel mogelijkheden: 'Kan op vijf posities spelen en is puur tweebenig' - ajaxshowtime.com",
       "category": "Selectie",
       "published": "2026-09-01T15:15:00+00:00",
       "updated": "2026-09-01T15:15:00+00:00",
@@ -538,7 +612,7 @@
     },
     {
       "id": "5a098836f1188c",
-      "title": "Kale En Kokkie En Het Nieuwe Kanon Van Ajax | Kale & Kokkie Podcast #33",
+      "title": "Kale En Kokkie En Het Nieuwe Kanon Van Ajax | Kale & Kokkie Podcast #33 - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-01T15:00:00+00:00",
       "updated": "2026-09-01T15:00:00+00:00",
@@ -553,24 +627,18 @@
     },
     {
       "id": "b4e1b503d81095",
-      "title": "Schokkende beelden: Ajax-fan zwaar mishandeld na ruzie om sjaal",
+      "title": "Afschuwelijke beelden: Ajax-supporter zwaar mishandeld om gratis sjaal",
       "category": "Overig",
-      "published": "2026-09-01T13:13:00+00:00",
+      "published": "2026-09-01T14:33:43+00:00",
       "updated": "2026-09-01T14:33:43+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130235/politie-zoekt-verdachten-na-zware-mishandeling-ajax-fan-om-sjaal.html",
-        "via_google_news": false
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDZqZHAzZGR3MS1nRG5aeXdlSmloLWZnTmgxVy1YWEJ4T1cxOENhRDNWM0RUYUJlV0pIcUFBR2toanh2bHhqTXRLNS1GOHktZDNWSGlSd0RfUHdWdzhqelFBNmRnckRueFVLVWd0UWFpX0xkSVdRQm5teFZ2ZEluZ0J4d3FZQW1kdC1WVXphVkZtSHhuTFRSUVRydEJsVjZPSzNqY0dHS3MzOUhHS24wbWI0NE0tQQ?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDZqZHAzZGR3MS1nRG5aeXdlSmloLWZnTmgxVy1YWEJ4T1cxOENhRDNWM0RUYUJlV0pIcUFBR2toanh2bHhqTXRLNS1GOHktZDNWSGlSd0RfUHdWdzhqelFBNmRnckRueFVLVWd0UWFpX0xkSVdRQm5teFZ2ZEluZ0J4d3FZQW1kdC1WVXphVkZtSHhuTFRSUVRydEJsVjZPSzNqY0dHS3MzOUhHS24wbWI0NE0tQQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "cc1089f31c7fc3",
@@ -584,81 +652,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130297/panathinaikos-bereikt-akkoord-voor-ounahi-en-troeft-ajax-en-psv-af.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "dac41e1fe3ea89",
-      "title": "'Oud-Ajacied Kühn hard op weg naar nieuwe club: akkoord bereikt in Duitsland'",
-      "category": "Transfers",
-      "published": "2026-09-01T14:02:00+00:00",
-      "updated": "2026-09-01T14:02:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130247/nicolas-kuhn-keert-terug-naar-duitsland-met-huurtransfer-naar-gladbach.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0f5690da58fc04",
-      "title": "'Ajax krijgt groen licht voor transfer: Godts-opvolger op weg naar Amsterdam'",
-      "category": "Transfers",
-      "published": "2026-09-01T13:47:13+00:00",
-      "updated": "2026-09-01T13:47:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130248/ajax-krijgt-groen-licht-voor-transfer-godts-opvolger-op-weg-naar-amsterdam.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4a33bb0dc81cbb",
-      "title": "Ajax Vrouwen wacht flink karwei tegen Real Madrid: \"Maar wij hebben frisse benen\"",
-      "category": "Ajax Vrouwen",
-      "published": "2026-09-01T13:25:23+00:00",
-      "updated": "2026-09-01T13:25:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0phRFJfc3NJWU5CR21Mb0gxQS1HRHFVeFFUNUFTU19jMEZ6a2FMeW5ub2dMYnhKVnlXck0tN1RQY3pEajhvZm1tT0FPa0pYRWpkSWZISHliVnlUbjFYUkRYcTRoUG5jbXliNEtWLTNkVlhOeDcxU2JUTzZlTFpPMF9YeEluUmJZRkVXMWRlcFdsR1FyRUtsZGNBLXJPSXQ4ZVBtaTRGSzBOTDhrdUxlV2lEQkJGajB3R1JrWjhYR29KXzFsZUY0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "06486f6bedb65c",
-      "title": "Ajax deelt nieuwe informatie over datalek: 'Een verhoogd risico op phishing'",
-      "category": "Overig",
-      "published": "2026-09-01T13:15:00+00:00",
-      "updated": "2026-09-01T13:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130238/ajax-deelt-nieuwe-informatie-over-datalek-verhoogd-risico-op-phishing.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a3dcf97b97dae4",
-      "title": "Paul Reverson op huurbasis naar De Graafschap - Ajax",
-      "category": "Selectie",
-      "published": "2026-09-01T12:24:58+00:00",
-      "updated": "2026-09-01T12:24:58+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHFrdXpuM1AydXlaT3o2RXFKc1dTbmZzbmpGdmF6S3F3RTN2UFZDNUhJSDhvdUVfUnV3blQ2U2VBcWVmNmx0X3lpUjl1V3haSkdmbzBiZi1EcUk5WmNRMjhESkh6anFUSVdGSjhDWnptbThWbGNIZEdJR0hfdkRPVGdWQm9zc3Y3eFdVUHlBMm52WEE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
