@@ -1,18 +1,170 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T08:31:42.743953+00:00",
+    "generated_at": "2026-09-02T08:56:36.709277+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 124,
+    "article_count": 128,
     "event_count": 40,
-    "discovered_event_count": 96,
+    "discovered_event_count": 93,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 26,
+    "excluded_video_only_count": 30,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "330b18465def08",
+      "title": "Belangrijke slag: Ajax doet zaken en strikt 28-voudig international voor defensie",
+      "category": "Selectie",
+      "published": "2026-09-02T08:52:31+00:00",
+      "updated": "2026-09-02T08:52:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130105/ajax-huurt-thilo-kehrer-van-as-monaco.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "16634265ba2c00",
+      "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-01T08:00:00+00:00",
+      "updated": "2026-09-02T08:52:23+00:00",
+      "source_count": 6,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHJ4Yl9aZGpPaFJoVHdQWl9XZlFhU210M2Y3YW5kN2M2bzdCUzdyWncxR2xHdlZxZzNhWDJkOFJ2aHZ0eGR0alVFaWZTTnd5UFZXYUZDNG9NNWRSdTRnQzltdlN0SkpJSV84UE5zOXVucFdIY0tYMXc5eUtRd2c3eU94UkhNeVhpM3h0cnVITFhERVQwbExXMV9YMXIyQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/transfers-ajax-franse-media-melden-interesse-in-kehrer",
+          "via_google_news": false
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3Fud1lMUlBJX2xidjdoWEw2eHpJZ2l0cUJ0bGhWVk55RmdLVVRUODRMNG5nRVJLdHBfVHkydTgxaFYwbkNQdlZ4QnE0Yi1RdzR3OTdLUTc3dHBLU2ZtSDMtRHo2ZE5WU3pFLWVuQlJJM1FaTTgxcm9jRF9lNGR1RllzOEJtM1BHUXpob0pJTzY3WWt6R2ozSnVuZlJwNDlrSVp3ejV0ZC1KbjZub3lFbE54OE9tMFFpaUVacnI3SkNNTTdCWm10c1VqcmM4emlUU1E?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3Q1VUZ2MWRoQTVPMVRtSHo3S0RJNjNjY19Hc0E2cS04MW5RTkthZ0ZhamNhSHNGRHFrTU1sQnFCTEtsekctNTVaLURhdXlEeDNaQVBKQjAtSWxycDJTWkJVRkxaRG9fdC1LZ1ZDREYtWWRUdEhZM0lYX2ROV29sd1VHSENRUDAySm9kbFlQbVozWkpFTmFiaA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "02ae683d84a3cd",
+      "title": "Ajax en Atlético Madrid bereiken akkoord over Gerónimo Spina - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T08:34:48+00:00",
+      "updated": "2026-09-02T08:51:11+00:00",
+      "source_count": 3,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLURpSW14ZE13SjZYZEI5cW9SQlEtSHdsa1dncTI2bGM5bURpSjNBNk0yUW9vMDZxUzM3c1R2WUt1bk1uZUNaUnB0WnRmN2NoS2dSWGpZS1cyVkdudFFac092YlFVcEsydktqdmRHOEpHN0U2dWlsNXBPdXB5WmptZm5xaWJCaWJGamtxSDg1bTh2MWYxMFNHMXhFdnU3TmI3VHhYRVZjbGU?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130604/ajax-neemt-geronimo-spina-over-van-atletico-madrid.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHFVTzRrbndZWHRseWl3TDVXZ25POG9Lalh0RXF4NlRUUExCUXgteGdJREVyRE9Wcm9zME1CNFhWY1FaQWl6dXdodFdfV0VoN05wOVRLTzJRQ2g2M3dpYmtaX2xwLWwyVXdqemJtc3BzZkJSdU04dGZTeEdKTWdhTmdzcFdCRG12RVFlYnBGLUlPem51NUpoNVdYTHpManU0eWxjMVJPbjBLZy1qSFo3U09XX05JQkVlZTd6VUZfdi1zdw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "50327b81f76c6e",
+      "title": "'Belangrijke Ajax-transfer nog niet afgerond: Amsterdammers willen extra checks'",
+      "category": "Transfers",
+      "published": "2026-09-02T08:49:13+00:00",
+      "updated": "2026-09-02T08:49:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130610/ajax-wil-extra-checks-uitvoeren-bij-simon-adingra.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "425e0500823f86",
+      "title": "Ajax vindt in 28-voudig Duits international Kehrer gewenste verdediger - NU",
+      "category": "Selectie",
+      "published": "2026-09-02T08:49:12+00:00",
+      "updated": "2026-09-02T08:49:12+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTC1qbFFQVXJUaGtjU2lmOGVGZ2ZVTmhxSFpLeGpreWdCU0g4Uk9jVThLVlJDY3ZlcTExYmZLMjRYRk5FejBuMjdIdDNXY3RLakRrdWZ5UlVLQlhyc216VEFPMTlrMkV0SVlJaU04TVZydjM3MmhKRnlIWi1MTnRLU28tbFdaWGxyZEQ4SDdQUDkzdGhhcG02QUFueU5idjIwZEFXWmEwcWhqbnhWZEE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6bc821698d4fb2",
+      "title": "Van burgeroorlog tot PSG en AS Monaco: nieuwe Ajax-verdediger Thilo Kehrer vergat nooit zijn moederland",
+      "category": "Selectie",
+      "published": "2026-09-02T08:48:52+00:00",
+      "updated": "2026-09-02T08:48:52+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTE3Y0syTVczeDdUSVo1OWZzdWdxcXdzLWxUZmxtcVNWZ1ZIZTg3TkRXT0V3bmc4QnVmVV85ZGpweFhLaU01RV9iZ2dmaTlKejZLYXoycWh2bGd1OFg0WW4yMmV5NjVRODE3WGU2clZmYWFNQTh1QnpKM2RTczVtMWpZc2hUR0dQTEhITGJoZDA4ZGZHbFNuSjdtMHBfaDEzX2VIOVJOSlBUaWZKeEFkR2ZoQ0Fjbzg3T3ZsVWxrOTkyMjVERWdEQzhFb0wxVnU0UUxicQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2fc76812e91823",
+      "title": "Ajax heeft 'uiterst professionele' Kehrer binnen",
+      "category": "Overig",
+      "published": "2026-09-02T08:47:00+00:00",
+      "updated": "2026-09-02T08:47:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-heeft-uiterst-professionele-kehrer-binnen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e6fe668ef36540",
+      "title": "Bruggink hekelt Ajax-coach Míchel: 'Echt vreselijk, dat-ie dat heeft gezegd'",
+      "category": "Overig",
+      "published": "2026-09-02T08:35:00+00:00",
+      "updated": "2026-09-02T08:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130584/arnold-bruggink-hekelt-ajax-trainer-sanchez-om-uitspraken-over-bouwman.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "b0a8b82956fb2b",
       "title": "PSV, Feyenoord, AZ, NEC, Ajax en FC Twente opgelet: ook UEFA-deadline nadert",
@@ -105,7 +257,7 @@
     },
     {
       "id": "146466801ce2bf",
-      "title": "Rondom Ajax: Ajax staat stil bij zeventig jaar Eredivisie - ajaxshowtime.com",
+      "title": "Rondom Ajax: Ajax staat stil bij zeventig jaar Eredivisie",
       "category": "Wedstrijden",
       "published": "2026-09-02T07:20:00+00:00",
       "updated": "2026-09-02T07:20:00+00:00",
@@ -122,31 +274,22 @@
       "id": "345e076f6dcae4",
       "title": "Ajax-watcher vertelt hoe Alex Kroes naar transferbeleid Jordi Cruijff kijkt",
       "category": "Transfers",
-      "published": "2026-09-02T07:19:56+00:00",
+      "published": "2026-09-01T17:05:00+00:00",
       "updated": "2026-09-02T07:19:56+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVzTjRZMXRZX2pxMU5kc1lUWkJFYmZzaThFWk9BSWFVSHNWTFRyWDc2YmZCcVlnVEpMbUVJTnM4Z2lpNmZSQ1BHT0xfTkJmclYyRTlFVGJEbWJvR243Z3J2WE8xRXNyRTZOVFY0bGdKRG9Fc2xzTGFIOHlPNFlaTTlHNFp0SDlQdEJ5aTVOb25IeE9tX3R0UjNvNXZaNnNGQTNlblhnd3gtM1doRXlyZ3NfeUU0YUk5NEFmVmtn?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
-    },
-    {
-      "id": "c07cb88f87e297",
-      "title": "Ajax-watcher onthult of Alex Kroes Jordi Cruijff verafschuwt",
-      "category": "Overig",
-      "published": "2026-09-02T07:19:56+00:00",
-      "updated": "2026-09-02T07:19:56+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQem1leHBjU29XeFpQVWhLeHhOMjJZWG1PSUhnRnJQVU9KWU44WXl0UFhKQTd1RGFsODBRNGVHYXg4emJRMGlNallZMlNmam5iNy1GX2RPTy1VNXlkS083V25SMWJwSmhjWWNYNHRQeWdQbjQ4TzFHZlVQVDdDUkI5dkpXdEJJQjY5em1sQ0RNVjh3VFFCUDdOWGM0MHg3Z1pRdWQ5MEc2aHdFQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "16834bd533effa",
@@ -164,10 +307,10 @@
       "related_sources": []
     },
     {
-      "id": "50b03438963bc0",
-      "title": "'Deze afgetrainde Amrabat moet in Eredivisie bij Ajax échte opvolger worden van Henderson' - ajaxshowtime.com",
+      "id": "11b0ec18fc00cb",
+      "title": "'Deze afgetrainde Amrabat moet in Eredivisie bij Ajax échte opvolger worden van Henderson'",
       "category": "Transfers",
-      "published": "2026-09-01T17:05:00+00:00",
+      "published": "2026-09-02T07:00:00+00:00",
       "updated": "2026-09-02T07:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -189,21 +332,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHFsNTgtYlJPY1lJV2tFQkxJTVdfZTVQQnFtSWtvSGZ1UTdLS0R3VHdvTGlDNTdBbEJaZGZUTFc5VGlfdFZsUjMtNngtU00wcVB6ZmJRSUY2OS1MYmZhWG5PWmpxYmRjOVliZ1g4Q3lrWmNqeFYwYUNTYVRwZEFpdmRZbldvcFVHbGV4SHZUZXgzazZSaXIwQjRkbkZvalNxVXR6NEhfdHpER3pRRUN3cTlwTlpmeFIyckxv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1d4712cdac5bfe",
-      "title": "Transfer Tagliafico naar Atlético Madrid ketst op het laatste moment af - ajaxshowtime.com",
-      "category": "Transfers",
-      "published": "2026-09-02T06:25:00+00:00",
-      "updated": "2026-09-02T06:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3AxcWJrMWdBby1HRmdnOXhVQkNNWk96RFZtQWFVMHNmZDYzQkZhRTRPT21BUjZDUGtEVTgxSjhIS1ZQZFEyVzl0X1hOT05OMGtscE9QVllFeG1oLWp1U2xVQzl2b1lnekFhYjc1TGlORk5wR2dscVluQWd6ZWxRdW5ZUlBBQ2Vmd2tqZE9yX1YwTFEtSThJakFQZHhMZlNybFlRQ3RodTUyU3FjOU42TzV1MWRxeXBhZVJoX1hfcw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -360,7 +488,7 @@
     },
     {
       "id": "dd250c8cc02493",
-      "title": "Ajax strikt topkandidaat voor de achterhoede - voetbalzone.nl",
+      "title": "Ajax strikt topkandidaat voor de achterhoede",
       "category": "Overig",
       "published": "2026-09-01T17:42:00+00:00",
       "updated": "2026-09-01T17:42:00+00:00",
@@ -369,21 +497,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX1lJRjVKYTRjbGZhSTRmTks4dnVlOENJWnk1SlRmcU5ZZEJ3RjlSOTJVWlRkdjNQa3NheEtNNzl1a09lWUUtVURyYV95MmRIZ3NDMGtfSlhzQm91ZVdBbWdXaHUtZVhtRE8yMXNMaU52WjBuNG1yLU9PWjY3d0tnd3l2WmFKN01xN2hKSFBvVWZMOXZiempOazZfNFZHc3B4X0FnY0RxSVBJUlpxejd3M2VvSWVnclVXRHp2d1dOVm9qREhMbFpoOUJKcWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "82e5dd42750dfc",
-      "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst - ajaxshowtime.com",
-      "category": "Selectie",
-      "published": "2026-09-01T16:25:00+00:00",
-      "updated": "2026-09-01T16:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGpsbmRHV21obFJ3dFhWRGppQmUtVWJsZTczUlh6TGNlc2tYS09naGUyNUFwNy1CUW5KS1NUc0ZnbVFQZkhxSUhPSnVyZzRxVFpFcXUxYl83NllFTUV3MGVSaENRblRyQjIzNlFNUUcxWE9OY09mR3J3cVozZGp4YTR2YTlaeDdNem9NMlk0SHNUQUpXX2pxMm1Hc2JpS0x5QWt5T2Q3WVdhalQxbzlXTzhUeWtGNWZCd0pWOUdzYm1SdlRkWTEzVQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -470,23 +583,8 @@
       "related_sources": []
     },
     {
-      "id": "3986c73ef5c1ac",
-      "title": "Transfers Ajax: akkoord met Espanyol over Salazar",
-      "category": "Transfers",
-      "published": "2026-09-01T15:46:02+00:00",
-      "updated": "2026-09-01T15:46:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/transfers-ajax-franse-media-melden-interesse-in-kehrer",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "1224148ce9222b",
-      "title": "'Ajax wil nog een nieuwe nummer zes: Míchel belt hoogstpersoonlijk met speler zelf' - voetbalzone.nl",
+      "title": "'Ajax wil nog een nieuwe nummer zes: Míchel belt hoogstpersoonlijk met speler zelf'",
       "category": "Selectie",
       "published": "2026-09-01T15:44:00+00:00",
       "updated": "2026-09-01T15:44:00+00:00",
@@ -515,42 +613,6 @@
       "related_sources": []
     },
     {
-      "id": "b4a25def9fad2a",
-      "title": "Ajax akkoord met Sunderland over huurdeal Adingra, Kehrer moet nieuwe verdediger worden",
-      "category": "Transfers",
-      "published": "2026-08-31T20:45:00+00:00",
-      "updated": "2026-09-01T15:38:43+00:00",
-      "source_count": 6,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3Fud1lMUlBJX2xidjdoWEw2eHpJZ2l0cUJ0bGhWVk55RmdLVVRUODRMNG5nRVJLdHBfVHkydTgxaFYwbkNQdlZ4QnE0Yi1RdzR3OTdLUTc3dHBLU2ZtSDMtRHo2ZE5WU3pFLWVuQlJJM1FaTTgxcm9jRF9lNGR1RllzOEJtM1BHUXpob0pJTzY3WWt6R2ozSnVuZlJwNDlrSVp3ejV0ZC1KbjZub3lFbE54OE9tMFFpaUVacnI3SkNNTTdCWm10c1VqcmM4emlUU1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
-          "via_google_news": false
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2130318/as-monaco-houdt-jordan-teze-binnen-na-vertrek-thilo-kehrer-naar-ajax.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3Q1VUZ2MWRoQTVPMVRtSHo3S0RJNjNjY19Hc0E2cS04MW5RTkthZ0ZhamNhSHNGRHFrTU1sQnFCTEtsekctNTVaLURhdXlEeDNaQVBKQjAtSWxycDJTWkJVRkxaRG9fdC1LZ1ZDREYtWWRUdEhZM0lYX2ROV29sd1VHSENRUDAySm9kbFlQbVozWkpFTmFiaA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "f7af87f88f7f47",
       "title": "Ajax: klantgegevens gestolen bij hack logistieke partner",
       "category": "Transfers",
@@ -567,7 +629,7 @@
     },
     {
       "id": "9c6bd7a341332f",
-      "title": "Kehrer biedt Ajax veel mogelijkheden: 'Kan op vijf posities spelen en is puur tweebenig' - ajaxshowtime.com",
+      "title": "Kehrer biedt Ajax veel mogelijkheden: 'Kan op vijf posities spelen en is puur tweebenig'",
       "category": "Selectie",
       "published": "2026-09-01T15:15:00+00:00",
       "updated": "2026-09-01T15:15:00+00:00",
@@ -607,51 +669,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMkUtWlJqNVlHNUpzbHpCSzR2RlE4VGZuOFdxZHhyWFBYdTRNZF9aVjBLdmg4R3lqOE1CUGVENUlMWjJYQnpSdzU4VDlQYVNKdVI1UGMwUUZSaUFmUEw3VkNHWjIyQnJIVjRvTEF6Z3ZUMnMwRGUwaGJEOThaMF9mX0NDaC1jR0FrV240THJzQ0V0ZDV3V3hYREhzV0NTLV9sdmRtdWM2bV9UTG95OVNReTJuS3JLMkxTcU9IcXZrR3otTV9nTHRsdXYxUjQtNjExOGg3eFVKNm1CaWZrOFVVbE5CUQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5a098836f1188c",
-      "title": "Kale En Kokkie En Het Nieuwe Kanon Van Ajax | Kale & Kokkie Podcast #33 - ajaxshowtime.com",
-      "category": "Overig",
-      "published": "2026-09-01T15:00:00+00:00",
-      "updated": "2026-09-01T15:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVNPWW1fa0ItWlpNQ3NEclJpdXNJaGdwVnVBeUVadE5JcWo0dkpITFM2dGpDMk4xZTdKOVk1MjktSk1LSzZjaTZ1RURkcHdzVmxFNnNHblBYRnl6NlctRTF3bWREUHBrSk1PNmx2SDU2emtHeVNtb25Dazc2ZU9iYjZVQnFvOF81WWRiY1VEZ3hMeTBaMVQzUTYycGpvbmM5OEFqdmxKWnZSbmNqQ2M4?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b4e1b503d81095",
-      "title": "Afschuwelijke beelden: Ajax-supporter zwaar mishandeld om gratis sjaal",
-      "category": "Overig",
-      "published": "2026-09-01T14:33:43+00:00",
-      "updated": "2026-09-01T14:33:43+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDZqZHAzZGR3MS1nRG5aeXdlSmloLWZnTmgxVy1YWEJ4T1cxOENhRDNWM0RUYUJlV0pIcUFBR2toanh2bHhqTXRLNS1GOHktZDNWSGlSd0RfUHdWdzhqelFBNmRnckRueFVLVWd0UWFpX0xkSVdRQm5teFZ2ZEluZ0J4d3FZQW1kdC1WVXphVkZtSHhuTFRSUVRydEJsVjZPSzNqY0dHS3MzOUhHS24wbWI0NE0tQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cc1089f31c7fc3",
-      "title": "'PSV en Ajax krijgen slecht Ounahi-nieuws: akkoord bereikt en topsalaris wacht'",
-      "category": "Transfers",
-      "published": "2026-09-01T14:27:13+00:00",
-      "updated": "2026-09-01T14:27:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130297/panathinaikos-bereikt-akkoord-voor-ounahi-en-troeft-ajax-en-psv-af.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
