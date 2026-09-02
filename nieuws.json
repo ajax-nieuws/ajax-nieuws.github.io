@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T07:30:08.225013+00:00",
+    "generated_at": "2026-09-02T07:55:23.164278+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 123,
+    "article_count": 124,
     "event_count": 40,
-    "discovered_event_count": 93,
+    "discovered_event_count": 92,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 31,
+    "excluded_video_only_count": 30,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "19ea6010de1e15",
+      "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
+      "category": "Transfers",
+      "published": "2026-09-02T07:39:26+00:00",
+      "updated": "2026-09-02T07:39:26+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d99b18ff0ba557",
+      "title": "Kraay jr. geniet van 'verdwaalde' sterspeler: 'Veel te goed voor de Eredivisie'",
+      "category": "Wedstrijden",
+      "published": "2026-09-02T07:35:10+00:00",
+      "updated": "2026-09-02T07:35:10+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130546/kraay-jr-lyrisch-over-brandt-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "dec8a940226645",
       "title": "'Ajax lijkt veelbesproken tweetal niet meer te kunnen slijten voor einde window'",
@@ -44,19 +74,25 @@
       "related_sources": []
     },
     {
-      "id": "c07cb88f87e297",
-      "title": "Ajax-watcher onthult of Alex Kroes Jordi Cruijff verafschuwt",
-      "category": "Overig",
-      "published": "2026-09-02T07:19:56+00:00",
+      "id": "345e076f6dcae4",
+      "title": "Ajax-watcher vertelt hoe Alex Kroes naar transferbeleid Jordi Cruijff kijkt",
+      "category": "Transfers",
+      "published": "2026-09-01T17:05:00+00:00",
       "updated": "2026-09-02T07:19:56+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQem1leHBjU29XeFpQVWhLeHhOMjJZWG1PSUhnRnJQVU9KWU44WXl0UFhKQTd1RGFsODBRNGVHYXg4emJRMGlNallZMlNmam5iNy1GX2RPTy1VNXlkS083V25SMWJwSmhjWWNYNHRQeWdQbjQ4TzFHZlVQVDdDUkI5dkpXdEJJQjY5em1sQ0RNVjh3VFFCUDdOWGM0MHg3Z1pRdWQ5MEc2aHdFQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVzTjRZMXRZX2pxMU5kc1lUWkJFYmZzaThFWk9BSWFVSHNWTFRyWDc2YmZCcVlnVEpMbUVJTnM4Z2lpNmZSQ1BHT0xfTkJmclYyRTlFVGJEbWJvR243Z3J2WE8xRXNyRTZOVFY0bGdKRG9Fc2xzTGFIOHlPNFlaTTlHNFp0SDlQdEJ5aTVOb25IeE9tX3R0UjNvNXZaNnNGQTNlblhnd3gtM1doRXlyZ3NfeUU0YUk5NEFmVmtn?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "16834bd533effa",
@@ -269,32 +305,6 @@
       "related_sources": []
     },
     {
-      "id": "50b03438963bc0",
-      "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
-      "category": "Transfers",
-      "published": "2026-08-31T10:15:00+00:00",
-      "updated": "2026-09-01T17:05:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ0VUaWxjc2otM2p0d2dfVFZORXlXMDhhbHl4aWlmOVBCOGRSclFaT1k5MmhQTXlrTms2T3lhdThBajI3UkdZQXBPN28zRW01TmRuTlRmVkNkSFBTYXZFdXJwYXNxcmduUlVaRU5jRjlab3hlZk9TV2tjaEVVV2pwQVRXVW1ZTzlXSWNyTVNWVkQ0STg1d3l0VFA4S1ZFSC00ODhVR1VwWHVGOVNMazdrNHRqdVk1NGRkYUxwUDctcw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "82e5dd42750dfc",
       "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst",
       "category": "Selectie",
@@ -364,13 +374,13 @@
           "via_google_news": true
         },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTR0NDVqem40b0kyRDcwSjV5bVhqX0pmYkM5dWVNeExrbm9UZlJCYVBWMnhSWlQ5eF9RY2k4eENNejlHeXRFQlk1c2J6Y2lRbVBtSnJxWmlqN3h3TlFzc0pzd0ktSHRiZHlOYnNqU0xEN0RlM2VGajRUeDU1MUZDNDdmbjVVRTJ5em4xa2FoOEVpUF9DWVc4NDRoV2V2c21KRUdDalRZeFlHbHI0VF9QYlV2MW9LbnNzUzAwbHVvN0hTSDNJ?oc=5",
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ25WUjMyeGNab2pjQXVpal9NTFotcEk3Q2FZRmpSYy1nYzlBZ0c3QjVQZnJQNWNXZWl6ckMwd3dmUmt5SFhpeUI1UDZqNDloLWxLa3V4Zm0zaEUyVmR2UG10U1p6VjlISUhKN3d2UHdNdDBRZm1ock1WbC0zQkNNdHhXY3F1Y3hkMU05Rk1hVzE0M0tpcXFWc2lVdGRjMVE3QjQwbXRwX0h1bVQyZGV5Um8xa2JTRG1K?oc=5",
           "via_google_news": true
         },
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1ZVeTBSWFR5Z1NyQ1ZsR2NhT1RaY09OQkl2cHhJS19jUXg4SHBHR3RYa3ctTEpJRjU5VDJhdU9UdTAzOHR5WXZndkNOZi1MekdELVdFTkV0X3c1Q0p2eHhqam1PNmR5T0o5cHJHV1JOZkJnM1F2cFJwNTdRalBiejZoRGdoYlR3VDNKelpLYTl1OGNva1J3V3l4NVF0Q2tSb2JpQnlkczJtTkczanNhc3l5ZW8?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTR0NDVqem40b0kyRDcwSjV5bVhqX0pmYkM5dWVNeExrbm9UZlJCYVBWMnhSWlQ5eF9RY2k4eENNejlHeXRFQlk1c2J6Y2lRbVBtSnJxWmlqN3h3TlFzc0pzd0ktSHRiZHlOYnNqU0xEN0RlM2VGajRUeDU1MUZDNDdmbjVVRTJ5em4xa2FoOEVpUF9DWVc4NDRoV2V2c21KRUdDalRZeFlHbHI0VF9QYlV2MW9LbnNzUzAwbHVvN0hTSDNJ?oc=5",
           "via_google_news": true
         }
       ]
@@ -436,12 +446,12 @@
       "related_sources": []
     },
     {
-      "id": "1bd8f400065a3b",
+      "id": "16634265ba2c00",
       "title": "'Ajax-transfer Kehrer heeft opvallende gevolgen voor oud-PSV'er Teze'",
       "category": "Transfers",
       "published": "2026-09-01T08:00:00+00:00",
       "updated": "2026-09-01T15:38:43+00:00",
-      "source_count": 3,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -451,13 +461,18 @@
       "related_sources": [
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGhhX2ZER0k4Qzhpc0ZvZWl3Y0xyMXNnUFBadFZob2FLYU8wTThkYXUxWmRKV1hVbkRUY3RFYWZjTXZZNWZoMGRZSmo5NE5GR0gyVVg4R3AzVG9PNFFzeEZWYlFlMHFtNjZJNmdPbUFFVDg2RzRTZExsbzJHUmdvdmxPUl9aQ2Z0eFU1TGR3UnVtWVptRzZtMmR0b2FVUmFqMGNRdE15cHFUUVpCTG9JZTdHN1JXc2N4bDNtdGU3amVaeDRhOWJST0VlcmZoUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
           "via_google_news": true
         },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU3Q1VUZ2MWRoQTVPMVRtSHo3S0RJNjNjY19Hc0E2cS04MW5RTkthZ0ZhamNhSHNGRHFrTU1sQnFCTEtsekctNTVaLURhdXlEeDNaQVBKQjAtSWxycDJTWkJVRkxaRG9fdC1LZ1ZDREYtWWRUdEhZM0lYX2ROV29sd1VHSENRUDAySm9kbFlQbVozWkpFTmFiaA?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55958/Monaco-doet-opnieuw-zaken-met-Ajax-en-verhuurt-Kehrer",
+          "via_google_news": false
         }
       ]
     },
@@ -631,32 +646,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "16634265ba2c00",
-      "title": "'Meer details over Kehrer-deal: Ajax neemt volledig salaris over van Monaco'",
-      "category": "Transfers",
-      "published": "2026-09-01T11:10:00+00:00",
-      "updated": "2026-09-01T12:41:54+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130218/financiele-details-rondom-kehrer-deal-bekend.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55958/Monaco-doet-opnieuw-zaken-met-Ajax-en-verhuurt-Kehrer",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "a3dcf97b97dae4",
