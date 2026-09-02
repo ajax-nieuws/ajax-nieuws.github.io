@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T16:31:39.935277+00:00",
+    "generated_at": "2026-09-02T16:56:26.557299+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 139,
+    "article_count": 140,
     "event_count": 40,
-    "discovered_event_count": 92,
+    "discovered_event_count": 93,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
@@ -14,19 +14,24 @@
   },
   "events": [
     {
-      "id": "9ba83342e43a53",
-      "title": "Ajax presenteert Adingra: aanvaller wordt gehuurd van Sunderland",
+      "id": "08263e7d3cd6ce",
+      "title": "Adingra sprak voor transfer met Brobbey: 'Hij zei dat Ajax zijn thuis is'",
       "category": "Transfers",
-      "published": "2026-09-02T10:52:24+00:00",
-      "updated": "2026-09-02T16:26:00+00:00",
-      "source_count": 5,
+      "published": "2026-09-02T09:32:00+00:00",
+      "updated": "2026-09-02T16:32:06+00:00",
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXg1NmpNbWtOcDlrMEVLTVloNElETWRhcUxzbml3Zk1YMGVmcWo0TDBZZWJ2UzAySDhPZzhjSTNnTDVUWGtoQS1aR3l6ak9TdHlLLWtfQVYxejBaMTZPRG9CTDBQcEpjLVFJdHZwVmV4VGJkelBiOE0yUC1mcF9tWEVtV244UV90V2FvbGtiZzRwYU9qdDJsTXB1TUxBWjdvcnNabFczOS1XbjhzRVY1QlN4OA?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-aanwinst-adingra-ik-hoop-het-net-zo-goed-te-doen-als-kudus",
+        "via_google_news": false
       },
       "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXg1NmpNbWtOcDlrMEVLTVloNElETWRhcUxzbml3Zk1YMGVmcWo0TDBZZWJ2UzAySDhPZzhjSTNnTDVUWGtoQS1aR3l6ak9TdHlLLWtfQVYxejBaMTZPRG9CTDBQcEpjLVFJdHZwVmV4VGJkelBiOE0yUC1mcF9tWEVtV244UV90V2FvbGtiZzRwYU9qdDJsTXB1TUxBWjdvcnNabFczOS1XbjhzRVY1QlN4OA?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
@@ -34,20 +39,45 @@
         },
         {
           "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2130860/vi-ajax-speurt-na-komst-adingra-nog-naar-middenvelder-op-deadline-day.html",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130801/ajax-heeft-adingra-van-sunderland-binnen.html",
           "via_google_news": false
         },
         {
           "name": "NU.nl",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFZBd0xVaVlDQkJzd3QtUFFBeHRkaElXZFUtSkxZU0pEZXBfRVd5aWl1enNpNkYzdnpaSDY5dXhXd1J2blF0ZWVxdFNHOXRpS095c09ZVzJlRjg4M19WWmV1bmxja2xRNlpHaUpPSks3bWYwZ0tDYjIwQ2g3dExtSTJSbk9sZ2pIX0F5OG5RWmtkeGRrS09ORmNRbER0NG5DYUpJb1RR?oc=5",
           "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55964/Bevestigd-Ajax-huurt-Adringa-van-Sunderland",
-          "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "2be320b1e7d253",
+      "title": "Ajax-aanwinst onthult: 'Ik ben niet fit genoeg om te spelen, heb nog weken nodig'",
+      "category": "Transfers",
+      "published": "2026-09-02T10:43:43+00:00",
+      "updated": "2026-09-02T16:29:53+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130867/ajax-aanwinst-simon-adingra-nog-niet-fit-genoeg.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7ee87f7a376815",
+      "title": "'Ajax speurt na komst Adingra verder: nóg één positie in beeld op Deadline Day'",
+      "category": "Selectie",
+      "published": "2026-09-02T16:26:00+00:00",
+      "updated": "2026-09-02T16:26:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130860/vi-ajax-speurt-na-komst-adingra-nog-naar-middenvelder-op-deadline-day.html",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "05a6e7491abf8f",
@@ -86,19 +116,25 @@
       ]
     },
     {
-      "id": "6b7ff7a4bcd036",
+      "id": "9ba83342e43a53",
       "title": "Transfers Ajax: Cruijff legt uit waarom Adringa precies in gezochte profiel past",
       "category": "Transfers",
-      "published": "2026-09-02T16:18:00+00:00",
+      "published": "2026-09-02T16:05:00+00:00",
       "updated": "2026-09-02T16:18:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/transfers-ajax-cruijff-legt-uit-waarom-adringa-precies-in-gezochte-profiel-past",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55964/Bevestigd-Ajax-huurt-Adringa-van-Sunderland",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "3862c96bb0de77",
@@ -209,7 +245,7 @@
     },
     {
       "id": "da0d969a0bb084",
-      "title": "Adingra: Ivoriaanse dribbelaar in voetsporen van Sébastien Haller - Ajax",
+      "title": "Adingra: Ivoriaanse dribbelaar in voetsporen van Haller - Ajax",
       "category": "Overig",
       "published": "2026-09-02T16:04:04+00:00",
       "updated": "2026-09-02T16:04:04+00:00",
@@ -404,27 +440,12 @@
       "related_sources": []
     },
     {
-      "id": "2be320b1e7d253",
-      "title": "Het Parool over Ajax-aanwinst: 'Hij is niet het type dat trainer Míchel wenste'",
-      "category": "Transfers",
-      "published": "2026-09-02T10:43:43+00:00",
-      "updated": "2026-09-02T10:43:43+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130689/kritische-analyse-in-het-parool-over-ajax-aanwinst-sofyan-amrabat.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "16634265ba2c00",
       "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
       "published": "2026-09-01T08:26:15+00:00",
       "updated": "2026-09-02T10:21:29+00:00",
-      "source_count": 6,
+      "source_count": 7,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -432,6 +453,11 @@
         "via_google_news": true
       },
       "related_sources": [
+        {
+          "name": "NOS",
+          "url": "https://nos.nl/l/2629351",
+          "via_google_news": false
+        },
         {
           "name": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
@@ -445,47 +471,6 @@
         {
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/55961/Bevestigd-Kehrer-wordt-gehuurd-van-Monaco",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "b4a25def9fad2a",
-      "title": "Ajax ziet in Adingra opvolger van Godts",
-      "category": "Transfers",
-      "published": "2026-08-31T20:45:00+00:00",
-      "updated": "2026-09-02T09:32:00+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-ziet-in-adingra-opvolger-van-godts",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjZRVTgxRXVudHB2LWNzd3ZVQ2UwaGFJeHJhQlZMa256X1VDYnF3VThUVkVBbTFmbWxmRFRWcURtajZ4SWFMSFoxWERvcy1JRDRUWEJ5M3BHVG4yX1BNQXNkUDFueUV5NTctS0IxZkRfcHAzZklzUG5IV0gzVURPMTdMbVhkRFMxbV9zeXNNenAwNVEzVXYxb1BxOEZtd1JuMHBIb09fYw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkIzS0t4Y0lZVXMtaTFvVHRwTzdOeFg0NEdBN2hmcnotQ2xtWFdjcnV1QUJwM0l3bVJCLVh0dU12ZjVUTEdWNE1DUTBrRlBDUDRBbkVCV1JNUVM5eGhFNGVGaDIxSy03Um1FeXc2QkczUGxVeVdiNnZBMmtidFI0RFU1YTZySmRrWVIxNnBOb0s2TzM4WlpoaGR6VlkxRll5ZEpXQWw3d3RRQkRPbE9NcVNSNDlxNXBEZkE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMlk4Vi0zUFVNOWJjejhNVEM3Q1RrLXYwOFQ3cUFnTmw5NDRIUmNyTkJoWEtJMVNkLW5uZGc5bnRiS0NxbVIxckwtR2x1Zm9FQ3RHQ0IwYnEtWkk5bnM5NnN2LVlYY3NrdzBkUFNiRFRyYTR4WGwxNHRGSW4xMTZ4SU9ORFNJTEJnbXcwWmpTYktfVFBPLXAxR0lFM0Ffckp2aFB5a1NRYTNxNi1YRDBINkxGYzJQZw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55957/Ajax-huurt-opvolger-Godts-van-Sunderland",
           "via_google_news": false
         }
       ]
@@ -519,27 +504,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "425e0500823f86",
-      "title": "Ajax neemt 28-voudig Duits international Kehrer op huurbasis over van AS Monaco",
-      "category": "Selectie",
-      "published": "2026-09-02T08:49:12+00:00",
-      "updated": "2026-09-02T09:09:58+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629351",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTC1qbFFQVXJUaGtjU2lmOGVGZ2ZVTmhxSFpLeGpreWdCU0g4Uk9jVThLVlJDY3ZlcTExYmZLMjRYRk5FejBuMjdIdDNXY3RLakRrdWZ5UlVLQlhyc216VEFPMTlrMkV0SVlJaU04TVZydjM3MmhKRnlIWi1MTnRLU28tbFdaWGxyZEQ4SDdQUDkzdGhhcG02QUFueU5idjIwZEFXWmEwcWhqbnhWZEE?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "a45fa37152f7c6",
@@ -653,17 +617,17 @@
       "related_sources": []
     },
     {
-      "id": "330b18465def08",
-      "title": "Belangrijke slag: Ajax doet zaken en strikt 28-voudig international voor defensie",
+      "id": "425e0500823f86",
+      "title": "Ajax vindt in 28-voudig Duits international Kehrer gewenste verdediger",
       "category": "Selectie",
-      "published": "2026-09-02T08:52:31+00:00",
-      "updated": "2026-09-02T08:52:31+00:00",
+      "published": "2026-09-02T08:49:12+00:00",
+      "updated": "2026-09-02T08:49:12+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130105/ajax-huurt-thilo-kehrer-van-as-monaco.html",
-        "via_google_news": false
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTC1qbFFQVXJUaGtjU2lmOGVGZ2ZVTmhxSFpLeGpreWdCU0g4Uk9jVThLVlJDY3ZlcTExYmZLMjRYRk5FejBuMjdIdDNXY3RLakRrdWZ5UlVLQlhyc216VEFPMTlrMkV0SVlJaU04TVZydjM3MmhKRnlIWi1MTnRLU28tbFdaWGxyZEQ4SDdQUDkzdGhhcG02QUFueU5idjIwZEFXWmEwcWhqbnhWZEE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -749,6 +713,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFRlejRSd25VY2VrMFZXMVRVbGpxcXNxblh3dDRUSDR0TzNCbHlMbFptWWp2NVc2SllzZjY1amoxeV9zVHNWYUQ2enFRWVBwYi1QZWpaRDNhbVJHQlI2bGpKWVQ0OU0ySVRvUm1jQXNFYjlvYUZwWEU3eGk4cVlYWmJlWDU3QnFiQjRPQ2FvaXJfS0NJWWtReTN1aXZ5cXFyQmdSTHpDWklzanM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "345e076f6dcae4",
+      "title": "Ajax-watcher vertelt hoe Alex Kroes naar transferbeleid Jordi Cruijff kijkt",
+      "category": "Transfers",
+      "published": "2026-09-02T07:19:56+00:00",
+      "updated": "2026-09-02T07:19:56+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVzTjRZMXRZX2pxMU5kc1lUWkJFYmZzaThFWk9BSWFVSHNWTFRyWDc2YmZCcVlnVEpMbUVJTnM4Z2lpNmZSQ1BHT0xfTkJmclYyRTlFVGJEbWJvR243Z3J2WE8xRXNyRTZOVFY0bGdKRG9Fc2xzTGFIOHlPNFlaTTlHNFp0SDlQdEJ5aTVOb25IeE9tX3R0UjNvNXZaNnNGQTNlblhnd3gtM1doRXlyZ3NfeUU0YUk5NEFmVmtn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
