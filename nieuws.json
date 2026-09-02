@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T12:58:12.136731+00:00",
+    "generated_at": "2026-09-02T13:31:14.893587+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 95,
+    "discovered_event_count": 97,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 26,
+    "excluded_video_only_count": 24,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b3460a453d4606",
+      "title": "Ruud Krol (77) blij met behoud van één Ajax-speler: 'Dat vind ik een goede zaak'",
+      "category": "Overig",
+      "published": "2026-09-02T13:29:15+00:00",
+      "updated": "2026-09-02T13:29:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130759/ruud-krol-prijst-jordi-cruijff-en-is-benieuwd-of-ajax-kampioen-kan-worden.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6edf9760bac9cc",
+      "title": "Ajax-coach Míchel Sánchez ligt onder vuur na 'vreselijke' uitspraak",
+      "category": "Overig",
+      "published": "2026-09-02T13:11:00+00:00",
+      "updated": "2026-09-02T13:11:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEpHeEs2dlpNa2V0MGdVMU5SeU9GSGtpdi00dURyVlNISzc4X2hCd2NZQThOcWd2WldPQVFpTGZPWVBaNnhZanpmaVJZNVpEWU1FMEtQMXdyNTV5MEhXS2N5SlViQVJCNlhZaF8xSmFFV0RaWmRCOG03T2phZVk3enkyeWxLWWRRMzMycWpia2ZEX1dWUVNCVmU5aFgxSjZoOU1NZUI2R0t5SlplLWdyRg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "36c46f90c4290e",
       "title": "Uitsluitsel over Ajax-transfer: 'Adingra doorstaat keuring, deal kwestie van tijd'",
@@ -78,7 +108,7 @@
       "id": "16634265ba2c00",
       "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
-      "published": "2026-09-01T08:00:00+00:00",
+      "published": "2026-09-01T08:26:15+00:00",
       "updated": "2026-09-02T10:21:29+00:00",
       "source_count": 6,
       "official_confirmation": true,
@@ -321,7 +351,7 @@
       "id": "689063d7a2902c",
       "title": "Ajax en Atlético Madrid bereiken akkoord over Gerónimo Spina - Ajax",
       "category": "Transfers",
-      "published": "2026-09-02T08:34:48+00:00",
+      "published": "2026-09-01T11:55:00+00:00",
       "updated": "2026-09-02T08:51:11+00:00",
       "source_count": 3,
       "official_confirmation": true,
@@ -419,25 +449,19 @@
       "related_sources": []
     },
     {
-      "id": "50b03438963bc0",
+      "id": "19ea6010de1e15",
       "title": "Cruijff slaat opnieuw toe: 'Ajax bereikt snel akkoord met linksbuiten uit La Liga'",
       "category": "Transfers",
-      "published": "2026-09-01T17:05:00+00:00",
+      "published": "2026-09-02T07:39:26+00:00",
       "updated": "2026-09-02T07:39:26+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130344/ajax-bereikt-akkoord-met-salazar-van-espanyol.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "d99b18ff0ba557",
@@ -471,7 +495,7 @@
     },
     {
       "id": "146466801ce2bf",
-      "title": "Rondom Ajax: Ajax staat stil bij zeventig jaar Eredivisie",
+      "title": "Rondom Ajax: Ajax staat stil bij zeventig jaar Eredivisie - ajaxshowtime.com",
       "category": "Wedstrijden",
       "published": "2026-09-02T07:20:00+00:00",
       "updated": "2026-09-02T07:20:00+00:00",
@@ -500,10 +524,10 @@
       "related_sources": []
     },
     {
-      "id": "11b0ec18fc00cb",
-      "title": "'Deze afgetrainde Amrabat moet in Eredivisie bij Ajax échte opvolger worden van Henderson'",
+      "id": "50b03438963bc0",
+      "title": "'Deze afgetrainde Amrabat moet in Eredivisie bij Ajax échte opvolger worden van Henderson' - ajaxshowtime.com",
       "category": "Transfers",
-      "published": "2026-09-02T07:00:00+00:00",
+      "published": "2026-09-01T17:05:00+00:00",
       "updated": "2026-09-02T07:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -605,21 +629,6 @@
       "related_sources": []
     },
     {
-      "id": "f3de8c25abf846",
-      "title": "'Kehrer is opbouwende leider, maar gaat niet compenseren voor Ajax-verdedigers'",
-      "category": "Selectie",
-      "published": "2026-09-01T19:54:24+00:00",
-      "updated": "2026-09-01T19:54:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130433/lof-voor-ajax-aanwinst-kehrer-opbouwende-leider.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "0c151b8b49468f",
       "title": "Cruijff blijft Ajax-selectie versterken: \"Het wordt een vreemdelingenlegioen\"",
       "category": "Selectie",
@@ -651,7 +660,7 @@
     },
     {
       "id": "82e5dd42750dfc",
-      "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst",
+      "title": "Rondom Ajax: Ajax deelt eerste beelden van Amrabat op trainingsveld De Toekomst - ajaxshowtime.com",
       "category": "Selectie",
       "published": "2026-09-01T16:25:00+00:00",
       "updated": "2026-09-01T16:25:00+00:00",
@@ -661,21 +670,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRGpsbmRHV21obFJ3dFhWRGppQmUtVWJsZTczUlh6TGNlc2tYS09naGUyNUFwNy1CUW5KS1NUc0ZnbVFQZkhxSUhPSnVyZzRxVFpFcXUxYl83NllFTUV3MGVSaENRblRyQjIzNlFNUUcxWE9OY09mR3J3cVozZGp4YTR2YTlaeDdNem9NMlk0SHNUQUpXX2pxMm1Hc2JpS0x5QWt5T2Q3WVdhalQxbzlXTzhUeWtGNWZCd0pWOUdzYm1SdlRkWTEzVQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fe40d587d0fb11",
-      "title": "Adingra geeft ja-woord aan Ajax, ook Kehrer onderweg",
-      "category": "Overig",
-      "published": "2026-09-01T16:05:00+00:00",
-      "updated": "2026-09-01T16:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/adingra-geeft-ja-woord-aan-ajax-ook-kehrer-onderweg",
-        "via_google_news": false
       },
       "related_sources": []
     }
