@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T19:55:02.579705+00:00",
+    "generated_at": "2026-09-02T20:30:34.123552+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 135,
+    "article_count": 129,
     "event_count": 40,
-    "discovered_event_count": 92,
+    "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 25,
+    "excluded_video_only_count": 24,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "a8976a9ed7e884",
+      "title": "Voetbalsters PSV en Ajax uitgeschakeld in laatste voorronde Champions League",
+      "category": "Wedstrijden",
+      "published": "2026-09-02T19:00:04+00:00",
+      "updated": "2026-09-02T20:08:39+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629419",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGFvUW5vU20yTm9vX3ZNM0JuRmlCWnRvMzVoRXduck1FUEJseVNhTHlvM1R5MVFQbG5SQ2ZyczdSNm5fWGQ1NFBnR1hsY0tacWxlLVNLRTZhNnB0SGdCX1ZpTlFaZXJvZzJyTG5IRHUwN3NaM0xUYnNHUGlfdEpaOThwS0V6TG5jMnBwZlV6eENfWGctZ0xILThpLTJDM3ZvZjhNMFhXM2w2Vk0ybGtj?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "796c5ca2870429",
       "title": "Ajax en pechvogel Van Axel Dongen per direct uit elkaar",
@@ -254,7 +275,7 @@
     },
     {
       "id": "6a7fe7e28dac70",
-      "title": "'Farioli en Porto kloppen tóch weer aan bij Ajax'",
+      "title": "'Farioli klopt tóch weer aan bij Ajax'",
       "category": "Overig",
       "published": "2026-09-02T17:28:45+00:00",
       "updated": "2026-09-02T17:28:45+00:00",
@@ -269,22 +290,22 @@
     },
     {
       "id": "05a6e7491abf8f",
-      "title": "Wijndal lijkt tóch bij Ajax te blijven: deal geklapt",
+      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
       "category": "Transfers",
       "published": "2026-09-02T14:05:00+00:00",
       "updated": "2026-09-02T16:57:51+00:00",
       "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
-          "via_google_news": false
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Ajax Showtime",
@@ -503,7 +524,7 @@
     },
     {
       "id": "13d59933bd3fdd",
-      "title": "Ajax bereikt akkoord in Spanje en presenteert vleugelaanvaller - voetbalzone.nl",
+      "title": "Ajax bereikt akkoord in Spanje en presenteert vleugelaanvaller",
       "category": "Transfers",
       "published": "2026-09-02T15:56:00+00:00",
       "updated": "2026-09-02T15:56:00+00:00",
@@ -562,31 +583,16 @@
       "related_sources": []
     },
     {
-      "id": "bc7d63172aafe6",
-      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe) - voetbalzone.nl",
+      "id": "a967d1009d9ccd",
+      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
       "category": "Transfers",
-      "published": "2026-09-02T09:03:00+00:00",
+      "published": "2026-09-02T13:45:00+00:00",
       "updated": "2026-09-02T13:45:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6edf9760bac9cc",
-      "title": "Ajax-coach Míchel Sánchez ligt onder vuur na 'vreselijke' uitspraak",
-      "category": "Overig",
-      "published": "2026-09-02T13:11:00+00:00",
-      "updated": "2026-09-02T13:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEpHeEs2dlpNa2V0MGdVMU5SeU9GSGtpdi00dURyVlNISzc4X2hCd2NZQThOcWd2WldPQVFpTGZPWVBaNnhZanpmaVJZNVpEWU1FMEtQMXdyNTV5MEhXS2N5SlViQVJCNlhZaF8xSmFFV0RaWmRCOG03T2phZVk3enkyeWxLWWRRMzMycWpia2ZEX1dWUVNCVmU5aFgxSjZoOU1NZUI2R0t5SlplLWdyRg?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -710,7 +716,7 @@
     },
     {
       "id": "02da854f3258b3",
-      "title": "Ajax wil Simon Adingra plotseling nog een keer keuren: dit is de status - voetbalzone.nl",
+      "title": "Ajax wil Simon Adingra plotseling nog een keer keuren: dit is de status",
       "category": "Overig",
       "published": "2026-09-02T09:06:00+00:00",
       "updated": "2026-09-02T09:06:00+00:00",
@@ -724,16 +730,16 @@
       "related_sources": []
     },
     {
-      "id": "16834bd533effa",
-      "title": "Ajax eert 70 jaar VriendenLoterij Eredivisie - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-09-02T08:54:57+00:00",
-      "updated": "2026-09-02T08:54:57+00:00",
+      "id": "bc7d63172aafe6",
+      "title": "Ajax maakt in kwartier tijd twee nieuwe aanwinsten bekend",
+      "category": "Transfers",
+      "published": "2026-09-02T09:03:00+00:00",
+      "updated": "2026-09-02T09:03:00+00:00",
       "source_count": 1,
-      "official_confirmation": true,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tVG5pYnpTR3ZnQ0IxQWlVZTd1V0I4MTRWT2ZFM0owTldsRlJ3YjdhUk10VS1jMTNrZUhWdUNFeXVYVEtiMVd0QnNLWGR6M3Q2ellJcDFDTWRLdEliczNqdE01WHJISEtVMnI0?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0FCNWpwdkpJenV5clJMSGJ4TW1ySmZvbXVYdGFOY0gtR1VOOWZNdWV3N1Q3VVhYSEJFeVZ0VmNIT3EwdHdCekI4aUNpbzdEMkRieG1WNVVRRHRDbG01RUZfcmdOd1JONVVHWGtOdXZfVEMxT1MxeVZHamNqT1VDdHJpNTAzWURja3ljWWlJb1BSTkZaOERaMzdSem41UEpwMDlmYUdLenVyZGtkNVlwVg?oc=5",
         "via_google_news": true
       },
       "related_sources": []
