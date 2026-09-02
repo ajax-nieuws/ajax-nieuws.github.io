@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T21:55:34.218185+00:00",
+    "generated_at": "2026-09-02T22:30:07.079547+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 82,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
@@ -14,23 +14,65 @@
   },
   "events": [
     {
-      "id": "c3c982f851c707",
+      "id": "05a6e7491abf8f",
+      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
+      "category": "Transfers",
+      "published": "2026-09-02T14:05:00+00:00",
+      "updated": "2026-09-02T22:24:26+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "1060919e712eec",
       "title": "'Ajax was een serieuze kandidaat, maar vijftien miljoen vonden ze toen te veel'",
       "category": "Transfers",
       "published": "2026-09-02T21:33:02+00:00",
-      "updated": "2026-09-02T21:33:02+00:00",
-      "source_count": 1,
+      "updated": "2026-09-02T21:55:00+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130989/piroe-was-dichtbij-overstap-naar-nederlandse-topclub.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnpnUVdsR0FheGNtX0tZeEFVczBXcUF2YVpndW9icmVvT1RidVNpNW9oZGk4RXNOajZPRmZXLXUtUVVmeUZyazczVHhYVGcyb1VyYWpVN0xNRy1MaWQ3dFY4dkdPVlowMFBFdzBPdnllbW80cmNUeEVfNUJGMHF0LVd4X0ZNNzdMTXRrZHR5c0NXcjhMV3hNTXU5dWhnS2xxM0VHY1RPeXFMbDVLUHc3dnRtWFZoNXFPUEhvTlBUaFdLSlJMWmpmTUF2V01nb1ZU?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "d29bf751b1c47a",
-      "title": "Ajax and Amourricho van Axel Dongen agree contract termination - Ajax Amsterdam",
+      "title": "Ajax en Amourricho van Axel Dongen ontbinden arbeidsovereenkomst - Ajax",
       "category": "Transfers",
       "published": "2026-09-02T19:39:59+00:00",
       "updated": "2026-09-02T21:32:00+00:00",
@@ -38,7 +80,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQzdlcjdhdHFCczRFYnhpRzNEdmJ5cmNNTUlLLWNrVUJTczh3RFI3a3QyUnZWZzVCdURRUjhQU1RqOWNZX1FlMjJQVzYxQVMtdUlPTnVTZ3VzTFpiYnF1ZXJob3Z2YWF1WUdNNHlFRmtieU16Tm5MNlZRVE94Xzd2Ujh4b2tyX0FFWWJOUVVmY0NnaEFVajQ2eWFuN1c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTHc1V1pEWHBvd2dCT1djTVRBZUI1bEhhVFpQUHM4VlBlWmxMdGZhc1VrRWNGUy1XNjRzUnNnNFNJcE9aODRmU050NndGb1p0REpxQlhDRlkyQmtNNVVyR2tYSWh4dzBQZ2R5cTlOSVpQYktYRDdUajJRVHBqMjFacjNsREw3ak5tN1F6WThmMkJDQkUwQ2ZYc1VFT1Z5eHYybkRObUVRd2Jxb2gyQXc?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -115,9 +157,9 @@
       "id": "584a34965d5a77",
       "title": "Verweij komt met veelzeggende update over laatste uren transfermarkt Ajax",
       "category": "Transfers",
-      "published": "2026-09-02T20:34:20+00:00",
+      "published": "2026-09-02T18:36:59+00:00",
       "updated": "2026-09-02T20:50:00+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -128,6 +170,11 @@
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakhSZGg2bFIxV1BqOEkxdGoxZTRYRGs0ZFdHVzItS2ZleTdiaUl5ZzUxVVl1NW4zOGRMcXF2OEJoVmVlQ3pHYy1fQXYyRHh2cFNqNldIY2ppc0FSREZtVzNrVXZnY0F0NU9wMkd0TXBWWFpDdmF4WGhBZ3J6WkhTcXFmM3lFQ1hFdkpLTnY4bGY1SXZBQ2JQaDB1WDNVUGpWYk4yYXRoYk1SUQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0w3Y2Y2d3lOM25pSmV6T0Ytcy1VZzZ1R0Foc0xnSi1STl9ETldUTEhHTEg5RE1XZDNvV2lGU2NGTGFNNGg3ODNlMC1SSlp0aEFNRmZoeThfM1ZuWjZueVJVVFhZc1Vpd25HMVVla2RvS210a3VuaTdWNlZDU0k1S09vMzJkanFENjlvS1J2NE5HaVE5WUNWU203VThNYTVxT25hUVhIYlhuVWVrd0llRk0xUTFKQQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -213,7 +260,7 @@
       "id": "8d4e0b9379336b",
       "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
       "category": "Transfers",
-      "published": "2026-09-01T11:00:00+00:00",
+      "published": "2026-09-02T14:10:00+00:00",
       "updated": "2026-09-02T19:34:15+00:00",
       "source_count": 3,
       "official_confirmation": false,
@@ -282,7 +329,7 @@
     },
     {
       "id": "a8976a9ed7e884",
-      "title": "Geen Champions League vrouwen PSV en Ajax, wel Europees succes Feyenoord - NU",
+      "title": "Geen Champions League vrouwen PSV en Ajax, wel Europees succes Feyenoord",
       "category": "Wedstrijden",
       "published": "2026-09-02T18:51:55+00:00",
       "updated": "2026-09-02T18:51:55+00:00",
@@ -341,10 +388,10 @@
       "related_sources": []
     },
     {
-      "id": "eb7a557f510fe7",
-      "title": "Ajax verscheurt contract van selectiespeler enkele uren voor transferdeadline",
+      "id": "bc7d63172aafe6",
+      "title": "Ajax verscheurt contract van selectiespeler enkele uren voor transferdeadline - voetbalzone.nl",
       "category": "Transfers",
-      "published": "2026-09-02T18:03:00+00:00",
+      "published": "2026-09-02T09:03:00+00:00",
       "updated": "2026-09-02T18:03:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -423,7 +470,7 @@
     },
     {
       "id": "ae4690ca3b65a8",
-      "title": "Willem van Hanegem stikjaloers op Ajax: 'Waarom heeft Feyenoord niet zo'n speler?'",
+      "title": "Willem van Hanegem stikjaloers op Ajax: 'Waarom heeft Feyenoord niet zo'n speler?' - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-02T17:24:00+00:00",
       "updated": "2026-09-02T17:24:00+00:00",
@@ -435,42 +482,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "05a6e7491abf8f",
-      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
-      "category": "Transfers",
-      "published": "2026-09-02T14:05:00+00:00",
-      "updated": "2026-09-02T16:57:51+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55960/Ajax-ontbindt-contract-en-zwaait-Wijndal-uit",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "472e8e7a4368a9",
@@ -620,7 +631,7 @@
     },
     {
       "id": "a4f95da49db7fa",
-      "title": "Owen Wijndal blijft tóch bij Ajax",
+      "title": "Owen Wijndal blijft tóch bij Ajax - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-02T15:34:00+00:00",
       "updated": "2026-09-02T16:01:00+00:00",
@@ -645,21 +656,6 @@
       ]
     },
     {
-      "id": "13d59933bd3fdd",
-      "title": "Ajax bereikt akkoord in Spanje en presenteert vleugelaanvaller",
-      "category": "Transfers",
-      "published": "2026-09-02T15:56:00+00:00",
-      "updated": "2026-09-02T15:56:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "72afb969407f3a",
       "title": "Ajax en RCD Espanyol bereiken akkoord over Leo Salazar - Ajax",
       "category": "Transfers",
@@ -681,21 +677,6 @@
       ]
     },
     {
-      "id": "a967d1009d9ccd",
-      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
-      "category": "Transfers",
-      "published": "2026-09-02T13:45:00+00:00",
-      "updated": "2026-09-02T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "16634265ba2c00",
       "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
@@ -710,13 +691,13 @@
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
+          "name": "NOS",
+          "url": "https://nos.nl/l/2629351",
           "via_google_news": false
         },
         {
-          "name": "NOS",
-          "url": "https://nos.nl/l/2629351",
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
           "via_google_news": false
         },
         {
@@ -758,6 +739,42 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/cruijff-sleutelt-ook-flink-aan-jong-ajax-en-haalt-weer-een-speler-bij-atletico",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "41483b83fd06ad",
+      "title": "Ajax bevestigt komst van ervaren verdediger Thilo Kehrer",
+      "category": "Selectie",
+      "published": "2026-09-02T08:50:00+00:00",
+      "updated": "2026-09-02T09:09:56+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239737/ajax-bevestigt-komst-thilo-kehrer-amsterdam",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTktZnotVEhYaDcwQnBjV0tWV3lYZXBULVNHVGxQZXJpQTNGY3liX0NHdDdFOHI5emVaaHc0ZXJYRDZLMVRPWXZaOGthTE4wY3hhRERJaHJScHhkX2N6c21vRFgyT0NJdGU1bVBjUGVfOGw3Y2NTNGxXaXBXNkJianlMRURPRnFJZGU4Mk5QSDY1eGNvRExPX21kZFl0VXVaV3d3RTVKWkxqc2RHMmU1Nm5OMA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "de72f5161137a9",
+      "title": "Scheidsrechter Ajax - PSV komt uit Amstelveen: 'Of ik voor Ajax ben?'",
+      "category": "Wedstrijden",
+      "published": "2026-09-02T09:07:00+00:00",
+      "updated": "2026-09-02T09:07:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEd1b1VZMGZtaTB5TUoxNjdUUnJhcFZ4LWZ6eHdYMWhPWWdKVEp5WGdES1JsWXJiRTlUSkptM0MtQnJSclJzRFQyd3Q1TUVLOFFUalZ5OUJVc3MxMEgwQlVPeDBBT05uOWhWRWtUV3pjd3pNajJTRFlOaTlmRUdEcE11WlRXU3BCU3NrVkExeVRIR0xHYmlUd3NyaDkyel9pcnA0S3ZTRF9DTWdjLUE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     }
