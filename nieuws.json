@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T18:33:39.793024+00:00",
+    "generated_at": "2026-09-02T18:56:18.113097+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 134,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 89,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 27,
+    "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "958f018adaddf1",
+      "title": "Bij Ajax en PSV genoemde Ounahi tekent bij Panathinaikos",
+      "category": "Transfers",
+      "published": "2026-09-02T18:45:00+00:00",
+      "updated": "2026-09-02T18:50:55+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bij-ajax-en-psv-genoemde-ounahi-tekent-bij-panathinaikos",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130920/geen-ajax-of-psv-voor-ounahi-marokkaan-naar-panathinaikos.html",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "e6445d15a4925c",
       "title": "'Gehoopt buitenkansje Ajax blijft uit: Cruijff kijkt naar clubloze middenvelder'",
@@ -85,7 +106,7 @@
       "category": "Transfers",
       "published": "2026-09-02T09:32:00+00:00",
       "updated": "2026-09-02T18:00:39+00:00",
-      "source_count": 6,
+      "source_count": 7,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -131,7 +152,7 @@
       "related_sources": [
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMFdrNjE5VnBwYmx5TlNHOG91c2U2RzhadUtCZDRVcWJzeUx5dHdrMzlwdy1fTV9HdjVkZ3duUlpFLW1STlk5cFcycnkwWGdfbmdKTzRMQm5XNVRwRDg0OXhidkRoRHZiUGY0Zl9FcG13YVJGOUM3d2l3ZC1Yc2JxTFFEbnFuV2luUnNBWmJNb3VTRWRFS01aMURRR1pvVDJxNVFHNmRhNGNrYUtXRTROdEV5X2h0UGtkSGJuT054Smp6NWhuMW1yZUVFWmFVUk40?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
           "via_google_news": true
         },
         {
@@ -384,6 +405,11 @@
       },
       "related_sources": [
         {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
+          "via_google_news": false
+        },
+        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEp4UURPeGhxM0ZsX0x1OU44Y3lNVktqRGNWYzBwTU82dUZlai0zYWFHMjRWUHVtUEdKanc3QlMzTjFuaVllOGhfTzJvM1BpVWIwNExrUzM4SVdfUDRPc3l2bmdtMHRZVDBMLXZ4MFF2V1dGaUYyMHZ3SW5CRE1PNUhkcjMtWFZZS2NfclFCcDQ?oc=5",
           "via_google_news": true
@@ -392,11 +418,6 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjAxYS0tR2VTbFVudWtrODVHVV91QkV2MEg5bFhFUlktRlRJeWQtTVhVNVlWY2E0NjNKVkpPdElrekxIZzdqQnN5Qk9Tek5rX0VodDdJZzJwSFpwOExfeHNMd1kzS0FPYkJ2OTlwVXVYanY1bVNyY0l4RTBtX3RWRHJMX3JNZXJ3Nm13VzZ6YjUta2NubmFHQk40WUc0bjE5azg0?oc=5",
           "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
-          "via_google_news": false
         }
       ]
     },
@@ -502,21 +523,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b3460a453d4606",
-      "title": "Ajax en Cruijff krijgen compliment én waarschuwing: \"Dat mag gewoon niet\"",
-      "category": "Overig",
-      "published": "2026-09-02T13:29:15+00:00",
-      "updated": "2026-09-02T13:29:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130759/ruud-krol-prijst-jordi-cruijff-en-is-benieuwd-of-ajax-kampioen-kan-worden.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
