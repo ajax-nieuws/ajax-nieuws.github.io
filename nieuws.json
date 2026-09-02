@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T18:56:18.113097+00:00",
+    "generated_at": "2026-09-02T19:27:35.372332+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 134,
+    "article_count": 132,
     "event_count": 40,
     "discovered_event_count": 89,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 26,
+    "excluded_video_only_count": 25,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8d85c97afbe655",
+      "title": "Opvallende onthulling uit Italië over Ajax-target Noa Lang: 'Niet op die lijst'",
+      "category": "Transfers",
+      "published": "2026-09-02T19:11:06+00:00",
+      "updated": "2026-09-02T19:11:06+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130924/napoli-directeur-over-mogelijke-ajax-deal-lang-stond-niet-op-de-lijst.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "958f018adaddf1",
       "title": "Bij Ajax en PSV genoemde Ounahi tekent bij Panathinaikos",
@@ -120,14 +135,14 @@
           "via_google_news": true
         },
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2130895/ajax-aanwinst-krijgt-hulp-aangeboden-van-brobbey.html",
           "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
+          "via_google_news": true
         },
         {
           "name": "NU.nl",
@@ -199,22 +214,22 @@
     },
     {
       "id": "a23ab0efff6be1",
-      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
+      "title": "Wijndal lijkt tóch bij Ajax te blijven: deal geklapt",
       "category": "Transfers",
       "published": "2026-09-02T14:05:00+00:00",
       "updated": "2026-09-02T16:57:51+00:00",
       "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
-          "via_google_news": true
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
+          "via_google_news": false
         },
         {
           "name": "FCUpdate",
@@ -405,11 +420,6 @@
       },
       "related_sources": [
         {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
-          "via_google_news": false
-        },
-        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEp4UURPeGhxM0ZsX0x1OU44Y3lNVktqRGNWYzBwTU82dUZlai0zYWFHMjRWUHVtUEdKanc3QlMzTjFuaVllOGhfTzJvM1BpVWIwNExrUzM4SVdfUDRPc3l2bmdtMHRZVDBMLXZ4MFF2V1dGaUYyMHZ3SW5CRE1PNUhkcjMtWFZZS2NfclFCcDQ?oc=5",
           "via_google_news": true
@@ -418,6 +428,11 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjAxYS0tR2VTbFVudWtrODVHVV91QkV2MEg5bFhFUlktRlRJeWQtTVhVNVlWY2E0NjNKVkpPdElrekxIZzdqQnN5Qk9Tek5rX0VodDdJZzJwSFpwOExfeHNMd1kzS0FPYkJ2OTlwVXVYanY1bVNyY0l4RTBtX3RWRHJMX3JNZXJ3Nm13VzZ6YjUta2NubmFHQk40WUc0bjE5azg0?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
+          "via_google_news": false
         }
       ]
     },
@@ -462,21 +477,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130820/dit-was-het-salaris-van-owen-wijndal-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "11abf4da3f7e4e",
-      "title": "'Verrassing op Deadline Day: Ajax en Wijndal gaan na vier jaar alsnog uit elkaar'",
-      "category": "Overig",
-      "published": "2026-09-02T14:40:52+00:00",
-      "updated": "2026-09-02T14:40:52+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130806/ajax-en-wijndal-gaan-na-vier-jaar-uit-elkaar.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -527,25 +527,10 @@
       "related_sources": []
     },
     {
-      "id": "6edf9760bac9cc",
-      "title": "Ajax-coach Míchel Sánchez ligt onder vuur na 'vreselijke' uitspraak",
-      "category": "Overig",
-      "published": "2026-09-02T13:11:00+00:00",
-      "updated": "2026-09-02T13:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEpHeEs2dlpNa2V0MGdVMU5SeU9GSGtpdi00dURyVlNISzc4X2hCd2NZQThOcWd2WldPQVFpTGZPWVBaNnhZanpmaVJZNVpEWU1FMEtQMXdyNTV5MEhXS2N5SlViQVJCNlhZaF8xSmFFV0RaWmRCOG03T2phZVk3enkyeWxLWWRRMzMycWpia2ZEX1dWUVNCVmU5aFgxSjZoOU1NZUI2R0t5SlplLWdyRg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "16634265ba2c00",
       "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
-      "published": "2026-09-01T08:00:00+00:00",
+      "published": "2026-09-01T08:26:15+00:00",
       "updated": "2026-09-02T10:21:29+00:00",
       "source_count": 7,
       "official_confirmation": true,
@@ -576,6 +561,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "7f316bb1f4120f",
+      "title": "Kehrer blij en opgelucht: 'Bevestigde het beeld dat ik van Ajax had en nog steeds heb'",
+      "category": "Overig",
+      "published": "2026-09-02T09:30:00+00:00",
+      "updated": "2026-09-02T09:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTm5KNVU0WGRjN1dxMS1hSzVaTDdPV2hyUUNSMzBlcnZvMG9WMjlqYTlJUFJUNGpwRUphVmlYOVF5dEZZWndXT2NpYm1EeVBRNl9GVWFjLXhFc29XZnAyNE5aa2dFZmV2QlN2VXFCRzN5VnlrVGVxbDZfbXB0MWJFVzdYQXVDbHJrbDZZcHNaU09qWXRSeFhqN1FidG1jNGpEalNEOE9EVVpXUVRrNGNTQ3JELS1LSm9neFBaUUZ6aHl1Zw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "81a3030866cbb3",
