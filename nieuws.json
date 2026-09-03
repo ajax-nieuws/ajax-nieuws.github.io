@@ -1,18 +1,64 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T17:56:06.568614+00:00",
+    "generated_at": "2026-09-03T18:34:18.664423+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 126,
+    "article_count": 124,
     "event_count": 40,
-    "discovered_event_count": 83,
+    "discovered_event_count": 81,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 21,
+    "excluded_video_only_count": 22,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d6632962868687",
+      "title": "Cruijff beleefde 'pittige' transferzomer bij Ajax: 'Heb ze wel eens gek gemaakt'",
+      "category": "Transfers",
+      "published": "2026-09-03T18:14:21+00:00",
+      "updated": "2026-09-03T18:14:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131413/cruijff-onthult-grote-ajax-ambitie-dat-is-het-dna-van-de-club.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "de261a6d6794f7",
+      "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T16:10:00+00:00",
+      "updated": "2026-09-03T18:04:44+00:00",
+      "source_count": 4,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZllIdGRKMlR5UzdVckQ2REY3THlNNTUxYTlpa1Y1U01RVW1wUVBtN1JINEJvWWQ4OE52cjZCMG9pZVpEQjBWaEhmMFBmZGVXdDZCVExfVUZvSDhkT1dYdE0wQWpiX2wyWUszTE5sdGg1YlFiUnd4MnZBeEV5ZDB1Nl9HM2tBeTh1eHZPeWJvT3djaFppRlFwczliUXh4UQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
+          "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHNuY3gzNzhwUlk2NTIxbHRqSDdBeTJmWUxOc1lreDNWcV9jLVNtelpLSDhNYVVNckhILXhqSThpT3VXUmREcXh4WGczNURwQVlRQzZzb3hGYnFxdFFxbndTQVc2YktPWGZ6Q0gwdkdQTzhBbDI3bkowTk80QVdKdDN4endfd01JTFlybnhfV3JQeVFldkpEZGF6eVRFdTEzeDdNQXZVLXc4RFgwTVNuRjAyMkU0Tm1JZHNrWVhNaEtnajU1MHVMNkRKZW40TE0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "9717a5503f3435",
       "title": "Rondom Ajax: Swart heeft geloof in het kampioenschap 'Zo goed zijn die anderen ook niet'",
@@ -40,6 +86,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131367/jordi-cruijff-denkt-dat-gat-tussen-ajax-en-psv-redelijk-is-gedicht.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c8a0697b5866de",
+      "title": "'Club onthuld die Owen Wijndal wilde overnemen van Ajax'",
+      "category": "Overig",
+      "published": "2026-09-03T15:56:00+00:00",
+      "updated": "2026-09-03T15:56:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlZsbVRfdktFUUpSVTNXTENYd0o3RUVNZ1htUkF2TzBpYmp3ZHBKRkVCcE8xOE5LQ3htd0JYQ2N6U290emJwMWRlNGRKc2NCQ1p5aEw4bS1jWktCS2JDekZFYnRPUkNGYkpzQ0pnU3VCMklYUUVPT2FpczFEeTNGUFMtejBSc29GeG1TZUdxZDl0Y0tPaGNUYm9WUEI0eXFHZG9WLTZDWHlPbFNP?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -95,36 +156,6 @@
       "related_sources": []
     },
     {
-      "id": "babc4467a97162",
-      "title": "Jordi Cruijff over Ajax-transfers: ‘Zonder Champions League-inkomsten moet je extreem creatief zijn’",
-      "category": "Transfers",
-      "published": "2026-09-03T14:49:00+00:00",
-      "updated": "2026-09-03T14:49:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHNuY3gzNzhwUlk2NTIxbHRqSDdBeTJmWUxOc1lreDNWcV9jLVNtelpLSDhNYVVNckhILXhqSThpT3VXUmREcXh4WGczNURwQVlRQzZzb3hGYnFxdFFxbndTQVc2YktPWGZ6Q0gwdkdQTzhBbDI3bkowTk80QVdKdDN4endfd01JTFlybnhfV3JQeVFldkpEZGF6eVRFdTEzeDdNQXZVLXc4RFgwTVNuRjAyMkU0Tm1JZHNrWVhNaEtnajU1MHVMNkRKZW40TE0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5c6e0eb80458a6",
-      "title": "Jordi Cruijff over Ajax-aanwinst: ‘Je laat eindelijk eens een keer zien dat jij het als club bepaalt",
-      "category": "Transfers",
-      "published": "2026-09-03T14:11:00+00:00",
-      "updated": "2026-09-03T14:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMFJQbndFUlJwNVpXN05HZ1VreEF0WlNpMl84a0VrN3FoQjU1RzZaTnF3ME9OeUk1NVE0S0hVeEpXQTBuVUdrTmxRV0piLWlUVlF0eUY5UndoYlZDc29rRjhWeG9YNmU3QTM0b3VuSkhNNk01QnpUM1VweE1zWjkzZzgya3c1OTRqeU05RV9Cejh2LTY3M2ZidVczRFhoNUpOdmdHS3J6bUlsUkU0Q2Y3MXVWSTFKY0pEUUJKVTVsY0NGalVBMUpSeDdSTkEzSVZtd3pkN0VIR3hEOW04NTY4OWVBaE11Vms?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "1321cc9fc2df7b",
       "title": "Cruijff ontkent risico's te hebben genomen met transfers",
       "category": "Transfers",
@@ -166,21 +197,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131317/cruijff-wilde-steur-en-godts-absoluut-niet-kwijtraken-bij-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "de261a6d6794f7",
-      "title": "Jordi Cruijff bijt van zich af na kritiek op transferbeleid bij Ajax: 'Mensen snappen het niet!'",
-      "category": "Transfers",
-      "published": "2026-09-03T13:59:00+00:00",
-      "updated": "2026-09-03T13:59:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -345,9 +361,9 @@
       "id": "8d4e0b9379336b",
       "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
       "category": "Transfers",
-      "published": "2026-09-02T14:10:00+00:00",
+      "published": "2026-09-02T14:27:00+00:00",
       "updated": "2026-09-03T12:33:00+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -358,11 +374,6 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDBabW5tdWVCOWg2RTY5M3l0aFE2VVoxSFhiN2pxWUxXQ1JYT21kYjFKTTBWZ081Z182UDN2ZUdKNXcxLUxBTklUTHgxVjVsRWFHWTJfcnoybGJJZVNzTlFyWmZqMWI4akh3ZmFjbGtRRGpNVDNrVUYtRUk2Smhrbk9ETlBVTl9oMW90aDhHQjZDVTRFbVJlcjR6aWlLZlBNSGI2UV9TQVc?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
           "via_google_news": true
         }
       ]
@@ -503,21 +514,6 @@
       "related_sources": []
     },
     {
-      "id": "ee466554a2c0ce",
-      "title": "Ajax-opponent haalt voormalig Watford-spits terug naar Denemarken",
-      "category": "Transfers",
-      "published": "2026-09-03T07:18:00+00:00",
-      "updated": "2026-09-03T07:18:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "5ce734f110a654",
       "title": "Verweij onthult 'trucje' van Cruijff bij Ajax en heeft nieuws: 'PSV wilde hem ook'",
       "category": "Club",
@@ -578,21 +574,6 @@
       "related_sources": []
     },
     {
-      "id": "cf110db827e132",
-      "title": "Ar’jany Martha keert twee jaar na zijn vertrek bij Ajax terug in de Eredivisie",
-      "category": "Transfers",
-      "published": "2026-09-03T05:42:00+00:00",
-      "updated": "2026-09-03T05:42:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkt6OE1XcVpKbFpZLTRPMUxsc2ZJeVlfNHdCTldMV2Z3OWxfekFxWi1nOXlJS1dkbG1xSlVta013WDdYN3hGcGxGaHVKcUx0MWJoWTNCdWRLNEd5Y3dzSTNSZ0ZlaTZqM2xoSi1mSEF3TVRVQUxiMmVJckh3M3ZaTUo2QUk5VnItSVpEa3NOVi1fZHRHb1ZlWHRlWGJVRjIyYjdEX3N6UEZ3bUY1ZWtYcTltTUlhNWdPNEZDcnJWZEhucXpBeW5zQ2l6U1M?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "f367a42d1c1714",
       "title": "Jordi Cruijff oogst lof: 'Dit is nog nooit gebeurd in de geschiedenis van Ajax'",
       "category": "Overig",
@@ -623,12 +604,12 @@
       "related_sources": []
     },
     {
-      "id": "81a3030866cbb3",
+      "id": "38eb5943fcbce6",
       "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
       "category": "Transfers",
       "published": "2026-09-02T09:17:42+00:00",
       "updated": "2026-09-03T04:30:40+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -636,6 +617,11 @@
         "via_google_news": false
       },
       "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dCUUw1QjVmWGU3TkdTWEFab3JHZmoyY1RBaTRTQUswLUo2VTdWanBwaFI4TmNCR0RZYzB1MnVCLTBSMDlKXzI2QlRwcEtfZGZJcmFYTFVfbGV0SDd4bGg4SkoyZFJ4dFJxV3NuWjc2REFLQTBXanlsV2xzSExmQ0NOWFhpMGw4ZzBLbHFWenNEM3Jwa19FSEh5di1WdWlxYWFGUUplOE11dllDaVZDclVfQ3poWkJaYVA4d09xanUxZw?oc=5",
@@ -673,6 +659,36 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "d41130e9b26882",
+      "title": "Ajax en Amourricho van Axel Dongen ontbinden arbeidsovereenkomst - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T19:41:14+00:00",
+      "updated": "2026-09-02T23:09:21+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnB2S0ZLSGt0LUdobmFKR2xuNjZpTk5yWm9ENmdnVV9nMkpxRWJTcjZLWjlnLWhxZXF5blBOQzlpRXVlSUNUWGZzVmYzeGs4UFl1MHVhQ1NIaFJPckV3eXBYdmo1MjRoYVFNak1yNVJyeUdSOWowMVhXUGl3UEdyWXBVUm5idk1yS3k4MElQY3JvQVYzSlR3ZVNyVndUMGx4dmoxSjBUWndmZ3Mx?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "41e2bdb6f683c3",
+      "title": "Bij Ajax aangeboden Leon Bailey verlaat Villa en voegt nieuw land toe aan zijn cv",
+      "category": "Transfers",
+      "published": "2026-09-02T22:40:38+00:00",
+      "updated": "2026-09-02T22:40:38+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131007/bailey-verlaat-aston-villa-voor-olympiakos.html",
+        "via_google_news": false
+      },
+      "related_sources": []
     }
   ]
 }
