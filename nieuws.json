@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T23:26:21.347986+00:00",
+    "generated_at": "2026-09-03T23:55:06.953402+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 125,
+    "article_count": 123,
     "event_count": 40,
-    "discovered_event_count": 84,
+    "discovered_event_count": 82,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 104,
-    "excluded_video_only_count": 23,
+    "excluded_paywall_count": 102,
+    "excluded_video_only_count": 25,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -74,19 +74,25 @@
       "related_sources": []
     },
     {
-      "id": "6a4b947b7349d4",
+      "id": "13d59933bd3fdd",
       "title": "El Ahmadi: 'Hij had aanbiedingen uit Spanje en Midden-Oosten, maar koos voor Ajax'",
       "category": "Transfers",
-      "published": "2026-09-03T19:28:06+00:00",
+      "published": "2026-09-02T15:56:00+00:00",
       "updated": "2026-09-03T19:28:06+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131436/amrabat-sloeg-meerdere-aanbiedingen-af-voor-ajax.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "7db561933e07bd",
@@ -560,21 +566,6 @@
       ]
     },
     {
-      "id": "0942ef67e261ff",
-      "title": "Eerste topper in de Eredivisie: Ajax treft PSV!",
-      "category": "Wedstrijden",
-      "published": "2026-09-03T10:00:00+00:00",
-      "updated": "2026-09-03T10:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX29IQWdPajRoelQtYUxiTXlTSXprUnp1dVhkSTMxTzAtVF9zdjJtdU1TOEdiTXJuSVdDNHNfSU1Kbkgya2dacWFoTnV1YmZLWnd6X2NaSDZURXMtMG9BQjJpYWdISm1LX0tzb1BWQ19qRHlVZ2xLbUZteXVXbnBfMThHaG9rbzVHVzBzZXlweU84WWxleW1YVF9QZU1RckVF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "c1a9bda832359b",
       "title": "Kijk vrijdagmiddag naar de persconferentie met Míchel Sánchez - Ajax",
       "category": "Overig",
@@ -660,6 +651,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHZic3NKVGlxRHRReGtaNWpVN0llWmpaQjhMcFhpd0pVVlpINU5oYi05VzNXN3d0SXdUYjZTbm1udkUxZjVkOV82WnVacXcwZ3IwYWpScmpmRGRYLU5jaXFQN3ZSRmE2cGFXNnVNTjhVLTZYelozU2dKZDB3ZjB6ZTV1RVFPR0o5YjVkeGdYbUlaX2hkX280TkNYX2lTd3pzd21jSklpWHVGajk1cUNwYWh4RVlFX3M?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f367a42d1c1714",
+      "title": "Jordi Cruijff oogst lof: 'Dit is nog nooit gebeurd in de geschiedenis van Ajax'",
+      "category": "Overig",
+      "published": "2026-09-03T05:25:00+00:00",
+      "updated": "2026-09-03T05:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc080d1o2ZDZrTklSb2pqTTlkQlA4TjRpM0ZDY2M1cmhMWWljdnZWeDZRM19ELXIyQV9wdTIybEJ5S1UtZzFCSTgtU3czQXNJTWtxTnA4QTBFU0h6TW1yc2dlMzhUZHF1MlBZckZURjV4MkpJQmNwVzhicVVHbmt5TlZkOVhzeE50aVNOd01LS3BodzlGNkUzR0oxaVZBQ3ZNNnk3Z0JrTUV0aS1zNEpUMzBVOFNodw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
