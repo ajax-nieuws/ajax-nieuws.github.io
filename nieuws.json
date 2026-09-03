@@ -1,21 +1,77 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T06:58:34.650086+00:00",
+    "generated_at": "2026-09-03T07:30:42.124635+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 128,
     "event_count": 40,
     "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 106,
-    "excluded_video_only_count": 25,
+    "excluded_paywall_count": 105,
+    "excluded_video_only_count": 24,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "ee466554a2c0ce",
+      "title": "Ajax-opponent haalt voormalig Watford-spits terug naar Denemarken",
+      "category": "Transfers",
+      "published": "2026-09-03T07:18:00+00:00",
+      "updated": "2026-09-03T07:18:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8d4e0b9379336b",
+      "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
+      "category": "Transfers",
+      "published": "2026-09-02T14:10:00+00:00",
+      "updated": "2026-09-03T07:13:03+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130904/ajax-verscheurt-contract-van-axel-dongen.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1BBR2owVDFXeFZhdzRIbXpzYXpQeXhYSzE1bDdONFBxLVd3Xy0zNk83OWJqczgtZDNGOGF6ay1NU2FpNmg4MkpGRTJYSFVfcnFaY0xWZmczdE5Icnc3ZThQYXk5ZjVHMVlwY1RIZlAzZXlmYVlFRThJYzRmR0NreXJFNmV6YUt1OC1PbzFXRFozSzg2YnQyVE40RQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "5ce734f110a654",
+      "title": "Verweij onthult 'trucje' van Cruijff bij Ajax en heeft nieuws: 'PSV wilde hem ook'",
+      "category": "Club",
+      "published": "2026-09-03T07:12:17+00:00",
+      "updated": "2026-09-03T07:12:17+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130168/verweij-onthult-trucje-jordi-cruijff-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "138aba94b7df75",
-      "title": "'Cruijff zorgt voor indrukwekkende kwaliteitsimpuls, maar model Ajax onder druk'",
+      "title": "'Ajax en Cruijff nemen flinke risico's: bedrijfsmodel van club staat onder druk'",
       "category": "Club",
       "published": "2026-09-03T06:50:42+00:00",
       "updated": "2026-09-03T06:50:42+00:00",
@@ -186,21 +242,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "5ce734f110a654",
-      "title": "Verweij onthult 'trucje' van Cruijff bij Ajax en heeft nieuws: 'PSV wilde hem ook'",
-      "category": "Club",
-      "published": "2026-09-02T22:44:03+00:00",
-      "updated": "2026-09-02T22:44:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130168/verweij-onthult-trucje-jordi-cruijff-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "41e2bdb6f683c3",
@@ -411,32 +452,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "8d4e0b9379336b",
-      "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
-      "category": "Transfers",
-      "published": "2026-09-01T11:00:00+00:00",
-      "updated": "2026-09-02T19:34:15+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130904/ajax-verscheurt-contract-van-axel-dongen.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1BBR2owVDFXeFZhdzRIbXpzYXpQeXhYSzE1bDdONFBxLVd3Xy0zNk83OWJqczgtZDNGOGF6ay1NU2FpNmg4MkpGRTJYSFVfcnFaY0xWZmczdE5Icnc3ZThQYXk5ZjVHMVlwY1RIZlAzZXlmYVlFRThJYzRmR0NreXJFNmV6YUt1OC1PbzFXRFozSzg2YnQyVE40RQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "fbf204c1ad715f",
@@ -756,42 +771,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "16634265ba2c00",
-      "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
-      "category": "Transfers",
-      "published": "2026-09-01T08:26:15+00:00",
-      "updated": "2026-09-02T10:21:29+00:00",
-      "source_count": 6,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGxHcVI2Wm96MEdoSmRBemp5b0RMZGVhQVp1cnFGc0k2TDJ1eHlLclg5MjMxTlIwUEk5YkR0VjdtQWZPelZIUWczVERMSWVzSTBXZVNJMlNOQmdOQWhDR0E0cElUTDl1QklycE1GUFptcVNGQ016OHhtVG9LQmdCNjJqbkpyakxBYk44MWh6a3A0WWlCbDcwM2ZmSXA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "NOS",
-          "url": "https://nos.nl/l/2629351",
-          "via_google_news": false
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazFqU01NTUxiMlVZRWlXX1pEVDY3Z2U1SzNBYzluMWVkSWdKbF9uUHU3U0ZSYlhUcW4tLVM0RWdxdEdkek9RNVVQSE5PRGdFZHhRT1N1bGNjNnNEWHp1MWhkVlpYVGxCNEFVWWtkMHo3N2xDelBrN1J4REk1aGR1eV9Ua2FYMzBZNkVYRm01NU1DUjc5UEpPbW1GNA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55961/Bevestigd-Kehrer-wordt-gehuurd-van-Monaco",
-          "via_google_news": false
-        }
-      ]
     }
   ]
 }
