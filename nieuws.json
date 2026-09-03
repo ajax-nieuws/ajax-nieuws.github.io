@@ -1,24 +1,60 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T19:26:36.470833+00:00",
+    "generated_at": "2026-09-03T19:54:52.489242+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 126,
+    "article_count": 127,
     "event_count": 40,
-    "discovered_event_count": 82,
+    "discovered_event_count": 84,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 22,
+    "excluded_video_only_count": 25,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "39161a62423ee5",
+      "title": "Marciano Vink verbaasd over 'geval apart' bij Ajax: 'Dat is een beetje gek'",
+      "category": "Overig",
+      "published": "2026-09-03T19:38:05+00:00",
+      "updated": "2026-09-03T19:38:05+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131440/marciano-vink-vindt-ajax-situatie-van-baas-apart.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "13d59933bd3fdd",
+      "title": "El Ahmadi: 'Hij had aanbiedingen uit Spanje en Midden-Oosten, maar koos voor Ajax'",
+      "category": "Transfers",
+      "published": "2026-09-02T15:56:00+00:00",
+      "updated": "2026-09-03T19:28:06+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131436/amrabat-sloeg-meerdere-aanbiedingen-af-voor-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "39d94e0ae8df33",
       "title": "Waarom Feyenoord niet mee kan in transfergeweld Ajax en PSV: 'Financiële noodzaak'",
       "category": "Transfers",
       "published": "2026-09-03T09:57:54+00:00",
-      "updated": "2026-09-03T19:22:03+00:00",
+      "updated": "2026-09-03T19:25:17+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
@@ -94,6 +130,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "63b799df9180ab",
+      "title": "Stadionverboden - Ajax.nl - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-03T17:44:17+00:00",
+      "updated": "2026-09-03T17:44:17+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54OE84MzhuT1JmbFpWTFRyLVBhMVJZaWRIZ3ppNjRFQVY3NFVKNER1a1RDdXFIRloxWkxoc2FfejlOLUp4ZzJwSXhIbGVnQkdWMDVJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "9717a5503f3435",
@@ -321,8 +372,8 @@
       "id": "1c45dfcbb9ea85",
       "title": "Programma jeugd: O15 en O11-1 spelen eerste mini-Klassiekers van het seizoen - Ajax",
       "category": "Jeugd",
-      "published": "2026-09-03T13:36:05+00:00",
-      "updated": "2026-09-03T13:36:05+00:00",
+      "published": "2026-09-03T13:39:41+00:00",
+      "updated": "2026-09-03T13:39:41+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
@@ -412,9 +463,9 @@
       "id": "8d4e0b9379336b",
       "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
       "category": "Transfers",
-      "published": "2026-09-02T14:27:00+00:00",
+      "published": "2026-09-02T14:10:00+00:00",
       "updated": "2026-09-03T12:33:00+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -425,6 +476,11 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDBabW5tdWVCOWg2RTY5M3l0aFE2VVoxSFhiN2pxWUxXQ1JYT21kYjFKTTBWZ081Z182UDN2ZUdKNXcxLUxBTklUTHgxVjVsRWFHWTJfcnoybGJJZVNzTlFyWmZqMWI4akh3ZmFjbGtRRGpNVDNrVUYtRUk2Smhrbk9ETlBVTl9oMW90aDhHQjZDVTRFbVJlcjR6aWlLZlBNSGI2UV9TQVc?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
           "via_google_news": true
         }
       ]
@@ -623,78 +679,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "84476be54bc723",
-      "title": "Wim Kieft komt met pijnlijke conclusie: 'Alles wat hier speelt mislukt...'",
-      "category": "Overig",
-      "published": "2026-09-03T05:21:00+00:00",
-      "updated": "2026-09-03T05:21:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131025/wim-kieft-ziet-tolu-arokodare-slagen-bij-ajax-in-eredivisie.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "38eb5943fcbce6",
-      "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
-      "category": "Transfers",
-      "published": "2026-09-02T09:17:42+00:00",
-      "updated": "2026-09-03T04:30:40+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130969/late-verrassing-dolberg-voert-intensieve-onderhandelingen-maar-blijft.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dCUUw1QjVmWGU3TkdTWEFab3JHZmoyY1RBaTRTQUswLUo2VTdWanBwaFI4TmNCR0RZYzB1MnVCLTBSMDlKXzI2QlRwcEtfZGZJcmFYTFVfbGV0SDd4bGg4SkoyZFJ4dFJxV3NuWjc2REFLQTBXanlsV2xzSExmQ0NOWFhpMGw4ZzBLbHFWenNEM3Jwa19FSEh5di1WdWlxYWFGUUplOE11dllDaVZDclVfQ3poWkJaYVA4d09xanUxZw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "a4f95da49db7fa",
-      "title": "'Telegraaf meldt bizarre plottwist: Owen Wijndal blijft tóch bij Ajax'",
-      "category": "Overig",
-      "published": "2026-09-02T15:34:00+00:00",
-      "updated": "2026-09-03T04:02:12+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130841/owen-wijndal-blijft-toch-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEp4UURPeGhxM0ZsX0x1OU44Y3lNVktqRGNWYzBwTU82dUZlai0zYWFHMjRWUHVtUEdKanc3QlMzTjFuaVllOGhfTzJvM1BpVWIwNExrUzM4SVdfUDRPc3l2bmdtMHRZVDBMLXZ4MFF2V1dGaUYyMHZ3SW5CRE1PNUhkcjMtWFZZS2NfclFCcDQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjAxYS0tR2VTbFVudWtrODVHVV91QkV2MEg5bFhFUlktRlRJeWQtTVhVNVlWY2E0NjNKVkpPdElrekxIZzdqQnN5Qk9Tek5rX0VodDdJZzJwSFpwOExfeHNMd1kzS0FPYkJ2OTlwVXVYanY1bVNyY0l4RTBtX3RWRHJMX3JNZXJ3Nm13VzZ6YjUta2NubmFHQk40WUc0bjE5azg0?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
-          "via_google_news": false
-        }
-      ]
     }
   ]
 }
