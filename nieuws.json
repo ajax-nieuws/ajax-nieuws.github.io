@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T20:29:32.521244+00:00",
+    "generated_at": "2026-09-03T20:54:55.030153+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 127,
+    "article_count": 128,
     "event_count": 40,
-    "discovered_event_count": 85,
+    "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
@@ -13,6 +13,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "50e39107f2f7d8",
+      "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
+      "category": "Selectie",
+      "published": "2026-09-03T20:42:36+00:00",
+      "updated": "2026-09-03T20:42:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "8f83615b007c4f",
       "title": "Vink ziet 'gekke dingen' bij Ajax: 'Maakte z'n debuut in CL, met alle respect...'",
@@ -24,21 +39,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131451/vink-doet-opvallende-ajax-onthulling.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "50e39107f2f7d8",
-      "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
-      "category": "Selectie",
-      "published": "2026-09-03T20:09:09+00:00",
-      "updated": "2026-09-03T20:09:09+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -72,27 +72,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "39d94e0ae8df33",
-      "title": "Waarom Feyenoord niet mee kan in transfergeweld Ajax en PSV: 'Financiële noodzaak'",
-      "category": "Transfers",
-      "published": "2026-09-03T09:57:54+00:00",
-      "updated": "2026-09-03T19:25:17+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629487",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3MxVnotdU1McEhNcHd0RUZSY053dnB2QVMtbXhTYXFDWVlSenByckhIM0JQdUs1VFRlTmI2REp3UTdEV1JmRzhOb3gzOS1fbmF1dEpwVmhWdEZYTi1Ob05xenUwa3RFSm1NZThoRVF0ZlhlVzNzTXFGeUFiZkFXMnZiTlJtV0NFOFduT2t6TzlmQlhFRTJJV1R6ZVpaejhmdE9ZNFBR?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "7db561933e07bd",
@@ -399,21 +378,6 @@
       ]
     },
     {
-      "id": "a76f3debaaef94",
-      "title": "Cruijff verliest Ajax-jeugd niet uit het oog: 'Hebben het juiste leiderschap naast zich nodig'",
-      "category": "Wedstrijden",
-      "published": "2026-09-03T13:45:00+00:00",
-      "updated": "2026-09-03T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWpYYnF5NXYzeWNMYWlydEh0bEIzaUtzNnp1WjBKanhTeVNCQmtBVzdHVklxa1dUOEZHWjJPRzhvakZkd0N3b25DNEtnVDVyQzB3cWtYU0d3NWRVRXBaNzVJWlRSWmRHS2IzOF9sLVkzekdOa3ItMWJZQnp0ZFNLNnMtMlh4Ym00R3VxVGxtMTV0WUNlbFZsV1A4RXRpeEhFbmo4N0ktc1U5WnU4dnVOeTRnYW94OEo4bGVkTUVtd1JTU2paLVhuWXJCRXk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "1c45dfcbb9ea85",
       "title": "Programma jeugd: O15 en O11-1 spelen eerste mini-Klassiekers van het seizoen - Ajax",
       "category": "Jeugd",
@@ -545,6 +509,42 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFMRlkwcnp4ZUE1R09yazRIMF91d2wwZjlodjVUblZUUUp3NHJDbFNnZ0VnQTdUUXlaSHN4bm02VkJXUjJ1YmxQYm41dzdPTDgwcTMzV3NWNHBGNU9tVnNadDZ3LXBoR1AyME1Cdld3bjJUbkhvYnBmaTNQVVFkU2lONEp2WFlPSVRwdEpvQWprUFBqZHVmS3RLNld6bWEwbDZwenBzVmZWSWtuVmpxb09Ick5FMWw1WEJLYU1FaWhUVWJBdTJr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "39d94e0ae8df33",
+      "title": "Waarom Feyenoord niet mee kan in transfergeweld Ajax en PSV: 'Financiële noodzaak'",
+      "category": "Transfers",
+      "published": "2026-09-03T09:57:54+00:00",
+      "updated": "2026-09-03T11:25:29+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629487",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3MxVnotdU1McEhNcHd0RUZSY053dnB2QVMtbXhTYXFDWVlSenByckhIM0JQdUs1VFRlTmI2REp3UTdEV1JmRzhOb3gzOS1fbmF1dEpwVmhWdEZYTi1Ob05xenUwa3RFSm1NZThoRVF0ZlhlVzNzTXFGeUFiZkFXMnZiTlJtV0NFOFduT2t6TzlmQlhFRTJJV1R6ZVpaejhmdE9ZNFBR?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "fe6c9df7cf458c",
+      "title": "Prominenten voorspellen Ajax - PSV: 'Ajax zal weer bovenaan staan'",
+      "category": "Overig",
+      "published": "2026-09-03T11:24:00+00:00",
+      "updated": "2026-09-03T11:24:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWM0cDlaczJrSU44R01VLXFoU294SW9Xck5NTUY2RFYyajNiemVFaXV5bW4zeTlFczNTYXUzZk1DdnZGMXFCTlNkRDFNUGwtZzNRZGlFemFlSmdQVWpBN3Y5dDZ3SUJUclR3em1sN1RxUnZ5TVI5cGVFYWI5czNjblJUUnBncHRtTEc3YmVDSy16dzJya0ZXZy1Bb1hJWjV0ZFJZNmlycEZPekE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
