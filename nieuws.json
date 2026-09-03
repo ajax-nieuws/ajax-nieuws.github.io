@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T07:56:28.910978+00:00",
+    "generated_at": "2026-09-03T08:32:24.160524+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 127,
     "event_count": 40,
-    "discovered_event_count": 76,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 105,
+    "excluded_paywall_count": 104,
     "excluded_video_only_count": 22,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8483aa619c4759",
+      "title": "VI Discussie: wie is de winnaar van de transferperiode in de Eredivisie?",
+      "category": "Transfers",
+      "published": "2026-09-03T08:15:32+00:00",
+      "updated": "2026-09-03T08:15:32+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-discussie-wie-is-de-winnaar-van-de-transferperiode-in-de-eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "187874726e8ae5",
       "title": "Kasper Dolberg kon Ajax op Deadline Day verlaten, maar kwam er financieel niet uit",
@@ -175,25 +190,19 @@
       "related_sources": []
     },
     {
-      "id": "f60da7802ab193",
+      "id": "78ef5d581267a9",
       "title": "Ajax maakt indruk met komst 'absolute topspeler' Ter Stegen: 'Verdienste Cruijff'",
       "category": "Transfers",
-      "published": "2026-09-02T09:59:22+00:00",
+      "published": "2026-09-03T04:55:16+00:00",
       "updated": "2026-09-03T04:55:16+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131021/cziommer-dolblij-met-ter-stegen-brandt-en-kehrer-bij-ajax.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
-          "via_google_news": false
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "81a3030866cbb3",
@@ -751,21 +760,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "a967d1009d9ccd",
-      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
-      "category": "Transfers",
-      "published": "2026-09-02T13:45:00+00:00",
-      "updated": "2026-09-02T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
