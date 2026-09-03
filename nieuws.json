@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T21:28:50.709548+00:00",
+    "generated_at": "2026-09-03T21:54:58.794791+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 128,
+    "article_count": 127,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 22,
+    "excluded_video_only_count": 23,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -378,6 +378,21 @@
       ]
     },
     {
+      "id": "a76f3debaaef94",
+      "title": "Cruijff verliest Ajax-jeugd niet uit het oog: 'Hebben het juiste leiderschap naast zich nodig'",
+      "category": "Wedstrijden",
+      "published": "2026-09-03T13:45:00+00:00",
+      "updated": "2026-09-03T13:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWpYYnF5NXYzeWNMYWlydEh0bEIzaUtzNnp1WjBKanhTeVNCQmtBVzdHVklxa1dUOEZHWjJPRzhvakZkd0N3b25DNEtnVDVyQzB3cWtYU0d3NWRVRXBaNzVJWlRSWmRHS2IzOF9sLVkzekdOa3ItMWJZQnp0ZFNLNnMtMlh4Ym00R3VxVGxtMTV0WUNlbFZsV1A4RXRpeEhFbmo4N0ktc1U5WnU4dnVOeTRnYW94OEo4bGVkTUVtd1JTU2paLVhuWXJCRXk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "1c45dfcbb9ea85",
       "title": "Programma jeugd: O15 en O11-1 spelen eerste mini-Klassiekers van het seizoen - Ajax",
       "category": "Jeugd",
@@ -413,7 +428,7 @@
       "category": "Transfers",
       "published": "2026-09-02T09:32:00+00:00",
       "updated": "2026-09-03T13:28:01+00:00",
-      "source_count": 4,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
@@ -421,11 +436,6 @@
         "via_google_news": true
       },
       "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2131021/cziommer-dolblij-met-ter-stegen-brandt-en-kehrer-bij-ajax.html",
-          "via_google_news": false
-        },
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXE0MHRyU3FBa3dhQ2J0XzB6LVhtVVk5WDh6ZThGeHUxYW43aF9TZUdmZHdYTmxpNTJUMUFYb1pWRE1Zd0llYS1ULXNSeFJTRGRMOVBDaHFVSGU4dzN0dWlZS2pkcmlVdFRsRnAtWHFFNjJvWFN3NVpOeHN3d1pRQkhQZ01iOU5HVXBDWnpXeEJ3RVhCZkFPaXJEaVdmLW9mWHpMakl1UVVFZ295ZU4tY2YyX2UzY3A2X0FwTDRxVDNSWS1QX19IWUl0QVdLUTRvcHJzd3A1WUY3TTA?oc=5",
@@ -651,21 +661,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHZic3NKVGlxRHRReGtaNWpVN0llWmpaQjhMcFhpd0pVVlpINU5oYi05VzNXN3d0SXdUYjZTbm1udkUxZjVkOV82WnVacXcwZ3IwYWpScmpmRGRYLU5jaXFQN3ZSRmE2cGFXNnVNTjhVLTZYelozU2dKZDB3ZjB6ZTV1RVFPR0o5YjVkeGdYbUlaX2hkX280TkNYX2lTd3pzd21jSklpWHVGajk1cUNwYWh4RVlFX3M?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6e57b8878a596c",
-      "title": "Ajax gewaarschuwd voor Feyenoord-scenario: 'Wel een risico, alles op rood'",
-      "category": "Club",
-      "published": "2026-09-03T05:45:54+00:00",
-      "updated": "2026-09-03T05:45:54+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131036/ajax-gewaarschuwd-voor-feyenoord-scenario-alles-op-rood.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
