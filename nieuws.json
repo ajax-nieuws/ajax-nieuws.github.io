@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T07:30:42.124635+00:00",
+    "generated_at": "2026-09-03T07:56:28.910978+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 128,
+    "article_count": 127,
     "event_count": 40,
-    "discovered_event_count": 77,
+    "discovered_event_count": 76,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 24,
+    "excluded_video_only_count": 22,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "187874726e8ae5",
+      "title": "Kasper Dolberg kon Ajax op Deadline Day verlaten, maar kwam er financieel niet uit",
+      "category": "Club",
+      "published": "2026-09-03T07:48:00+00:00",
+      "updated": "2026-09-03T07:48:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmlMYU9QbjY1Y2liczJMTXptUkFkMDRkdm9yNWpQV3hpTXZHTFpUNnJaZEV2NXRIWldDVzR3OHVaenhHS3YwaGFHMEUwWUppRnd5aU5XTHZYZHFRTnVzYkZaak5ZZ3BuNnpwRkI0UGN5TUNnNmJuN3Jpd0p6VnRDSGk5ZTNCUnVpZEVKNEpEN3llZFh3Rm1OZURNRXZLdXJSR21HWGFoVE1KVW1TRjhQYVhSTkR5amlacTZWZGIzZnEzWExOQUlvSnUtMm0ydjVX?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "688c1948637a2b",
+      "title": "Ajax strikt 'intelligente weldoener': 'Voelde sterk behoefte iets terug te doen'",
+      "category": "Overig",
+      "published": "2026-09-03T07:34:22+00:00",
+      "updated": "2026-09-03T07:34:22+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131086/ajax-aanwinst-kehrer-is-zeldzame-verschijning-in-voetbalwereld.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "ee466554a2c0ce",
       "title": "Ajax-opponent haalt voormalig Watford-spits terug naar Denemarken",
@@ -166,12 +196,12 @@
       ]
     },
     {
-      "id": "e5cee8509d1d29",
+      "id": "81a3030866cbb3",
       "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
       "category": "Transfers",
       "published": "2026-09-02T09:17:42+00:00",
       "updated": "2026-09-03T04:30:40+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -179,11 +209,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dCUUw1QjVmWGU3TkdTWEFab3JHZmoyY1RBaTRTQUswLUo2VTdWanBwaFI4TmNCR0RZYzB1MnVCLTBSMDlKXzI2QlRwcEtfZGZJcmFYTFVfbGV0SDd4bGg4SkoyZFJ4dFJxV3NuWjc2REFLQTBXanlsV2xzSExmQ0NOWFhpMGw4ZzBLbHFWenNEM3Jwa19FSEh5di1WdWlxYWFGUUplOE11dllDaVZDclVfQ3poWkJaYVA4d09xanUxZw?oc=5",
@@ -257,6 +282,42 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "05a6e7491abf8f",
+      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
+      "category": "Transfers",
+      "published": "2026-09-02T14:05:00+00:00",
+      "updated": "2026-09-02T22:24:26+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "1060919e712eec",
@@ -381,6 +442,42 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "1c41dbae1db9a8",
+      "title": "Adingra sprak voor transfer met Brobbey: 'Hij zei dat Ajax zijn thuis is'",
+      "category": "Transfers",
+      "published": "2026-09-02T09:32:00+00:00",
+      "updated": "2026-09-02T20:28:00+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-aanwinst-adingra-ik-hoop-het-net-zo-goed-te-doen-als-kudus",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXg1NmpNbWtOcDlrMEVLTVloNElETWRhcUxzbml3Zk1YMGVmcWo0TDBZZWJ2UzAySDhPZzhjSTNnTDVUWGtoQS1aR3l6ak9TdHlLLWtfQVYxejBaMTZPRG9CTDBQcEpjLVFJdHZwVmV4VGJkelBiOE0yUC1mcF9tWEVtV244UV90V2FvbGtiZzRwYU9qdDJsTXB1TUxBWjdvcnNabFczOS1XbjhzRVY1QlN4OA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS0FzYmE5TEduVk0zT1kzVnlBeVZjNG9PWkowSndnS0huNkhEeUs2d2xLeUwtbGloODBGSEZPZ1lpUzN6MnN6QUZ6YjQzTlRLcUZ1VWtScnVZbTFMcmtMS09wVmIyM3Y4ZlM3UHF3dVh2SVFpb25oZVAxVWQwc1BzaXlsMXA1NVVvX3h4cC1jY1FTUDdvb2xRSnZjTzVyYWpNaTE2TDlVd2wxNi1WUUJscFdOc1pOUmtVT2twSzU3ay12dGotRl9nOUFFTEpqTFFlRjBueW43RVdvdw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFZBd0xVaVlDQkJzd3QtUFFBeHRkaElXZFUtSkxZU0pEZXBfRVd5aWl1enNpNkYzdnpaSDY5dXhXd1J2blF0ZWVxdFNHOXRpS095c09ZVzJlRjg4M19WWmV1bmxja2xRNlpHaUpPSks3bWYwZ0tDYjIwQ2g3dExtSTJSbk9sZ2pIX0F5OG5RWmtkeGRrS09ORmNRbER0NG5DYUpJb1RR?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWVCYjJESlUwZk9XX2FqU0RVMFowUFhnUUl6RkQ4bXYzZjN5andReWhXeXRUTDlGMW02SHNnNzhDRldnOEVteXNLM2NDb0p3Y1VnR25ONG5zWnNqNzA3Z3VDWnRnX0tGNmhLbUlkNGdrLS11eExESTJBXzhsOWUtM1QwY2xWZXBNeVg3V0Zjb3dVTHJZemt0TDlUYTduUUtqVlMxU2pHOElKUTZGUnpGUw?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "5f036a3414c184",
@@ -529,42 +626,6 @@
       "related_sources": []
     },
     {
-      "id": "08263e7d3cd6ce",
-      "title": "Adingra sprak voor transfer met Brobbey: 'Hij zei dat Ajax zijn thuis is'",
-      "category": "Transfers",
-      "published": "2026-09-02T09:32:00+00:00",
-      "updated": "2026-09-02T18:00:39+00:00",
-      "source_count": 7,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-aanwinst-adingra-ik-hoop-het-net-zo-goed-te-doen-als-kudus",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXg1NmpNbWtOcDlrMEVLTVloNElETWRhcUxzbml3Zk1YMGVmcWo0TDBZZWJ2UzAySDhPZzhjSTNnTDVUWGtoQS1aR3l6ak9TdHlLLWtfQVYxejBaMTZPRG9CTDBQcEpjLVFJdHZwVmV4VGJkelBiOE0yUC1mcF9tWEVtV244UV90V2FvbGtiZzRwYU9qdDJsTXB1TUxBWjdvcnNabFczOS1XbjhzRVY1QlN4OA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2130895/ajax-aanwinst-krijgt-hulp-aangeboden-van-brobbey.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFZBd0xVaVlDQkJzd3QtUFFBeHRkaElXZFUtSkxZU0pEZXBfRVd5aWl1enNpNkYzdnpaSDY5dXhXd1J2blF0ZWVxdFNHOXRpS095c09ZVzJlRjg4M19WWmV1bmxja2xRNlpHaUpPSks3bWYwZ0tDYjIwQ2g3dExtSTJSbk9sZ2pIX0F5OG5RWmtkeGRrS09ORmNRbER0NG5DYUpJb1RR?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "6a7fe7e28dac70",
       "title": "'Farioli klopt tóch weer aan bij Ajax'",
       "category": "Overig",
@@ -578,42 +639,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "05a6e7491abf8f",
-      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
-      "category": "Transfers",
-      "published": "2026-09-02T14:05:00+00:00",
-      "updated": "2026-09-02T16:57:51+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55960/Ajax-ontbindt-contract-en-zwaait-Wijndal-uit",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "9ba83342e43a53",
@@ -672,21 +697,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1JXOUVMNmZUaENnbkFDN1F4NTJNRTNnWXpBT2l2VkFQM0VrSklka2Q3NzJyblRmY0p6eDVSdEt6NzJ4QjBxWTB5NF8xQ1F1dVQ1U3FaOGhXc2E5VnJPM09Vd2xLMzgzUUstclIybGEwTDZIcWF2ZnVDMnhDZDNfXzhXSlBINDRONVczVkItNE4zRFpKSXVLOA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "db6e9ebc221f45",
-      "title": "Hoofdrol bij Europese vernedering van Ajax en aanwezig op het WK: dit is de vervanger van Mika Godts",
-      "category": "Overig",
-      "published": "2026-09-02T16:09:34+00:00",
-      "updated": "2026-09-02T16:09:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFU1Q1VxczhfT1QwWDVhOUpzSWcxM2VjeEF3azJfakhCQk9Vb1dNWnFHc1ZzVDhld3REbGFlMzYxbkdkc1VyQ2JuWnVQVXZfank3YW9XNEtqNmMyUW9sMkd1bGkwdjNGNXQtX2pYbUhFUjVQU09lME1pUkp2OEdsY0VMcU9DS19VakdtMklIem5jdS1saENKLTFDS3NlV1VkZm9FZDNSc0labFBoSFB4cDViZFplYmRGbjZXSEE2ZHdKck1iT2toWGI2MkxKbjEy?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -753,21 +763,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "415a7db515f357",
-      "title": "Grote twijfels over nieuwe aanwinst Ajax: ‘In grote ruimtes ziet hij er log en verloren uit’",
-      "category": "Transfers",
-      "published": "2026-09-02T11:27:00+00:00",
-      "updated": "2026-09-02T11:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXE0MHRyU3FBa3dhQ2J0XzB6LVhtVVk5WDh6ZThGeHUxYW43aF9TZUdmZHdYTmxpNTJUMUFYb1pWRE1Zd0llYS1ULXNSeFJTRGRMOVBDaHFVSGU4dzN0dWlZS2pkcmlVdFRsRnAtWHFFNjJvWFN3NVpOeHN3d1pRQkhQZ01iOU5HVXBDWnpXeEJ3RVhCZkFPaXJEaVdmLW9mWHpMakl1UVVFZ295ZU4tY2YyX2UzY3A2X0FwTDRxVDNSWS1QX19IWUl0QVdLUTRvcHJzd3A1WUY3TTA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
