@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T05:12:20.084334+00:00",
+    "generated_at": "2026-09-03T05:48:33.730693+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 130,
+    "article_count": 129,
     "event_count": 40,
-    "discovered_event_count": 80,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 27,
+    "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "bc7d63172aafe6",
+      "title": "Ar’jany Martha keert twee jaar na zijn vertrek bij Ajax terug in de Eredivisie - voetbalzone.nl",
+      "category": "Transfers",
+      "published": "2026-09-02T09:03:00+00:00",
+      "updated": "2026-09-03T05:42:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkt6OE1XcVpKbFpZLTRPMUxsc2ZJeVlfNHdCTldMV2Z3OWxfekFxWi1nOXlJS1dkbG1xSlVta013WDdYN3hGcGxGaHVKcUx0MWJoWTNCdWRLNEd5Y3dzSTNSZ0ZlaTZqM2xoSi1mSEF3TVRVQUxiMmVJckh3M3ZaTUo2QUk5VnItSVpEa3NOVi1fZHRHb1ZlWHRlWGJVRjIyYjdEX3N6UEZ3bUY1ZWtYcTltTUlhNWdPNEZDcnJWZEhucXpBeW5zQ2l6U1M?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "84476be54bc723",
+      "title": "Wim Kieft komt met pijnlijke conclusie: 'Alles wat hier speelt mislukt...'",
+      "category": "Overig",
+      "published": "2026-09-03T05:21:00+00:00",
+      "updated": "2026-09-03T05:21:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131025/wim-kieft-ziet-tolu-arokodare-slagen-bij-ajax-in-eredivisie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "e5cee8509d1d29",
       "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
@@ -62,7 +92,7 @@
     },
     {
       "id": "d29bf751b1c47a",
-      "title": "Ajax en Amourricho van Axel Dongen ontbinden arbeidsovereenkomst",
+      "title": "Ajax en Amourricho van Axel Dongen ontbinden arbeidsovereenkomst - Ajax",
       "category": "Transfers",
       "published": "2026-09-02T19:41:14+00:00",
       "updated": "2026-09-02T23:09:21+00:00",
@@ -186,7 +216,7 @@
     },
     {
       "id": "2451e751152522",
-      "title": "Liveblog | Real Madrid - Ajax Vrouwen",
+      "title": "Liveblog | Real Madrid - Ajax Vrouwen - Ajax",
       "category": "Ajax Vrouwen",
       "published": "2026-09-01T13:25:23+00:00",
       "updated": "2026-09-02T20:49:19+00:00",
@@ -398,21 +428,6 @@
       "related_sources": []
     },
     {
-      "id": "eb7a557f510fe7",
-      "title": "Ajax verscheurt contract van selectiespeler enkele uren voor transferdeadline",
-      "category": "Transfers",
-      "published": "2026-09-02T18:03:00+00:00",
-      "updated": "2026-09-02T18:03:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGNZMzhHV25GeHpRT0pRbk1TQWFQZnZaSWxDVXM1SjJoby1fcld0cHJsekk1OTI1LTVmTkVvOUJITks1Nm1sQmZaZmtSZkFXa2U1U0lDY1A3Zm5kMXAxdkdTZ2c5ZThEWlJxbGVGUV8zZTEyem5qRHhxUlNpVHl4VnZPb2hQb3lPY0hublVCaDYzRmNabXBWbEM5M29Rbk5CZEFSTzJiQzZ2eEg0NERlRHpTSVphQW00NlNHMEhRSWx1Rmo1enh3UG1sMA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "08263e7d3cd6ce",
       "title": "Adingra sprak voor transfer met Brobbey: 'Hij zei dat Ajax zijn thuis is'",
       "category": "Transfers",
@@ -465,7 +480,7 @@
     },
     {
       "id": "6a7fe7e28dac70",
-      "title": "'Farioli en Porto kloppen tóch weer aan bij Ajax'",
+      "title": "'Farioli klopt tóch weer aan bij Ajax'",
       "category": "Overig",
       "published": "2026-09-02T17:28:45+00:00",
       "updated": "2026-09-02T17:28:45+00:00",
@@ -474,21 +489,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVBQU3RScFUydk1BZF9CWWwzSy1IZmgtYmRVQnF6RHRkdm1reW5VcDJPcm8zNWFSMTg1UWRpREc3VDgyUmxralJtR01hWUV2UlU2V3ZaY3BuUU9Ubk1RcXhwTmdYN0dydnNnUzdkT1pWYjRsLWhPTlQtSXlXd0lGbGRNdFJqdTBKaUxrajFkaU02UkZmdXFxTlVwYnZ3TXBLMGc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ae4690ca3b65a8",
-      "title": "Willem van Hanegem stikjaloers op Ajax: 'Waarom heeft Feyenoord niet zo'n speler?'",
-      "category": "Overig",
-      "published": "2026-09-02T17:24:00+00:00",
-      "updated": "2026-09-02T17:24:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1jWm1zazdodmtEaExHMGlpR180V1RqTndNRV9JbzZlSXlDaXVoMDVDMEVqUHVwOWI0Q1YzZ0VzV1QzQXVtOEtVMkFMb002ZmVicGlvYzRFRmZ1YnMxTTREMzR6OG1tLUtkVTRiWVU4TTdvR2RPZWRXZG5tdjBpVHJtMXp5SGxEdkNCVGx6RjlrajFzYURvTTAyYkZnS3RzaEUydHoyT0E0YXVmTzBjM1UyRklBcU14S0xDY0dRRlZzaGlMZXBXU1duSFE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -540,21 +540,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130867/ajax-aanwinst-simon-adingra-nog-niet-fit-genoeg.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7ee87f7a376815",
-      "title": "'Ajax speurt na komst Adingra verder: nóg één positie in beeld op Deadline Day'",
-      "category": "Selectie",
-      "published": "2026-09-02T16:26:00+00:00",
-      "updated": "2026-09-02T16:26:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130860/vi-ajax-speurt-na-komst-adingra-nog-naar-middenvelder-op-deadline-day.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -636,8 +621,8 @@
       "related_sources": []
     },
     {
-      "id": "401d0abeaf4923",
-      "title": "Adingra: Ivoriaanse dribbelaar in voetsporen van Sébastien Haller",
+      "id": "da0d969a0bb084",
+      "title": "Adingra: Ivoriaanse dribbelaar in voetsporen van Haller - Ajax",
       "category": "Overig",
       "published": "2026-09-02T16:04:04+00:00",
       "updated": "2026-09-02T16:04:04+00:00",
@@ -645,14 +630,14 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTNhLWJvTF81WnBfeS0ySmZXanJON1dkRXJZamx1QlduZk94a2Q2QkJJaUhWOG9XTWFDTDJURmdZeF9NOTZWMHZUQ284bUQ2WUZuR0dVdU9TNHg2TzFWWEctSDdvdk52VGtWMFB4ZHJEUUV1SkcxTWZwNjF3a3cxZVBadndxdC1qV2JDaGtWU2trNXo0QzVmZ3h3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDRiR2c3OFdCMGo1NkhPa3JjSmxyeHZMUDA1eUlRMkZNTFFUTXpidVlSTFdnc0I5QTJnQi1IbjFFaGliT0Q1bTF1VU9NZUE0MkY4VTA3M3lVb0NRbkFVXzZRTkpILWZXb0VMWEswS1FadUswRk9faDhBZnMzbGQ0dmlXNzlobDVKT1JWcC1jS1pJRW1mV0tXX3M2cw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
     },
     {
       "id": "a4f95da49db7fa",
-      "title": "Owen Wijndal blijft tóch bij Ajax",
+      "title": "Owen Wijndal blijft tóch bij Ajax - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-02T15:34:00+00:00",
       "updated": "2026-09-02T16:01:00+00:00",
@@ -678,7 +663,7 @@
     },
     {
       "id": "13d59933bd3fdd",
-      "title": "Ajax bereikt akkoord in Spanje en presenteert vleugelaanvaller",
+      "title": "Ajax bereikt akkoord in Spanje en presenteert vleugelaanvaller - voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-09-02T15:56:00+00:00",
       "updated": "2026-09-02T15:56:00+00:00",
@@ -693,7 +678,7 @@
     },
     {
       "id": "72afb969407f3a",
-      "title": "Ajax en RCD Espanyol bereiken akkoord over Leo Salazar",
+      "title": "Ajax en RCD Espanyol bereiken akkoord over Leo Salazar - Ajax",
       "category": "Transfers",
       "published": "2026-09-02T15:16:00+00:00",
       "updated": "2026-09-02T15:46:05+00:00",
@@ -714,7 +699,7 @@
     },
     {
       "id": "a967d1009d9ccd",
-      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
+      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe) - voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-09-02T13:45:00+00:00",
       "updated": "2026-09-02T13:45:00+00:00",
@@ -728,8 +713,23 @@
       "related_sources": []
     },
     {
+      "id": "415a7db515f357",
+      "title": "Grote twijfels over nieuwe aanwinst Ajax: ‘In grote ruimtes ziet hij er log en verloren uit’ - voetbalzone.nl",
+      "category": "Transfers",
+      "published": "2026-09-02T11:27:00+00:00",
+      "updated": "2026-09-02T11:27:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXE0MHRyU3FBa3dhQ2J0XzB6LVhtVVk5WDh6ZThGeHUxYW43aF9TZUdmZHdYTmxpNTJUMUFYb1pWRE1Zd0llYS1ULXNSeFJTRGRMOVBDaHFVSGU4dzN0dWlZS2pkcmlVdFRsRnAtWHFFNjJvWFN3NVpOeHN3d1pRQkhQZ01iOU5HVXBDWnpXeEJ3RVhCZkFPaXJEaVdmLW9mWHpMakl1UVVFZ295ZU4tY2YyX2UzY3A2X0FwTDRxVDNSWS1QX19IWUl0QVdLUTRvcHJzd3A1WUY3TTA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "16634265ba2c00",
-      "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer",
+      "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
       "published": "2026-09-01T08:26:15+00:00",
       "updated": "2026-09-02T10:21:29+00:00",
