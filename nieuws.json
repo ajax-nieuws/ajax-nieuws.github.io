@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T10:31:13.907129+00:00",
+    "generated_at": "2026-09-03T10:55:19.454204+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 127,
+    "article_count": 128,
     "event_count": 40,
-    "discovered_event_count": 78,
+    "discovered_event_count": 79,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 19,
+    "excluded_video_only_count": 20,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0942ef67e261ff",
+      "title": "Eerste topper in de Eredivisie: Ajax treft PSV!",
+      "category": "Wedstrijden",
+      "published": "2026-09-03T10:00:00+00:00",
+      "updated": "2026-09-03T10:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX29IQWdPajRoelQtYUxiTXlTSXprUnp1dVhkSTMxTzAtVF9zdjJtdU1TOEdiTXJuSVdDNHNfSU1Kbkgya2dacWFoTnV1YmZLWnd6X2NaSDZURXMtMG9BQjJpYWdISm1LX0tzb1BWQ19qRHlVZ2xLbUZteXVXbnBfMThHaG9rbzVHVzBzZXlweU84WWxleW1YVF9QZU1RckVF?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "c1a9bda832359b",
       "title": "Kijk vrijdagmiddag naar de persconferentie met Míchel Sánchez - Ajax",
@@ -146,7 +161,7 @@
     },
     {
       "id": "a3ff66cd9eb2ee",
-      "title": "Wijndal toch niet naar de uitgang: 'Het is pijnlijk, voor Wijndal zelf en voor Ajax' - ajaxshowtime.com",
+      "title": "Wijndal toch niet naar de uitgang: 'Het is pijnlijk, voor Wijndal zelf en voor Ajax'",
       "category": "Overig",
       "published": "2026-09-03T06:00:00+00:00",
       "updated": "2026-09-03T06:00:00+00:00",
@@ -158,32 +173,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "6933e904c68af1",
-      "title": "Ajax maakt indruk met komst 'absolute topspeler' Ter Stegen: 'Verdienste Cruijff'",
-      "category": "Transfers",
-      "published": "2026-09-02T09:59:22+00:00",
-      "updated": "2026-09-03T05:50:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131021/cziommer-dolblij-met-ter-stegen-brandt-en-kehrer-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVppZXE3VXBkRkdhOFE5OEE2ZXF1UnNxRkxpREo0aEY1SUg4Ym1DWUZnMWhMbWlNV2RDM1ZGNkoyVUVnVGllekdIc0JkNzc3WVNfQllWbktIaV9EakJJRHczUk1sVTRVajUxY2k4d0lrM3B1RGU3U1JjV0RZQnpfclZiNGI3M1FfcDV1TEtpWHktQkllcGNfRDdIRFhkTjNCRTh5d3VEYnp2SGNoVFBIMXlZNHNUR2s4?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "6e57b8878a596c",
@@ -246,12 +235,33 @@
       "related_sources": []
     },
     {
-      "id": "360f3beb81671f",
+      "id": "f60da7802ab193",
+      "title": "Ajax maakt indruk met komst 'absolute topspeler' Ter Stegen: 'Verdienste Cruijff'",
+      "category": "Transfers",
+      "published": "2026-09-02T09:59:22+00:00",
+      "updated": "2026-09-03T04:55:16+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131021/cziommer-dolblij-met-ter-stegen-brandt-en-kehrer-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "48015bca53491e",
       "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
       "category": "Transfers",
       "published": "2026-09-02T09:17:42+00:00",
       "updated": "2026-09-03T04:30:40+00:00",
-      "source_count": 4,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -262,11 +272,6 @@
         {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFUtRTFHNm5HWkJ6dlV1SGk0dGpzYzEza05oUWNwa1RNb09TbWhJTVJ0VG9YNm9Ddl9WcTk3b28yVDFWWV8ycDBhVmsyZ21YZjJMbERBeG9YNms1TWhCTFFuS19nZlB3YkpKNDJzbER4VVYxQTdmd1NrZmlmWGNfMUhiYTU4NDJIZklvcXhxejYzWFlZMHc4M2JOTHhOVWlJNk5yd2Z5MmtpSnE2dEVJR00ydHdWZFBHRlYzY1dSekxvbE5VenJyWnFkX0VrMlFkd3plcQ?oc=5",
           "via_google_news": true
         },
         {
@@ -329,25 +334,19 @@
       ]
     },
     {
-      "id": "e23c82864cf06e",
+      "id": "41e2bdb6f683c3",
       "title": "Bij Ajax aangeboden Leon Bailey verlaat Villa en voegt nieuw land toe aan zijn cv",
       "category": "Transfers",
-      "published": "2026-09-02T13:23:00+00:00",
+      "published": "2026-09-02T22:40:38+00:00",
       "updated": "2026-09-02T22:40:38+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131007/bailey-verlaat-aston-villa-voor-olympiakos.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWmtpUzBiYS14S1hHQ2NJMFJSOVpoM1o3cHpnQ19zRWV6TWdRMGpfMGROWFc4bmJaSnJLODY4RDN0dVhwQWhMckVKWDhHVnFiUUkzWUU4aDQyRm4wQlRLVjMyd1V5NVBwNVFMRDZkaXFKV2NXYV9rd0NJaVZDTWNvSU9SS2xYcDh6XzFSbTVmdVJMeElWVnAxUTJ4QldrMThIamw0bW50b3p4QTdvWThHckVteDVScXpHZFo2SlR4Y0RjNmprYVcxa0hDdTc?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "1060919e712eec",
@@ -423,7 +422,7 @@
       "category": "Ajax Vrouwen",
       "published": "2026-09-01T13:25:23+00:00",
       "updated": "2026-09-02T20:49:19+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -434,6 +433,11 @@
         {
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0phRFJfc3NJWU5CR21Mb0gxQS1HRHFVeFFUNUFTU19jMEZ6a2FMeW5ub2dMYnhKVnlXck0tN1RQY3pEajhvZm1tT0FPa0pYRWpkSWZISHliVnlUbjFYUkRYcTRoUG5jbXliNEtWLTNkVlhOeDcxU2JUTzZlTFpPMF9YeEluUmJZRkVXMWRlcFdsR1FyRUtsZGNBLXJPSXQ4ZVBtaTRGSzBOTDhrdUxlV2lEQkJGajB3R1JrWjhYR29KXzFsZUY0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19oYS1SaXlUMmNPc3JSTjR3NkY2M2lMVzUtZERkSHlyd0Z6M1E3cFE0aDNPWlNIRndwRG9XcW9ZM0kyakxYRk1Helk1T09MSERKMC1ORGZValdENXZyVTZQclBfdGUyblc1cnlNSC1PLVU3a1ExamMxRWFUTG9JYkx2a3VlSkgxSnFIaVpsdTRaYkcxSlNpejRWaHZ2dmktUGpjVU9tWkl1ZVg3TGtOYlE1LWZSdmxLUFJnaGtuUXJrZTlDSHdfbGxn?oc=5",
           "via_google_news": true
         }
       ]
@@ -465,21 +469,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/ajax-opponent-hajduk-split-haalt-32-voudig-rode-duivel-naar-kroatie",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0ff83589edfd3b",
-      "title": "Ajax Vrouwen verliest in slotfase van Real Madrid en loopt Champions League mis - ajaxshowtime.com",
-      "category": "Ajax Vrouwen",
-      "published": "2026-09-02T20:30:00+00:00",
-      "updated": "2026-09-02T20:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19oYS1SaXlUMmNPc3JSTjR3NkY2M2lMVzUtZERkSHlyd0Z6M1E3cFE0aDNPWlNIRndwRG9XcW9ZM0kyakxYRk1Helk1T09MSERKMC1ORGZValdENXZyVTZQclBfdGUyblc1cnlNSC1PLVU3a1ExamMxRWFUTG9JYkx2a3VlSkgxSnFIaVpsdTRaYkcxSlNpejRWaHZ2dmktUGpjVU9tWkl1ZVg3TGtOYlE1LWZSdmxLUFJnaGtuUXJrZTlDSHdfbGxn?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -735,9 +724,9 @@
       "id": "9ba83342e43a53",
       "title": "Transfers Ajax: Cruijff legt uit waarom Adringa precies in gezochte profiel past",
       "category": "Transfers",
-      "published": "2026-09-02T16:03:39+00:00",
+      "published": "2026-09-01T17:05:00+00:00",
       "updated": "2026-09-02T16:18:00+00:00",
-      "source_count": 3,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -748,6 +737,11 @@
         {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3kzZmlka0F4VFZpYTFFNVhOc0VETmFhNmRlb3c1NmRPTUNTYlNlTzhRYUZHVDJZclNTVllTLTVXbHBxeXhWOGZRVlMxclhPOTRrV0dQSnRyQzFDSXdaV3BEMHo0dmQwVkJnLUhxaDhfQzlWbnNmY0hLUE5TTzRQdkJKZjI1UVYyOXFOTl9Pbk43RUFNd09tTnpXc3kwMUNmY1gtbHhWX1VpQkx0cEM0eWZiMW5zTnluV1AtaUMxbWUzaUp1ZWpfYg?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
           "via_google_news": true
         },
         {
