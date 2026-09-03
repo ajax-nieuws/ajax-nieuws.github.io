@@ -1,18 +1,65 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T01:56:41.572779+00:00",
+    "generated_at": "2026-09-03T05:12:20.084334+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 130,
     "event_count": 40,
-    "discovered_event_count": 81,
+    "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 17,
+    "excluded_video_only_count": 27,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e5cee8509d1d29",
+      "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
+      "category": "Transfers",
+      "published": "2026-09-02T09:17:42+00:00",
+      "updated": "2026-09-03T05:06:01+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130969/late-verrassing-dolberg-voert-intensieve-onderhandelingen-maar-blijft.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dCUUw1QjVmWGU3TkdTWEFab3JHZmoyY1RBaTRTQUswLUo2VTdWanBwaFI4TmNCR0RZYzB1MnVCLTBSMDlKXzI2QlRwcEtfZGZJcmFYTFVfbGV0SDd4bGg4SkoyZFJ4dFJxV3NuWjc2REFLQTBXanlsV2xzSExmQ0NOWFhpMGw4ZzBLbHFWenNEM3Jwa19FSEh5di1WdWlxYWFGUUplOE11dllDaVZDclVfQ3poWkJaYVA4d09xanUxZw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "f60da7802ab193",
+      "title": "Ajax maakt indruk met komst 'absolute topspeler' Ter Stegen: 'Verdienste Cruijff'",
+      "category": "Transfers",
+      "published": "2026-09-02T09:59:22+00:00",
+      "updated": "2026-09-03T04:55:16+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131021/cziommer-dolblij-met-ter-stegen-brandt-en-kehrer-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "d29bf751b1c47a",
       "title": "Ajax en Amourricho van Axel Dongen ontbinden arbeidsovereenkomst",
@@ -65,42 +112,6 @@
       "related_sources": []
     },
     {
-      "id": "05a6e7491abf8f",
-      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
-      "category": "Transfers",
-      "published": "2026-09-02T14:05:00+00:00",
-      "updated": "2026-09-02T22:24:26+00:00",
-      "source_count": 6,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "1060919e712eec",
       "title": "'Ajax was een serieuze kandidaat, maar vijftien miljoen vonden ze toen te veel'",
       "category": "Transfers",
@@ -117,27 +128,6 @@
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnpnUVdsR0FheGNtX0tZeEFVczBXcUF2YVpndW9icmVvT1RidVNpNW9oZGk4RXNOajZPRmZXLXUtUVVmeUZyazczVHhYVGcyb1VyYWpVN0xNRy1MaWQ3dFY4dkdPVlowMFBFdzBPdnllbW80cmNUeEVfNUJGMHF0LVd4X0ZNNzdMTXRrZHR5c0NXcjhMV3hNTXU5dWhnS2xxM0VHY1RPeXFMbDVLUHc3dnRtWFZoNXFPUEhvTlBUaFdLSlJMWmpmTUF2V01nb1ZU?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "81a3030866cbb3",
-      "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
-      "category": "Transfers",
-      "published": "2026-09-02T09:17:42+00:00",
-      "updated": "2026-09-02T21:15:48+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130969/late-verrassing-dolberg-voert-intensieve-onderhandelingen-maar-blijft.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dCUUw1QjVmWGU3TkdTWEFab3JHZmoyY1RBaTRTQUswLUo2VTdWanBwaFI4TmNCR0RZYzB1MnVCLTBSMDlKXzI2QlRwcEtfZGZJcmFYTFVfbGV0SDd4bGg4SkoyZFJ4dFJxV3NuWjc2REFLQTBXanlsV2xzSExmQ0NOWFhpMGw4ZzBLbHFWenNEM3Jwa19FSEh5di1WdWlxYWFGUUplOE11dllDaVZDclVfQ3poWkJaYVA4d09xanUxZw?oc=5",
           "via_google_news": true
         }
       ]
@@ -275,6 +265,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "66e3e2d735e717",
+      "title": "Ajax Vrouwen strijdend ten onder in Madrid",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-02T20:02:00+00:00",
+      "updated": "2026-09-02T20:02:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55966/Ajax-Vrouwen-strijdend-ten-onder-in-Madrid",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "796c5ca2870429",
@@ -427,14 +432,14 @@
           "via_google_news": true
         },
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2130895/ajax-aanwinst-krijgt-hulp-aangeboden-van-brobbey.html",
           "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
+          "via_google_news": true
         },
         {
           "name": "NU.nl",
@@ -489,6 +494,42 @@
       "related_sources": []
     },
     {
+      "id": "05a6e7491abf8f",
+      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
+      "category": "Transfers",
+      "published": "2026-09-02T14:05:00+00:00",
+      "updated": "2026-09-02T16:57:51+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55960/Ajax-ontbindt-contract-en-zwaait-Wijndal-uit",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "472e8e7a4368a9",
       "title": "Ajax-aanwinst onthult: 'Ik ben niet fit genoeg om te spelen, heb nog weken nodig'",
       "category": "Transfers",
@@ -538,31 +579,16 @@
           "via_google_news": true
         },
         {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55964/Bevestigd-Ajax-huurt-Adringa-van-Sunderland",
-          "via_google_news": false
-        },
-        {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmZDdEx0ek5ZLUp4R1phaXBjZ1lUc2tnN1dWdG5Ra1lqWjVBYU9tS0pMbEhTSHU0cDBaOVFUWnp1ZmZqbGxfRTQ0V1E1VndrQXN3RnMtbVRNV3FDaGI2R0Zlb0Q5dUVZYmRYazVKcDBQUDViMjZxM2ZUcFFGYnpKYTJBX2hUYmRrTHMyak5VNjdZRGJaY3NvZ2R1TkJNMDE3aHRHLVBYZXEwaElvSlAyTWhtemRQdnNOaTRaZGJn?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55964/Bevestigd-Ajax-huurt-Adringa-van-Sunderland",
+          "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "3862c96bb0de77",
-      "title": "Wijndal-soap bij Ajax zorgt voor ongeloof bij fans: 'Te mooi om waar te zijn'",
-      "category": "Transfers",
-      "published": "2026-09-02T16:17:00+00:00",
-      "updated": "2026-09-02T16:17:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130852/ajax-fans-zeer-negatief-over-transfernieuws-rond-owen-wijndal.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "4e51457c09d47b",
@@ -721,13 +747,13 @@
           "via_google_news": false
         },
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
-          "via_google_news": false
-        },
-        {
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazFqU01NTUxiMlVZRWlXX1pEVDY3Z2U1SzNBYzluMWVkSWdKbF9uUHU3U0ZSYlhUcW4tLVM0RWdxdEdkek9RNVVQSE5PRGdFZHhRT1N1bGNjNnNEWHp1MWhkVlpYVGxCNEFVWWtkMHo3N2xDelBrN1J4REk1aGR1eV9Ua2FYMzBZNkVYRm01NU1DUjc5UEpPbW1GNA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE9DZnpUYWh1akJWM3pRcjgtX3FmMUJrZnlIb1NEN0lqTm85NE14bld6M2M1UzNkLUFyM09Ta1lHUWlKYk0xRU1MRF9lYnQzNWFwZWpGMFZwNXJoQ3JpNjA5Zlc0QVB2dUFyTkVQbEJsU1M0SUNRTDNaR3lMYi1KcGJYZm5TVFJDTDN0TnNEX3JmbExfY2VTTDlRRjZLekFEMUtYX0dLc21iTnp2cVpveHFiam5hZkF5UnRlWHBUSjVrZWR4ZEpzWG9GWGJ3dGRIbVg4ZVNLdkJIQTVmYVdFcA?oc=5",
           "via_google_news": true
         },
         {
@@ -736,21 +762,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "7f316bb1f4120f",
-      "title": "Kehrer blij en opgelucht: 'Bevestigde het beeld dat ik van Ajax had en nog steeds heb'",
-      "category": "Overig",
-      "published": "2026-09-02T09:30:00+00:00",
-      "updated": "2026-09-02T09:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTm5KNVU0WGRjN1dxMS1hSzVaTDdPV2hyUUNSMzBlcnZvMG9WMjlqYTlJUFJUNGpwRUphVmlYOVF5dEZZWndXT2NpYm1EeVBRNl9GVWFjLXhFc29XZnAyNE5aa2dFZmV2QlN2VXFCRzN5VnlrVGVxbDZfbXB0MWJFVzdYQXVDbHJrbDZZcHNaU09qWXRSeFhqN1FidG1jNGpEalNEOE9EVVpXUVRrNGNTQ3JELS1LSm9neFBaUUZ6aHl1Zw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "a45fa37152f7c6",
