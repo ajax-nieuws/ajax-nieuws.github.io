@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T00:41:17.856043+00:00",
+    "generated_at": "2026-09-03T00:57:58.322303+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 45,
-    "event_count": 36,
-    "discovered_event_count": 36,
-    "source_count": 5,
-    "feed_error_count": 8,
-    "excluded_paywall_count": 6,
-    "excluded_video_only_count": 6,
+    "article_count": 133,
+    "event_count": 40,
+    "discovered_event_count": 85,
+    "source_count": 12,
+    "feed_error_count": 0,
+    "excluded_paywall_count": 106,
+    "excluded_video_only_count": 25,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d29bf751b1c47a",
+      "title": "Ajax en Amourricho van Axel Dongen ontbinden arbeidsovereenkomst - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T19:41:14+00:00",
+      "updated": "2026-09-02T23:09:21+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnB2S0ZLSGt0LUdobmFKR2xuNjZpTk5yWm9ENmdnVV9nMkpxRWJTcjZLWjlnLWhxZXF5blBOQzlpRXVlSUNUWGZzVmYzeGs4UFl1MHVhQ1NIaFJPckV3eXBYdmo1MjRoYVFNak1yNVJyeUdSOWowMVhXUGl3UEdyWXBVUm5idk1yS3k4MElQY3JvQVYzSlR3ZVNyVndUMGx4dmoxSjBUWndmZ3Mx?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130966/ajax-ontbindt-nog-een-contract.html",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "5ce734f110a654",
       "title": "Verweij onthult 'trucje' van Cruijff bij Ajax en heeft nieuws: 'PSV wilde hem ook'",
@@ -44,49 +65,160 @@
       "related_sources": []
     },
     {
-      "id": "c3c982f851c707",
-      "title": "'Ajax was een serieuze kandidaat, maar vijftien miljoen vonden ze toen te veel'",
+      "id": "05a6e7491abf8f",
+      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
       "category": "Transfers",
-      "published": "2026-09-02T21:33:02+00:00",
-      "updated": "2026-09-02T21:33:02+00:00",
-      "source_count": 1,
+      "published": "2026-09-02T14:05:00+00:00",
+      "updated": "2026-09-02T22:24:26+00:00",
+      "source_count": 6,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130989/piroe-was-dichtbij-overstap-naar-nederlandse-topclub.html",
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTZCN0NzcjV3UmpJMWdfcmxrcnFxUDN6VzFjRUVZenBJWGVrWk9UT2REOGdPMDcyNVJLZERubUdDWTBWZ2Z0TzY3M2tuYkVZOWpwYXMxYnQ5NDJhQ1daTWtSbFYyRFJad2hLRU96a0RIRGNFYV9sbTA1cDZtRnNIQWhFX3NzY0R0clBCR2dHUGVhZV9abE1hSXI4RTZTSFhKaU9r?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0xFVk5ETHg3RlkyTi1RbzhEeWpTSUhEUnVRcUQ2OWM2UGtYdVcyazMtMVVhOGhQNDdZb0lzb25nekN2QXBpTGQtSGFHbTNhenpndWZsVmNoNVpxdVdjUm9kbnR0QzNTblEwbUpHcGJ6RXJ5d3NoNXlsNnlvbjBhWWFDakRLeXhBLWVNVUdOSjVzdlNGVm1nVzBuWFZJdm4wd21ZOTdHVGE1R3h0Tjg5ZndhUm1TNnppbE1z?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWEwTXFybVExZ1JLZUR3cDVERGRzUE42U29wNzBMVVpiSzFWVHNySmgtQ2lWazVQd1lpVTVzemdGcFlEblA5UTNTRXpoZVlGd2hUcTNKWHdrbTVrOXpmaVhnR0VVZW9oVHFyOEVSSVNuRV9EeXRiaUtOUGVocG43MUNKZEFTNGFPcS1Vc1ctNUJyTWd4ekdKQUlCeXE5WE5mZmllRHFwd0FIVHRrZzBtbmxNcmp3R1VKRFBILQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdl95bC1WT1lSVS0xS2tSTGxzMHNxNUNNTkR2U1VSTGpIMnZXSUVWMm1XOWh0VXliUVBfTlIzTVlWNVk3dXp5eEZvVjVoeUpSSjVIMUVBR2FYN2ZKTWtiRDR3c2huLWRoRHBCeUtrU3JxekRDaXpWYi1JRVhBMWp6c3BlTGpPdkEwQjNNZFBkZmtMdm5MUHN6d3ZhWTJIdHhibVNFZ2Zn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
-      "id": "c6fabc0e7e8f3e",
-      "title": "Ajax gaat na Van Axel Dongen nóg een doorlopend contract ontbinden",
+      "id": "1060919e712eec",
+      "title": "Piroe sprak met Cruijff: 'Ajax was serieuze kandidaat, maar 15 miljoen was toen te veel' - ajaxshowtime.com",
       "category": "Transfers",
-      "published": "2026-09-02T19:34:15+00:00",
-      "updated": "2026-09-02T21:32:00+00:00",
-      "source_count": 1,
+      "published": "2026-09-01T17:05:00+00:00",
+      "updated": "2026-09-02T21:55:00+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130966/ajax-ontbindt-nog-een-contract.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnpnUVdsR0FheGNtX0tZeEFVczBXcUF2YVpndW9icmVvT1RidVNpNW9oZGk4RXNOajZPRmZXLXUtUVVmeUZyazczVHhYVGcyb1VyYWpVN0xNRy1MaWQ3dFY4dkdPVlowMFBFdzBPdnllbW80cmNUeEVfNUJGMHF0LVd4X0ZNNzdMTXRrZHR5c0NXcjhMV3hNTXU5dWhnS2xxM0VHY1RPeXFMbDVLUHc3dnRtWFZoNXFPUEhvTlBUaFdLSlJMWmpmTUF2V01nb1ZU?oc=5",
+        "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130989/piroe-was-dichtbij-overstap-naar-nederlandse-topclub.html",
+          "via_google_news": false
+        }
+      ]
     },
     {
-      "id": "8252107d3a135d",
+      "id": "360f3beb81671f",
       "title": "'Verrassend: Dolberg voert 'intensieve onderhandelingen' op Deadline Day'",
       "category": "Transfers",
-      "published": "2026-09-02T21:15:48+00:00",
-      "updated": "2026-09-02T21:15:48+00:00",
-      "source_count": 1,
+      "published": "2026-09-02T09:17:42+00:00",
+      "updated": "2026-09-02T21:30:00+00:00",
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130969/late-verrassing-dolberg-voert-intensieve-onderhandelingen-maar-blijft.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMFUtRTFHNm5HWkJ6dlV1SGk0dGpzYzEza05oUWNwa1RNb09TbWhJTVJ0VG9YNm9Ddl9WcTk3b28yVDFWWV8ycDBhVmsyZ21YZjJMbERBeG9YNms1TWhCTFFuS19nZlB3YkpKNDJzbER4VVYxQTdmd1NrZmlmWGNfMUhiYTU4NDJIZklvcXhxejYzWFlZMHc4M2JOTHhOVWlJNk5yd2Z5MmtpSnE2dEVJR00ydHdWZFBHRlYzY1dSekxvbE5VenJyWnFkX0VrMlFkd3plcQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dCUUw1QjVmWGU3TkdTWEFab3JHZmoyY1RBaTRTQUswLUo2VTdWanBwaFI4TmNCR0RZYzB1MnVCLTBSMDlKXzI2QlRwcEtfZGZJcmFYTFVfbGV0SDd4bGg4SkoyZFJ4dFJxV3NuWjc2REFLQTBXanlsV2xzSExmQ0NOWFhpMGw4ZzBLbHFWenNEM3Jwa19FSEh5di1WdWlxYWFGUUplOE11dllDaVZDclVfQ3poWkJaYVA4d09xanUxZw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "a99c5bddf94129",
+      "title": "Bij Ajax en PSV genoemde Ounahi tekent bij Panathinaikos",
+      "category": "Transfers",
+      "published": "2026-09-02T18:45:00+00:00",
+      "updated": "2026-09-02T21:10:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bij-ajax-en-psv-genoemde-ounahi-tekent-bij-panathinaikos",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130920/geen-ajax-of-psv-voor-ounahi-marokkaan-naar-panathinaikos.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3hZNmVKeEItVGVQZFlubHJlWVVYXzVpakt1c19MOV9sdVVGa0xFd0J5WmpTSGlsd29GTmdZTlZIOUNKMWkzTnQ1cmpzaV94ZlV1dlFmMXVyemVGSVRZY0d6bUxuUUtiaHQ3Qkxld1p4b2pjVERqVGVEcjFaM3JFWFV4SGhYUnNkbm5GTHdwcHNNZjVvZXROakFnOEZsblVwc01XWmRST0twdF8yQm51dEpUVjNHOGdvYmJqT0RR?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "a18fb333434073",
+      "title": "Verweij komt met veelzeggende update over laatste uren transfermarkt Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T18:36:59+00:00",
+      "updated": "2026-09-02T20:50:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130968/verweij-ajax-is-klaar-het-was-weer-een-mooie-transferwindow.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMDhQUTdJMDN3bVNZT2dQTnBZNzE1QlpQNjRBVmNEWEptUENFM09qTExDazNqcFVGRU90TUZvQjZDTlhUZ2pGUnkyamVubkZxVXZGNUNGVW1fNE1zMGdrSjctSmJsYzFhTmR4eGp3aThZZHpnODMweFQ0QnRCZlBrdTVKUnAwV3c4ZW53WmFTOG9YMDZCcERVWE5VNHZsU1MyUG93TA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0w3Y2Y2d3lOM25pSmV6T0Ytcy1VZzZ1R0Foc0xnSi1STl9ETldUTEhHTEg5RE1XZDNvV2lGU2NGTGFNNGg3ODNlMC1SSlp0aEFNRmZoeThfM1ZuWjZueVJVVFhZc1Vpd25HMVVla2RvS210a3VuaTdWNlZDU0k1S09vMzJkanFENjlvS1J2NE5HaVE5WUNWU203VThNYTVxT25hUVhIYlhuVWVrd0llRk0xUTFKQQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "2451e751152522",
+      "title": "Liveblog | Real Madrid - Ajax Vrouwen - Ajax",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-01T13:25:23+00:00",
+      "updated": "2026-09-02T20:49:19+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9waTV2WU5GdjU2OXp4TExZc2I5MUw0WFBOWS1Ud2hQS2k1Qkd6ZnpHdUhEZndmSGkxbE5GMWtxcENkMjBxMElCZ2xzdU54Y3J1dlV5QXJsZVd2ck5qTTdYalNrSVM4eElnVmUtUzlpQTM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb0phRFJfc3NJWU5CR21Mb0gxQS1HRHFVeFFUNUFTU19jMEZ6a2FMeW5ub2dMYnhKVnlXck0tN1RQY3pEajhvZm1tT0FPa0pYRWpkSWZISHliVnlUbjFYUkRYcTRoUG5jbXliNEtWLTNkVlhOeDcxU2JUTzZlTFpPMF9YeEluUmJZRkVXMWRlcFdsR1FyRUtsZGNBLXJPSXQ4ZVBtaTRGSzBOTDhrdUxlV2lEQkJGajB3R1JrWjhYR29KXzFsZUY0?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "33538692f8bd8f",
@@ -104,19 +236,55 @@
       "related_sources": []
     },
     {
-      "id": "ecea9506179e11",
-      "title": "Verweij komt met veelzeggende update over laatste uren transfermarkt Ajax",
-      "category": "Transfers",
-      "published": "2026-09-02T20:34:20+00:00",
-      "updated": "2026-09-02T20:34:20+00:00",
+      "id": "0ff83589edfd3b",
+      "title": "Ajax Vrouwen verliest in slotfase van Real Madrid en loopt Champions League mis - ajaxshowtime.com",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-02T20:30:00+00:00",
+      "updated": "2026-09-02T20:30:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130968/verweij-ajax-is-klaar-het-was-weer-een-mooie-transferwindow.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19oYS1SaXlUMmNPc3JSTjR3NkY2M2lMVzUtZERkSHlyd0Z6M1E3cFE0aDNPWlNIRndwRG9XcW9ZM0kyakxYRk1Helk1T09MSERKMC1ORGZValdENXZyVTZQclBfdGUyblc1cnlNSC1PLVU3a1ExamMxRWFUTG9JYkx2a3VlSkgxSnFIaVpsdTRaYkcxSlNpejRWaHZ2dmktUGpjVU9tWkl1ZVg3TGtOYlE1LWZSdmxLUFJnaGtuUXJrZTlDSHdfbGxn?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "5f036a3414c184",
+      "title": "PSV en Ajax Vrouwen dalen af in Europa, Feyenoord Vrouwen wél succesvol",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-02T20:26:06+00:00",
+      "updated": "2026-09-02T20:26:06+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTJfWXdvYzRkY0FrSnYxMWZfWmxWanYtdGZRVWRZNW9pRmtDVzRoTnZIbEhzM3g2ZEdzSmJCOXRLRVpYcnVERk1OS0xpTGNMeE5Udk9qUkV5SzhOWWhEWl9KN1p0S1N3MU00MGdOSGgteGVWWlRtUmo4akx2NWZGSXVrbElPQVB1bUJ4ME8yVXpxYUVCbU50ZDJ3RURyU0xoSmd1NlgzNGIxaUpweHRhWDZNQmphNjlfU0VDeg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "68c637c4ac3572",
+      "title": "Voetbalsters PSV en Ajax uitgeschakeld in laatste voorronde Champions League",
+      "category": "Wedstrijden",
+      "published": "2026-09-02T19:00:04+00:00",
+      "updated": "2026-09-02T20:12:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629419",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVW9UMXVmMjBIWWJZdkd2c3BVekdWRGxmaUlUTnVuc1RRZ1BsOWp2SnRxb1psVHBMRGNhQ1VKWG5KNTh5MC1EaHRHR1BNRWJSaEVYV2piNlVnOUFqMlUtNl83XzJ0eWRTWFBRUU0yMFFIV2ZuQ1VYemhVNzgxc1J0c1B6NTlMTXEyelVGNHNEc2NjcGhGMndYTnFEcG5vbFFPS0kzMGhUQkxrb3hRMmpsR0NPdDliaXhTdjdUWXFYZ2ZDRDc0S2hULTdNX3hjbE1rTVFGUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "796c5ca2870429",
@@ -132,6 +300,32 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "8d4e0b9379336b",
+      "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
+      "category": "Transfers",
+      "published": "2026-09-02T14:10:00+00:00",
+      "updated": "2026-09-02T19:34:15+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130904/ajax-verscheurt-contract-van-axel-dongen.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1BBR2owVDFXeFZhdzRIbXpzYXpQeXhYSzE1bDdONFBxLVd3Xy0zNk83OWJqczgtZDNGOGF6ay1NU2FpNmg4MkpGRTJYSFVfcnFaY0xWZmczdE5Icnc3ZThQYXk5ZjVHMVlwY1RIZlAzZXlmYVlFRThJYzRmR0NreXJFNmV6YUt1OC1PbzFXRFozSzg2YnQyVE40RQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "fbf204c1ad715f",
@@ -179,40 +373,19 @@
       "related_sources": []
     },
     {
-      "id": "d3d63429234aac",
-      "title": "Voetbalsters PSV en Ajax uitgeschakeld in laatste voorronde Champions League",
+      "id": "a8976a9ed7e884",
+      "title": "Geen Champions League vrouwen PSV en Ajax, wel Europees succes Feyenoord - NU",
       "category": "Wedstrijden",
-      "published": "2026-09-02T19:00:04+00:00",
-      "updated": "2026-09-02T19:00:04+00:00",
+      "published": "2026-09-02T18:51:55+00:00",
+      "updated": "2026-09-02T18:51:55+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629419",
-        "via_google_news": false
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGFvUW5vU20yTm9vX3ZNM0JuRmlCWnRvMzVoRXduck1FUEJseVNhTHlvM1R5MVFQbG5SQ2ZyczdSNm5fWGQ1NFBnR1hsY0tacWxlLVNLRTZhNnB0SGdCX1ZpTlFaZXJvZzJyTG5IRHUwN3NaM0xUYnNHUGlfdEpaOThwS0V6TG5jMnBwZlV6eENfWGctZ0xILThpLTJDM3ZvZjhNMFhXM2w2Vk0ybGtj?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "958f018adaddf1",
-      "title": "Bij Ajax en PSV genoemde Ounahi tekent bij Panathinaikos",
-      "category": "Transfers",
-      "published": "2026-09-02T18:45:00+00:00",
-      "updated": "2026-09-02T18:50:55+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/bij-ajax-en-psv-genoemde-ounahi-tekent-bij-panathinaikos",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2130920/geen-ajax-of-psv-voor-ounahi-marokkaan-naar-panathinaikos.html",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "e6445d15a4925c",
@@ -226,6 +399,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130907/buitenkansje-ajax-blijft-uit-cruijff-houdt-ogen-open-voor-clubloze-middenvelder.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "98820c2c255d18",
+      "title": "Real Madrid - Ajax (2 sep., 2026) Live tussenstand",
+      "category": "Wedstrijden",
+      "published": "2026-09-02T18:18:15+00:00",
+      "updated": "2026-09-02T18:18:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55OE55RGFaNm1tVWFYQVQ5MlVsOG5MN1N5dEw4V1NNdzd1dnF1d0l5NUVRWWY1UE1rVDE3V0JSV1NpSFd6T0RsdUZOa2ktS1J1R3AtR1V3Q0JPMjgzZHNUWmc0eHV0UE5DRmc3b3BR?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -245,12 +433,27 @@
       "related_sources": []
     },
     {
-      "id": "8d735047489908",
+      "id": "eb7a557f510fe7",
+      "title": "Ajax verscheurt contract van selectiespeler enkele uren voor transferdeadline",
+      "category": "Transfers",
+      "published": "2026-09-02T18:03:00+00:00",
+      "updated": "2026-09-02T18:03:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGNZMzhHV25GeHpRT0pRbk1TQWFQZnZaSWxDVXM1SjJoby1fcld0cHJsekk1OTI1LTVmTkVvOUJITks1Nm1sQmZaZmtSZkFXa2U1U0lDY1A3Zm5kMXAxdkdTZ2c5ZThEWlJxbGVGUV8zZTEyem5qRHhxUlNpVHl4VnZPb2hQb3lPY0hublVCaDYzRmNabXBWbEM5M29Rbk5CZEFSTzJiQzZ2eEg0NERlRHpTSVphQW00NlNHMEhRSWx1Rmo1enh3UG1sMA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "08263e7d3cd6ce",
       "title": "Adingra sprak voor transfer met Brobbey: 'Hij zei dat Ajax zijn thuis is'",
       "category": "Transfers",
-      "published": "2026-09-02T09:09:58+00:00",
+      "published": "2026-09-02T09:32:00+00:00",
       "updated": "2026-09-02T18:00:39+00:00",
-      "source_count": 3,
+      "source_count": 7,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -259,14 +462,24 @@
       },
       "related_sources": [
         {
-          "name": "NOS",
-          "url": "https://nos.nl/l/2629351",
-          "via_google_news": false
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXg1NmpNbWtOcDlrMEVLTVloNElETWRhcUxzbml3Zk1YMGVmcWo0TDBZZWJ2UzAySDhPZzhjSTNnTDVUWGtoQS1aR3l6ak9TdHlLLWtfQVYxejBaMTZPRG9CTDBQcEpjLVFJdHZwVmV4VGJkelBiOE0yUC1mcF9tWEVtV244UV90V2FvbGtiZzRwYU9qdDJsTXB1TUxBWjdvcnNabFczOS1XbjhzRVY1QlN4OA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZUYmdIbHJPUHVNcVVfTHBUeHVZc195WmVLMjh5enAwZjdZcmdUMTVUN254dEVqdkVzcFdjYWFOWTNFbnlUSmVHVU9sSnRUUldfTzZXVnFJZjZvWU1WalAxc1VZb3I3R1l1M1dYV2QxQUhJTzA4SmNLN1RfTlAybVRGWW82Q29OZnRlMExRMkRVS2h0VTdWQWE1N2NTVzN4b2lxdTMydVpSOWY4RUNIWjNLSEl1dlJmdjBFTlo2MmRKZUVLcjZhcQ?oc=5",
+          "via_google_news": true
         },
         {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2130895/ajax-aanwinst-krijgt-hulp-aangeboden-van-brobbey.html",
           "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcFZBd0xVaVlDQkJzd3QtUFFBeHRkaElXZFUtSkxZU0pEZXBfRVd5aWl1enNpNkYzdnpaSDY5dXhXd1J2blF0ZWVxdFNHOXRpS095c09ZVzJlRjg4M19WWmV1bmxja2xRNlpHaUpPSks3bWYwZ0tDYjIwQ2g3dExtSTJSbk9sZ2pIX0F5OG5RWmtkeGRrS09ORmNRbER0NG5DYUpJb1RR?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -282,6 +495,36 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130887/gerucht-fc-porto-brengt-nieuw-bod-uit-op-ajax-verdediger-youri-baas.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6a7fe7e28dac70",
+      "title": "'Farioli en Porto kloppen tóch weer aan bij Ajax'",
+      "category": "Overig",
+      "published": "2026-09-02T17:28:45+00:00",
+      "updated": "2026-09-02T17:28:45+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMVBQU3RScFUydk1BZF9CWWwzSy1IZmgtYmRVQnF6RHRkdm1reW5VcDJPcm8zNWFSMTg1UWRpREc3VDgyUmxralJtR01hWUV2UlU2V3ZaY3BuUU9Ubk1RcXhwTmdYN0dydnNnUzdkT1pWYjRsLWhPTlQtSXlXd0lGbGRNdFJqdTBKaUxrajFkaU02UkZmdXFxTlVwYnZ3TXBLMGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ae4690ca3b65a8",
+      "title": "Willem van Hanegem stikjaloers op Ajax: 'Waarom heeft Feyenoord niet zo'n speler?'",
+      "category": "Overig",
+      "published": "2026-09-02T17:24:00+00:00",
+      "updated": "2026-09-02T17:24:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1jWm1zazdodmtEaExHMGlpR180V1RqTndNRV9JbzZlSXlDaXVoMDVDMEVqUHVwOWI0Q1YzZ0VzV1QzQXVtOEtVMkFMb002ZmVicGlvYzRFRmZ1YnMxTTREMzR6OG1tLUtkVTRiWVU4TTdvR2RPZWRXZG5tdjBpVHJtMXp5SGxEdkNCVGx6RjlrajFzYURvTTAyYkZnS3RzaEUydHoyT0E0YXVmTzBjM1UyRklBcU14S0xDY0dRRlZzaGlMZXBXU1duSFE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -319,9 +562,9 @@
       "id": "9ba83342e43a53",
       "title": "Transfers Ajax: Cruijff legt uit waarom Adringa precies in gezochte profiel past",
       "category": "Transfers",
-      "published": "2026-09-02T16:05:00+00:00",
+      "published": "2026-09-02T16:03:39+00:00",
       "updated": "2026-09-02T16:18:00+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -329,6 +572,11 @@
         "via_google_news": false
       },
       "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3kzZmlka0F4VFZpYTFFNVhOc0VETmFhNmRlb3c1NmRPTUNTYlNlTzhRYUZHVDJZclNTVllTLTVXbHBxeXhWOGZRVlMxclhPOTRrV0dQSnRyQzFDSXdaV3BEMHo0dmQwVkJnLUhxaDhfQzlWbnNmY0hLUE5TTzRQdkJKZjI1UVYyOXFOTl9Pbk43RUFNd09tTnpXc3kwMUNmY1gtbHhWX1VpQkx0cEM0eWZiMW5zTnluV1AtaUMxbWUzaUp1ZWpfYg?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/55964/Bevestigd-Ajax-huurt-Adringa-van-Sunderland",
@@ -367,226 +615,162 @@
       "related_sources": []
     },
     {
-      "id": "a4f95da49db7fa",
-      "title": "Plottwist: Wijndal blijft toch bij Ajax",
-      "category": "Overig",
-      "published": "2026-09-02T16:01:00+00:00",
-      "updated": "2026-09-02T16:01:00+00:00",
+      "id": "92c8622e35be08",
+      "title": "PSV haalt nog twee beloften voor de toekomst",
+      "category": "Transfers",
+      "published": "2026-09-02T16:11:00+00:00",
+      "updated": "2026-09-02T16:11:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
-        "via_google_news": false
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1JXOUVMNmZUaENnbkFDN1F4NTJNRTNnWXpBT2l2VkFQM0VrSklka2Q3NzJyblRmY0p6eDVSdEt6NzJ4QjBxWTB5NF8xQ1F1dVQ1U3FaOGhXc2E5VnJPM09Vd2xLMzgzUUstclIybGEwTDZIcWF2ZnVDMnhDZDNfXzhXSlBINDRONVczVkItNE4zRFpKSXVLOA?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
     {
-      "id": "05a6e7491abf8f",
-      "title": "Curieuze plottwist: Wijndal en Ajax zien af van contractontbinding",
-      "category": "Transfers",
-      "published": "2026-09-02T14:05:00+00:00",
-      "updated": "2026-09-02T15:57:49+00:00",
-      "source_count": 2,
+      "id": "db6e9ebc221f45",
+      "title": "Hoofdrol bij Europese vernedering van Ajax en aanwezig op het WK: dit is de vervanger van Mika Godts",
+      "category": "Overig",
+      "published": "2026-09-02T16:09:34+00:00",
+      "updated": "2026-09-02T16:09:34+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/curieuze-plottwist-wijndal-en-ajax-zien-af-van-contractontbinding",
-        "via_google_news": false
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFU1Q1VxczhfT1QwWDVhOUpzSWcxM2VjeEF3azJfakhCQk9Vb1dNWnFHc1ZzVDhld3REbGFlMzYxbkdkc1VyQ2JuWnVQVXZfank3YW9XNEtqNmMyUW9sMkd1bGkwdjNGNXQtX2pYbUhFUjVQU09lME1pUkp2OEdsY0VMcU9DS19VakdtMklIem5jdS1saENKLTFDS3NlV1VkZm9FZDNSc0labFBoSFB4cDViZFplYmRGbjZXSEE2ZHdKck1iT2toWGI2MkxKbjEy?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "da0d969a0bb084",
+      "title": "Adingra: Ivoriaanse dribbelaar in voetsporen van Haller - Ajax",
+      "category": "Overig",
+      "published": "2026-09-02T16:04:04+00:00",
+      "updated": "2026-09-02T16:04:04+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDRiR2c3OFdCMGo1NkhPa3JjSmxyeHZMUDA1eUlRMkZNTFFUTXpidVlSTFdnc0I5QTJnQi1IbjFFaGliT0Q1bTF1VU9NZUE0MkY4VTA3M3lVb0NRbkFVXzZRTkpILWZXb0VMWEswS1FadUswRk9faDhBZnMzbGQ0dmlXNzlobDVKT1JWcC1jS1pJRW1mV0tXX3M2cw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a4f95da49db7fa",
+      "title": "Owen Wijndal blijft tóch bij Ajax",
+      "category": "Overig",
+      "published": "2026-09-02T15:34:00+00:00",
+      "updated": "2026-09-02T16:01:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEp4UURPeGhxM0ZsX0x1OU44Y3lNVktqRGNWYzBwTU82dUZlai0zYWFHMjRWUHVtUEdKanc3QlMzTjFuaVllOGhfTzJvM1BpVWIwNExrUzM4SVdfUDRPc3l2bmdtMHRZVDBMLXZ4MFF2V1dGaUYyMHZ3SW5CRE1PNUhkcjMtWFZZS2NfclFCcDQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjAxYS0tR2VTbFVudWtrODVHVV91QkV2MEg5bFhFUlktRlRJeWQtTVhVNVlWY2E0NjNKVkpPdElrekxIZzdqQnN5Qk9Tek5rX0VodDdJZzJwSFpwOExfeHNMd1kzS0FPYkJ2OTlwVXVYanY1bVNyY0l4RTBtX3RWRHJMX3JNZXJ3Nm13VzZ6YjUta2NubmFHQk40WUc0bjE5azg0?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55960/Ajax-ontbindt-contract-en-zwaait-Wijndal-uit",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55963/Plottwist-Wijndal-blijft-toch-bij-Ajax",
           "via_google_news": false
         }
       ]
     },
     {
-      "id": "366f7cd1ad4552",
-      "title": "Bevestigd: Ajax huurt ook Leo Salazar",
+      "id": "13d59933bd3fdd",
+      "title": "Ajax bereikt akkoord in Spanje en presenteert vleugelaanvaller",
       "category": "Transfers",
-      "published": "2026-09-02T08:40:00+00:00",
-      "updated": "2026-09-02T15:16:00+00:00",
+      "published": "2026-09-02T15:56:00+00:00",
+      "updated": "2026-09-02T15:56:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55965/Bevestigd-Ajax-huurt-ook-Leo-Salazar",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "72afb969407f3a",
+      "title": "Ajax en RCD Espanyol bereiken akkoord over Leo Salazar - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T15:16:00+00:00",
+      "updated": "2026-09-02T15:46:05+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN1gyUFZpdzJ1TVJ0VUxTNXFWUUkydU93R2paTlVWZHhNVHNISFByRGVUeS1tNVE4THBUYml3cGZaUXQtTnB6VHhTWVEtRl9CVHNKQWhYLWc4eGJ6WUtsNXVSOVRuVHNtei1oY05TaUhoT25RTjVFTFUtSlN1OWRHeTZMdjVEMzRuN0JNdkRRRkFGcFU0ZEdqd2VwbzNKR2NH?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55965/Bevestigd-Ajax-huurt-ook-Leo-Salazar",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "a967d1009d9ccd",
+      "title": "Voetbalzone beoordeelt alle zomerse Ajax-transfers (tot nu toe)",
+      "category": "Transfers",
+      "published": "2026-09-02T13:45:00+00:00",
+      "updated": "2026-09-02T13:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3dmYklpNXhsMUtkM3FKeEpHRzBKSVZFQWQ2aXNETlFTT0FRY1A2enc0TTVNektKRzZDbVFSVUpNVEYteVk2al9xZDdsQ2wzS05wQUtiWGhsU3ItVTFjN01fbk1IazRveGQ1cmRFSHBoSGVrY2FzdWlyN2JsRkhvMWhOYV9zMWI2bXd4SjRzUndSMGpwNmptRWUySkp4eHQ2SnRfR1hLYkh1NjBhNEY2Q185azhWdw?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
     {
       "id": "16634265ba2c00",
-      "title": "Kehrer bespreekt invloed Cruijff en Ter Stegen op zijn keuze voor Ajax",
+      "title": "Ajax en AS Monaco bereiken akkoord over Thilo Kehrer - Ajax",
       "category": "Transfers",
-      "published": "2026-09-01T11:36:00+00:00",
-      "updated": "2026-09-02T09:59:22+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
+      "published": "2026-09-01T08:26:15+00:00",
+      "updated": "2026-09-02T10:21:29+00:00",
+      "source_count": 6,
+      "official_confirmation": true,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
-        "via_google_news": false
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGxHcVI2Wm96MEdoSmRBemp5b0RMZGVhQVp1cnFGc0k2TDJ1eHlLclg5MjMxTlIwUEk5YkR0VjdtQWZPelZIUWczVERMSWVzSTBXZVNJMlNOQmdOQWhDR0E0cElUTDl1QklycE1GUFptcVNGQ016OHhtVG9LQmdCNjJqbkpyakxBYk44MWh6a3A0WWlCbDcwM2ZmSXA?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
+          "name": "NOS",
+          "url": "https://nos.nl/l/2629351",
+          "via_google_news": false
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/kehrer-bespreekt-invloed-cruijff-en-ter-stegen-op-zijn-keuze-voor-ajax",
+          "via_google_news": false
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPazFqU01NTUxiMlVZRWlXX1pEVDY3Z2U1SzNBYzluMWVkSWdKbF9uUHU3U0ZSYlhUcW4tLVM0RWdxdEdkek9RNVVQSE5PRGdFZHhRT1N1bGNjNnNEWHp1MWhkVlpYVGxCNEFVWWtkMHo3N2xDelBrN1J4REk1aGR1eV9Ua2FYMzBZNkVYRm01NU1DUjc5UEpPbW1GNA?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55958/Monaco-doet-opnieuw-zaken-met-Ajax-en-verhuurt-Kehrer",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55961/Bevestigd-Kehrer-wordt-gehuurd-van-Monaco",
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "a45fa37152f7c6",
-      "title": "Cruijff sleutelt ook flink aan Jong Ajax en haalt weer een speler bij Atlético",
-      "category": "Jong Ajax",
-      "published": "2026-09-02T09:09:57+00:00",
-      "updated": "2026-09-02T09:09:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/cruijff-sleutelt-ook-flink-aan-jong-ajax-en-haalt-weer-een-speler-bij-atletico",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "877e8c40145efa",
-      "title": "Ajax bevestigt komst van ervaren verdediger Thilo Kehrer",
-      "category": "Selectie",
-      "published": "2026-09-02T09:09:56+00:00",
-      "updated": "2026-09-02T09:09:56+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239737/ajax-bevestigt-komst-thilo-kehrer-amsterdam",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2fc76812e91823",
-      "title": "Ajax heeft 'uiterst professionele' Kehrer binnen",
-      "category": "Overig",
-      "published": "2026-09-02T08:47:00+00:00",
-      "updated": "2026-09-02T08:47:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-heeft-uiterst-professionele-kehrer-binnen",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b0a8b82956fb2b",
-      "title": "PSV, Feyenoord, AZ, NEC, Ajax en FC Twente opgelet: ook UEFA-deadline nadert",
-      "category": "Wedstrijden",
-      "published": "2026-09-02T08:24:00+00:00",
-      "updated": "2026-09-02T08:24:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/dit-is-de-deadline-voor-het-inleveren-van-de-europese-selecties",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0e3e01fd36c595",
-      "title": "Spina komt definitief over van Atlético Madrid",
-      "category": "Transfers",
-      "published": "2026-09-02T06:53:00+00:00",
-      "updated": "2026-09-02T06:53:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55962/Spina-komt-definitief-over-van-Atl%C3%A9tico-Madrid",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7b9b9eef321c0b",
-      "title": "Real Betis pikt voormalig Ajax-doelwit Ceballos transfervrij op",
-      "category": "Transfers",
-      "published": "2026-09-02T04:45:26+00:00",
-      "updated": "2026-09-02T04:45:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/real-betis-pikt-voormalig-ajax-doelwit-ceballos-transfervrij-op",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fe40d587d0fb11",
-      "title": "Adingra geeft ja-woord aan Ajax, ook Kehrer onderweg",
-      "category": "Overig",
-      "published": "2026-09-01T16:05:00+00:00",
-      "updated": "2026-09-01T16:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/adingra-geeft-ja-woord-aan-ajax-ook-kehrer-onderweg",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f7af87f88f7f47",
-      "title": "Ajax: klantgegevens gestolen bij hack logistieke partner",
-      "category": "Transfers",
-      "published": "2026-09-01T15:27:24+00:00",
-      "updated": "2026-09-01T15:27:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239726/ajax-klantgegevens-gestolen-bij-hack-logistieke-partner",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5759231be29d91",
-      "title": "Na De Roon vertrekt ook Bakker bij opponent Ajax",
-      "category": "Transfers",
-      "published": "2026-09-01T12:13:00+00:00",
-      "updated": "2026-09-01T12:13:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55959/Na-De-Roon-vertrekt-ook-Bakker-bij-opponent-Ajax",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "24acaa7a63c1b6",
-      "title": "Ajax-fan wil afgepakte sjaal terug en wordt zwaar mishandeld, politie deelt beelden",
-      "category": "Club",
-      "published": "2026-09-01T06:27:00+00:00",
-      "updated": "2026-09-01T06:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239712/ajax-fan-wil-afgepakte-sjaal-terug-en-wordt-zwaar-mishandeld-politie-deelt-beelden",
-        "via_google_news": false
-      },
-      "related_sources": []
     }
   ]
 }
