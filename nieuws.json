@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T19:54:52.489242+00:00",
+    "generated_at": "2026-09-03T20:29:32.521244+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 127,
     "event_count": 40,
-    "discovered_event_count": 84,
+    "discovered_event_count": 85,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 25,
+    "excluded_video_only_count": 22,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8f83615b007c4f",
+      "title": "Vink ziet 'gekke dingen' bij Ajax: 'Maakte z'n debuut in CL, met alle respect...'",
+      "category": "Selectie",
+      "published": "2026-09-03T20:12:36+00:00",
+      "updated": "2026-09-03T20:12:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131451/vink-doet-opvallende-ajax-onthulling.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "50e39107f2f7d8",
+      "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
+      "category": "Selectie",
+      "published": "2026-09-03T20:09:09+00:00",
+      "updated": "2026-09-03T20:09:09+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "39161a62423ee5",
       "title": "Marciano Vink verbaasd over 'geval apart' bij Ajax: 'Dat is een beetje gek'",
@@ -29,25 +59,19 @@
       "related_sources": []
     },
     {
-      "id": "13d59933bd3fdd",
+      "id": "6a4b947b7349d4",
       "title": "El Ahmadi: 'Hij had aanbiedingen uit Spanje en Midden-Oosten, maar koos voor Ajax'",
       "category": "Transfers",
-      "published": "2026-09-02T15:56:00+00:00",
+      "published": "2026-09-03T19:28:06+00:00",
       "updated": "2026-09-03T19:28:06+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131436/amrabat-sloeg-meerdere-aanbiedingen-af-voor-ajax.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "39d94e0ae8df33",
@@ -86,17 +110,17 @@
       "related_sources": []
     },
     {
-      "id": "d6632962868687",
-      "title": "Cruijff beleefde 'pittige' transferzomer bij Ajax: 'Heb ze wel eens gek gemaakt'",
-      "category": "Transfers",
-      "published": "2026-09-03T18:14:21+00:00",
-      "updated": "2026-09-03T18:14:21+00:00",
+      "id": "a9abc89ed392d2",
+      "title": "Jordi Cruijff trekt harde conclusie over Ajax: ‘Dat kan eigenlijk niet’",
+      "category": "Overig",
+      "published": "2026-09-03T19:02:00+00:00",
+      "updated": "2026-09-03T19:02:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131413/cruijff-onthult-grote-ajax-ambitie-dat-is-het-dna-van-de-club.html",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTlkbVpqcVprSUMxVVBGREM5Mk9kM1lTVTlqUlRZdFVWeFBITnNGcng4STBodXpmLXJyc1c1ak1hQVp4Y21sTERKNlkwU2lrZWl1dVFGLXh2SUR5X21LSEV3X25tc2JTcmw4NWpocndVTS1yRHdyZGwxWXE0UEtyMDNTdnhjZU15OXFmcU8xWEpaWHN5QXNxZE04amtpTkY0dWlPc290VG5HLUxTcmhwM19WNEdrQ1lYQzJGV3NDbw?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -105,7 +129,7 @@
       "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
       "category": "Transfers",
       "published": "2026-09-02T16:10:00+00:00",
-      "updated": "2026-09-03T18:04:44+00:00",
+      "updated": "2026-09-03T18:47:15+00:00",
       "source_count": 4,
       "official_confirmation": true,
       "primary_source": {
@@ -130,6 +154,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "d6632962868687",
+      "title": "Cruijff beleefde 'pittige' transferzomer bij Ajax: 'Heb ze wel eens gek gemaakt'",
+      "category": "Transfers",
+      "published": "2026-09-03T18:14:21+00:00",
+      "updated": "2026-09-03T18:14:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131413/cruijff-onthult-grote-ajax-ambitie-dat-is-het-dna-van-de-club.html",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "63b799df9180ab",
@@ -288,19 +327,25 @@
       "related_sources": []
     },
     {
-      "id": "6cb1a2c24e7577",
+      "id": "94625c3c7eecb7",
       "title": "Cruijff kon niets doen tegen Ajax-vertrek: 'Je kan zo'n jongen niet afstoppen'",
       "category": "Transfers",
-      "published": "2026-09-03T14:06:00+00:00",
+      "published": "2026-09-03T12:33:00+00:00",
       "updated": "2026-09-03T14:06:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131317/cruijff-wilde-steur-en-godts-absoluut-niet-kwijtraken-bij-ajax.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDBabW5tdWVCOWg2RTY5M3l0aFE2VVoxSFhiN2pxWUxXQ1JYT21kYjFKTTBWZ081Z182UDN2ZUdKNXcxLUxBTklUTHgxVjVsRWFHWTJfcnoybGJJZVNzTlFyWmZqMWI4akh3ZmFjbGtRRGpNVDNrVUYtRUk2Smhrbk9ETlBVTl9oMW90aDhHQjZDVTRFbVJlcjR6aWlLZlBNSGI2UV9TQVc?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "9e110c04f07ff8",
@@ -460,32 +505,6 @@
       "related_sources": []
     },
     {
-      "id": "8d4e0b9379336b",
-      "title": "Ajax bevestigt: doorlopend contract van vleugelspeler per direct ontbonden",
-      "category": "Transfers",
-      "published": "2026-09-02T14:10:00+00:00",
-      "updated": "2026-09-03T12:33:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130904/ajax-verscheurt-contract-van-axel-dongen.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDBabW5tdWVCOWg2RTY5M3l0aFE2VVoxSFhiN2pxWUxXQ1JYT21kYjFKTTBWZ081Z182UDN2ZUdKNXcxLUxBTklUTHgxVjVsRWFHWTJfcnoybGJJZVNzTlFyWmZqMWI4akh3ZmFjbGtRRGpNVDNrVUYtRUk2Smhrbk9ETlBVTl9oMW90aDhHQjZDVTRFbVJlcjR6aWlLZlBNSGI2UV9TQVc?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVowMmFDT1dSZ3pJVzBNWVJGSElqVGcxTVp2aTQ1RDl0NHNRcjdvSlJSelVWcENiMHNzeHNWOF9JUndqdWVZdlQ5QmtjRG5XT1ZjRlI5d0tpWkhmNDQtZXp6bndQR0Nldk5xZm9uc2FDSFBmcjJtRFoxUWw5U3BkbDcxM2phbWQyWXVFaEw3R3puUFcwbHFHeExLWC1KcEc5MVliTVByMUVDVmp1NENUQV9SbXI4cWp1UXNJ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "2a78e23fe3cfcc",
       "title": "Cruijff blij met specifieke Ajax-deal: 'Weet niet waarom, misschien kinderachtig'",
       "category": "Transfers",
@@ -606,21 +625,6 @@
       "related_sources": []
     },
     {
-      "id": "5ce734f110a654",
-      "title": "Verweij onthult 'trucje' van Cruijff bij Ajax en heeft nieuws: 'PSV wilde hem ook'",
-      "category": "Club",
-      "published": "2026-09-03T07:12:17+00:00",
-      "updated": "2026-09-03T07:12:17+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130168/verweij-onthult-trucje-jordi-cruijff-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "138aba94b7df75",
       "title": "'Ajax en Cruijff nemen flinke risico's: bedrijfsmodel van club staat onder druk'",
       "category": "Club",
@@ -662,21 +666,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131036/ajax-gewaarschuwd-voor-feyenoord-scenario-alles-op-rood.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f367a42d1c1714",
-      "title": "Jordi Cruijff oogst lof: 'Dit is nog nooit gebeurd in de geschiedenis van Ajax'",
-      "category": "Overig",
-      "published": "2026-09-03T05:25:00+00:00",
-      "updated": "2026-09-03T05:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc080d1o2ZDZrTklSb2pqTTlkQlA4TjRpM0ZDY2M1cmhMWWljdnZWeDZRM19ELXIyQV9wdTIybEJ5S1UtZzFCSTgtU3czQXNJTWtxTnA4QTBFU0h6TW1yc2dlMzhUZHF1MlBZckZURjV4MkpJQmNwVzhicVVHbmt5TlZkOVhzeE50aVNOd01LS3BodzlGNkUzR0oxaVZBQ3ZNNnk3Z0JrTUV0aS1zNEpUMzBVOFNodw?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
