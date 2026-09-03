@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T18:34:18.664423+00:00",
+    "generated_at": "2026-09-03T18:56:46.820106+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 124,
+    "article_count": 126,
     "event_count": 40,
-    "discovered_event_count": 81,
+    "discovered_event_count": 82,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
@@ -58,6 +58,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "63b799df9180ab",
+      "title": "Stadionverboden - Ajax.nl - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-03T17:44:17+00:00",
+      "updated": "2026-09-03T17:44:17+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54OE84MzhuT1JmbFpWTFRyLVBhMVJZaWRIZ3ppNjRFQVY3NFVKNER1a1RDdXFIRloxWkxoc2FfejlOLUp4ZzJwSXhIbGVnQkdWMDVJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "9717a5503f3435",
@@ -672,21 +687,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnB2S0ZLSGt0LUdobmFKR2xuNjZpTk5yWm9ENmdnVV9nMkpxRWJTcjZLWjlnLWhxZXF5blBOQzlpRXVlSUNUWGZzVmYzeGs4UFl1MHVhQ1NIaFJPckV3eXBYdmo1MjRoYVFNak1yNVJyeUdSOWowMVhXUGl3UEdyWXBVUm5idk1yS3k4MElQY3JvQVYzSlR3ZVNyVndUMGx4dmoxSjBUWndmZ3Mx?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "41e2bdb6f683c3",
-      "title": "Bij Ajax aangeboden Leon Bailey verlaat Villa en voegt nieuw land toe aan zijn cv",
-      "category": "Transfers",
-      "published": "2026-09-02T22:40:38+00:00",
-      "updated": "2026-09-02T22:40:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131007/bailey-verlaat-aston-villa-voor-olympiakos.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
