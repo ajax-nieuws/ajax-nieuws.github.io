@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T21:54:58.794791+00:00",
+    "generated_at": "2026-09-03T22:28:29.455416+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 127,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 87,
+    "discovered_event_count": 90,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 23,
+    "excluded_video_only_count": 24,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "bef24857b8d213",
+      "title": "Cruijff: 'Als iemand geen kansen mist, dan staat hij nooit op de juiste plek'",
+      "category": "Overig",
+      "published": "2026-09-03T22:17:03+00:00",
+      "updated": "2026-09-03T22:17:03+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131480/cruijff-steunt-leonardo-na-moeilijk-begin-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "50e39107f2f7d8",
       "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
@@ -109,7 +124,7 @@
       "category": "Transfers",
       "published": "2026-09-02T16:10:00+00:00",
       "updated": "2026-09-03T18:47:15+00:00",
-      "source_count": 4,
+      "source_count": 5,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -130,6 +145,11 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
           "via_google_news": true
         }
       ]
@@ -376,21 +396,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "a76f3debaaef94",
-      "title": "Cruijff verliest Ajax-jeugd niet uit het oog: 'Hebben het juiste leiderschap naast zich nodig'",
-      "category": "Wedstrijden",
-      "published": "2026-09-03T13:45:00+00:00",
-      "updated": "2026-09-03T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWpYYnF5NXYzeWNMYWlydEh0bEIzaUtzNnp1WjBKanhTeVNCQmtBVzdHVklxa1dUOEZHWjJPRzhvakZkd0N3b25DNEtnVDVyQzB3cWtYU0d3NWRVRXBaNzVJWlRSWmRHS2IzOF9sLVkzekdOa3ItMWJZQnp0ZFNLNnMtMlh4Ym00R3VxVGxtMTV0WUNlbFZsV1A4RXRpeEhFbmo4N0ktc1U5WnU4dnVOeTRnYW94OEo4bGVkTUVtd1JTU2paLVhuWXJCRXk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "1c45dfcbb9ea85",
