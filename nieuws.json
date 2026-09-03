@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T11:28:51.029371+00:00",
+    "generated_at": "2026-09-03T11:55:30.042968+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 127,
+    "article_count": 125,
     "event_count": 40,
-    "discovered_event_count": 80,
+    "discovered_event_count": 79,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 22,
+    "excluded_video_only_count": 21,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "6df570a7047906",
+      "title": "Rondom Ajax: Míchel staat vrijdagmiddag pers te woord in aanloop naar Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-03T11:35:00+00:00",
+      "updated": "2026-09-03T11:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFMRlkwcnp4ZUE1R09yazRIMF91d2wwZjlodjVUblZUUUp3NHJDbFNnZ0VnQTdUUXlaSHN4bm02VkJXUjJ1YmxQYm41dzdPTDgwcTMzV3NWNHBGNU9tVnNadDZ3LXBoR1AyME1Cdld3bjJUbkhvYnBmaTNQVVFkU2lONEp2WFlPSVRwdEpvQWprUFBqZHVmS3RLNld6bWEwbDZwenBzVmZWSWtuVmpxb09Ick5FMWw1WEJLYU1FaWhUVWJBdTJr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "0942ef67e261ff",
       "title": "Eerste topper in de Eredivisie: Ajax treft PSV!",
@@ -32,8 +47,8 @@
       "id": "c1a9bda832359b",
       "title": "Kijk vrijdagmiddag naar de persconferentie met Míchel Sánchez - Ajax",
       "category": "Overig",
-      "published": "2026-09-03T08:34:52+00:00",
-      "updated": "2026-09-03T08:34:52+00:00",
+      "published": "2026-09-03T08:35:07+00:00",
+      "updated": "2026-09-03T08:35:07+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
@@ -334,19 +349,25 @@
       ]
     },
     {
-      "id": "41e2bdb6f683c3",
+      "id": "e23c82864cf06e",
       "title": "Bij Ajax aangeboden Leon Bailey verlaat Villa en voegt nieuw land toe aan zijn cv",
       "category": "Transfers",
-      "published": "2026-09-02T22:40:38+00:00",
+      "published": "2026-09-02T13:23:00+00:00",
       "updated": "2026-09-02T22:40:38+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131007/bailey-verlaat-aston-villa-voor-olympiakos.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWmtpUzBiYS14S1hHQ2NJMFJSOVpoM1o3cHpnQ19zRWV6TWdRMGpfMGROWFc4bmJaSnJLODY4RDN0dVhwQWhMckVKWDhHVnFiUUkzWUU4aDQyRm4wQlRLVjMyd1V5NVBwNVFMRDZkaXFKV2NXYV9rd0NJaVZDTWNvSU9SS2xYcDh6XzFSbTVmdVJMeElWVnAxUTJ4QldrMThIamw0bW50b3p4QTdvWThHckVteDVScXpHZFo2SlR4Y0RjNmprYVcxa0hDdTc?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "1060919e712eec",
@@ -458,6 +479,21 @@
       "related_sources": []
     },
     {
+      "id": "40af1abca99c26",
+      "title": "PSV en Ajax Vrouwen dalen af in Europa, Feyenoord Vrouwen wél succesvol",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-02T20:39:58+00:00",
+      "updated": "2026-09-02T20:39:58+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BX1dJdWZTT0hmOTNCblpLYXhNbktIVFVCbjZta3JHMmx3ejlPaWFxSVpSdUZrMXV3OWUySTVSN0o3QWdUdmN6bHFGNV9QbEFIMGJMUG11R2hZVzBUdDE0aHYtS21iZ2R2WENmTGd3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "33538692f8bd8f",
       "title": "'Ajax-opponent Hajduk Split haalt 32-voudig Rode Duivel naar Kroatië'",
       "category": "Transfers",
@@ -507,21 +543,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "5f036a3414c184",
-      "title": "PSV en Ajax Vrouwen dalen af in Europa, Feyenoord Vrouwen wél succesvol",
-      "category": "Ajax Vrouwen",
-      "published": "2026-09-02T20:26:06+00:00",
-      "updated": "2026-09-02T20:26:06+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTJfWXdvYzRkY0FrSnYxMWZfWmxWanYtdGZRVWRZNW9pRmtDVzRoTnZIbEhzM3g2ZEdzSmJCOXRLRVpYcnVERk1OS0xpTGNMeE5Udk9qUkV5SzhOWWhEWl9KN1p0S1N3MU00MGdOSGgteGVWWlRtUmo4akx2NWZGSXVrbElPQVB1bUJ4ME8yVXpxYUVCbU50ZDJ3RURyU0xoSmd1NlgzNGIxaUpweHRhWDZNQmphNjlfU0VDeg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "68c637c4ac3572",
@@ -656,7 +677,7 @@
     },
     {
       "id": "6a7fe7e28dac70",
-      "title": "'Farioli en Porto kloppen tóch weer aan bij Ajax'",
+      "title": "'Farioli klopt tóch weer aan bij Ajax'",
       "category": "Overig",
       "published": "2026-09-02T17:28:45+00:00",
       "updated": "2026-09-02T17:28:45+00:00",
@@ -750,21 +771,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "4e51457c09d47b",
-      "title": "Ajax heeft met Adingra vervanger van Godts binnen",
-      "category": "Overig",
-      "published": "2026-09-02T16:13:29+00:00",
-      "updated": "2026-09-02T16:13:29+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-heeft-met-adingra-vervanger-van-godts-binnen",
-        "via_google_news": false
-      },
-      "related_sources": []
     }
   ]
 }
