@@ -1,18 +1,59 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T19:25:31.640594+00:00",
+    "generated_at": "2026-09-04T19:55:10.646107+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 112,
+    "article_count": 110,
     "event_count": 40,
-    "discovered_event_count": 87,
+    "discovered_event_count": 84,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 38,
+    "excluded_video_only_count": 42,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "7ea45f612347c1",
+      "title": "'In de Topper tussen Ajax en PSV ligt de druk bij hen, zij moeten kampioen worden'",
+      "category": "Overig",
+      "published": "2026-09-04T19:26:37+00:00",
+      "updated": "2026-09-04T19:26:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131852/kieft-legt-druk-bij-ajax-voor-topper-tegen-psv.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c52cf26b3f4c4b",
+      "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
+      "category": "Selectie",
+      "published": "2026-09-04T12:56:16+00:00",
+      "updated": "2026-09-04T19:01:10+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/regeer-speelt-open-kaart-ik-was-niet-gelukkig-bij-ajax",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjVZVVRvNG9GVHhFb1JCMTZBWG9vbkFPVW1fOW9VVnFZUkVwNGpYODdyaWtQb2hLdUE2XzI2OHk5aFZ2dmd2SGFfZ0MxNkdadXR0MFlwV0hvczQ4YnlWcnpYLW8zblc3cVdGYURQVzVlUVVxeWxoWkxhZTRzYkxtSllObndIaVNsQ1hLN05PUGZicDhNNjhZSUtEN3BqTmVrLUJZREVHUndxaW5nbTJQT2F3?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2131699/was-totaal-niet-gelukkig-bij-ajax-er-is-anderhalf-jaar-lang-over-me-geschreven.html",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "79c6351b24ab9e",
       "title": "Vermoedelijke opstelling Ajax: Míchel maakt beslissingen over Amrabat en Kehrer",
@@ -60,6 +101,21 @@
       "related_sources": []
     },
     {
+      "id": "d748f928c18f80",
+      "title": "Míchel Sánchez blikt vooruit op PSV: \"Zaterdag zal een mooie test zijn\" - Ajax",
+      "category": "Overig",
+      "published": "2026-09-04T17:14:58+00:00",
+      "updated": "2026-09-04T17:14:58+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1NrSGJvRkw3czNYM2l3X3REYmxPYlpzRXhHd3dnQXdpT0hLZ0NHemNFZ3VHR0pNdk85QjJaZEx4SmxHNnByN0wwV1RyNkhmSEJMRGlTc1JGcWRFdjdJbEcwV3ZXbmswY1VFVEJXejRVV0lhSjRFZ2wxNWVTVWVMc2RRMG5ObEZ4NnVGZU5WMWYtTzl4b3RvQXNuSk8?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "75d113e8b90842",
       "title": "Verweij doet Wijndal-onthulling: 'Er was een grotere club die hem wilde hebben'",
       "category": "Overig",
@@ -73,32 +129,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "c52cf26b3f4c4b",
-      "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
-      "category": "Selectie",
-      "published": "2026-09-04T12:56:16+00:00",
-      "updated": "2026-09-04T17:06:16+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/regeer-speelt-open-kaart-ik-was-niet-gelukkig-bij-ajax",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjVZVVRvNG9GVHhFb1JCMTZBWG9vbkFPVW1fOW9VVnFZUkVwNGpYODdyaWtQb2hLdUE2XzI2OHk5aFZ2dmd2SGFfZ0MxNkdadXR0MFlwV0hvczQ4YnlWcnpYLW8zblc3cVdGYURQVzVlUVVxeWxoWkxhZTRzYkxtSllObndIaVNsQ1hLN05PUGZicDhNNjhZSUtEN3BqTmVrLUJZREVHUndxaW5nbTJQT2F3?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2131699/was-totaal-niet-gelukkig-bij-ajax-er-is-anderhalf-jaar-lang-over-me-geschreven.html",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "7251c8db5cbc3a",
@@ -161,8 +191,8 @@
       "related_sources": []
     },
     {
-      "id": "0924fc7b3b7fd0",
-      "title": "Bosz wist dat Cruijff veel ging veranderen bij Ajax: 'Dat moest ook wel'",
+      "id": "687ec82034036b",
+      "title": "Bosz geniet van voetbalintelligentie en techniek van Ajacied: 'Belangrijke kenmerken'",
       "category": "Overig",
       "published": "2026-09-04T16:10:00+00:00",
       "updated": "2026-09-04T16:10:00+00:00",
@@ -170,7 +200,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXpDczJzSnZMUURpR1VyZVNoOVBXRzYyQllzbkF5QTZURFdWeXptcVlOSDIzSG1PTThrUU1fRzhRcWZjenJzMWtVOHJ1OVpfcDRwZlVIQm85dUJGczM0dFZocHM4M3FBZGVPM1ZDNkVIUmZER3V2X19nMlE3eXU5RnRCaXdBbmpJeTlCbkdEWjgwa1h6UXd2ZDZYcUstWnpZV3Nmd3B4YlJtVF96U2c2cFhB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzRhUHRPOVVXVGRTSXRmc0tXNkpNdDR6WHFjQ0VlWkY3cEQ4YWZ4c1dROS1MeUJPcmdYR1RPdzRJRWJpYW9HVXVHYk9Qamx2MGlNSHM0OW1yTHdIQXBKM193U1hTWDdxX3M1ellnMEcyODFLNlVvcU85Zm43SzRMYUswQzBTZXBpT0FVbkhpdEdVM3RZelN4NkFxQzNrYVBXSzJsOE5nRFJxaHhIbmRqaDJNak83YjNGeWFMeWsxeHYzUWM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -251,7 +281,7 @@
       "related_sources": []
     },
     {
-      "id": "dcb56cfa243ca1",
+      "id": "b586b602f979c4",
       "title": "Ajax Tapes | The Project - Ajax",
       "category": "Overig",
       "published": "2026-09-04T14:59:57+00:00",
@@ -260,7 +290,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdUNtTER1QXNrR3JacUFOaHlyTmhPNGxkVjcxUkJUdmFQa3ZLMUpjVDU4X3R2Y1pHTFV0OWpuY2d0Z2s2WklSZGprTEFMQUZ2eGNZQ29reXFwSnJpUmNOaUxn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMjJqWk5idG9BZmRNN2gxV3hHd2ZMZkZsQXdnYWZaRUhTckkyMnhnSU5IWm13bTlDTktSQlV0dlJyb2NnQnZYZVk3MFFHc3dwc19MUW9pS05WbGlYUEx1SEgyZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -401,21 +431,6 @@
       "related_sources": []
     },
     {
-      "id": "d748f928c18f80",
-      "title": "Míchel Sánchez blikt vooruit op PSV: \"Morgen zal een mooie test zijn\" - Ajax",
-      "category": "Overig",
-      "published": "2026-09-04T13:30:28+00:00",
-      "updated": "2026-09-04T13:30:28+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1NrSGJvRkw3czNYM2l3X3REYmxPYlpzRXhHd3dnQXdpT0hLZ0NHemNFZ3VHR0pNdk85QjJaZEx4SmxHNnByN0wwV1RyNkhmSEJMRGlTc1JGcWRFdjdJbEcwV3ZXbmswY1VFVEJXejRVV0lhSjRFZ2wxNWVTVWVMc2RRMG5ObEZ4NnVGZU5WMWYtTzl4b3RvQXNuSk8?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "b81100ecae028b",
       "title": "Míchel geeft update over Blind en rekent voorlopig nog niet op Adingra",
       "category": "Overig",
@@ -427,6 +442,21 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/michel-geeft-update-over-blind-en-rekent-voorlopig-nog-niet-op-adingra",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6a0e26f95943fd",
+      "title": "Míchel tevreden met transferperiode Ajax: 'Middenvelder erbij zou fijn geweest zijn'",
+      "category": "Transfers",
+      "published": "2026-09-04T13:20:00+00:00",
+      "updated": "2026-09-04T13:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVVJZVWRGNk5xZEhJemZhQjJpR3Vqb1FGZFd1Um1maFNzdmNXWmlJYjhwM3RTc1V4ZVhLSHVTUllsNHVmTHNDVk1qdXlOdnpXZlhsdzlLV21ENE5tMkdfT0pMM3MtMU93OE5oVkQtcXhsc1VUZ0M2X01WNGV4M1hlZ3gwMTdNR2J2UUdON2RrR2dVcTFYOGwzNTlOajY4RHJkRXN3N0paRUNHazhPNTlPcWlHWW56SVJvX2NxcDRNUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -607,42 +637,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1321cc9fc2df7b",
-      "title": "Ajax-directeur Cruijff vindt niet dat hij veel risico's heeft genomen op transfermarkt - NU",
-      "category": "Transfers",
-      "published": "2026-09-03T14:11:00+00:00",
-      "updated": "2026-09-04T08:34:13+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZTQxb2s3UTI0NEVJcmRGQXIwdG11WlZTdEtIN1BFVFpxRlpJb29wZzVDbE1UWnMtNy02ZUxpRXpsUWNVVWNnSlNJMGljZE12aEJidnNrSUxpdDhuLWVBSER1X21UUndqWmJwMEJxRDZ6WGU2VllHcWRIcGtXRFFKclpIUWhkeVoxWUU1eGxkbGs3RnMtc2FXcW1uQ0sxYkxqSTROQTFtY1M3WDFDdm8zQTEtWmZNbDhJdUk0bnltbFBMQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55971/Cruijff-ontkent-risico%27s-te-hebben-genomen-met-transfers",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "635537820f4728",
-      "title": "Oud-Ajacied Flemming opgelucht: ‘Stel je voor dat je na al die hectiek terug naar Burnley moest’",
-      "category": "Overig",
-      "published": "2026-09-04T07:55:00+00:00",
-      "updated": "2026-09-04T07:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUxDUlQ1Y3N2ZC1kOUpESGRwbE5fTFFTSVFnQ1JtM1dJSnF6aU04WWYtS0hGLUwtcWZwNksycWhaU0lFYlI4bWZtQmJBbUEzcFJVSDNsZ2NndmYwci03cmNkejhoOXVpeWwtMjFyWHExdWtFYmFXZmZ5NndjNEhVWDM1M0NLbGNUSUc3djN6VUpHbzlFeC01blJSVWFKTFBoRUNiVFZnd2dnLWprTF9nTS1MUS1nLWw1QkFyYWxBRzlZcS1xZ05LTUZ4U0s0NVEzclE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
