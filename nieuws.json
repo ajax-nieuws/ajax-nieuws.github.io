@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T08:56:47.636857+00:00",
+    "generated_at": "2026-09-04T09:30:52.496703+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 127,
+    "article_count": 121,
     "event_count": 40,
-    "discovered_event_count": 85,
-    "source_count": 12,
+    "discovered_event_count": 78,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 82,
+    "excluded_paywall_count": 81,
     "excluded_video_only_count": 28,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "50e39107f2f7d8",
+      "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
+      "category": "Selectie",
+      "published": "2026-09-04T09:09:11+00:00",
+      "updated": "2026-09-04T09:09:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "1321cc9fc2df7b",
       "title": "Ajax-directeur Cruijff vindt niet dat hij veel risico's heeft genomen op transfermarkt - NU",
@@ -247,25 +262,10 @@
       "related_sources": []
     },
     {
-      "id": "50e39107f2f7d8",
-      "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
-      "category": "Selectie",
-      "published": "2026-09-03T20:42:36+00:00",
-      "updated": "2026-09-03T20:42:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0c9874a4380136",
+      "id": "de261a6d6794f7",
       "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
       "category": "Transfers",
-      "published": "2026-09-03T05:42:00+00:00",
+      "published": "2026-09-02T16:10:00+00:00",
       "updated": "2026-09-03T20:26:12+00:00",
       "source_count": 5,
       "official_confirmation": true,
@@ -286,13 +286,13 @@
           "via_google_news": true
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
           "via_google_news": true
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkt6OE1XcVpKbFpZLTRPMUxsc2ZJeVlfNHdCTldMV2Z3OWxfekFxWi1nOXlJS1dkbG1xSlVta013WDdYN3hGcGxGaHVKcUx0MWJoWTNCdWRLNEd5Y3dzSTNSZ0ZlaTZqM2xoSi1mSEF3TVRVQUxiMmVJckh3M3ZaTUo2QUk5VnItSVpEa3NOVi1fZHRHb1ZlWHRlWGJVRjIyYjdEX3N6UEZ3bUY1ZWtYcTltTUlhNWdPNEZDcnJWZEhucXpBeW5zQ2l6U1M?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
           "via_google_news": true
         }
       ]
