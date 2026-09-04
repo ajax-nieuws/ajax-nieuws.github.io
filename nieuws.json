@@ -1,18 +1,54 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T07:56:42.039637+00:00",
+    "generated_at": "2026-09-04T08:32:08.097341+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 90,
+    "discovered_event_count": 89,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 83,
-    "excluded_video_only_count": 27,
+    "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "f5cff510bab711",
+      "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-03T05:42:00+00:00",
+      "updated": "2026-09-04T07:55:00+00:00",
+      "source_count": 6,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZllIdGRKMlR5UzdVckQ2REY3THlNNTUxYTlpa1Y1U01RVW1wUVBtN1JINEJvWWQ4OE52cjZCMG9pZVpEQjBWaEhmMFBmZGVXdDZCVExfVUZvSDhkT1dYdE0wQWpiX2wyWUszTE5sdGg1YlFiUnd4MnZBeEV5ZDB1Nl9HM2tBeTh1eHZPeWJvT3djaFppRlFwczliUXh4UQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFZmT2pvbFF0cFlzelRLS2R6cTNFb20zbUJtM1NOQnQzWU1jRWMyd2VBX3pIaENQS0M4NGdTWUZSVHFuTU5ZWl8tMEN3elJjbmtOdDlZVzFQSjRrSFhWcjh4a3lJWHU2bk8tZnR0QXNfYTctZE5sZkhvUHpaWVp1ZkJEUkJpOWZlYnlLTDRfU0NyeWtFNVhPcFo4OE1icjd2X2c0X0R3MXdmWnJQN2R4OXA4WFhxbmhYbXEyZzN0ZE55cWdoa1NMZUtHZWwwTk9qeTVR?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
+          "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHNuY3gzNzhwUlk2NTIxbHRqSDdBeTJmWUxOc1lreDNWcV9jLVNtelpLSDhNYVVNckhILXhqSThpT3VXUmREcXh4WGczNURwQVlRQzZzb3hGYnFxdFFxbndTQVc2YktPWGZ6Q0gwdkdQTzhBbDI3bkowTk80QVdKdDN4endfd01JTFlybnhfV3JQeVFldkpEZGF6eVRFdTEzeDdNQXZVLXc4RFgwTVNuRjAyMkU0Tm1JZHNrWVhNaEtnajU1MHVMNkRKZW40TE0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "8483aa619c4759",
       "title": "VI Discussie: wie is de winnaar van de transferperiode in de Eredivisie?",
@@ -204,42 +240,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "0c9874a4380136",
-      "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
-      "category": "Transfers",
-      "published": "2026-09-03T05:42:00+00:00",
-      "updated": "2026-09-03T20:26:12+00:00",
-      "source_count": 5,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZllIdGRKMlR5UzdVckQ2REY3THlNNTUxYTlpa1Y1U01RVW1wUVBtN1JINEJvWWQ4OE52cjZCMG9pZVpEQjBWaEhmMFBmZGVXdDZCVExfVUZvSDhkT1dYdE0wQWpiX2wyWUszTE5sdGg1YlFiUnd4MnZBeEV5ZDB1Nl9HM2tBeTh1eHZPeWJvT3djaFppRlFwczliUXh4UQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
-          "via_google_news": false
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHNuY3gzNzhwUlk2NTIxbHRqSDdBeTJmWUxOc1lreDNWcV9jLVNtelpLSDhNYVVNckhILXhqSThpT3VXUmREcXh4WGczNURwQVlRQzZzb3hGYnFxdFFxbndTQVc2YktPWGZ6Q0gwdkdQTzhBbDI3bkowTk80QVdKdDN4endfd01JTFlybnhfV3JQeVFldkpEZGF6eVRFdTEzeDdNQXZVLXc4RFgwTVNuRjAyMkU0Tm1JZHNrWVhNaEtnajU1MHVMNkRKZW40TE0?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkt6OE1XcVpKbFpZLTRPMUxsc2ZJeVlfNHdCTldMV2Z3OWxfekFxWi1nOXlJS1dkbG1xSlVta013WDdYN3hGcGxGaHVKcUx0MWJoWTNCdWRLNEd5Y3dzSTNSZ0ZlaTZqM2xoSi1mSEF3TVRVQUxiMmVJckh3M3ZaTUo2QUk5VnItSVpEa3NOVi1fZHRHb1ZlWHRlWGJVRjIyYjdEX3N6UEZ3bUY1ZWtYcTltTUlhNWdPNEZDcnJWZEhucXpBeW5zQ2l6U1M?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "881afd1f7fe802",
