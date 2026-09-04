@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T15:30:45.612892+00:00",
+    "generated_at": "2026-09-04T15:55:33.557869+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 129,
+    "article_count": 126,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 93,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 102,
+    "excluded_paywall_count": 103,
     "excluded_video_only_count": 38,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "9db6c2261ceb19",
+      "title": "Bewierookte Julian Brandt kwetsbaar in interview: \"Ik ben geen god\"",
+      "category": "Overig",
+      "published": "2026-09-04T15:53:00+00:00",
+      "updated": "2026-09-04T15:53:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131781/julian-brandt-tempert-verwachtingen-bij-ajax-over-leidersrol.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "d2a7ca3a330049",
       "title": "Jordi Cruijff ziet iets bijzonders gebeuren bij Ajax: ‘Niemand ziet dat, niemand weet dat’",
@@ -335,6 +350,21 @@
       "related_sources": []
     },
     {
+      "id": "901944d12c1885",
+      "title": "Marciano Vink slaat de plank volledig mis met bewering over Ajax-talent Pharell Nash",
+      "category": "Overig",
+      "published": "2026-09-04T12:17:00+00:00",
+      "updated": "2026-09-04T12:17:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSXRxR3N3ZHBueV81dlFEbkZMWDZzSjN6VkxZalUwZFBqS3plbVFYdkdJY3pKWjhPbkkyZ1RCbGlYQUNwVmJNcE5xUVIwUy1wZFpQZHRDLWIxZmRpWloxbEptbzZNMWJqQjFBdEpiRnpZakRtcjdLcy13V0tTOGZ0Wi1BcEZrYUVOM3l2dWJHV1NlVWh5dmFRbWVlcWdmeWVvSWpPWkdyS0hvSFJlM2xodExBNXRPMjU3QzJfODBwTndQcTd2b3d0TmNJbFRHa3pKMk1JRA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "e71498f42b8bda",
       "title": "Ajax-fans ongerust door ontbreken Mokio op inschrijflijst Conference League: dit is hoe het zit",
       "category": "Wedstrijden",
@@ -361,6 +391,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131627/world-soccer-magazine-analyseert-slangenkuil-ajax-en-aanpak-jordi-cruijff.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b2823447cbcc7a",
+      "title": "Brandt voelt zich helemaal op zijn gemak bij Ajax: 'Denk dat seizoen pas nu echt begint'",
+      "category": "Overig",
+      "published": "2026-09-04T11:50:00+00:00",
+      "updated": "2026-09-04T11:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEpQOWktMzB3UXpadUt0a3AwVUpaZHZPdDd3ZHM3TkIxTDNRRnVKVWU2cHRqN2ltRUFaSWplU0diS3BudFA4QXlxVWZBSVNMLXBpbXZ6NVJvck0wZG1MbVo2eGtpY09zVnVTY01NbVN6R2xETVlITmw5ckE0b2dEay10djRCaG1ZWXk5NFhJYjdMS2U1MnBJUGZGaC14UnJDRnlvNFlSZWtGVlNmdTE4ZFZlNW4wNFVkV1ItZElXblBtaGdI?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -430,7 +475,7 @@
       "category": "Transfers",
       "published": "2026-09-02T16:10:00+00:00",
       "updated": "2026-09-04T08:34:13+00:00",
-      "source_count": 10,
+      "source_count": 9,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -608,51 +653,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bef24857b8d213",
-      "title": "Cruijff: 'Als iemand geen kansen mist, dan staat hij nooit op de juiste plek'",
-      "category": "Overig",
-      "published": "2026-09-03T22:17:03+00:00",
-      "updated": "2026-09-03T22:17:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131480/cruijff-steunt-leonardo-na-moeilijk-begin-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8e974345ef53ea",
-      "title": "Vink onthult opvallend Ajax-beleid: 'Er werd enorm gepusht om jeugdspelers te gebruiken'",
-      "category": "Club",
-      "published": "2026-09-03T20:50:00+00:00",
-      "updated": "2026-09-03T20:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMTFta1JINDB1X3FxQ0o3akJ1ZG9CNVhYY1NJVDNvWU8ydm5YR0xUNWJrYXpDN2ZYQjVWMV9KVGZ0czMzckRvYndqZDJfSFRqRndnWFl3ZXE3SDhUWExBRVJmVjloY2M1M1BiZTRGNjhlZ1pON2gwMkttMVctN3V2QjNHTnM4cFZ5aDlrUFhYSTU4YUlnSWlBRGFzQXpOak9KQm50U1N2TDVDMWMtbXRnX0JTYkJ0c3MzM0V4eW9n?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "881afd1f7fe802",
-      "title": "Jordi Cruijff staat pal achter Ajax-spits Marcos Leonardo: 'Garantie op goals in de Eredivisie'",
-      "category": "Selectie",
-      "published": "2026-09-03T20:13:00+00:00",
-      "updated": "2026-09-03T20:13:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnZhUWlkY2R4MVZZZ0tNZV9GTFByb1dqWlVMNDF1aGtqM3BOaWJRMzZBUUowOEV4WE5NMDhRZkJBUjBKMjBzU0VzWEJuQzJoREcwYm1MRlFQcUc5LWFPTnZEZGhXbjJwVlZiWjFxWVdSZHktRDJQR1hiMjRzN0NZcVNDZFoyel90NUtuLUd6S3NsZU41MFhfQnhWQXFteUdNdnhucG13SGxyaXl0cGF1a1BhelVjLVdKRVgxSzVGT2VubnJqZmk5cm13VEV3aS1fQkZsU1RtclhEYW9vUDFz?oc=5",
         "via_google_news": true
       },
       "related_sources": []
