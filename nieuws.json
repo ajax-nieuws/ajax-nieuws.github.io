@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T14:56:38.359610+00:00",
+    "generated_at": "2026-09-04T15:30:45.612892+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 127,
+    "article_count": 129,
     "event_count": 40,
-    "discovered_event_count": 88,
-    "source_count": 11,
+    "discovered_event_count": 91,
+    "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 36,
+    "excluded_video_only_count": 38,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d2a7ca3a330049",
+      "title": "Jordi Cruijff ziet iets bijzonders gebeuren bij Ajax: ‘Niemand ziet dat, niemand weet dat’",
+      "category": "Overig",
+      "published": "2026-09-04T15:15:20+00:00",
+      "updated": "2026-09-04T15:15:20+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYjNKZEczVjktbDJjYTNYcXNheVliSEpGRjY1SUpORFRDcncxa1RQTTBKUkpBX2FrVklDbHVBbEsteGR3T3h6c2Y4UHE2Y3NVSHI5djZqOTg4algzQnMzTE9pMVdydWRyZWZIMFpFN1cxMHlEVS1sTGh4TmpYOE1BSk42REwxcGtScDBOT0xB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d5feec10660c3a",
+      "title": "Míchel Sánchez maakt zich klaar voor kraker tegen PSV: \"Bidden, rusten en met familie bellen\"",
+      "category": "Blessures",
+      "published": "2026-09-04T15:15:00+00:00",
+      "updated": "2026-09-04T15:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239768/michel-sanchez-maakt-zich-klaar-voor-kraker-tegen-psv-bidden-rusten-en-met-familie-bellen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b586b602f979c4",
+      "title": "Ajax Tapes | The Project - Ajax",
+      "category": "Overig",
+      "published": "2026-09-04T15:00:24+00:00",
+      "updated": "2026-09-04T15:00:24+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMjJqWk5idG9BZmRNN2gxV3hHd2ZMZkZsQXdnYWZaRUhTckkyMnhnSU5IWm13bTlDTktSQlV0dlJyb2NnQnZYZVk3MFFHc3dwc19MUW9pS05WbGlYUEx1SEgyZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "9782b75cea45d1",
       "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
@@ -29,6 +74,21 @@
       "related_sources": []
     },
     {
+      "id": "f6e4e910f5be4a",
+      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
+      "category": "Overig",
+      "published": "2026-09-04T14:26:15+00:00",
+      "updated": "2026-09-04T14:26:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVGdFBldEswSWl4X0xDOXQ5VERnZU1FVzlHVE5fYTB4U1RDQlVpM3g1WVRfVGVRRFUyNkdseDV4QzdYaWRTaHhwa3NiRUNqNncwRWVvSUptQklxdVlWRWpraVpHNlI5Sjc2c1VhUlZpcGNWWXNLLU51TExvTjR1SlFxM2dNT2s1NEJzRjMzTkRCQ2tacTN2WXBHaGNwSng0TUhlT2lTSW93QlFVdnBMNWVIV24xUXVfNGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "7dacc2e2021e73",
       "title": "PSV zonder aankopen Lammers en Ouaissa in topper, Ajax mist Blind en Adingra - NU",
       "category": "Overig",
@@ -39,21 +99,6 @@
       "primary_source": {
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmpURjZkUHRaeGFTaktOUUhBVnZoMUdtUjFDVmJERzVEZUZ6eGNSRkk3YWVsSFdtWnNnNmhCSXdOTlctNGZ4RVFpcm9qOGY5V25EMVNhQUd2N3JyRTFUd1ZSREFYZnk0SktvSlJYNC02c1p2a1dBdHVtdEJHT29PdVlmYTQ1bTFZOVBab0dTa09rMllSWGVTa1MzMXBzS3E0b2ttSDBSSEJRY01ybVJSZFJWNk8?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f6e4e910f5be4a",
-      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
-      "category": "Overig",
-      "published": "2026-09-04T14:17:38+00:00",
-      "updated": "2026-09-04T14:17:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVGdFBldEswSWl4X0xDOXQ5VERnZU1FVzlHVE5fYTB4U1RDQlVpM3g1WVRfVGVRRFUyNkdseDV4QzdYaWRTaHhwa3NiRUNqNncwRWVvSUptQklxdVlWRWpraVpHNlI5Sjc2c1VhUlZpcGNWWXNLLU51TExvTjR1SlFxM2dNT2s1NEJzRjMzTkRCQ2tacTN2WXBHaGNwSng0TUhlT2lTSW93QlFVdnBMNWVIV24xUXVfNGc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -155,16 +200,16 @@
       ]
     },
     {
-      "id": "e7b37def87714d",
-      "title": "Ajax-coach Míchel belooft minuten voor Sofyan Amrabat in ‘superbelangrijke wedstrijd tegen PSV: ‘Hij is fit’",
-      "category": "Wedstrijden",
+      "id": "76ad7849d46fd2",
+      "title": "Na turbulente transferperiode meteen kraker voor Ajax tegen PSV: 'We hebben genoeg kwaliteit in huis'",
+      "category": "Transfers",
       "published": "2026-09-04T13:52:00+00:00",
       "updated": "2026-09-04T13:52:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcklxS3VIWkJnZUJmV21FM1FFcVdhdVZQZDJ5RUpEWTlraEtJYjRaQTVYclpqQmVPRjFtMlhwWVJsMWpoc1NjUENOUG41T01SMFhRMHpjSmxrcHozai0zNnZWbDk0cFJEa1k4S19lcTAxeG5VRC1LQkJtdHh1cENVOXVELXZjUTMzODFBbjNzM1dRNXE2dTVHcXRCWDVNbHhrYjlLYWR3SDVMTmRISl9MRFRWUzN3VVNEVG0wTEl6THEwY1JKZEFxd1hmNWpnMlpkeHpFd3cxOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUJLNDhMNjN5N0k1Y0Z2cm5GaHlZWm8xVkNUN1UyajFZRUltV2pVQlNvcWFna2pISW1NWmg1NjNJQzdINXRqT3k3VzY1ZFppWEZVTHVSZGp5dUJMcnhMM1A3MjVrZThMWEIzZVVVakdPM09NNTFRXzdqRnRJSUhObHRPbm5qZ2M1WTY2OVgzZ3ZYSFhwRFZxV2NnNUhyTzZIZjRXaVp6YzhBaFc4anZSMkFfQW9yWmk5MmlZb1Z5UWFYOVAyNjJSQnIyaHQ0ZHM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -231,7 +276,7 @@
     },
     {
       "id": "9d17dec5049e3a",
-      "title": "Bosz tast in duister over sterkte Ajax: 'We kunnen de bal blind voorgeven op Pepi'",
+      "title": "Bosz tast in duister over sterkte Ajax: 'Veel jongens kennen we niet'",
       "category": "Selectie",
       "published": "2026-09-04T12:53:52+00:00",
       "updated": "2026-09-04T12:53:52+00:00",
@@ -611,57 +656,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "8f83615b007c4f",
-      "title": "Vink ziet 'gekke dingen' bij Ajax: 'Maakte z'n debuut in CL, met alle respect...'",
-      "category": "Selectie",
-      "published": "2026-09-03T20:12:36+00:00",
-      "updated": "2026-09-03T20:12:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131451/vink-doet-opvallende-ajax-onthulling.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "39161a62423ee5",
-      "title": "Marciano Vink verbaasd over 'geval apart' bij Ajax: 'Dat is een beetje gek'",
-      "category": "Overig",
-      "published": "2026-09-03T19:38:05+00:00",
-      "updated": "2026-09-03T19:38:05+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131440/marciano-vink-vindt-ajax-situatie-van-baas-apart.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "13d59933bd3fdd",
-      "title": "El Ahmadi: 'Hij had aanbiedingen uit Spanje en Midden-Oosten, maar koos voor Ajax'",
-      "category": "Transfers",
-      "published": "2026-09-02T15:56:00+00:00",
-      "updated": "2026-09-03T19:28:06+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131436/amrabat-sloeg-meerdere-aanbiedingen-af-voor-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
