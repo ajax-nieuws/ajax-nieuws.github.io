@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T19:55:10.646107+00:00",
+    "generated_at": "2026-09-04T20:29:15.094630+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 110,
+    "article_count": 108,
     "event_count": 40,
     "discovered_event_count": 84,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 42,
+    "excluded_video_only_count": 41,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "4061f8fe51adb3",
+      "title": "Monserrate matchwinner in Almere - Ajax",
+      "category": "Overig",
+      "published": "2026-09-04T20:05:47+00:00",
+      "updated": "2026-09-04T20:05:47+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLXJVRFQ0MFVBc3hpdW9MY3NOSGpUeDNieHllcFA5YjZPd0wwaWJVR1hSRy1hdndfZ0pUaDNBZzNuX2dtZWx6dWtTd3RyR2E5TFU0emQ1dzFKVWJPQ0JkUUVFRlA2cWxHVVZJTzZkY20?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "7ea45f612347c1",
       "title": "'In de Topper tussen Ajax en PSV ligt de druk bij hen, zij moeten kampioen worden'",
@@ -27,32 +42,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "c52cf26b3f4c4b",
-      "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
-      "category": "Selectie",
-      "published": "2026-09-04T12:56:16+00:00",
-      "updated": "2026-09-04T19:01:10+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/regeer-speelt-open-kaart-ik-was-niet-gelukkig-bij-ajax",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjVZVVRvNG9GVHhFb1JCMTZBWG9vbkFPVW1fOW9VVnFZUkVwNGpYODdyaWtQb2hLdUE2XzI2OHk5aFZ2dmd2SGFfZ0MxNkdadXR0MFlwV0hvczQ4YnlWcnpYLW8zblc3cVdGYURQVzVlUVVxeWxoWkxhZTRzYkxtSllObndIaVNsQ1hLN05PUGZicDhNNjhZSUtEN3BqTmVrLUJZREVHUndxaW5nbTJQT2F3?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2131699/was-totaal-niet-gelukkig-bij-ajax-er-is-anderhalf-jaar-lang-over-me-geschreven.html",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "79c6351b24ab9e",
@@ -129,6 +118,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "c52cf26b3f4c4b",
+      "title": "'Was totaal niet gelukkig bij Ajax, er is anderhalf jaar lang over me geschreven'",
+      "category": "Selectie",
+      "published": "2026-09-04T12:56:16+00:00",
+      "updated": "2026-09-04T17:06:16+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131699/was-totaal-niet-gelukkig-bij-ajax-er-is-anderhalf-jaar-lang-over-me-geschreven.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjVZVVRvNG9GVHhFb1JCMTZBWG9vbkFPVW1fOW9VVnFZUkVwNGpYODdyaWtQb2hLdUE2XzI2OHk5aFZ2dmd2SGFfZ0MxNkdadXR0MFlwV0hvczQ4YnlWcnpYLW8zblc3cVdGYURQVzVlUVVxeWxoWkxhZTRzYkxtSllObndIaVNsQ1hLN05PUGZicDhNNjhZSUtEN3BqTmVrLUJZREVHUndxaW5nbTJQT2F3?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "7251c8db5cbc3a",
@@ -281,7 +291,7 @@
       "related_sources": []
     },
     {
-      "id": "b586b602f979c4",
+      "id": "dcb56cfa243ca1",
       "title": "Ajax Tapes | The Project - Ajax",
       "category": "Overig",
       "published": "2026-09-04T14:59:57+00:00",
@@ -290,7 +300,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMjJqWk5idG9BZmRNN2gxV3hHd2ZMZkZsQXdnYWZaRUhTckkyMnhnSU5IWm13bTlDTktSQlV0dlJyb2NnQnZYZVk3MFFHc3dwc19MUW9pS05WbGlYUEx1SEgyZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdUNtTER1QXNrR3JacUFOaHlyTmhPNGxkVjcxUkJUdmFQa3ZLMUpjVDU4X3R2Y1pHTFV0OWpuY2d0Z2s2WklSZGprTEFMQUZ2eGNZQ29reXFwSnJpUmNOaUxn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -311,21 +321,6 @@
       "related_sources": []
     },
     {
-      "id": "f6e4e910f5be4a",
-      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
-      "category": "Overig",
-      "published": "2026-09-04T14:47:38+00:00",
-      "updated": "2026-09-04T14:47:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVGdFBldEswSWl4X0xDOXQ5VERnZU1FVzlHVE5fYTB4U1RDQlVpM3g1WVRfVGVRRFUyNkdseDV4QzdYaWRTaHhwa3NiRUNqNncwRWVvSUptQklxdVlWRWpraVpHNlI5Sjc2c1VhUlZpcGNWWXNLLU51TExvTjR1SlFxM2dNT2s1NEJzRjMzTkRCQ2tacTN2WXBHaGNwSng0TUhlT2lTSW93QlFVdnBMNWVIV24xUXVfNGc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "c2a996cde97505",
       "title": "Julian Brandt dolblij met twee nieuwe aanwinsten bij Ajax: 'Hij is heel atletisch, snel en springt hoog'",
       "category": "Transfers",
@@ -341,6 +336,21 @@
       "related_sources": []
     },
     {
+      "id": "9782b75cea45d1",
+      "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
+      "category": "Overig",
+      "published": "2026-09-04T14:45:42+00:00",
+      "updated": "2026-09-04T14:45:42+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/regeer-speelt-open-kaart-ik-was-niet-gelukkig-bij-ajax",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "9736cca10ff99d",
       "title": "Ajax blijft ondanks turbulente jaren een lastige tegenstander voor PSV",
       "category": "Overig",
@@ -351,6 +361,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVml2UVFPQ1dxQ19jTDI4WjA0OWc3SFgxa0ZYQ0gwczc5VFlkcENpYjZCZXIxd2NPVlowMndwc3FoV0hId2cwZEZkandRdHlaTlRsaXpVdUhrWTJWMEVxZ2xVS3VkSkU3TUM1TEpkREpzMkU3R3YzRy1oY3ZRSzhzRHN1V3ItZnZFWVNYMU05Qjk2TlROR3hOUk4xU0tKSlZIQzVkQWdsQmFqZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0f69a14f6431a9",
+      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
+      "category": "Overig",
+      "published": "2026-09-04T13:18:45+00:00",
+      "updated": "2026-09-04T14:14:29+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dW1jaENoX2dSX1FEaVVpU3M2SU9KeGRLS1ZOT1J0S2QxMVQxSHJPYWxQVzZXaE1tMW1SYUVPOWFNdlVMUzJiNVN1WXZjX1AtcVhaS1hOV3B1ckpweHZwTXVxelRXZ2tCaTlyM3l3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -607,36 +632,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZU1KTXc5YWhlMFIteDRzQnV0V2k3d3lLM3BQYjdWcVAxT3ZBdkhoSFhjU0lOeDUtcldlYkdPTGNZNFdVUEpvaFNveU9KTTVEZ1BkY1FVSEtmaU1sUTJuRXBIekRjS1htU0tva2JrT0RxTXJwaWsxM2pXOXY?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d70731269a82fb",
-      "title": "Ajax levert spelerslijst in voor Conference League; Mokio kan op B-lijst gezet worden",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T11:25:00+00:00",
-      "updated": "2026-09-04T11:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXFNb1JLd0Z2Ym12TkJZTUpiczlZZHZZU2JhWTlFV2FDWmdRN3FuWHJ3SzNKdlNQR1d2c2NpX3FyM1Y5U1dwbXZ6Y0ZUV1ZrMXlHY1lMUVF6SEUzRFNUZTBlenl5QndDblc1TWJ3Rzgycmc3VWlpZUUybFVMM2tNZlVJZ3BOZXN6bUstaHFMWThpMHRqSUlJU25Va1JiWlotblFmY095YXotdU9PeURsckdCcy0yRXlOYzEtMzI2eG5OUW8?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "50e39107f2f7d8",
-      "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
-      "category": "Selectie",
-      "published": "2026-09-04T09:09:11+00:00",
-      "updated": "2026-09-04T09:09:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131443/cruijff-zet-ajax-keeper-maarten-paes-in-het-zonnetje.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
