@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T09:55:58.925434+00:00",
+    "generated_at": "2026-09-04T10:30:23.480673+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 120,
+    "article_count": 117,
     "event_count": 40,
-    "discovered_event_count": 78,
+    "discovered_event_count": 75,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 79,
+    "excluded_paywall_count": 78,
     "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
@@ -46,6 +46,27 @@
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/55971/Cruijff-ontkent-risico%27s-te-hebben-genomen-met-transfers",
           "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "7daa6e74039fdb",
+      "title": "Vermoedelijke opstelling Ajax: start Amrabat direct tegen PSV?",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T04:56:26+00:00",
+      "updated": "2026-09-04T08:00:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -200,36 +221,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "7daa6e74039fdb",
-      "title": "Vermoedelijke opstelling Ajax tegen PSV: beslissing over Kehrer en Amrabat",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T04:56:26+00:00",
-      "updated": "2026-09-04T04:56:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3083901cf6c214",
-      "title": "Vermoedelijke opstelling PSV tegen Ajax: Bosz passeert Geertruida en grijpt voorin in",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T03:56:41+00:00",
-      "updated": "2026-09-04T03:56:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "bef24857b8d213",
@@ -444,21 +435,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131367/jordi-cruijff-denkt-dat-gat-tussen-ajax-en-psv-redelijk-is-gedicht.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c8a0697b5866de",
-      "title": "'Club onthuld die Owen Wijndal wilde overnemen van Ajax'",
-      "category": "Overig",
-      "published": "2026-09-03T15:56:00+00:00",
-      "updated": "2026-09-03T15:56:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlZsbVRfdktFUUpSVTNXTENYd0o3RUVNZ1htUkF2TzBpYmp3ZHBKRkVCcE8xOE5LQ3htd0JYQ2N6U290emJwMWRlNGRKc2NCQ1p5aEw4bS1jWktCS2JDekZFYnRPUkNGYkpzQ0pnU3VCMklYUUVPT2FpczFEeTNGUFMtejBSc29GeG1TZUdxZDl0Y0tPaGNUYm9WUEI0eXFHZG9WLTZDWHlPbFNP?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -680,6 +656,36 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "cacea519e3ae81",
+      "title": "Ajax moet van Cruijff gat met PSV dichten: 'Niet in december al uit zijn gespeeld'",
+      "category": "Transfers",
+      "published": "2026-09-03T12:42:23+00:00",
+      "updated": "2026-09-03T12:42:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629514",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c04ec740210286",
+      "title": "Alle informatie over de kaartverkoop UECL League Phase 2026/2027 - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-03T12:35:42+00:00",
+      "updated": "2026-09-03T12:35:42+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVh5aDF6ak1lT3duNXR5dVk3TFI4bjRocEwyeFVJVmVmNGdrWHZVRW41SFpRdS02ZGdCUWRmdU9GRndLY2JUek9SM3NZbUg4T3BpVVRMaDZGdGJsUGU5STUzV1l6S21oQWtCMzVBX045U2VDQ2M1RDdIS2JJTVZ3YUs4NUkyeFZObGVVc3M5ZjQ2U1E1OUEyVTZn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     }
   ]
 }
