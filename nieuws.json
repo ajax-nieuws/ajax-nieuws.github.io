@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T05:29:19.168505+00:00",
+    "generated_at": "2026-09-04T05:55:41.054059+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 133,
     "event_count": 40,
     "discovered_event_count": 91,
     "source_count": 12,
@@ -13,6 +13,48 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "1c41dbae1db9a8",
+      "title": "Ajax-aanwinst Adingra maakt altijd iets van niets: \"Als een veertje kon dribbelen, zou het Simon zijn\"",
+      "category": "Transfers",
+      "published": "2026-09-02T20:28:00+00:00",
+      "updated": "2026-09-04T05:29:44+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaUpxeGdVVENaSEdqdVFlb1MxX04xVHdBcVAtVzN3MmV1bjdDby10Y1pOZ0NYUnBuM3Z3Q1JvMkU5Rk92WC15anIzc0gyanhSeVh0VlJCTkRLbXQ4dnB6ZzVTM3FVVkJkUzMzak9Sc2lybkxJdmJrU3JfcWRBT3pyMFVYZjAzdnBhMjgyMk5JU2dzdEZZQkFiWUtGajBSYVJlZ3haVHZTN2w?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS0FzYmE5TEduVk0zT1kzVnlBeVZjNG9PWkowSndnS0huNkhEeUs2d2xLeUwtbGloODBGSEZPZ1lpUzN6MnN6QUZ6YjQzTlRLcUZ1VWtScnVZbTFMcmtMS09wVmIyM3Y4ZlM3UHF3dVh2SVFpb25oZVAxVWQwc1BzaXlsMXA1NVVvX3h4cC1jY1FTUDdvb2xRSnZjTzVyYWpNaTE2TDlVd2wxNi1WUUJscFdOc1pOUmtVT2twSzU3ay12dGotRl9nOUFFTEpqTFFlRjBueW43RVdvdw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "4e1fc0b881034d",
+      "title": "Ajax-talent Bouwman reageert op Van Dijk-vergelijking: 'Die mensen kennen me niet'",
+      "category": "Overig",
+      "published": "2026-09-03T20:00:00+00:00",
+      "updated": "2026-09-04T05:29:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131499/bouwman-over-vergelijking-met-virgil-van-dijk.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXJyVWQxZUZBSkNrUWlGSmVyOVFDTkplM0x2RFJjcjR6Smx0NXNSMDMwMjhlcFR0b2N3SnpxaHBBSHNjQy1SZGhCMFRZeUh3WE9EdlZDNUNFS1JqX3JwMHdrNFFhWlRqclRJUTlVU1Z3YWU2MFRqeko1aGxDTktIZVR5UVV6NWxUYi16Ry10dVpVNXRxRnlSR01vdmM0M2tHbUdCbEV4T3YzVHBaNWJqVV8takp6RUhncktmVnllb1A1ZFE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "bef24857b8d213",
       "title": "Cruijff: 'Als iemand geen kansen mist, dan staat hij nooit op de juiste plek'",
@@ -68,13 +110,13 @@
           "via_google_news": true
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkt6OE1XcVpKbFpZLTRPMUxsc2ZJeVlfNHdCTldMV2Z3OWxfekFxWi1nOXlJS1dkbG1xSlVta013WDdYN3hGcGxGaHVKcUx0MWJoWTNCdWRLNEd5Y3dzSTNSZ0ZlaTZqM2xoSi1mSEF3TVRVQUxiMmVJckh3M3ZaTUo2QUk5VnItSVpEa3NOVi1fZHRHb1ZlWHRlWGJVRjIyYjdEX3N6UEZ3bUY1ZWtYcTltTUlhNWdPNEZDcnJWZEhucXpBeW5zQ2l6U1M?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
           "via_google_news": true
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkt6OE1XcVpKbFpZLTRPMUxsc2ZJeVlfNHdCTldMV2Z3OWxfekFxWi1nOXlJS1dkbG1xSlVta013WDdYN3hGcGxGaHVKcUx0MWJoWTNCdWRLNEd5Y3dzSTNSZ0ZlaTZqM2xoSi1mSEF3TVRVQUxiMmVJckh3M3ZaTUo2QUk5VnItSVpEa3NOVi1fZHRHb1ZlWHRlWGJVRjIyYjdEX3N6UEZ3bUY1ZWtYcTltTUlhNWdPNEZDcnJWZEhucXpBeW5zQ2l6U1M?oc=5",
           "via_google_news": true
         }
       ]
@@ -106,21 +148,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131451/vink-doet-opvallende-ajax-onthulling.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4e1fc0b881034d",
-      "title": "Ajax-talent Aaron Bouwman: ‘Ik raak niet in de war van een vergelijking met Virgil van Dijk’",
-      "category": "Overig",
-      "published": "2026-09-03T20:00:00+00:00",
-      "updated": "2026-09-03T20:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXJyVWQxZUZBSkNrUWlGSmVyOVFDTkplM0x2RFJjcjR6Smx0NXNSMDMwMjhlcFR0b2N3SnpxaHBBSHNjQy1SZGhCMFRZeUh3WE9EdlZDNUNFS1JqX3JwMHdrNFFhWlRqclRJUTlVU1Z3YWU2MFRqeko1aGxDTktIZVR5UVV6NWxUYi16Ry10dVpVNXRxRnlSR01vdmM0M2tHbUdCbEV4T3YzVHBaNWJqVV8takp6RUhncktmVnllb1A1ZFE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -651,21 +678,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/vi-discussie-wie-is-de-winnaar-van-de-transferperiode-in-de-eredivisie",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "187874726e8ae5",
-      "title": "Kasper Dolberg kon Ajax op Deadline Day verlaten, maar kwam er financieel niet uit",
-      "category": "Club",
-      "published": "2026-09-03T07:48:00+00:00",
-      "updated": "2026-09-03T07:48:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmlMYU9QbjY1Y2liczJMTXptUkFkMDRkdm9yNWpQV3hpTXZHTFpUNnJaZEV2NXRIWldDVzR3OHVaenhHS3YwaGFHMEUwWUppRnd5aU5XTHZYZHFRTnVzYkZaak5ZZ3BuNnpwRkI0UGN5TUNnNmJuN3Jpd0p6VnRDSGk5ZTNCUnVpZEVKNEpEN3llZFh3Rm1OZURNRXZLdXJSR21HWGFoVE1KVW1TRjhQYVhSTkR5amlacTZWZGIzZnEzWExOQUlvSnUtMm0ydjVX?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
