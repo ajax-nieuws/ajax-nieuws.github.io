@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T07:30:03.591829+00:00",
+    "generated_at": "2026-09-04T07:56:42.039637+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 89,
+    "discovered_event_count": 90,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 85,
-    "excluded_video_only_count": 25,
+    "excluded_paywall_count": 83,
+    "excluded_video_only_count": 27,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8483aa619c4759",
+      "title": "VI Discussie: wie is de winnaar van de transferperiode in de Eredivisie?",
+      "category": "Transfers",
+      "published": "2026-09-04T07:30:00+00:00",
+      "updated": "2026-09-04T07:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-discussie-wie-is-de-winnaar-van-de-transferperiode-in-de-eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "14ffc59dfa1115",
       "title": "'Ajax was een club waarvan we zeiden: een plek waar je goed ontvangen wordt'",
@@ -657,21 +672,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVh5aDF6ak1lT3duNXR5dVk3TFI4bjRocEwyeFVJVmVmNGdrWHZVRW41SFpRdS02ZGdCUWRmdU9GRndLY2JUek9SM3NZbUg4T3BpVVRMaDZGdGJsUGU5STUzV1l6S21oQWtCMzVBX045U2VDQ2M1RDdIS2JJTVZ3YUs4NUkyeFZObGVVc3M5ZjQ2U1E1OUEyVTZn?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2a78e23fe3cfcc",
-      "title": "Cruijff blij met specifieke Ajax-deal: 'Weet niet waarom, misschien kinderachtig'",
-      "category": "Transfers",
-      "published": "2026-09-03T12:24:00+00:00",
-      "updated": "2026-09-03T12:24:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131264/jordi-cruijff-kiest-favoriete-moment-uit-transferperiode-van-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
