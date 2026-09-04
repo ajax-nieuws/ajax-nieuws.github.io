@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T10:55:38.113322+00:00",
+    "generated_at": "2026-09-04T11:29:42.295693+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 117,
+    "article_count": 118,
     "event_count": 40,
-    "discovered_event_count": 76,
+    "discovered_event_count": 78,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 78,
@@ -13,6 +13,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ff212cec7600d7",
+      "title": "Julian Brandt houdt van Peter Bosz en voelt zich thuis bij Ajax: \"Deze club past bij mij\"",
+      "category": "Overig",
+      "published": "2026-09-04T11:15:00+00:00",
+      "updated": "2026-09-04T11:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHZteE9uZ3AxVUNqb0U5bm1RT1FoeVFmVndqRU95d052VEtoSHI4dThPTy02Y0JIQUVkRndlMmlmcUlJQ2x2d0RsUzJlZjNMM2tMNGlQTi00N1dXTkc4NDUzSjhEMk1yOTVkNHVlU2t2UWVtNUxIZm9JNjBISGZDWlA4dm82b0FuSXFadDBRTklUYjFBR3c3NEFURW9TdzBZRzNrZG1GcGFmQnp3MEozUU9WY1pJbW4waElDdTh2MXpNRi1rU0laOWlFS0pHU2Vib2c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "f6a32634fe1965",
       "title": "Brits voetbalblad spot 'enorm risico' bij ‘slangenkuil' Ajax: 'Doodlopende weg?'",
@@ -359,19 +374,25 @@
       "related_sources": []
     },
     {
-      "id": "6a4b947b7349d4",
+      "id": "13d59933bd3fdd",
       "title": "El Ahmadi: 'Hij had aanbiedingen uit Spanje en Midden-Oosten, maar koos voor Ajax'",
       "category": "Transfers",
-      "published": "2026-09-03T19:28:06+00:00",
+      "published": "2026-09-02T15:56:00+00:00",
       "updated": "2026-09-03T19:28:06+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131436/amrabat-sloeg-meerdere-aanbiedingen-af-voor-ajax.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnh3cW5oU2RqaUxEN1paSUZacENJeGNUeHdzVG4tR0dlZXpRX1pKaVc4cGNFTDJJbnhTMEZJYzFvUlFabWtkNzZ5SVJOdU12RVlHeng4MDdDWVV2NGpuVTVRRHR4TGVKZVc3NTRmX1hpa2VlRU1pYWtNczlGcmdIWldhN01TM2NVN2RPVnZlNFJwdFNKVDllWk5NczJMUGtOVVdVQzVyTFh5Tnl1OTBreklBazlzbm8?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "7db561933e07bd",
@@ -658,21 +679,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSk1TVmRGZ200T01QNEIzaGhrOXhaaElxYVBsR1lEUEpzTXNSQU1GT3A3UDc0bnpaVVBES1RXMVRBWmFuX1dwOWdDeV9leFUtU0ZqeWEwa3ZWMGN2N2N6V1F5TU8yZU1RYnJBeFFsZ1phZ1RsS0pOZENCRzJ0T0tYZ2hjb05VaUx2aklwcXB2c2N2Tk12TlhIUzVVdVN2YTZvbzM1akczNWRLQQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9d4be07316f73b",
-      "title": "Ajax jaren ongeslagen tegen PSV in eigen huis: dit was de laatste Eindhovense zege",
-      "category": "Wedstrijden",
-      "published": "2026-09-03T13:30:00+00:00",
-      "updated": "2026-09-03T13:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2129601/wanneer-won-psv-voor-het-laatst-bij-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
