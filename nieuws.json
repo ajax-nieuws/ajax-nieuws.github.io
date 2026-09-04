@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T10:30:23.480673+00:00",
+    "generated_at": "2026-09-04T10:55:38.113322+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 117,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 76,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 78,
-    "excluded_video_only_count": 26,
+    "excluded_video_only_count": 28,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "f6a32634fe1965",
+      "title": "Brits voetbalblad spot 'enorm risico' bij ‘slangenkuil' Ajax: 'Doodlopende weg?'",
+      "category": "Club",
+      "published": "2026-09-04T10:34:00+00:00",
+      "updated": "2026-09-04T10:34:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131627/world-soccer-magazine-analyseert-slangenkuil-ajax-en-aanpak-jordi-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "50e39107f2f7d8",
       "title": "Cruijff lyrisch over opvallende Ajacied: 'Niemand weet dat, maar dat doet hij wel'",
@@ -223,6 +238,21 @@
       ]
     },
     {
+      "id": "3083901cf6c214",
+      "title": "Vermoedelijke opstelling PSV tegen Ajax: Bosz passeert Geertruida en grijpt voorin in",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T03:56:41+00:00",
+      "updated": "2026-09-04T03:56:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "bef24857b8d213",
       "title": "Cruijff: 'Als iemand geen kansen mist, dan staat hij nooit op de juiste plek'",
       "category": "Overig",
@@ -258,7 +288,7 @@
       "category": "Transfers",
       "published": "2026-09-02T16:10:00+00:00",
       "updated": "2026-09-03T20:26:12+00:00",
-      "source_count": 5,
+      "source_count": 4,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -279,11 +309,6 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDEwaEN0MjAwbmdLUjhralpBOFc1RUM4RlhEeHlIM0xKTFJ3bWVIQTNLX1FZbUlTSTVhbDY1M29TS2V0a0dUa2NrY1ViY0lBMm5RYlZvOFFMOGZ5eGFKM3ZQTDd1aXdteE5yLV9VbE04WHV0d2RMWmJ4NktPUmJuVUQtT3Q?oc=5",
           "via_google_news": true
         }
       ]
@@ -435,6 +460,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131367/jordi-cruijff-denkt-dat-gat-tussen-ajax-en-psv-redelijk-is-gedicht.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c8a0697b5866de",
+      "title": "'Club onthuld die Owen Wijndal wilde overnemen van Ajax'",
+      "category": "Overig",
+      "published": "2026-09-03T15:56:00+00:00",
+      "updated": "2026-09-03T15:56:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlZsbVRfdktFUUpSVTNXTENYd0o3RUVNZ1htUkF2TzBpYmp3ZHBKRkVCcE8xOE5LQ3htd0JYQ2N6U290emJwMWRlNGRKc2NCQ1p5aEw4bS1jWktCS2JDekZFYnRPUkNGYkpzQ0pnU3VCMklYUUVPT2FpczFEeTNGUFMtejBSc29GeG1TZUdxZDl0Y0tPaGNUYm9WUEI0eXFHZG9WLTZDWHlPbFNP?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -633,57 +673,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2129601/wanneer-won-psv-voor-het-laatst-bij-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "415a7db515f357",
-      "title": "Cruijff verklaart komst grote spelers: \"Ajax heeft nog steeds die aantrekkingskracht\"",
-      "category": "Transfers",
-      "published": "2026-09-02T11:27:00+00:00",
-      "updated": "2026-09-03T13:28:01+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQck1IX3VYVFM2UC1Pc05sZFFRSzRxbDVmMDZJdTlBS1R6RmdnLTJVZHJUOHdCZ3ExT1ZlZE15Y0xfOGZQLXd2TkxSRkdsTU1tVnhQMWxLVGRUS2pTRGtITTFuZzN5TGJjaXV5LWlleWUtQVI4OFBya2RMenBZTDk0OWMyNVI4WVBKalZnajc5UHFfc25wSkJwTFIxS3Z0d0FYTUZ2MmJWYmdySHlSd3Q4cTA4M0hjd3JFLXpkY1pxc242bjhFS0kwR2JlWkg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUXE0MHRyU3FBa3dhQ2J0XzB6LVhtVVk5WDh6ZThGeHUxYW43aF9TZUdmZHdYTmxpNTJUMUFYb1pWRE1Zd0llYS1ULXNSeFJTRGRMOVBDaHFVSGU4dzN0dWlZS2pkcmlVdFRsRnAtWHFFNjJvWFN3NVpOeHN3d1pRQkhQZ01iOU5HVXBDWnpXeEJ3RVhCZkFPaXJEaVdmLW9mWHpMakl1UVVFZ295ZU4tY2YyX2UzY3A2X0FwTDRxVDNSWS1QX19IWUl0QVdLUTRvcHJzd3A1WUY3TTA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "cacea519e3ae81",
-      "title": "Ajax moet van Cruijff gat met PSV dichten: 'Niet in december al uit zijn gespeeld'",
-      "category": "Transfers",
-      "published": "2026-09-03T12:42:23+00:00",
-      "updated": "2026-09-03T12:42:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629514",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c04ec740210286",
-      "title": "Alle informatie over de kaartverkoop UECL League Phase 2026/2027 - Ajax",
-      "category": "Transfers",
-      "published": "2026-09-03T12:35:42+00:00",
-      "updated": "2026-09-03T12:35:42+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVh5aDF6ak1lT3duNXR5dVk3TFI4bjRocEwyeFVJVmVmNGdrWHZVRW41SFpRdS02ZGdCUWRmdU9GRndLY2JUek9SM3NZbUg4T3BpVVRMaDZGdGJsUGU5STUzV1l6S21oQWtCMzVBX045U2VDQ2M1RDdIS2JJTVZ3YUs4NUkyeFZObGVVc3M5ZjQ2U1E1OUEyVTZn?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
