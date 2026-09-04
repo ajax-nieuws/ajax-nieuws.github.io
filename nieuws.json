@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-04T00:57:00.083267+00:00",
+    "generated_at": "2026-09-04T01:27:51.762018+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 126,
     "event_count": 40,
@@ -8,7 +8,7 @@
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 101,
-    "excluded_video_only_count": 25,
+    "excluded_video_only_count": 28,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -42,6 +42,37 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "de261a6d6794f7",
+      "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-02T16:10:00+00:00",
+      "updated": "2026-09-03T20:26:12+00:00",
+      "source_count": 4,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZllIdGRKMlR5UzdVckQ2REY3THlNNTUxYTlpa1Y1U01RVW1wUVBtN1JINEJvWWQ4OE52cjZCMG9pZVpEQjBWaEhmMFBmZGVXdDZCVExfVUZvSDhkT1dYdE0wQWpiX2wyWUszTE5sdGg1YlFiUnd4MnZBeEV5ZDB1Nl9HM2tBeTh1eHZPeWJvT3djaFppRlFwczliUXh4UQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
+          "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHNuY3gzNzhwUlk2NTIxbHRqSDdBeTJmWUxOc1lreDNWcV9jLVNtelpLSDhNYVVNckhILXhqSThpT3VXUmREcXh4WGczNURwQVlRQzZzb3hGYnFxdFFxbndTQVc2YktPWGZ6Q0gwdkdQTzhBbDI3bkowTk80QVdKdDN4endfd01JTFlybnhfV3JQeVFldkpEZGF6eVRFdTEzeDdNQXZVLXc4RFgwTVNuRjAyMkU0Tm1JZHNrWVhNaEtnajU1MHVMNkRKZW40TE0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "8f83615b007c4f",
@@ -117,37 +148,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "de261a6d6794f7",
-      "title": "Jordi Cruijff blikt met goed gevoel terug op drukke transferwindow - Ajax",
-      "category": "Transfers",
-      "published": "2026-09-02T16:10:00+00:00",
-      "updated": "2026-09-03T18:47:15+00:00",
-      "source_count": 4,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZllIdGRKMlR5UzdVckQ2REY3THlNNTUxYTlpa1Y1U01RVW1wUVBtN1JINEJvWWQ4OE52cjZCMG9pZVpEQjBWaEhmMFBmZGVXdDZCVExfVUZvSDhkT1dYdE0wQWpiX2wyWUszTE5sdGg1YlFiUnd4MnZBeEV5ZDB1Nl9HM2tBeTh1eHZPeWJvT3djaFppRlFwczliUXh4UQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-opponent-haalt-voormalig-watford-spits-terug-naar-denemarken",
-          "via_google_news": false
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHNuY3gzNzhwUlk2NTIxbHRqSDdBeTJmWUxOc1lreDNWcV9jLVNtelpLSDhNYVVNckhILXhqSThpT3VXUmREcXh4WGczNURwQVlRQzZzb3hGYnFxdFFxbndTQVc2YktPWGZ6Q0gwdkdQTzhBbDI3bkowTk80QVdKdDN4endfd01JTFlybnhfV3JQeVFldkpEZGF6eVRFdTEzeDdNQXZVLXc4RFgwTVNuRjAyMkU0Tm1JZHNrWVhNaEtnajU1MHVMNkRKZW40TE0?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUjZJQVZCOHRlUFZGbmxnX2F3M2pSaHdjUTdJcE5QdUtzMG41RnNnUlMtYVZfcThmemJMYXpIam1zUU1JN2ZWMmx2UFpwNUhUcnJIbVhFZXIwcnd0SnpUUjZjZjBheGs2dHZXRjhybUh4cUZoUWxRUUhpbkFhb3hhTEZyM3lnQmJwNmpYVDkzZnJ5OFg2a3JpM1p0Y0kzYUhKRjAwUWZLR0xrNFd3clJrdDZNMVBxN1RxcWZFZ2tQYnpiNTU2T2FBQXlaa0c3OG8zekNSLVp0a3JrSE1oNnBB?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "d6632962868687",
@@ -494,6 +494,21 @@
       "related_sources": []
     },
     {
+      "id": "38902a87671aef",
+      "title": "Kijk vrijdagmiddag naar de persconferentie met Míchel Sánchez - Ajax",
+      "category": "Overig",
+      "published": "2026-09-03T12:35:42+00:00",
+      "updated": "2026-09-03T12:35:42+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUR4ZzNHNTI2ckNaaHZkT1AzNFpCU0FROEFjRHhaejBzRGp6NmdfWDF0bktUbFU1WloweTJ1SmxUX0szTnNiTFh2SlUtQWRLUlVsanM3REV0OE1Obk5ldDB1bW5Xd0F4MkhkaUsyenlBUWZrb3NhclRxZHlXd0NaLXU4LXVIcUgtZTFyUm1BM2Fuc2FsRmc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "2a78e23fe3cfcc",
       "title": "Cruijff blij met specifieke Ajax-deal: 'Weet niet waarom, misschien kinderachtig'",
       "category": "Transfers",
@@ -585,21 +600,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX29IQWdPajRoelQtYUxiTXlTSXprUnp1dVhkSTMxTzAtVF9zdjJtdU1TOEdiTXJuSVdDNHNfSU1Kbkgya2dacWFoTnV1YmZLWnd6X2NaSDZURXMtMG9BQjJpYWdISm1LX0tzb1BWQ19qRHlVZ2xLbUZteXVXbnBfMThHaG9rbzVHVzBzZXlweU84WWxleW1YVF9QZU1RckVF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c1a9bda832359b",
-      "title": "Kijk vrijdagmiddag naar de persconferentie met Míchel Sánchez - Ajax",
-      "category": "Overig",
-      "published": "2026-09-03T08:35:07+00:00",
-      "updated": "2026-09-03T08:35:07+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2FOR0lGZ2wydVBPaHZJWVZXYnlVdS1jUUFSeHpmcHhSQ3VxaW11VTFPTC03eVl4TlprdFZ3YjlBUlA5Y1ktWHpuTkhMTG92N2NXTGRjcHFaYmNNcHlsbklKVWtnWWNnME53VVZtZG9Ed0xGaS1qRjFPOTZZUGU5Q1A0NjNUdHhQY0pyMVdYMU1HX2JhLXFB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
