@@ -1,18 +1,54 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T05:55:21.685013+00:00",
+    "generated_at": "2026-09-05T06:33:01.722127+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 111,
+    "article_count": 113,
     "event_count": 40,
-    "discovered_event_count": 87,
+    "discovered_event_count": 88,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "2a9f04ceeae3c4",
+      "title": "Almere City 0-1 Jong Ajax (4 sep., 2026) Uitslag",
+      "category": "Jong Ajax",
+      "published": "2026-09-04T19:54:00+00:00",
+      "updated": "2026-09-05T06:08:25+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVmtNVWl3UzNkb1lIVUt0ZEJraklnOWtUZE5yN1QxbVZnSjZnWTZqdFV3dThwNFZmeE5sQjZ4NEM4WC1ERTFHbEZXbnZaZld4ZDEzbmltN1VtZDYwcmpFZ0dHTklaR2hqNzRweFVn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55976/Jong-Ajax-boekt-knap-resultaat-en-wint-bij-Almere-City",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "1eadb05d66482e",
+      "title": "Ajax - PSV: meer dan de strijd om drie punten - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-05T06:03:17+00:00",
+      "updated": "2026-09-05T06:03:17+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yM1NvRi1FcEVBdG42NGdTOWRLYV9PdGFiLUpzcXEtVENfWTlUR0c3N29ESFkyZWQwTmotUE5oTmFtU0o5MlVzcGNpcjJQZXJNSFhTZW1iQTgzSmxnR09FeXlyUGN4eVBkaWg0VEFrRVpIellOaWhKX0hHSkhYQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "21049783e5c2c8",
       "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
@@ -110,27 +146,6 @@
       "related_sources": []
     },
     {
-      "id": "2a9f04ceeae3c4",
-      "title": "Kleine verschillen bij Almere en Jong Ajax | Samenvatting Almere City - Jong Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-09-04T19:54:00+00:00",
-      "updated": "2026-09-04T20:51:19+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEJjRXM1WmNEcl8yYklZamU1NFJMNXJodjg5TWVycHNOUFMxUF9lQ29IS1hrcFljTFA3ZXlDUUdjTjdfNDVrRVBKbF91SjFyenQxWkhIbHhaVzVkbHo1UnFLTzNpd0hqV3NzVDhwYlF5UzlyQmdoeG5QN2xIMFZ3ckVJRTlLZ2lDdjBYRFFZX1Fnb29IU3dkUlhIYUc4bmtWcU10dlZBdDRiLU9WdE13THk5SnlpYXRzcGRHOXI4TQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55976/Jong-Ajax-boekt-knap-resultaat-en-wint-bij-Almere-City",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
       "id": "4061f8fe51adb3",
       "title": "Monserrate matchwinner in Almere - Ajax",
       "category": "Overig",
@@ -171,6 +186,21 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUM4Y0pPRklJWlBZY2xKcGtTZmFlZTVwQ3dEQ09CMXhWeXA4eXZwY0hKM0Y5VWNWZDQ4MFVjQUJEUDlVZl82VjRMdTd2R01pcXV4ZTNKTXdOUUtKU0tCdHJvUXlFeWVtTnZHTTNJWFlNQ1hES240TTBSYWhVdW5LdkFVN3ozVmhXUy13RmdVd25CeERkX2hNZXRfVWZlWVF6RktfS2I1Z3FSeFhEdU5MaQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "602f768d0798d7",
+      "title": "Henrique werd overtuigd van stap naar Ajax: 'Dan ga ik naar Amsterdam om je te zien spelen'",
+      "category": "Overig",
+      "published": "2026-09-04T18:25:00+00:00",
+      "updated": "2026-09-04T18:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUJJdFIya0poTUozZ1NJQWJIU3ZOQ1hWM0RwWEFNTDVNUi1ObFFTRVlHODljOFh2dnpKTUctaHRMOTl4QkxLanpIWmlaSVYweHBTSDd5cjBnaUVJLUM1ckFxMXlTRzZIeHZMRkt2UldGQ3FlaVZLUFZnSjdmaDR4MjlaYXM1QTFBLVYyWFhENTNGYnJpcmxOaWgxSHJ5VGp5REpwX0pxY3lSMm1fbmhFWkZzNkhVbWttTmZZMm5zRVJTRnBfMTFDLQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -624,36 +654,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV2ZzOERwMnhlajhmTUp0QmptSFV1UzdTTVlERERTWjdUZmozRWZ4WnVyMVBXNng0dVdjcFBpMXVSSUJUQ2ZEam95T3cxUGtMeFloazVSSHBoQUhCeVRxaEhtdzBzOUhBcW9VQy1Hcks0dDdBVUV6ZXV5Skc1Rm1JTFNzUUV6NlljcGZKNVo0dTg5WUlGNVhnWVlwRmdzVFZsM05TSWVMQW5HZnlid1IzbURBVEZHTTJkZXh3dUcxMS14bjdXMjFF?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "76ad7849d46fd2",
-      "title": "Na turbulente transferperiode meteen kraker voor Ajax tegen PSV: 'We hebben genoeg kwaliteit in huis'",
-      "category": "Transfers",
-      "published": "2026-09-04T13:52:00+00:00",
-      "updated": "2026-09-04T13:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUJLNDhMNjN5N0k1Y0Z2cm5GaHlZWm8xVkNUN1UyajFZRUltV2pVQlNvcWFna2pISW1NWmg1NjNJQzdINXRqT3k3VzY1ZFppWEZVTHVSZGp5dUJMcnhMM1A3MjVrZThMWEIzZVVVakdPM09NNTFRXzdqRnRJSUhObHRPbm5qZ2M1WTY2OVgzZ3ZYSFhwRFZxV2NnNUhyTzZIZjRXaVp6YzhBaFc4anZSMkFfQW9yWmk5MmlZb1Z5UWFYOVAyNjJSQnIyaHQ0ZHM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b81100ecae028b",
-      "title": "Míchel geeft update over Blind en rekent voorlopig nog niet op Adingra",
-      "category": "Overig",
-      "published": "2026-09-04T13:27:26+00:00",
-      "updated": "2026-09-04T13:27:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/michel-geeft-update-over-blind-en-rekent-voorlopig-nog-niet-op-adingra",
-        "via_google_news": false
       },
       "related_sources": []
     }
