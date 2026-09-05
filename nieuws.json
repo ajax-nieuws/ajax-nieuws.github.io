@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T05:28:12.726357+00:00",
+    "generated_at": "2026-09-05T05:55:21.685013+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 113,
+    "article_count": 111,
     "event_count": 40,
-    "discovered_event_count": 89,
+    "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 47,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -29,19 +29,25 @@
       "related_sources": []
     },
     {
-      "id": "41196c9761452c",
+      "id": "0942ef67e261ff",
       "title": "VI Live: Ajax en PSV maken zich op voor eerste Eredivisie-topper",
       "category": "Wedstrijden",
-      "published": "2026-09-05T05:15:00+00:00",
+      "published": "2026-09-04T17:32:00+00:00",
       "updated": "2026-09-05T05:15:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-psv-maken-zich-op-voor-eerste-eredivisie-topper",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX29IQWdPajRoelQtYUxiTXlTSXprUnp1dVhkSTMxTzAtVF9zdjJtdU1TOEdiTXJuSVdDNHNfSU1Kbkgya2dacWFoTnV1YmZLWnd6X2NaSDZURXMtMG9BQjJpYWdISm1LX0tzb1BWQ19qRHlVZ2xLbUZteXVXbnBfMThHaG9rbzVHVzBzZXlweU84WWxleW1YVF9QZU1RckVF?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "96cd12bcc2ddbd",
