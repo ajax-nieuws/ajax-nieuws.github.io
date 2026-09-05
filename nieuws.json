@@ -1,18 +1,104 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T06:55:28.598983+00:00",
+    "generated_at": "2026-09-05T07:27:31.701095+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 113,
+    "article_count": 111,
     "event_count": 40,
-    "discovered_event_count": 88,
+    "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0acae23b197846",
+      "title": "Ajax corrigeert vernietigend artikel over Jordi Cruijff: 'Het klopt niet'",
+      "category": "Overig",
+      "published": "2026-09-05T07:12:00+00:00",
+      "updated": "2026-09-05T07:12:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1NkYmpPRXRWQ3d4NWFVQnFIU29ma0NWVzJZbXN6SHpDNm42SmVaTERwTUZldTY3VkFEVi1TT3ZCNEw3SGZqSFBYV0lYMlhVTHhvWEJMTFRIYVVFNlBxWTY5SmJsdXpQUVo3U1VBZUxtWk9nX010TUJjR25udFZQUlRJTFpIVFFwWkozMHBCczRTcmFjN0Q5cnRyeklCb2p4Wjg5VUllcE5qaGQ3MW9MdXpZNmk3aEdoZkwtUFVPS0tzdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0942ef67e261ff",
+      "title": "VI Live: Ajax en PSV maken zich op voor eerste Eredivisie-topper",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T17:32:00+00:00",
+      "updated": "2026-09-05T07:11:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-psv-maken-zich-op-voor-eerste-eredivisie-topper",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2130158/live-ajax-psv.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX29IQWdPajRoelQtYUxiTXlTSXprUnp1dVhkSTMxTzAtVF9zdjJtdU1TOEdiTXJuSVdDNHNfSU1Kbkgya2dacWFoTnV1YmZLWnd6X2NaSDZURXMtMG9BQjJpYWdISm1LX0tzb1BWQ19qRHlVZ2xLbUZteXVXbnBfMThHaG9rbzVHVzBzZXlweU84WWxleW1YVF9QZU1RckVF?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "30246b20e46ea3",
+      "title": "Kieft en Jansen schrikken van 'bizar' salaris bij Ajax: 'Ongelooflijke bedragen'",
+      "category": "Club",
+      "published": "2026-09-05T07:09:44+00:00",
+      "updated": "2026-09-05T07:09:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131677/verbazing-bij-kieftegmondjansengijp-over-salarissen-in-nederland.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c6e2a309fce947",
+      "title": "Rob Jansen kraakt nieuwe Ajax-koers: 'Heeft weinig met Cruijff-filosofie te maken'",
+      "category": "Club",
+      "published": "2026-09-05T07:09:28+00:00",
+      "updated": "2026-09-05T07:09:28+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131925/rob-jansen-over-nieuwe-koers-ajax-onder-jordi-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ecd7040262a776",
+      "title": "Brandt verklaart keuze voor Ajax: 'Míchel zorgt voor extreem veel plezier'",
+      "category": "Overig",
+      "published": "2026-09-05T06:40:00+00:00",
+      "updated": "2026-09-05T06:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjJlcnRCbjB4YmhjX0ozR0xnb0t6SzJFQWxjeXZmMUVRSjVxMmRvZHQ5cHpEVm1ZMkxseUllRDZNZmg4NnliUmdxS3c2Uk9MVFdQdEFib25GT0FteVBhYVU1eERKVlRQR1g0ZGJKZmZsc0hycG9qOUFPX05RVHdEczJsQk45TmZnQ1FwOXZPUHdTdFRXbHJIdEVGWDVob2YzOUR1Q1RfQlpwSld4SktNQ0RKRHl2QzBVSnEzWXFNbw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "2a9f04ceeae3c4",
       "title": "Almere City 0-1 Jong Ajax (4 sep., 2026) Uitslag",
@@ -50,21 +136,6 @@
       "related_sources": []
     },
     {
-      "id": "7400cde76845ba",
-      "title": "Spina legt na sterk debuut keuze voor Ajax uit: 'Waarom zou ik niet voor deze club kiezen?'",
-      "category": "Selectie",
-      "published": "2026-09-05T06:00:00+00:00",
-      "updated": "2026-09-05T06:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVl9qNGF3Mmd6MFpiSS0yYV9PQm9fZ3AwLUFIYTJkOURjZFVObEpmV0EtSEhuRXUxT0ROWmdVZlVMNXFBLVdnUVJUQTBMT1VZcXRBWnFEMHVCSXhoRUdmNVh6enlJcGhSLXczTS1ZWG50TVVzRHJSLThEZnUzbkRNOFZmdW54ek9IR19Tc1pDQ2dSMzVqT3ZHeWhMSEIxUEdXRFJNc1IxcUl4NlZHQ3cyV1ZVbXpfSkptMHM3bVV5a055N1M1aFV3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "21049783e5c2c8",
       "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
       "category": "Overig",
@@ -80,27 +151,6 @@
       "related_sources": []
     },
     {
-      "id": "0942ef67e261ff",
-      "title": "VI Live: Ajax en PSV maken zich op voor eerste Eredivisie-topper",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T17:32:00+00:00",
-      "updated": "2026-09-05T05:15:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-psv-maken-zich-op-voor-eerste-eredivisie-topper",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX29IQWdPajRoelQtYUxiTXlTSXprUnp1dVhkSTMxTzAtVF9zdjJtdU1TOEdiTXJuSVdDNHNfSU1Kbkgya2dacWFoTnV1YmZLWnd6X2NaSDZURXMtMG9BQjJpYWdISm1LX0tzb1BWQ19qRHlVZ2xLbUZteXVXbnBfMThHaG9rbzVHVzBzZXlweU84WWxleW1YVF9QZU1RckVF?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "96cd12bcc2ddbd",
       "title": "Brandt volgt zijn gevoel met keuze voor Ajax: 'Voetbal moet plezier geven'",
       "category": "Selectie",
@@ -111,21 +161,6 @@
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2629735",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "30246b20e46ea3",
-      "title": "Kieft en Jansen schrikken van 'bizar' salaris bij Ajax: 'Ongelooflijke bedragen'",
-      "category": "Club",
-      "published": "2026-09-04T22:04:00+00:00",
-      "updated": "2026-09-04T22:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131677/verbazing-bij-kieftegmondjansengijp-over-salarissen-in-nederland.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -201,21 +236,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUM4Y0pPRklJWlBZY2xKcGtTZmFlZTVwQ3dEQ09CMXhWeXA4eXZwY0hKM0Y5VWNWZDQ4MFVjQUJEUDlVZl82VjRMdTd2R01pcXV4ZTNKTXdOUUtKU0tCdHJvUXlFeWVtTnZHTTNJWFlNQ1hES240TTBSYWhVdW5LdkFVN3ozVmhXUy13RmdVd25CeERkX2hNZXRfVWZlWVF6RktfS2I1Z3FSeFhEdU5MaQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "602f768d0798d7",
-      "title": "Henrique werd overtuigd van stap naar Ajax: 'Dan ga ik naar Amsterdam om je te zien spelen'",
-      "category": "Overig",
-      "published": "2026-09-04T18:25:00+00:00",
-      "updated": "2026-09-04T18:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUJJdFIya0poTUozZ1NJQWJIU3ZOQ1hWM0RwWEFNTDVNUi1ObFFTRVlHODljOFh2dnpKTUctaHRMOTl4QkxLanpIWmlaSVYweHBTSDd5cjBnaUVJLUM1ckFxMXlTRzZIeHZMRkt2UldGQ3FlaVZLUFZnSjdmaDR4MjlaYXM1QTFBLVYyWFhENTNGYnJpcmxOaWgxSHJ5VGp5REpwX0pxY3lSMm1fbmhFWkZzNkhVbWttTmZZMm5zRVJTRnBfMTFDLQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -538,6 +558,21 @@
       "related_sources": []
     },
     {
+      "id": "f6e4e910f5be4a",
+      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
+      "category": "Overig",
+      "published": "2026-09-04T14:47:38+00:00",
+      "updated": "2026-09-04T14:47:38+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVGdFBldEswSWl4X0xDOXQ5VERnZU1FVzlHVE5fYTB4U1RDQlVpM3g1WVRfVGVRRFUyNkdseDV4QzdYaWRTaHhwa3NiRUNqNncwRWVvSUptQklxdVlWRWpraVpHNlI5Sjc2c1VhUlZpcGNWWXNLLU51TExvTjR1SlFxM2dNT2s1NEJzRjMzTkRCQ2tacTN2WXBHaGNwSng0TUhlT2lTSW93QlFVdnBMNWVIV24xUXVfNGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "c2a996cde97505",
       "title": "Julian Brandt dolblij met twee nieuwe aanwinsten bij Ajax: 'Hij is heel atletisch, snel en springt hoog'",
       "category": "Transfers",
@@ -598,21 +633,6 @@
       "related_sources": []
     },
     {
-      "id": "0f69a14f6431a9",
-      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
-      "category": "Overig",
-      "published": "2026-09-04T13:18:45+00:00",
-      "updated": "2026-09-04T14:14:29+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dW1jaENoX2dSX1FEaVVpU3M2SU9KeGRLS1ZOT1J0S2QxMVQxSHJPYWxQVzZXaE1tMW1SYUVPOWFNdlVMUzJiNVN1WXZjX1AtcVhaS1hOV3B1ckpweHZwTXVxelRXZ2tCaTlyM3l3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "0d6e3715579411",
       "title": "Voetbalsters PSV en Feyenoord tegen Scandinavische clubs, Ajax naar Kazachstan",
       "category": "Wedstrijden",
@@ -639,21 +659,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131724/jordi-cruijff-mogelijk-afwezig-bij-ajax-psv-door-bezoek-aan-familie.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5a245d8cee71ee",
-      "title": "Voetbalsters PSV en Feyenoord naar Scandinavië, Ajax treft club uit Kazachstan",
-      "category": "Overig",
-      "published": "2026-09-04T14:08:08+00:00",
-      "updated": "2026-09-04T14:08:08+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0pXUURLWmFCSXBMQlFSUUVseHpWNy10eFJBUnVjOE5jUlRHbGxPd0J0TEVzOHZIbzl1SUlYUHAwUEM1bnVBREdXN01fT09vZlRDTDEwUExvWmlpZTl0Y3QyMHhqMEoyZE1ySmE0Y19CTVdsN3Q5bHhGRE9ZelEyOGhVUTFGbHVKaU9VR3JYZlhwU3NOVVpZM0FqZHNVMWhnZ1lQZDgtdW5wRGdqNzNkNUU4eHItY2s?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
