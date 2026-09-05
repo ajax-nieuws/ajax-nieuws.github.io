@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T12:33:06.767923+00:00",
+    "generated_at": "2026-09-05T12:56:07.411642+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 110,
+    "article_count": 108,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 88,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 65,
+    "excluded_video_only_count": 64,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "3083901cf6c214",
+      "title": "Vermoedelijke opstelling PSV tegen Ajax: Bosz passeert Geertruida en grijpt voorin in",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T12:53:38+00:00",
+      "updated": "2026-09-05T12:53:38+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "4b99785b0c21bb",
       "title": "Ajax-parel doet onthulling: 'Mijn rugnummer is een eerbetoon aan Nouri'",
@@ -58,18 +73,39 @@
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
           "via_google_news": true
         },
         {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/55973/Vermoedelijke-opstelling-PSV",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "04b4b932bb6028",
+      "title": "'Het beleid van Jordi Cruijff heeft weinig met Ajax-filosofie te maken'",
+      "category": "Club",
+      "published": "2026-09-05T07:09:28+00:00",
+      "updated": "2026-09-05T11:20:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYi1LajdzbFpPVkNYMlFZTElKWk9wUDU1SGxtYVI2SW9ScTlpS1RsZ2tfQzlZUkw5N2pxUTI3V29yTm1nVlhoaUp4cGRaOWppcTYwY3I4Nk1UVUV6RXhMMFp4VFBraHBBc0RqZGsycHlMc3FsOW9WUGFVTVQ4ZUFKc1lGbXBNRERVOUhrNGo1RWtOWjVLa0VqR2VncmxQQU5SU3dHVGNIQW0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2131925/rob-jansen-over-nieuwe-koers-ajax-onder-jordi-cruijff.html",
           "via_google_news": false
         }
       ]
@@ -159,21 +195,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "3083901cf6c214",
-      "title": "Vermoedelijke opstelling PSV tegen Ajax: Bosz passeert Geertruida en grijpt voorin in",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T09:50:35+00:00",
-      "updated": "2026-09-05T09:50:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "763f084b701ea8",
@@ -287,21 +308,6 @@
       "related_sources": []
     },
     {
-      "id": "c6e2a309fce947",
-      "title": "Rob Jansen kraakt nieuwe Ajax-koers: 'Heeft weinig met Cruijff-filosofie te maken'",
-      "category": "Club",
-      "published": "2026-09-05T07:09:28+00:00",
-      "updated": "2026-09-05T07:09:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131925/rob-jansen-over-nieuwe-koers-ajax-onder-jordi-cruijff.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "0acae23b197846",
       "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...'",
       "category": "Overig",
@@ -394,6 +400,21 @@
         "name": "NOS",
         "url": "https://nos.nl/l/2629735",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "25c0e7781d8f94",
+      "title": "Crisis bij Paris Saint-Germain: niet Mika Godts, maar andere ex-Ajacied en Jordan Teze stelen de show",
+      "category": "Overig",
+      "published": "2026-09-04T21:23:00+00:00",
+      "updated": "2026-09-04T21:23:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWNISTNTRDVtM0Y2RzBpZmlXdkV4OTJmc21GT2FGVkJIMzY3dWJGY3RDSjFmWUgxM3N1ek1faHVRUk04V29ZSlloc1VFRjdjSlNpN0hTeTc0VlZCV1dqM2hxQm5BV3k1QlRQelU4WGFtSGZRZDhwdHBCRlc3XzJOc1FXVGhfcUFaU1BxUk10d0U0VjZ5c2U1MGlmRzNray1RNU9oMWVsWTFoRGZLWVVKS2ZodkhrRjhTMW5nNndBRWxZbDRUckUwR1ZTLXFYdEJMMnZXSg?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -640,21 +661,6 @@
         "name": "AT5",
         "url": "https://www.at5.nl/artikelen/239768/michel-sanchez-maakt-zich-klaar-voor-kraker-tegen-psv-bidden-rusten-en-met-familie-bellen",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1f908927f65b22",
-      "title": "Youri Regeer is goudeerlijk over Ajax",
-      "category": "Overig",
-      "published": "2026-09-04T15:05:00+00:00",
-      "updated": "2026-09-04T15:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT2FTM3RiR0Rld0Jva1I5SHBpb2x6MjhUai1UUjJ1OXpGRzZYcXZ0ekJ6b0VoZ3A4MFNsU2NpTkZfcnNxNFlIMk02QnlmUlktT2VhamZITXJFcUVVaUZrZHJXUWM2MXNsV3dLUUdqRklPbnQyWUJqSUdjVjdOMk54R190NXljZlplZThudHZrOHJNWkE4QkE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
