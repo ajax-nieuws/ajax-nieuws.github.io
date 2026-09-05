@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T08:29:27.313246+00:00",
+    "generated_at": "2026-09-05T08:54:57.457999+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 111,
+    "article_count": 108,
     "event_count": 40,
-    "discovered_event_count": 88,
+    "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 64,
+    "excluded_video_only_count": 65,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ea5fa09eb99e03",
+      "title": "Ajax Tapes | The Project - Ajax",
+      "category": "Overig",
+      "published": "2026-09-04T14:59:57+00:00",
+      "updated": "2026-09-05T08:15:00+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdUNtTER1QXNrR3JacUFOaHlyTmhPNGxkVjcxUkJUdmFQa3ZLMUpjVDU4X3R2Y1pHTFV0OWpuY2d0Z2s2WklSZGprTEFMQUZ2eGNZQ29reXFwSnJpUmNOaUxn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS3lfZjExMmkzcTRKd2k1WnZod1Byb24tSmFSNzNzLWNBemFOZ0RqeFNWZjhoUkxCcUFtaFFNdENuejYxXzY1TTFscjdrOFBScWtDREJRMHZ0RnRKTmItZEFrMHRqUkZnekRaZVdhdXFkSUlrdWNJNUFSM0ZPYnc?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "21049783e5c2c8",
       "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
@@ -317,21 +338,6 @@
       "related_sources": []
     },
     {
-      "id": "cc2043fa4f71b9",
-      "title": "Peter Bosz vertelt heel eerlijk wat hij van Ajax vindt",
-      "category": "Overig",
-      "published": "2026-09-04T17:15:00+00:00",
-      "updated": "2026-09-04T17:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHZ0VVZRamlQT2xJN1Zhd1UyN1d2Z2JZaGwzR1FIRlZnUGxVY19fWk9NNVBEa1dBZV9hNWxGTXYwb0tWeDV5TzFUZ2Yxb2tOUUdZNXZRenA0UHYyUnV2NS1lLVRaencyQ1M1Ty1tYVVpcnl1VF9xN1hkWkVCUXZGbW9ET0Q4Y3ZiaUt5Ymh6bWlXQUtGZERzeEp1cGh2SFBndFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "d748f928c18f80",
       "title": "Míchel Sánchez blikt vooruit op PSV: \"Zaterdag zal een mooie test zijn\" - Ajax",
       "category": "Overig",
@@ -362,12 +368,12 @@
       "related_sources": []
     },
     {
-      "id": "d70269c4b8ad0c",
+      "id": "c52cf26b3f4c4b",
       "title": "'Was totaal niet gelukkig bij Ajax, er is anderhalf jaar lang over me geschreven'",
       "category": "Selectie",
       "published": "2026-09-04T12:56:16+00:00",
       "updated": "2026-09-04T17:06:16+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -378,11 +384,6 @@
         {
           "name": "NU.nl",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjVZVVRvNG9GVHhFb1JCMTZBWG9vbkFPVW1fOW9VVnFZUkVwNGpYODdyaWtQb2hLdUE2XzI2OHk5aFZ2dmd2SGFfZ0MxNkdadXR0MFlwV0hvczQ4YnlWcnpYLW8zblc3cVdGYURQVzVlUVVxeWxoWkxhZTRzYkxtSllObndIaVNsQ1hLN05PUGZicDhNNjhZSUtEN3BqTmVrLUJZREVHUndxaW5nbTJQT2F3?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUzZWTnViQnhBUzhNWWlHRTk1eEYxQkk2dU1PbmNxVlVOclh6dDAwN2dBMWRCYlplVnl3SFEzOVZOaGg1djFhUVhTT2NRQUZ3RGp4QmFZVzRTX3lDRkNtX0p4VlgxVHZhV2hBYThsa2xtYkJmUG5YUUhqeHVGQlFUTjVQRUdjZGpJM3VVWkVhbTFxdWVFbndSNnhZdVhJVHVCV2VROFN3?oc=5",
           "via_google_news": true
         }
       ]
@@ -544,21 +545,6 @@
       "related_sources": []
     },
     {
-      "id": "dcb56cfa243ca1",
-      "title": "Ajax Tapes | The Project - Ajax",
-      "category": "Overig",
-      "published": "2026-09-04T14:59:57+00:00",
-      "updated": "2026-09-04T14:59:57+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdUNtTER1QXNrR3JacUFOaHlyTmhPNGxkVjcxUkJUdmFQa3ZLMUpjVDU4X3R2Y1pHTFV0OWpuY2d0Z2s2WklSZGprTEFMQUZ2eGNZQ29reXFwSnJpUmNOaUxn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "186ea77a572aef",
       "title": "Ajax met ingekochte ervaring, PSV juist met talent: de topper is het eerste meetmoment voor torenhoge ambities",
       "category": "Overig",
@@ -660,6 +646,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131724/jordi-cruijff-mogelijk-afwezig-bij-ajax-psv-door-bezoek-aan-familie.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5a245d8cee71ee",
+      "title": "Voetbalsters PSV en Feyenoord naar Scandinavië, Ajax treft club uit Kazachstan - NU",
+      "category": "Overig",
+      "published": "2026-09-04T14:08:08+00:00",
+      "updated": "2026-09-04T14:08:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0pXUURLWmFCSXBMQlFSUUVseHpWNy10eFJBUnVjOE5jUlRHbGxPd0J0TEVzOHZIbzl1SUlYUHAwUEM1bnVBREdXN01fT09vZlRDTDEwUExvWmlpZTl0Y3QyMHhqMEoyZE1ySmE0Y19CTVdsN3Q5bHhGRE9ZelEyOGhVUTFGbHVKaU9VR3JYZlhwU3NOVVpZM0FqZHNVMWhnZ1lQZDgtdW5wRGdqNzNkNUU4eHItY2s?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     }
