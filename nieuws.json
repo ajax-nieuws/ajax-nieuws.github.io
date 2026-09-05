@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T11:55:08.605345+00:00",
+    "generated_at": "2026-09-05T12:33:06.767923+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 109,
+    "article_count": 110,
     "event_count": 40,
-    "discovered_event_count": 89,
+    "discovered_event_count": 91,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 66,
+    "excluded_video_only_count": 65,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "4b99785b0c21bb",
+      "title": "Ajax-parel doet onthulling: 'Mijn rugnummer is een eerbetoon aan Nouri'",
+      "category": "Overig",
+      "published": "2026-09-05T12:17:03+00:00",
+      "updated": "2026-09-05T12:17:03+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132008/ajax-parel-ouazane-doet-onthulling-mijn-rugnummer-is-een-eerbetoon-aan-nouri.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "206099b59cb60f",
       "title": "Cruijff houdt zijn woord: zo ziet het Ajax van Míchel eruit voor seizoen 2026/2027",
@@ -32,7 +47,7 @@
       "id": "79c6351b24ab9e",
       "title": "Vermoedelijke opstelling Ajax: Míchel maakt beslissingen over Amrabat en Kehrer",
       "category": "Wedstrijden",
-      "published": "2026-09-04T13:56:00+00:00",
+      "published": "2026-09-04T15:11:04+00:00",
       "updated": "2026-09-05T11:38:50+00:00",
       "source_count": 4,
       "official_confirmation": false,
@@ -43,13 +58,13 @@
       },
       "related_sources": [
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
           "via_google_news": true
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
           "via_google_news": true
         },
         {
@@ -554,23 +569,8 @@
       "related_sources": []
     },
     {
-      "id": "907ced7baa08e6",
-      "title": "Na Ajax, PSV en Feyenoord gaat ook vierde Eredivisie-club voor de landstitel",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T16:11:00+00:00",
-      "updated": "2026-09-04T16:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2diYWlDM3BsM1cxbG9aLUkzUy00RVk3UUFKd09JUjlWa05WUFBtVV9peVpXS1hHb3d3M2hGcEozVG02dUVRRFladEJGX1o3ZmhmT1ZKM3NTeU9Fa1VuYjJyMGpOWEFkVzNOcVAzS0oxa2x1cl93NW9jSUM1Zi0zN3cxaExTVE11enE4c0JlVWUzbHBjSGFzZGV1OURvcnh2VVdoTVZ0WHcwRy1iNzhkR3NlRE9IWWExTlBhRXJQQ3pJa0VLNWhBag?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0924fc7b3b7fd0",
-      "title": "Bosz wist dat Cruijff veel ging veranderen bij Ajax: 'Dat moest ook wel'",
+      "id": "687ec82034036b",
+      "title": "Bosz geniet van voetbalintelligentie en techniek van Ajacied: 'Belangrijke kenmerken'",
       "category": "Overig",
       "published": "2026-09-04T16:10:00+00:00",
       "updated": "2026-09-04T16:10:00+00:00",
@@ -578,7 +578,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXpDczJzSnZMUURpR1VyZVNoOVBXRzYyQllzbkF5QTZURFdWeXptcVlOSDIzSG1PTThrUU1fRzhRcWZjenJzMWtVOHJ1OVpfcDRwZlVIQm85dUJGczM0dFZocHM4M3FBZGVPM1ZDNkVIUmZER3V2X19nMlE3eXU5RnRCaXdBbmpJeTlCbkdEWjgwa1h6UXd2ZDZYcUstWnpZV3Nmd3B4YlJtVF96U2c2cFhB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzRhUHRPOVVXVGRTSXRmc0tXNkpNdDR6WHFjQ0VlWkY3cEQ4YWZ4c1dROS1MeUJPcmdYR1RPdzRJRWJpYW9HVXVHYk9Qamx2MGlNSHM0OW1yTHdIQXBKM193U1hTWDdxX3M1ellnMEcyODFLNlVvcU85Zm43SzRMYUswQzBTZXBpT0FVbkhpdEdVM3RZelN4NkFxQzNrYVBXSzJsOE5nRFJxaHhIbmRqaDJNak83YjNGeWFMeWsxeHYzUWM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
