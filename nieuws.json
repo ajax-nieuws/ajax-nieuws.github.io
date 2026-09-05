@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T15:55:08.872870+00:00",
+    "generated_at": "2026-09-05T16:28:57.126628+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 95,
+    "article_count": 94,
     "event_count": 40,
     "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 62,
+    "excluded_video_only_count": 63,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "3083901cf6c214",
+      "title": "Vermoedelijke opstelling PSV tegen Ajax: Bosz passeert Geertruida en grijpt voorin in",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T15:55:49+00:00",
+      "updated": "2026-09-05T15:55:49+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "542f2b91aedb17",
       "title": "Formule 1-ster Max Verstappen kijkt naar Ajax-PSV: 'Ik hoop dat zij winnen'",
@@ -73,13 +88,13 @@
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
           "via_google_news": true
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
           "via_google_news": true
         },
         {
@@ -109,21 +124,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "3083901cf6c214",
-      "title": "Vermoedelijke opstelling PSV tegen Ajax: Bosz passeert Geertruida en grijpt voorin in",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T12:53:38+00:00",
-      "updated": "2026-09-05T12:53:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "4b99785b0c21bb",
@@ -156,29 +156,8 @@
       "related_sources": []
     },
     {
-      "id": "04b4b932bb6028",
-      "title": "Rob Jansen kraakt nieuwe Ajax-koers: 'Heeft weinig met Cruijff-filosofie te maken'",
-      "category": "Club",
-      "published": "2026-09-05T07:09:28+00:00",
-      "updated": "2026-09-05T11:20:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131925/rob-jansen-over-nieuwe-koers-ajax-onder-jordi-cruijff.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYi1LajdzbFpPVkNYMlFZTElKWk9wUDU1SGxtYVI2SW9ScTlpS1RsZ2tfQzlZUkw5N2pxUTI3V29yTm1nVlhoaUp4cGRaOWppcTYwY3I4Nk1UVUV6RXhMMFp4VFBraHBBc0RqZGsycHlMc3FsOW9WUGFVTVQ4ZUFKc1lGbXBNRERVOUhrNGo1RWtOWjVLa0VqR2VncmxQQU5SU3dHVGNIQW0?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "b1f3216281b89c",
-      "title": "Ajax wacht Eredivisie-kraker tegen PSV: dit is de combined XI van Voetbalzone - voetbalzone.nl",
+      "title": "Ajax wacht Eredivisie-kraker tegen PSV: dit is de combined XI van Voetbalzone",
       "category": "Wedstrijden",
       "published": "2026-09-05T11:04:00+00:00",
       "updated": "2026-09-05T11:04:00+00:00",
@@ -203,6 +182,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131987/berghuis-ziet-grote-verandering-bij-ajax-onder-michel.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e736faf5842c34",
+      "title": "Ajax - PSV: meer dan de strijd om drie punten - Ajax",
+      "category": "Transfers",
+      "published": "2026-09-05T10:34:59+00:00",
+      "updated": "2026-09-05T10:34:59+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tbXZEcS1wYnIxTTNDTDAyejV2bDVJTEZkbW1COEhjd0VEY3RncDJGUUwyNXgyNEZTX25fUWVfaURUcTU2akpQMU4wY3FIalMwVDJ6MTVzMzZmZ2dZTFJNV2xpRUppb1E1VVZBbGVFZmNIOVAyNS0ybVNVUUg?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -303,21 +297,6 @@
       ]
     },
     {
-      "id": "2ec2be05b9190b",
-      "title": "'Na zo'n transferzomer kunnen ze bij Ajax geen genoegen nemen met alleen aanhaken bij PSV'",
-      "category": "Transfers",
-      "published": "2026-09-05T08:10:00+00:00",
-      "updated": "2026-09-05T08:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2RVRndEcTl5OS1iYWFQZFQ0NmQ4R253aGhTM3VlN0tJcnlIbUFRQkhHV2xMRzNGb1RmSDJES1E1WldleUNybDAyWU8tb0Q3UWRVMXdUalFLeUJoeERSY3BnMlloNmZOSnlzZEJJVXhyQVB1am1BcEt4V1VZOVdLcGljbXNjZlhlT1FjVGRXT2xSR1V1UFBVaXkzdEd3QllSMjE3UzFtaGtTNmpQdmVvUU13VWRGOTJCLWU4VEV6bko?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "21049783e5c2c8",
       "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
       "category": "Overig",
@@ -334,7 +313,7 @@
     },
     {
       "id": "81d742960ed911",
-      "title": "Geelen gaat in op ambities van Ajax: 'Laten we eerst focussen op structureel strijden voor titel'",
+      "title": "Geelen gaat in op ambities van Ajax: 'Laten we eerst focussen op structureel strijden voor titel' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-05T07:15:00+00:00",
       "updated": "2026-09-05T07:15:00+00:00",
@@ -363,8 +342,23 @@
       "related_sources": []
     },
     {
+      "id": "c6e2a309fce947",
+      "title": "Rob Jansen kraakt nieuwe Ajax-koers: 'Heeft weinig met Cruijff-filosofie te maken'",
+      "category": "Club",
+      "published": "2026-09-05T07:09:28+00:00",
+      "updated": "2026-09-05T07:09:28+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131925/rob-jansen-over-nieuwe-koers-ajax-onder-jordi-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "0acae23b197846",
-      "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...' - voetbalzone.nl",
+      "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...'",
       "category": "Overig",
       "published": "2026-09-05T07:08:00+00:00",
       "updated": "2026-09-05T07:08:00+00:00",
@@ -379,7 +373,7 @@
     },
     {
       "id": "ecd7040262a776",
-      "title": "Brandt verklaart keuze voor Ajax: 'Míchel zorgt voor extreem veel plezier'",
+      "title": "Brandt verklaart keuze voor Ajax: 'Míchel zorgt voor extreem veel plezier' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-05T06:40:00+00:00",
       "updated": "2026-09-05T06:40:00+00:00",
@@ -388,6 +382,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjJlcnRCbjB4YmhjX0ozR0xnb0t6SzJFQWxjeXZmMUVRSjVxMmRvZHQ5cHpEVm1ZMkxseUllRDZNZmg4NnliUmdxS3c2Uk9MVFdQdEFib25GT0FteVBhYVU1eERKVlRQR1g0ZGJKZmZsc0hycG9qOUFPX05RVHdEczJsQk45TmZnQ1FwOXZPUHdTdFRXbHJIdEVGWDVob2YzOUR1Q1RfQlpwSld4SktNQ0RKRHl2QzBVSnEzWXFNbw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9f67699523dfb8",
+      "title": "Van Basten beleeft speciaal moment: 'Streelt je ego, maar je wordt er ook verlegen van' - ajaxshowtime.com",
+      "category": "Overig",
+      "published": "2026-09-05T06:30:00+00:00",
+      "updated": "2026-09-05T06:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFJNUHVfRmtibXRhX3N2UklfWklvYnFnWnVzSDJBQWh0dXROdVVIZnBXaWIyc0JrUTRsbi1VUGFfbjF6X3dXTmxvY3llYVBrS2RwdEwtcnl4WmhWLU1RR1MtYmZEcnctUEtGa1pXRDdpMXQwMUNTeFdZRnpveWRTRFNrSllzQ21yVVNqTy1fdUViTDZ2OEQ0Q3J0OG5ENzdoTGNNZzhJY2VzaU9RT1FGYVJhV3BCTkZOZXZkZnEzNFEyZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -414,23 +423,8 @@
       ]
     },
     {
-      "id": "1eadb05d66482e",
-      "title": "Ajax - PSV: meer dan de strijd om drie punten - Ajax",
-      "category": "Transfers",
-      "published": "2026-09-05T06:03:17+00:00",
-      "updated": "2026-09-05T06:03:17+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yM1NvRi1FcEVBdG42NGdTOWRLYV9PdGFiLUpzcXEtVENfWTlUR0c3N29ESFkyZWQwTmotUE5oTmFtU0o5MlVzcGNpcjJQZXJNSFhTZW1iQTgzSmxnR09FeXlyUGN4eVBkaWg0VEFrRVpIellOaWhKX0hHSkhYQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "7400cde76845ba",
-      "title": "Spina legt na sterk debuut keuze voor Ajax uit: 'Waarom zou ik niet voor deze club kiezen?'",
+      "title": "Spina legt na sterk debuut keuze voor Ajax uit: 'Waarom zou ik niet voor deze club kiezen?' - ajaxshowtime.com",
       "category": "Selectie",
       "published": "2026-09-05T06:00:00+00:00",
       "updated": "2026-09-05T06:00:00+00:00",
@@ -460,7 +454,7 @@
     },
     {
       "id": "25c0e7781d8f94",
-      "title": "Crisis bij Paris Saint-Germain: niet Mika Godts, maar andere ex-Ajacied en Jordan Teze stelen de show - voetbalzone.nl",
+      "title": "Crisis bij Paris Saint-Germain: niet Mika Godts, maar andere ex-Ajacied en Jordan Teze stelen de show",
       "category": "Overig",
       "published": "2026-09-04T21:23:00+00:00",
       "updated": "2026-09-04T21:23:00+00:00",
@@ -550,7 +544,7 @@
     },
     {
       "id": "8d3d62ff187a27",
-      "title": "Abdalla ging in weken van Ajax 1 naar Jong Ajax: 'Moeilijk, want je wil gelijk meer'",
+      "title": "Abdalla ging in weken van Ajax 1 naar Jong Ajax: 'Moeilijk, want je wil gelijk meer' - ajaxshowtime.com",
       "category": "Jong Ajax",
       "published": "2026-09-04T17:35:00+00:00",
       "updated": "2026-09-04T17:35:00+00:00",
@@ -612,9 +606,9 @@
       "id": "c52cf26b3f4c4b",
       "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
       "category": "Overig",
-      "published": "2026-09-04T13:55:00+00:00",
+      "published": "2026-09-04T14:45:42+00:00",
       "updated": "2026-09-04T17:06:16+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -625,11 +619,6 @@
         {
           "name": "NU.nl",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjVZVVRvNG9GVHhFb1JCMTZBWG9vbkFPVW1fOW9VVnFZUkVwNGpYODdyaWtQb2hLdUE2XzI2OHk5aFZ2dmd2SGFfZ0MxNkdadXR0MFlwV0hvczQ4YnlWcnpYLW8zblc3cVdGYURQVzVlUVVxeWxoWkxhZTRzYkxtSllObndIaVNsQ1hLN05PUGZicDhNNjhZSUtEN3BqTmVrLUJZREVHUndxaW5nbTJQT2F3?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXNmV1hNSmRiWTFOSmlrRVlKNTVFMDhOajc4V3p4RnFUeDU3ZkYwbVppMnlZY1JQYk1pTDVWQUEyLTlmeWw1eTB2OExXYjU0aDhrY3NaQ1VhclpRSDF6TUVtdTA4SmRhMDVPLXNaTlp2Ry1Wa3lKVi05V1gtMVdkQTlNZnRnNE0xSEVZUklhSlUtZ1g1Y3RUU05kSm4xUFlUVFRLR0txSXEwZm9IOVBVWV8wOVBSOWluZ1ZTdGdSdjhKZw?oc=5",
           "via_google_news": true
         }
       ]
@@ -651,7 +640,7 @@
     },
     {
       "id": "b928a7d5b2222f",
-      "title": "Rondom Ajax: Ajax Vrouwen weet tegen wie er gespeeld gaat worden in kwalificatieronde UEFA Women's Europa Cup",
+      "title": "Rondom Ajax: Ajax Vrouwen weet tegen wie er gespeeld gaat worden in kwalificatieronde UEFA Women's Europa Cup - ajaxshowtime.com",
       "category": "Ajax Vrouwen",
       "published": "2026-09-04T16:40:00+00:00",
       "updated": "2026-09-04T16:40:00+00:00",
