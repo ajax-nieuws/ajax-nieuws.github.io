@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T00:56:38.690425+00:00",
+    "generated_at": "2026-09-05T01:27:25.619195+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 109,
+    "article_count": 110,
     "event_count": 40,
     "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 41,
+    "excluded_video_only_count": 44,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -232,15 +232,15 @@
     },
     {
       "id": "d70269c4b8ad0c",
-      "title": "'Was totaal niet gelukkig bij Ajax, er is anderhalf jaar lang over me geschreven'",
+      "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
       "category": "Selectie",
       "published": "2026-09-04T12:56:16+00:00",
       "updated": "2026-09-04T17:06:16+00:00",
-      "source_count": 4,
+      "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131699/was-totaal-niet-gelukkig-bij-ajax-er-is-anderhalf-jaar-lang-over-me-geschreven.html",
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/regeer-speelt-open-kaart-ik-was-niet-gelukkig-bij-ajax",
         "via_google_news": false
       },
       "related_sources": [
@@ -253,6 +253,11 @@
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXNmV1hNSmRiWTFOSmlrRVlKNTVFMDhOajc4V3p4RnFUeDU3ZkYwbVppMnlZY1JQYk1pTDVWQUEyLTlmeWw1eTB2OExXYjU0aDhrY3NaQ1VhclpRSDF6TUVtdTA4SmRhMDVPLXNaTlp2Ry1Wa3lKVi05V1gtMVdkQTlNZnRnNE0xSEVZUklhSlUtZ1g1Y3RUU05kSm4xUFlUVFRLR0txSXEwZm9IOVBVWV8wOVBSOWluZ1ZTdGdSdjhKZw?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2131699/was-totaal-niet-gelukkig-bij-ajax-er-is-anderhalf-jaar-lang-over-me-geschreven.html",
+          "via_google_news": false
         },
         {
           "name": "FCUpdate",
@@ -472,21 +477,6 @@
       "related_sources": []
     },
     {
-      "id": "9782b75cea45d1",
-      "title": "Regeer speelt open kaart: 'Ik was niet gelukkig bij Ajax'",
-      "category": "Overig",
-      "published": "2026-09-04T14:45:42+00:00",
-      "updated": "2026-09-04T14:45:42+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/regeer-speelt-open-kaart-ik-was-niet-gelukkig-bij-ajax",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "ffebbfa50f6d27",
       "title": "Zo zorgt Míchel Sánchez dat nieuwe Ajax-spelers snel worden ingepast",
       "category": "Overig",
@@ -648,6 +638,21 @@
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmpURjZkUHRaeGFTaktOUUhBVnZoMUdtUjFDVmJERzVEZUZ6eGNSRkk3YWVsSFdtWnNnNmhCSXdOTlctNGZ4RVFpcm9qOGY5V25EMVNhQUd2N3JyRTFUd1ZSREFYZnk0SktvSlJYNC02c1p2a1dBdHVtdEJHT29PdVlmYTQ1bTFZOVBab0dTa09rMllSWGVTa1MzMXBzS3E0b2ttSDBSSEJRY01ybVJSZFJWNk8?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9d17dec5049e3a",
+      "title": "Bosz tast in duister over sterkte Ajax: 'Veel jongens kennen we niet'",
+      "category": "Selectie",
+      "published": "2026-09-04T12:53:52+00:00",
+      "updated": "2026-09-04T12:53:52+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629658",
+        "via_google_news": false
       },
       "related_sources": []
     }
