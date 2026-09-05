@@ -1,18 +1,93 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T21:55:11.894622+00:00",
+    "generated_at": "2026-09-05T22:27:21.739661+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 116,
     "event_count": 40,
-    "discovered_event_count": 94,
+    "discovered_event_count": 92,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 56,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "28ed8915b4789f",
+      "title": "Godts toont meteen 'lef' bij PSG: 'Voordat ze twijfelen aan de aankoop...'",
+      "category": "Transfers",
+      "published": "2026-09-05T22:04:31+00:00",
+      "updated": "2026-09-05T22:04:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132210/godts-geniet-van-ajax-afscheid-spreekt-over-psg-start.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bc4074e8c26b57",
+      "title": "Míchel zag geweldig Ajax tegen PSV: 'We waren ze in veel situatie de baas'",
+      "category": "Overig",
+      "published": "2026-09-05T21:55:00+00:00",
+      "updated": "2026-09-05T21:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3VjNkIyRXJCcm4yWFNTNkFBV21DcGFzNTZwRUhhdkkwMzNORndtNVZ3dXJUR2h0VzV6dlI0ejluZnVHd1FVbmRMSXhlMHJKLUluNF9hYmlOZVhCQ2N5RXNrXzZhdXJLYkZGbVRfQjgxNkVLWDE2UEwwdURHbmZZM2dyMTlVd2I2WUdrT0l4b0sxVm11NkFzQ09oNjNUeXRWNVVoUGk0ekJYVXZocm9BWFBB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "88cb7eb1496389",
+      "title": "Heel opvallende beelden: vertrokken Ajacied draagt plots PSV-shirt in stream",
+      "category": "Transfers",
+      "published": "2026-09-05T21:54:45+00:00",
+      "updated": "2026-09-05T21:54:45+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132219/opmerkelijke-beelden-van-voormalig-ajax-talent.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6381c585bc488a",
+      "title": "Baas over interesse van FC Porto: \"Het was een intense periode, maar hartstikke blij dat ik voor Ajax speel\"",
+      "category": "Transfers",
+      "published": "2026-09-05T21:52:40+00:00",
+      "updated": "2026-09-05T21:52:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSVhFMWlNd1drU2R3SGJfTy1jZGNxR2ZaZExDSVViWHNVdHd0TVBwSTVBcUYxQkxUVVlCaEtiVks2TWM2aEExYzI0eFFpRnRJNHFqSDRGTlNqY2o5MlJjS1l3a3B4c3drNHJWVWx4M0h1aThuNlNDOEdlVlNhWHhnX1VzRW9zZDQwRkJTSk4wZExwc0g1SjQtWVFZekRLWk1jdkNJSjFtcDZ0OUNEeGVBSElXQU52MmEydkE0ajdrZjVhcnktU0QxTWNNSXdEQWxRVFM3eFdqME84aVNlZnRFWDlvSkFHaFJzUWc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "83843902c7352b",
+      "title": "Klaassen snapt niets van uitblijven rood na beuk Van Bommel tijdens Ajax-PSV",
+      "category": "Overig",
+      "published": "2026-09-05T21:50:31+00:00",
+      "updated": "2026-09-05T21:50:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam9MNlM2TGlhZmJ4UnZMbWZsY3dCdlktT0g4MWVhUHNMOXJuQmxlbkp2alRISXlqUWVFOTU2YnNUSTNPX3FxNUVzcllxZ1c1WXNxMU1zcU5wVlVnaVZVWm1vbWt5djdDMEhIczFKbmtWa2J2MnpQTzlJNUp2ZW9qcnRQam43LUdtNkhvUnQzSHp1bU1OSEwyMzFTV1FjZVhFb1Z0YlRQeE9CN1V2dzFTTmJCalZiZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "3ac18b4599e322",
       "title": "Bosz slaat terug na kritiek op Van Bommel: 'Families erbij slepen, niet doen'",
@@ -29,17 +104,43 @@
       "related_sources": []
     },
     {
-      "id": "28ed8915b4789f",
-      "title": "Godts toont meteen 'lef' bij PSG: 'Voordat ze twijfelen aan de aankoop...'",
-      "category": "Transfers",
-      "published": "2026-09-05T21:41:01+00:00",
-      "updated": "2026-09-05T21:41:01+00:00",
+      "id": "63f5fc174e37b0",
+      "title": "PSV wint mede dankzij doelpunt Geertruida van Ajax in vermakelijke eerste topper van het seizoen",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T19:59:04+00:00",
+      "updated": "2026-09-05T21:41:02+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjZwbXN3QkV6YkY3VGVCZEQ3aEhQVmdNcmE3MWI4ZEhXd3Y5V3kydzhKSFUtY21iZmV3U25KemJTemZIN3lEUDIzazBMeXNrWkl1dm1wSm4yZDViR0tyQXdJeXZ5R3ZXc0RnYk9kYzZxSlZqc2Z5amVndEJLWmNLQWY1UnBIb0NiR0FIQ2ppVVVNbFlmX0JteDNrelBPM1NDcXRMMnlNc1dDZ2ZOenJ6NGFVRjRHcm1mVHh3M29HTEFXbEFPNk1URzhSWVdqUFVDWmxzdDg1TUlJWFRyYUtr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132156/psv-verslaat-ajax-in-vermakelijke-topper-dankzij-goal-geertruida.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDR3LTBfY1hjRF9iOTJWVEJjR0JfTjZwRWVTdWI3aWVJMGVCR0NLZ2MxWlJ3d3pZbXZ6b2hVWHRDY1FLaFE1cGV4S3JsMklKRXp0MWpQWWFmNXFMeDJHQ0w0S0lFa0JOUVJSbW9JYlNtdFluRWF1WGh2ZVVSNW5yV1h4c1Z0cDB1clFDUGtGUTc1VlpOVE1kdk1HdnNJaURCdlh4LXA1TkFVQmpoLUtVenhsYml0TkNWQUE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "6661bc111c3aff",
+      "title": "Samenvatting Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-05T21:41:00+00:00",
+      "updated": "2026-09-05T21:41:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132210/godts-geniet-van-ajax-afscheid-spreekt-over-psg-start.html",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmd09EMTVuODE1SERPVEdlQ19ZdUhBQ20zQW1LcTE1Tk9rckdjMXpFREJ3QVVhRVNZc2lOM3V2V1dJeUJPTTZldG5IMmtiSEw3QlhCank2ZXN3Qm9VVnBDellOZTBFUmVxOVhPZ2pqNm5TdUQ2?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -116,6 +217,21 @@
       "related_sources": []
     },
     {
+      "id": "3718ffd7eb43c7",
+      "title": "Amrabat vraagt om geduld bij Ajax: 'We hebben tijd nodig, Míchel is geen tovenaar'",
+      "category": "Overig",
+      "published": "2026-09-05T21:30:00+00:00",
+      "updated": "2026-09-05T21:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbl93RUsydXA5aVJ4dGpNZHhTb0lsS3dNRU9mekZvSlFnLWZUSjRKbFIwOFRQVzJfZEhiUDd4bmJKbnNKUU1oNy1YNlphYkhBdlZwUjU5UGtNNm45c0JwaTc2bjZOazVaY20tTTRRbFk0NXdFaUNBOFZVVHZSVG1CS3AxMlpZb0xwV2E1Skh2eU96Y0dpTWpYYjQ2d2lYbmpGb1BkdE5VZGdWbW45TkVZOXFqRlJNRnZ6QmVR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "d998aa1ba101f6",
       "title": "Van Bommel zoekt Bouwman op in Ajax-kleedkamer, Klaassen vindt het een rode kaart",
       "category": "Wedstrijden",
@@ -126,21 +242,6 @@
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2629859",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "da59e8fc74f43d",
-      "title": "Prachtig: Mika Godts kan tranen met moeite bedwingen bij afscheid voor Ajax - PSV",
-      "category": "Overig",
-      "published": "2026-09-05T21:11:19+00:00",
-      "updated": "2026-09-05T21:11:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132127/mika-godts-neemt-afscheid-bij-ajax-voor-ajax-psv.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -257,21 +358,6 @@
       "related_sources": []
     },
     {
-      "id": "83843902c7352b",
-      "title": "Klaassen snapt niets van uitblijven rood na beuk Van Bommel tijdens Ajax-PSV",
-      "category": "Overig",
-      "published": "2026-09-05T20:38:45+00:00",
-      "updated": "2026-09-05T20:38:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam9MNlM2TGlhZmJ4UnZMbWZsY3dCdlktT0g4MWVhUHNMOXJuQmxlbkp2alRISXlqUWVFOTU2YnNUSTNPX3FxNUVzcllxZ1c1WXNxMU1zcU5wVlVnaVZVWm1vbWt5djdDMEhIczFKbmtWa2J2MnpQTzlJNUp2ZW9qcnRQam43LUdtNkhvUnQzSHp1bU1OSEwyMzFTV1FjZVhFb1Z0YlRQeE9CN1V2dzFTTmJCalZiZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "5cc486eff7f1a4",
       "title": "Onbegrip over niet gegeven rode kaart voor Van Bommel: 'Dit is een moordaanslag'",
       "category": "Overig",
@@ -360,32 +446,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "63f5fc174e37b0",
-      "title": "PSV wint mede dankzij doelpunt Geertruida van Ajax in vermakelijke eerste topper van het seizoen",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T19:59:04+00:00",
-      "updated": "2026-09-05T20:16:25+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjZwbXN3QkV6YkY3VGVCZEQ3aEhQVmdNcmE3MWI4ZEhXd3Y5V3kydzhKSFUtY21iZmV3U25KemJTemZIN3lEUDIzazBMeXNrWkl1dm1wSm4yZDViR0tyQXdJeXZ5R3ZXc0RnYk9kYzZxSlZqc2Z5amVndEJLWmNLQWY1UnBIb0NiR0FIQ2ppVVVNbFlmX0JteDNrelBPM1NDcXRMMnlNc1dDZ2ZOenJ6NGFVRjRHcm1mVHh3M29HTEFXbEFPNk1URzhSWVdqUFVDWmxzdDg1TUlJWFRyYUtr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132156/psv-verslaat-ajax-in-vermakelijke-topper-dankzij-goal-geertruida.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDR3LTBfY1hjRF9iOTJWVEJjR0JfTjZwRWVTdWI3aWVJMGVCR0NLZ2MxWlJ3d3pZbXZ6b2hVWHRDY1FLaFE1cGV4S3JsMklKRXp0MWpQWWFmNXFMeDJHQ0w0S0lFa0JOUVJSbW9JYlNtdFluRWF1WGh2ZVVSNW5yV1h4c1Z0cDB1clFDUGtGUTc1VlpOVE1kdk1HdnNJaURCdlh4LXA1TkFVQmpoLUtVenhsYml0TkNWQUE?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "0fc1e805fed573",
@@ -523,21 +583,6 @@
       "related_sources": []
     },
     {
-      "id": "f8f33da9902f2d",
-      "title": "Hugo Borst kan ogen niet geloven bij Ajax-PSV: 'Wat een geweldig mens ook'",
-      "category": "Overig",
-      "published": "2026-09-05T19:23:01+00:00",
-      "updated": "2026-09-05T19:23:01+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132149/hugo-borst-is-lovend-over-tolu-arokodare.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "fa023e785975b8",
       "title": "El Ahmadi ziet één Ajax-speler het Geertruida lastig maken: 'Zo'n slimme speler'",
       "category": "Overig",
@@ -599,62 +644,6 @@
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82ZjlpdlJ6dlZLQ1dFUWF0R1NGQVJHelZhOTNFSVMzck1HRW9yUUtBT2FYXzBuaVhOc2d6REdhWE42WmlfNnZPak9fQ2Zwa0U2cVpfdDh2UENDMHFoM1lnS2NpeWZrQjdpalFqVEtR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "43e0818da2d62d",
-      "title": "Hugo Borst: 'Hij presteerde fantastisch! Ajax is schandalig met hem omgegaan'",
-      "category": "Overig",
-      "published": "2026-09-05T17:48:00+00:00",
-      "updated": "2026-09-05T17:48:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdG1NVDkwWmdkcXJHNnlsR3ZneFg5dG9zcDdqbEUwczN3YmpkQ3NVUjQ5OTdrYUZSbVVuSlVlUjZkV0UzY0hUV0lTcHFMYVlfQmlESGpMYThGWGdWNkZfRUdVMVp3dUd5X3FJTmJZNzVxOWx5dmpBbF9lUFlDdGxYYVMtaUpQZ2dMSW5RMGFrWUJNbHpjcVROMjI5VktaS3lKYmJnN3lPeFMzRDhqUEtqNEFNRlFTcDJJTHcydHBiaVdqSmtxc2c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "79c6351b24ab9e",
-      "title": "Vermoedelijke opstelling Ajax: start Amrabat direct tegen PSV?",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T15:11:04+00:00",
-      "updated": "2026-09-05T17:41:08+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55973/Vermoedelijke-opstelling-PSV",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "1584a9ebede9bb",
-      "title": "Ronald de Boer: ‘Het is ongelooflijk dat Jordi Cruijff hem naar Ajax heeft gehaald’",
-      "category": "Overig",
-      "published": "2026-09-05T17:36:00+00:00",
-      "updated": "2026-09-05T17:36:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkgtcUJKOE5lM1V4XzZYeEROZDVyZ3pEMDVZazUzOE9zQTYxRGFGdF9sZUZ1bmczMnJIc2J5dzNTN2tCa2M5NzBjcHhhY0VhOVVEZGN1SS1Ia0p1NkRhR3B3cV9FWDFqZUFZMGNkUDVJZjJtRHNSeWtMNDJqakNrUnI4Y3RfY1pJV0lPU09BNzRJODczRHJzNkE2QW1pU01PM1h2Rl9Za3lva3pWV0hBSlNaX29yM0FWRnRDWGJLMXBONHRGak1uVm5FNE5tdlcyWkNDU3UwZTAzT2FXeHFlU0VR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
