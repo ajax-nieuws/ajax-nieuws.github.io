@@ -1,29 +1,161 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T19:55:12.000645+00:00",
+    "generated_at": "2026-09-05T20:28:37.512052+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 98,
+    "article_count": 104,
     "event_count": 40,
-    "discovered_event_count": 83,
+    "discovered_event_count": 85,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 104,
-    "excluded_video_only_count": 59,
+    "excluded_paywall_count": 105,
+    "excluded_video_only_count": 52,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "5cc486eff7f1a4",
+      "title": "Onbegrip over niet gegeven rode kaart voor Van Bommel: 'Dit is een moordaanslag'",
+      "category": "Overig",
+      "published": "2026-09-05T20:27:30+00:00",
+      "updated": "2026-09-05T20:27:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/onbegrip-over-niet-gegeven-rode-kaart-voor-van-bommel-dit-is-een-moordaanslag",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "58512e7843d9f2",
+      "title": "Bruggink en Vink zien gemiste rode kaart bij Ajax-PSV: 'Een schandalige actie'",
+      "category": "Overig",
+      "published": "2026-09-05T20:24:17+00:00",
+      "updated": "2026-09-05T20:24:17+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132176/bruggink-en-vink-hekelen-van-bommel-na-harde-charge.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "016533af85eb67",
+      "title": "Ajax - PSV ontspoort verder: ook langs de lijn ontstaat een flinke confrontatie",
+      "category": "Overig",
+      "published": "2026-09-05T20:21:59+00:00",
+      "updated": "2026-09-05T20:21:59+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132173/ajax-psv-ontspoort-verder-ook-langs-de-lijn-flinke-confrontatie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e958347a3feea8",
+      "title": "Klaassen sprak met arbiter over overtreding Van Bommel: 'Hij noemde het ongelukkig'",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T20:18:10+00:00",
+      "updated": "2026-09-05T20:18:10+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/klaassen-sprak-met-arbiter-over-overtreding-van-bommel-noemde-het-ongelukkig",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "63f5fc174e37b0",
+      "title": "PSV wint mede dankzij doelpunt Geertruida van Ajax in vermakelijke eerste topper van het seizoen",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T20:03:45+00:00",
+      "updated": "2026-09-05T20:16:25+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjZwbXN3QkV6YkY3VGVCZEQ3aEhQVmdNcmE3MWI4ZEhXd3Y5V3kydzhKSFUtY21iZmV3U25KemJTemZIN3lEUDIzazBMeXNrWkl1dm1wSm4yZDViR0tyQXdJeXZ5R3ZXc0RnYk9kYzZxSlZqc2Z5amVndEJLWmNLQWY1UnBIb0NiR0FIQ2ppVVVNbFlmX0JteDNrelBPM1NDcXRMMnlNc1dDZ2ZOenJ6NGFVRjRHcm1mVHh3M29HTEFXbEFPNk1URzhSWVdqUFVDWmxzdDg1TUlJWFRyYUtr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132156/psv-verslaat-ajax-in-vermakelijke-topper-dankzij-goal-geertruida.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "7913fbda8b752a",
+      "title": "PSV verslaat Ajax in enerverende topper met twee gezichten",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T19:59:04+00:00",
+      "updated": "2026-09-05T20:15:45+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/psv-verslaat-ajax-in-enerverende-topper-met-twee-gezichten",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjB4MjJhVUF3LUVLZUlRaGpQTGxEUlV2Z3UyR2lKQlNZZGtkenJGdGN6ak84MnR6RG1BNzd1Y19jQ3FYTXh0ZGVXd05SalZIdk85VmFZRVJwYjFmU0VsRDFxT01aS0xYa1Q4aV9WUk04eEVhLTN2WkxjMUQwVmlqZndIelR1Z19yUFRaMVNENklyUjZSdmphOGVCczZhSUFVMkRUT25KM2J0UVZnU1Q2RFJ5MA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "d5feec10660c3a",
+      "title": "Ajax lijdt in verhitte kraker tegen PSV eerste nederlaag dit seizoen",
+      "category": "Blessures",
+      "published": "2026-09-04T15:15:00+00:00",
+      "updated": "2026-09-05T20:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239786/ajax-lijdt-in-verhitte-kraker-tegen-psv-eerste-nederlaag-dit-seizoen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "e3c427334e8973",
       "title": "Vlam in de pan bij Ajax - PSV na kiezelharde overtreding van Ruben van Bommel",
       "category": "Overig",
-      "published": "2026-09-05T19:54:22+00:00",
-      "updated": "2026-09-05T19:54:22+00:00",
+      "published": "2026-09-05T20:02:29+00:00",
+      "updated": "2026-09-05T20:02:29+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132166/vlam-in-de-pan-bij-ajax-psv-na-kiezelharde-overtreding-van-ruben-van-bommel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c5f32cfebd0c8e",
+      "title": "Ajax op rapport: één dissonant tegen PSV, Mokio, Brandt en Tolu sterk",
+      "category": "Overig",
+      "published": "2026-09-05T20:02:00+00:00",
+      "updated": "2026-09-05T20:02:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132157/ajax-op-rapport-een-dissonant-tegen-psv.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -448,51 +580,6 @@
       "related_sources": []
     },
     {
-      "id": "4b99785b0c21bb",
-      "title": "Ajax-parel doet onthulling: 'Mijn rugnummer is een eerbetoon aan Nouri'",
-      "category": "Overig",
-      "published": "2026-09-05T12:17:03+00:00",
-      "updated": "2026-09-05T12:17:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132008/ajax-parel-ouazane-doet-onthulling-mijn-rugnummer-is-een-eerbetoon-aan-nouri.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "206099b59cb60f",
-      "title": "Cruijff houdt zijn woord: zo ziet het Ajax van Míchel eruit voor seizoen 2026/2027",
-      "category": "Club",
-      "published": "2026-09-05T11:44:44+00:00",
-      "updated": "2026-09-05T11:44:44+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131371/zo-ziet-het-ajax-van-cruijff-en-michel-eruit-voor-het-seizoen-2026-2027.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0efe89c7325cc5",
-      "title": "Berghuis ziet grote verandering bij Ajax: 'Niet meer afhankelijk van kop of munt'",
-      "category": "Overig",
-      "published": "2026-09-05T10:46:02+00:00",
-      "updated": "2026-09-05T10:46:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131987/berghuis-ziet-grote-verandering-bij-ajax-onder-michel.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "e736faf5842c34",
       "title": "Ajax - PSV: meer dan de strijd om drie punten - Ajax",
       "category": "Transfers",
@@ -504,21 +591,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tbXZEcS1wYnIxTTNDTDAyejV2bDVJTEZkbW1COEhjd0VEY3RncDJGUUwyNXgyNEZTX25fUWVfaURUcTU2akpQMU4wY3FIalMwVDJ6MTVzMzZmZ2dZTFJNV2xpRUppb1E1VVZBbGVFZmNIOVAyNS0ybVNVUUg?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "924b9d96178e30",
-      "title": "Geelen kon buitenlandse stap maken: 'Maar ik wil Ajax terugbrengen waar het hoort'",
-      "category": "Overig",
-      "published": "2026-09-05T10:23:39+00:00",
-      "updated": "2026-09-05T10:23:39+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131977/geelen-kon-buitenlandse-stap-maken-maar-ik-wil-ajax-terugbrengen-waar-het-hoort.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -578,72 +650,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWC0ydlhETmE5RkI5VnAwMFY2V3NXQ1AwdXdZeEhiV3FyUnRRTmM1T3lGdnZ2Qnc0Y2hmbDk1Wmx0NFZoYU9LY3ZGdm53a0pSdUNDdnk4YWR6NXB1QjUxLXdCcDlJMjljaXN4WG1FTUNaUmstNXBidVR3cHZMOGkyeTF0QTJOT2NQQVhYbE4yNUQ3d3lMRUtRb1Q1Q20?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ea5fa09eb99e03",
-      "title": "Ajax Tapes | The Project - Ajax",
-      "category": "Overig",
-      "published": "2026-09-04T14:59:57+00:00",
-      "updated": "2026-09-05T08:15:00+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QdUNtTER1QXNrR3JacUFOaHlyTmhPNGxkVjcxUkJUdmFQa3ZLMUpjVDU4X3R2Y1pHTFV0OWpuY2d0Z2s2WklSZGprTEFMQUZ2eGNZQ29reXFwSnJpUmNOaUxn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS3lfZjExMmkzcTRKd2k1WnZod1Byb24tSmFSNzNzLWNBemFOZ0RqeFNWZjhoUkxCcUFtaFFNdENuejYxXzY1TTFscjdrOFBScWtDREJRMHZ0RnRKTmItZEFrMHRqUkZnekRaZVdhdXFkSUlrdWNJNUFSM0ZPYnc?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "21049783e5c2c8",
-      "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
-      "category": "Overig",
-      "published": "2026-09-05T07:53:24+00:00",
-      "updated": "2026-09-05T07:53:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-heeft-historisch-weinig-kansen-tegen-ajax-vijf-duels-ongeslagen-in-de-topper",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "81d742960ed911",
-      "title": "Geelen gaat in op ambities van Ajax: 'Laten we eerst focussen op structureel strijden voor titel'",
-      "category": "Overig",
-      "published": "2026-09-05T07:15:00+00:00",
-      "updated": "2026-09-05T07:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT0hQYWZkaEZmRjhBNTllQ1FzYmVGMHhqOFBWa1lTUmMxTFRGT1ZXcUdBemhfUHRuQ21nQ1JVWmJZUVpZSVoxNG1ZV0lQdXo5aDd3MDBFdlY5YnlTSk1ENXdpWmc2cXlKamZPZUhVT2FTdTFSMjZBdXV0UEs2VzRBRlVqSW05d3dTTEJ1M18weUQwYVR3UmZ3ckstM195OUVHS3lGOURtSVRsOGNRZ25HS1VfUUZJcFZNUExyRnNvNnZ2WjV3NmtRaGFNSWZJQ3Jy?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0acae23b197846",
-      "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...'",
-      "category": "Overig",
-      "published": "2026-09-05T07:08:00+00:00",
-      "updated": "2026-09-05T07:08:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1NkYmpPRXRWQ3d4NWFVQnFIU29ma0NWVzJZbXN6SHpDNm42SmVaTERwTUZldTY3VkFEVi1TT3ZCNEw3SGZqSFBYV0lYMlhVTHhvWEJMTFRIYVVFNlBxWTY5SmJsdXpQUVo3U1VBZUxtWk9nX010TUJjR25udFZQUlRJTFpIVFFwWkozMHBCczRTcmFjN0Q5cnRyeklCb2p4Wjg5VUllcE5qaGQ3MW9MdXpZNmk3aEdoZkwtUFVPS0tzdw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
