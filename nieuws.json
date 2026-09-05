@@ -1,29 +1,44 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T07:27:31.701095+00:00",
+    "generated_at": "2026-09-05T07:54:53.532827+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 111,
+    "article_count": 112,
     "event_count": 40,
     "discovered_event_count": 87,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "0acae23b197846",
-      "title": "Ajax corrigeert vernietigend artikel over Jordi Cruijff: 'Het klopt niet'",
+      "id": "21049783e5c2c8",
+      "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
       "category": "Overig",
-      "published": "2026-09-05T07:12:00+00:00",
-      "updated": "2026-09-05T07:12:00+00:00",
+      "published": "2026-09-05T07:53:24+00:00",
+      "updated": "2026-09-05T07:53:24+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1NkYmpPRXRWQ3d4NWFVQnFIU29ma0NWVzJZbXN6SHpDNm42SmVaTERwTUZldTY3VkFEVi1TT3ZCNEw3SGZqSFBYV0lYMlhVTHhvWEJMTFRIYVVFNlBxWTY5SmJsdXpQUVo3U1VBZUxtWk9nX010TUJjR25udFZQUlRJTFpIVFFwWkozMHBCczRTcmFjN0Q5cnRyeklCb2p4Wjg5VUllcE5qaGQ3MW9MdXpZNmk3aEdoZkwtUFVPS0tzdw?oc=5",
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/psv-heeft-historisch-weinig-kansen-tegen-ajax-vijf-duels-ongeslagen-in-de-topper",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "81d742960ed911",
+      "title": "Geelen gaat in op ambities van Ajax: 'Laten we eerst focussen op structureel strijden voor titel'",
+      "category": "Overig",
+      "published": "2026-09-05T07:15:00+00:00",
+      "updated": "2026-09-05T07:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT0hQYWZkaEZmRjhBNTllQ1FzYmVGMHhqOFBWa1lTUmMxTFRGT1ZXcUdBemhfUHRuQ21nQ1JVWmJZUVpZSVoxNG1ZV0lQdXo5aDd3MDBFdlY5YnlTSk1ENXdpWmc2cXlKamZPZUhVT2FTdTFSMjZBdXV0UEs2VzRBRlVqSW05d3dTTEJ1M18weUQwYVR3UmZ3ckstM195OUVHS3lGOURtSVRsOGNRZ25HS1VfUUZJcFZNUExyRnNvNnZ2WjV3NmtRaGFNSWZJQ3Jy?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -85,6 +100,21 @@
       "related_sources": []
     },
     {
+      "id": "0acae23b197846",
+      "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...'",
+      "category": "Overig",
+      "published": "2026-09-05T07:08:00+00:00",
+      "updated": "2026-09-05T07:08:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1NkYmpPRXRWQ3d4NWFVQnFIU29ma0NWVzJZbXN6SHpDNm42SmVaTERwTUZldTY3VkFEVi1TT3ZCNEw3SGZqSFBYV0lYMlhVTHhvWEJMTFRIYVVFNlBxWTY5SmJsdXpQUVo3U1VBZUxtWk9nX010TUJjR25udFZQUlRJTFpIVFFwWkozMHBCczRTcmFjN0Q5cnRyeklCb2p4Wjg5VUllcE5qaGQ3MW9MdXpZNmk3aEdoZkwtUFVPS0tzdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "ecd7040262a776",
       "title": "Brandt verklaart keuze voor Ajax: 'Míchel zorgt voor extreem veel plezier'",
       "category": "Overig",
@@ -132,21 +162,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yM1NvRi1FcEVBdG42NGdTOWRLYV9PdGFiLUpzcXEtVENfWTlUR0c3N29ESFkyZWQwTmotUE5oTmFtU0o5MlVzcGNpcjJQZXJNSFhTZW1iQTgzSmxnR09FeXlyUGN4eVBkaWg0VEFrRVpIellOaWhKX0hHSkhYQQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "21049783e5c2c8",
-      "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
-      "category": "Overig",
-      "published": "2026-09-05T05:20:00+00:00",
-      "updated": "2026-09-05T05:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-heeft-historisch-weinig-kansen-tegen-ajax-vijf-duels-ongeslagen-in-de-topper",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -558,21 +573,6 @@
       "related_sources": []
     },
     {
-      "id": "f6e4e910f5be4a",
-      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
-      "category": "Overig",
-      "published": "2026-09-04T14:47:38+00:00",
-      "updated": "2026-09-04T14:47:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVGdFBldEswSWl4X0xDOXQ5VERnZU1FVzlHVE5fYTB4U1RDQlVpM3g1WVRfVGVRRFUyNkdseDV4QzdYaWRTaHhwa3NiRUNqNncwRWVvSUptQklxdVlWRWpraVpHNlI5Sjc2c1VhUlZpcGNWWXNLLU51TExvTjR1SlFxM2dNT2s1NEJzRjMzTkRCQ2tacTN2WXBHaGNwSng0TUhlT2lTSW93QlFVdnBMNWVIV24xUXVfNGc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "c2a996cde97505",
       "title": "Julian Brandt dolblij met twee nieuwe aanwinsten bij Ajax: 'Hij is heel atletisch, snel en springt hoog'",
       "category": "Transfers",
@@ -633,6 +633,21 @@
       "related_sources": []
     },
     {
+      "id": "0f69a14f6431a9",
+      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
+      "category": "Overig",
+      "published": "2026-09-04T13:18:45+00:00",
+      "updated": "2026-09-04T14:14:29+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dW1jaENoX2dSX1FEaVVpU3M2SU9KeGRLS1ZOT1J0S2QxMVQxSHJPYWxQVzZXaE1tMW1SYUVPOWFNdlVMUzJiNVN1WXZjX1AtcVhaS1hOV3B1ckpweHZwTXVxelRXZ2tCaTlyM3l3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "0d6e3715579411",
       "title": "Voetbalsters PSV en Feyenoord tegen Scandinavische clubs, Ajax naar Kazachstan",
       "category": "Wedstrijden",
@@ -643,21 +658,6 @@
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2629665",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "874ae8f3e434af",
-      "title": "Verweij verwacht opvallende afwezige bij Ajax - PSV: 'Denk dat hij er niet is'",
-      "category": "Blessures",
-      "published": "2026-09-04T14:08:10+00:00",
-      "updated": "2026-09-04T14:08:10+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131724/jordi-cruijff-mogelijk-afwezig-bij-ajax-psv-door-bezoek-aan-familie.html",
         "via_google_news": false
       },
       "related_sources": []
