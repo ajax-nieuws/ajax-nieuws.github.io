@@ -1,18 +1,114 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T18:55:33.842729+00:00",
+    "generated_at": "2026-09-05T19:26:47.830659+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 99,
+    "article_count": 101,
     "event_count": 40,
-    "discovered_event_count": 83,
+    "discovered_event_count": 85,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 61,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "80ae0753140acf",
+      "title": "LIVE: Ajax wisselt en moet op zoek naar gelijkmaker tegen PSV",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T19:24:06+00:00",
+      "updated": "2026-09-05T19:24:06+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2130158/live-ajax-psv.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "89558fbb404600",
+      "title": "Vink geniet van absolute Ajax-uitblinker: 'PSV had daar geen antwoord op'",
+      "category": "Selectie",
+      "published": "2026-09-05T19:23:24+00:00",
+      "updated": "2026-09-05T19:23:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132148/vink-en-bruggink-lyrisch-over-ajax-spits-tolu.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f8f33da9902f2d",
+      "title": "Hugo Borst helemaal om tijdens Ajax-PSV: 'Hij is sterker én beter dan Brobbey'",
+      "category": "Overig",
+      "published": "2026-09-05T19:23:01+00:00",
+      "updated": "2026-09-05T19:23:01+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132149/hugo-borst-is-lovend-over-tolu-arokodare.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fa023e785975b8",
+      "title": "El Ahmadi ziet één Ajax-speler het Geertruida lastig maken: 'Zo'n slimme speler'",
+      "category": "Overig",
+      "published": "2026-09-05T19:18:00+00:00",
+      "updated": "2026-09-05T19:18:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132146/bruggink-geniet-van-fenomenale-treffer-bij-ajax-psv.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "41196c9761452c",
+      "title": "VI Live: Amrabat debuteert voor Ajax in topper tegen PSV",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T19:15:00+00:00",
+      "updated": "2026-09-05T19:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-psv-maken-zich-op-voor-eerste-eredivisie-topper",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3083901cf6c214",
+      "title": "Opstelling PSV: Geertruida gaat tegen Ajax op voor basisdebuut",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T16:55:41+00:00",
+      "updated": "2026-09-05T18:56:24+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/opstelling-psv-geertruida-gaat-tegen-ajax-op-voor-basisdebuut",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "da59e8fc74f43d",
       "title": "Prachtig: Mika Godts kan tranen met moeite bedwingen bij afscheid voor Ajax - PSV",
@@ -29,32 +125,17 @@
       "related_sources": []
     },
     {
-      "id": "80ae0753140acf",
-      "title": "LIVE: Geertruida laat PSV met voorsprong rusten in fantastische topper",
+      "id": "4197601a9978a8",
+      "title": "Ajax-fans zijn eigen speler compleet zat na ‘schandalige actie’ in minuut 27 bij Ajax - PSV: ‘Wissel hem nu!’",
       "category": "Overig",
-      "published": "2026-09-05T18:48:33+00:00",
-      "updated": "2026-09-05T18:48:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2130158/live-ajax-psv.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "41196c9761452c",
-      "title": "VI Live: Geertruida slaat weer toe in de Johan Cruijff Arena",
-      "category": "Club",
       "published": "2026-09-05T18:47:00+00:00",
       "updated": "2026-09-05T18:47:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-psv-maken-zich-op-voor-eerste-eredivisie-topper",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd083MmFOWTBFcEdYc1NabHR4SUFWNUpidnB4dEg3WnVpekpnNFk5QUsxdVV4ci1yS19WdDd4WmRsMlVKRlJrRzgwSE9zd05XTVpHRTNnTExhWGJ2YXBTWF82dkFmQWJqRVBYRGVhUFA2MUhqSnVMQXdtajVUSDRaNm5ib2NRR05oSDRONEx2bHduSXlHZlNRWS16bWZWbXpBbTd4dXlrTnFQVlRuOVZ3S3pqemVPNkoyRFRKT1Y1cEU?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -125,8 +206,8 @@
       ]
     },
     {
-      "id": "3afb71974e3486",
-      "title": "Hugo Borst neemt het op voor Ajax-speler: 'Ze zijn schandalig met hem omgegaan'",
+      "id": "43e0818da2d62d",
+      "title": "Hugo Borst: 'Hij presteerde fantastisch! Ajax is schandalig met hem omgegaan'",
       "category": "Overig",
       "published": "2026-09-05T17:48:00+00:00",
       "updated": "2026-09-05T17:48:00+00:00",
@@ -134,7 +215,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZV9FNnlBVHdTNkZjcWZ0ckVRbDdJdEtOd3Q0TzFvRmtLbHBtNUlBUDdkR3lRaDNJd0hhR29Yb2d5OWNPVDExQkppejRiUGQ3b0k4QkpvV0NPR2xIazVhNFNLWW9CdTQxZFVucnpQRmdnalNEbDk0dTVoS0FTekFLRkNuZnlOQXNMcy1nSE9DYnpGdERNU2syTklZbXFuUnFaNlA0VHhXSkxseHd4RXdJbUtSaWFCamFZRWZreGVfcHc0YjZWWTdNWlhn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdG1NVDkwWmdkcXJHNnlsR3ZneFg5dG9zcDdqbEUwczN3YmpkQ3NVUjQ5OTdrYUZSbVVuSlVlUjZkV0UzY0hUV0lTcHFMYVlfQmlESGpMYThGWGdWNkZfRUdVMVp3dUd5X3FJTmJZNzVxOWx5dmpBbF9lUFlDdGxYYVMtaUpQZ2dMSW5RMGFrWUJNbHpjcVROMjI5VktaS3lKYmJnN3lPeFMzRDhqUEtqNEFNRlFTcDJJTHcydHBiaVdqSmtxc2c?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -162,23 +243,18 @@
     },
     {
       "id": "79c6351b24ab9e",
-      "title": "Vermoedelijke opstelling Ajax: Míchel maakt beslissingen over Amrabat en Kehrer",
+      "title": "Vermoedelijke opstelling Ajax tegen PSV: beslissing over Kehrer en Amrabat",
       "category": "Wedstrijden",
       "published": "2026-09-04T15:11:04+00:00",
       "updated": "2026-09-05T17:41:08+00:00",
-      "source_count": 4,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131816/vermoedelijke-opstelling-ajax-voor-topper-tegen-psv.html",
-        "via_google_news": false
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
@@ -265,27 +341,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "3083901cf6c214",
-      "title": "Opstelling PSV: Geertruida gaat tegen Ajax op voor basisdebuut",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T15:55:49+00:00",
-      "updated": "2026-09-05T16:55:41+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/opstelling-psv-geertruida-gaat-tegen-ajax-op-voor-basisdebuut",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUpBbjV1eTRGWVR2WDJIYjRRMTBUQ1NRWXAzZ20zNFNjXy1kanI0cXJaVXRYaFdhZThXbjgxVjNTNUtIZW9rODNZODlDUjl0YUtPUVFJdWlReHlfVG5hX292aTRha1pUM01kLU8xNlJPZzlWcE0xQ2FoaXctR2hJb0prU2VLM2V4MjlNU2dmeWxCM3JJUmljS0FjeDhFWUFORXpZYWFXSHA?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "cefad53ee4dad0",
@@ -564,21 +619,6 @@
       "related_sources": []
     },
     {
-      "id": "c6e2a309fce947",
-      "title": "Rob Jansen kraakt nieuwe Ajax-koers: 'Heeft weinig met Cruijff-filosofie te maken'",
-      "category": "Club",
-      "published": "2026-09-05T07:09:28+00:00",
-      "updated": "2026-09-05T07:09:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131925/rob-jansen-over-nieuwe-koers-ajax-onder-jordi-cruijff.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "0acae23b197846",
       "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...'",
       "category": "Overig",
@@ -605,57 +645,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjJlcnRCbjB4YmhjX0ozR0xnb0t6SzJFQWxjeXZmMUVRSjVxMmRvZHQ5cHpEVm1ZMkxseUllRDZNZmg4NnliUmdxS3c2Uk9MVFdQdEFib25GT0FteVBhYVU1eERKVlRQR1g0ZGJKZmZsc0hycG9qOUFPX05RVHdEczJsQk45TmZnQ1FwOXZPUHdTdFRXbHJIdEVGWDVob2YzOUR1Q1RfQlpwSld4SktNQ0RKRHl2QzBVSnEzWXFNbw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2a9f04ceeae3c4",
-      "title": "Almere City 0-1 Jong Ajax (4 sep., 2026) Uitslag",
-      "category": "Jong Ajax",
-      "published": "2026-09-04T19:54:00+00:00",
-      "updated": "2026-09-05T06:08:25+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVmtNVWl3UzNkb1lIVUt0ZEJraklnOWtUZE5yN1QxbVZnSjZnWTZqdFV3dThwNFZmeE5sQjZ4NEM4WC1ERTFHbEZXbnZaZld4ZDEzbmltN1VtZDYwcmpFZ0dHTklaR2hqNzRweFVn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55976/Jong-Ajax-boekt-knap-resultaat-en-wint-bij-Almere-City",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "7400cde76845ba",
-      "title": "Spina legt na sterk debuut keuze voor Ajax uit: 'Waarom zou ik niet voor deze club kiezen?'",
-      "category": "Selectie",
-      "published": "2026-09-05T06:00:00+00:00",
-      "updated": "2026-09-05T06:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVl9qNGF3Mmd6MFpiSS0yYV9PQm9fZ3AwLUFIYTJkOURjZFVObEpmV0EtSEhuRXUxT0ROWmdVZlVMNXFBLVdnUVJUQTBMT1VZcXRBWnFEMHVCSXhoRUdmNVh6enlJcGhSLXczTS1ZWG50TVVzRHJSLThEZnUzbkRNOFZmdW54ek9IR19Tc1pDQ2dSMzVqT3ZHeWhMSEIxUEdXRFJNc1IxcUl4NlZHQ3cyV1ZVbXpfSkptMHM3bVV5a055N1M1aFV3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "96cd12bcc2ddbd",
-      "title": "Brandt volgt zijn gevoel met keuze voor Ajax: 'Voetbal moet plezier geven'",
-      "category": "Selectie",
-      "published": "2026-09-05T04:00:02+00:00",
-      "updated": "2026-09-05T04:00:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629735",
-        "via_google_news": false
       },
       "related_sources": []
     }
