@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T22:55:21.268236+00:00",
+    "generated_at": "2026-09-05T23:26:47.653807+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 117,
+    "article_count": 118,
     "event_count": 40,
-    "discovered_event_count": 94,
+    "discovered_event_count": 92,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
@@ -13,6 +13,32 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "5cd1e46d2d72f8",
+      "title": "PSV-trainer Bosz boekt in Amsterdam zijn 200e Eredivisie-zege",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T20:51:28+00:00",
+      "updated": "2026-09-05T23:16:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXNBMjVKTEVOdXczVHlTZ1pCXzNESlZjdWJpVVhKU0xEb045OTJZSmlJbzNERlpIMXdPaHhTT2pZR0lKaEdGVkM3YkViU09QY05kdDdUMkRCRG95VDJwYllGa3ZpQS10QUpJMkZaUUEybFNvSVBvM2ZjbmEzUUd4eUd3Vk16dWlXNVVyNmlveVRrcWtFT1BUQjZ6eVBYY3dUUm1Oa1htcTBLMUJFWHBEX3J6eW4?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzBqMkxOOExDYlRKLVBKR0E2bDBQX2NwWThSaFJIWHNlTmgwdHJqdDlyd1JaMDlib3AzWmJVcjl2cElka0JvczRxYUtaMWRoMXdzYkVldlFqSG5KVUJ1UXpkbkpjektYWWRocDlXRjRqWi1hb0VRUjhsNVlVQl9Kb1NuVmJsQVhxUkpqWVEzY2NNV3BzMFFxRTM4TkZ6TVVycU94eENtbEtHV3hVczVqcHdqVHE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "28ed8915b4789f",
       "title": "Godts toont meteen 'lef' bij PSG: 'Voordat ze twijfelen aan de aankoop...'",
@@ -104,30 +130,19 @@
       "related_sources": []
     },
     {
-      "id": "63f5fc174e37b0",
-      "title": "PSV wint mede dankzij doelpunt Geertruida van Ajax in vermakelijke eerste topper van het seizoen",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:07:19+00:00",
-      "updated": "2026-09-05T21:41:02+00:00",
-      "source_count": 3,
+      "id": "d6dad806e39c8b",
+      "title": "Karim El Ahmadi concludeert na Ajax - PSV: 'Hij zit zeker bij het Nederlands elftal'",
+      "category": "Overig",
+      "published": "2026-09-05T21:45:00+00:00",
+      "updated": "2026-09-05T21:45:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjZwbXN3QkV6YkY3VGVCZEQ3aEhQVmdNcmE3MWI4ZEhXd3Y5V3kydzhKSFUtY21iZmV3U25KemJTemZIN3lEUDIzazBMeXNrWkl1dm1wSm4yZDViR0tyQXdJeXZ5R3ZXc0RnYk9kYzZxSlZqc2Z5amVndEJLWmNLQWY1UnBIb0NiR0FIQ2ppVVVNbFlmX0JteDNrelBPM1NDcXRMMnlNc1dDZ2ZOenJ6NGFVRjRHcm1mVHh3M29HTEFXbEFPNk1URzhSWVdqUFVDWmxzdDg1TUlJWFRyYUtr?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdHhXUFJSX0JWVG9lSkdkQ1k4cHliMVhDaXk3QnZva2dVNXRHNzIyMHRpcFZrZ1NFdjFLczc3d0Q1UU5rNXcwYWhTa2tUUWdWM3pNTUxUOENLY201OTlCSExmaHJOTV9LT3JOeWNJc0gzTHk0NUtlLUdObUFMemNVQXg3c0g5NE5yMjlEOTRQa0hqVWZ6akxsWG9TandYeEpta29DZktmbEVyM3hOSTc0WVoyRWsyN2xvN3E4NXNEdzZnQmc1RXd2emFoZlRyblFJc2tRMUk0WmpOSXBRWFJ1OXMwTQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132156/psv-verslaat-ajax-in-vermakelijke-topper-dankzij-goal-geertruida.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDR3LTBfY1hjRF9iOTJWVEJjR0JfTjZwRWVTdWI3aWVJMGVCR0NLZ2MxWlJ3d3pZbXZ6b2hVWHRDY1FLaFE1cGV4S3JsMklKRXp0MWpQWWFmNXFMeDJHQ0w0S0lFa0JOUVJSbW9JYlNtdFluRWF1WGh2ZVVSNW5yV1h4c1Z0cDB1clFDUGtGUTc1VlpOVE1kdk1HdnNJaURCdlh4LXA1TkFVQmpoLUtVenhsYml0TkNWQUE?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "6661bc111c3aff",
@@ -166,42 +181,6 @@
       ]
     },
     {
-      "id": "72c3659dd3c44a",
-      "title": "Karim El Ahmadi concludeert na Ajax - PSV: 'Hij zit zeker bij het Nederlands elftal'",
-      "category": "Overig",
-      "published": "2026-09-05T21:38:00+00:00",
-      "updated": "2026-09-05T21:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaWs0bUVQMm1pM1ZMamZPWmRMOXJsSnJHUVZBVEVuOWZUMkJSdFo1Q09xc3ZvWTFtd2xWaDFoVDhHc1otd2dJb0lmZi0tV2hIb2wtaHVGT1A3dm1ZcTBJdHltT2JZNWdBcFNYQWVmaEQyV2s0amJxWkJsS0VwVVpGZkppbHZyVmVfUnYzR2ZpMFBDSTRMbVdDeWJIR1lLZnJsVG1XdThYQkdIQ1hsdGtQQ0hwcHozM1d2OC1qSkdoUFFNLVBuZWREMTh3bVBodw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5cd1e46d2d72f8",
-      "title": "PSV-trainer Bosz boekt in Amsterdam zijn 200e Eredivisie-zege",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:51:28+00:00",
-      "updated": "2026-09-05T21:35:52+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzBqMkxOOExDYlRKLVBKR0E2bDBQX2NwWThSaFJIWHNlTmgwdHJqdDlyd1JaMDlib3AzWmJVcjl2cElka0JvczRxYUtaMWRoMXdzYkVldlFqSG5KVUJ1UXpkbkpjektYWWRocDlXRjRqWi1hb0VRUjhsNVlVQl9Kb1NuVmJsQVhxUkpqWVEzY2NNV3BzMFFxRTM4TkZ6TVVycU94eENtbEtHV3hVczVqcHdqVHE?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "fbfd139656f800",
       "title": "Ajax-verdediger blikt terug op afgeketste transfer: 'Ik wil er niets over zeggen'",
       "category": "Transfers",
@@ -230,6 +209,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "0474dac43084a7",
+      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
+      "category": "Selectie",
+      "published": "2026-09-05T20:53:47+00:00",
+      "updated": "2026-09-05T21:23:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "d998aa1ba101f6",
@@ -277,6 +277,21 @@
       "related_sources": []
     },
     {
+      "id": "f2b605ce43a6da",
+      "title": "Ajax 1-3 PSV (5 sep., 2026) speler statistieken",
+      "category": "Overig",
+      "published": "2026-09-05T20:25:36+00:00",
+      "updated": "2026-09-05T20:57:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qTEg5bTd3aDU1VkM4akk2OUVFbEFMdjZXYWY2UUF6RXRXTFdheUM4b2NlT0x6ejN3a2NaMkNqM3FRY0VuTTFkb1JiZFpVU0ZDNzRUWDNkeVMwa2xCRWx3aFF0TlNUa18zQWluVFpWV3VYWk1naTZ4Q19rdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "e04dbf2e639803",
       "title": "Baas blikt terug op 'intense periode' en is duidelijk over Van Bommel",
       "category": "Overig",
@@ -287,21 +302,6 @@
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/baas-blikt-terug-op-intense-periode-en-is-duidelijk-over-van-bommel",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bd18d190c81a29",
-      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
-      "category": "Selectie",
-      "published": "2026-09-05T20:53:47+00:00",
-      "updated": "2026-09-05T20:53:47+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -343,21 +343,6 @@
       "related_sources": []
     },
     {
-      "id": "5e56e2f2718384",
-      "title": "Topper op rapport: vier onvoldoendes bij Ajax, PSV-middenvelder blinkt uit",
-      "category": "Selectie",
-      "published": "2026-09-05T20:42:51+00:00",
-      "updated": "2026-09-05T20:42:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWNhZ3J3Z0d2M2JubkxNZmpid0RZaXltRjAxYW1Pd2pWUW9tY2lpSHNfd3p2UzZkSmY2anZvdDhTMjhqeHVJZUN3VEFDT0hfZ01TSUJ4NXZUelgyZU5JSzFVTENyZkdGWDVwZ3VxNkpqVFdhQnktYkpjTmY3S19JVEtYWG5HSmdVVm1pb0x1MnBNUXVJRTNGZkZkMVVDMUtCNHZic2tfcDNKc3lj?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "5cc486eff7f1a4",
       "title": "Onbegrip over niet gegeven rode kaart voor Van Bommel: 'Dit is een moordaanslag'",
       "category": "Overig",
@@ -384,21 +369,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/til-neemt-het-op-voor-van-bommel-ruben-doet-dit-niet-expres",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "38f83152e66499",
-      "title": "Ajax 1-3 PSV (5 sep., 2026) team statistieken",
-      "category": "Overig",
-      "published": "2026-09-05T20:25:36+00:00",
-      "updated": "2026-09-05T20:25:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xaE5TS0JCaHdOT0FXblV5NXUtUmljNmJPVTJEUV9jZTlDOTFfN1RDNjhuZ190TGtPaG1aSW1jdnMzeDl3Q09ONFdUVGxSNS1DYjF3NTJwZzNhaXZ4QmJpVmhXbVJCU3hNTm84Uy1KcnAxT2NPTWpZUg?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -461,6 +431,32 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "63f5fc174e37b0",
+      "title": "PSV wint mede dankzij doelpunt Geertruida van Ajax in vermakelijke eerste topper van het seizoen",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T19:59:04+00:00",
+      "updated": "2026-09-05T20:16:25+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjZwbXN3QkV6YkY3VGVCZEQ3aEhQVmdNcmE3MWI4ZEhXd3Y5V3kydzhKSFUtY21iZmV3U25KemJTemZIN3lEUDIzazBMeXNrWkl1dm1wSm4yZDViR0tyQXdJeXZ5R3ZXc0RnYk9kYzZxSlZqc2Z5amVndEJLWmNLQWY1UnBIb0NiR0FIQ2ppVVVNbFlmX0JteDNrelBPM1NDcXRMMnlNc1dDZ2ZOenJ6NGFVRjRHcm1mVHh3M29HTEFXbEFPNk1URzhSWVdqUFVDWmxzdDg1TUlJWFRyYUtr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132156/psv-verslaat-ajax-in-vermakelijke-topper-dankzij-goal-geertruida.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMDR3LTBfY1hjRF9iOTJWVEJjR0JfTjZwRWVTdWI3aWVJMGVCR0NLZ2MxWlJ3d3pZbXZ6b2hVWHRDY1FLaFE1cGV4S3JsMklKRXp0MWpQWWFmNXFMeDJHQ0w0S0lFa0JOUVJSbW9JYlNtdFluRWF1WGh2ZVVSNW5yV1h4c1Z0cDB1clFDUGtGUTc1VlpOVE1kdk1HdnNJaURCdlh4LXA1TkFVQmpoLUtVenhsYml0TkNWQUE?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "0fc1e805fed573",
@@ -647,6 +643,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "4197601a9978a8",
+      "title": "Ajax-fans zijn eigen speler compleet zat na ‘schandalige actie’ bij Ajax - PSV: ‘Wissel hem nu!’",
+      "category": "Overig",
+      "published": "2026-09-05T18:46:00+00:00",
+      "updated": "2026-09-05T18:46:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd083MmFOWTBFcEdYc1NabHR4SUFWNUpidnB4dEg3WnVpekpnNFk5QUsxdVV4ci1yS19WdDd4WmRsMlVKRlJrRzgwSE9zd05XTVpHRTNnTExhWGJ2YXBTWF82dkFmQWJqRVBYRGVhUFA2MUhqSnVMQXdtajVUSDRaNm5ib2NRR05oSDRONEx2bHduSXlHZlNRWS16bWZWbXpBbTd4dXlrTnFQVlRuOVZ3S3pqemVPNkoyRFRKT1Y1cEU?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     }
   ]
 }
