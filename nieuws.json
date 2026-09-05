@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T00:38:42.166813+00:00",
+    "generated_at": "2026-09-05T00:56:38.690425+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 110,
+    "article_count": 109,
     "event_count": 40,
     "discovered_event_count": 86,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 43,
+    "excluded_video_only_count": 41,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -40,21 +40,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/op-deze-zender-wordt-zaterdag-topper-tussen-ajax-en-psv-uitgezonden",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "664872d21cc352",
-      "title": "Buitenland: Godts valt in bij verliezend Paris Saint-Germain, oud-Ajacied Idumbo Muzambo scoort winnende",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T21:15:00+00:00",
-      "updated": "2026-09-04T21:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONDB1OXM1NGNiOUFpTy05T0tONWxJUmpXY05sWXQzNXltLXJzbkx5emxWbUt0YnhSZjlXYnVHRENWaVJkekJNa2cxVlNlNmUzOVNiUFBCaWNiU25EX1R4VGM0Tm9UNTlVamFYcjNBSWpTaTlkRjlleWV0Z1FNN09qTkhIYk5YcngtZTVmNVhvT3pwaTY5N2hSd2VSMFQxUS00SEprWUxEWGhWalpEb1ZXMnI1ZTR2OERjT2lybC04NVFUM1RYQURLTVpBNlg3WnJFRG5ERUhZYmJNOEtkVkE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -154,6 +139,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "8d3d62ff187a27",
+      "title": "Abdalla ging in weken van Ajax 1 naar Jong Ajax: 'Moeilijk, want je wil gelijk meer'",
+      "category": "Jong Ajax",
+      "published": "2026-09-04T17:35:00+00:00",
+      "updated": "2026-09-04T17:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlF0N0pueTd1RE9jR2wwcm9GTXlnVWNpbXIwUV96VjUyTkFQb3QwN2s1ZVloZjVobkhlX3hSbTMzaERiWU8yU1o0VnpNZTBGblZiWm9aT3RzTndEWEt1UXNNRlF2aGVyd1R6Wjljb0k3b2lXUkM2Y1c5SVplWTAzTzFPbER4Z3RhbGUzU1I1dUhEM25HZjRYRkVpbURRcE5tLTVZRjQ1eTJIUmlJbksxLUQwalllNUtHelhzQ0xR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "0942ef67e261ff",
@@ -442,6 +442,21 @@
       "related_sources": []
     },
     {
+      "id": "f6e4e910f5be4a",
+      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
+      "category": "Overig",
+      "published": "2026-09-04T14:47:38+00:00",
+      "updated": "2026-09-04T14:47:38+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHVGdFBldEswSWl4X0xDOXQ5VERnZU1FVzlHVE5fYTB4U1RDQlVpM3g1WVRfVGVRRFUyNkdseDV4QzdYaWRTaHhwa3NiRUNqNncwRWVvSUptQklxdVlWRWpraVpHNlI5Sjc2c1VhUlZpcGNWWXNLLU51TExvTjR1SlFxM2dNT2s1NEJzRjMzTkRCQ2tacTN2WXBHaGNwSng0TUhlT2lTSW93QlFVdnBMNWVIV24xUXVfNGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "c2a996cde97505",
       "title": "Julian Brandt dolblij met twee nieuwe aanwinsten bij Ajax: 'Hij is heel atletisch, snel en springt hoog'",
       "category": "Transfers",
@@ -497,21 +512,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVml2UVFPQ1dxQ19jTDI4WjA0OWc3SFgxa0ZYQ0gwczc5VFlkcENpYjZCZXIxd2NPVlowMndwc3FoV0hId2cwZEZkandRdHlaTlRsaXpVdUhrWTJWMEVxZ2xVS3VkSkU3TUM1TEpkREpzMkU3R3YzRy1oY3ZRSzhzRHN1V3ItZnZFWVNYMU05Qjk2TlROR3hOUk4xU0tKSlZIQzVkQWdsQmFqZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0f69a14f6431a9",
-      "title": "Ajax-nieuwkomers beschikbaar voor topper met PSV: \"Amrabat gaat spelen\"",
-      "category": "Overig",
-      "published": "2026-09-04T13:18:45+00:00",
-      "updated": "2026-09-04T14:14:29+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2dW1jaENoX2dSX1FEaVVpU3M2SU9KeGRLS1ZOT1J0S2QxMVQxSHJPYWxQVzZXaE1tMW1SYUVPOWFNdlVMUzJiNVN1WXZjX1AtcVhaS1hOV3B1ckpweHZwTXVxelRXZ2tCaTlyM3l3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
