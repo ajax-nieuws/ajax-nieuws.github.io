@@ -1,18 +1,64 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T11:27:08.863134+00:00",
+    "generated_at": "2026-09-05T11:55:08.605345+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 109,
     "event_count": 40,
-    "discovered_event_count": 91,
+    "discovered_event_count": 89,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 65,
+    "excluded_video_only_count": 66,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "206099b59cb60f",
+      "title": "Cruijff houdt zijn woord: zo ziet het Ajax van Míchel eruit voor seizoen 2026/2027",
+      "category": "Club",
+      "published": "2026-09-05T11:44:44+00:00",
+      "updated": "2026-09-05T11:44:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131371/zo-ziet-het-ajax-van-cruijff-en-michel-eruit-voor-het-seizoen-2026-2027.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "79c6351b24ab9e",
+      "title": "Vermoedelijke opstelling Ajax: Míchel maakt beslissingen over Amrabat en Kehrer",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T13:56:00+00:00",
+      "updated": "2026-09-05T11:38:50+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131816/vermoedelijke-opstelling-ajax-voor-topper-tegen-psv.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55973/Vermoedelijke-opstelling-PSV",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "b1f3216281b89c",
       "title": "Ajax wacht Eredivisie-kraker tegen PSV: dit is de combined XI van Voetbalzone",
@@ -25,21 +71,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1JveHl3REQtQ3FBSjRFRUNWY3FoNTVCeXF3X0dMTjVFbnFvZktEMW5SYVEtMmlOSGJjeXl5UFpvSXYxWUh2aUt5eVQwZlMwTUdxR2oxQUhEaFBIbVl4NGVtcmw4WjVRM2x6RFN1V3Q0S09ZNnFMUk84R3hZRVF1U0JTUGZmUHk0cUZrNzRHdmp0N2RIOTh4VTZvOUxfRnlrbnNEMDhTZzNlYjFOVWdoX2VpVFl3N0E?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "206099b59cb60f",
-      "title": "Cruijff houdt zijn woord: zo ziet het Ajax van Míchel eruit voor seizoen 2026/2027",
-      "category": "Club",
-      "published": "2026-09-05T11:00:00+00:00",
-      "updated": "2026-09-05T11:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131371/zo-ziet-het-ajax-van-cruijff-en-michel-eruit-voor-het-seizoen-2026-2027.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -191,37 +222,6 @@
         {
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NS3lfZjExMmkzcTRKd2k1WnZod1Byb24tSmFSNzNzLWNBemFOZ0RqeFNWZjhoUkxCcUFtaFFNdENuejYxXzY1TTFscjdrOFBScWtDREJRMHZ0RnRKTmItZEFrMHRqUkZnekRaZVdhdXFkSUlrdWNJNUFSM0ZPYnc?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "79c6351b24ab9e",
-      "title": "Vermoedelijke opstelling Ajax: Míchel maakt beslissingen over Amrabat en Kehrer",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T04:56:26+00:00",
-      "updated": "2026-09-05T08:05:00+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131816/vermoedelijke-opstelling-ajax-voor-topper-tegen-psv.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/55973/Vermoedelijke-opstelling-PSV",
-          "via_google_news": false
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -569,8 +569,8 @@
       "related_sources": []
     },
     {
-      "id": "687ec82034036b",
-      "title": "Bosz geniet van voetbalintelligentie en techniek van Ajacied: 'Belangrijke kenmerken'",
+      "id": "0924fc7b3b7fd0",
+      "title": "Bosz wist dat Cruijff veel ging veranderen bij Ajax: 'Dat moest ook wel'",
       "category": "Overig",
       "published": "2026-09-04T16:10:00+00:00",
       "updated": "2026-09-04T16:10:00+00:00",
@@ -578,7 +578,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzRhUHRPOVVXVGRTSXRmc0tXNkpNdDR6WHFjQ0VlWkY3cEQ4YWZ4c1dROS1MeUJPcmdYR1RPdzRJRWJpYW9HVXVHYk9Qamx2MGlNSHM0OW1yTHdIQXBKM193U1hTWDdxX3M1ellnMEcyODFLNlVvcU85Zm43SzRMYUswQzBTZXBpT0FVbkhpdEdVM3RZelN4NkFxQzNrYVBXSzJsOE5nRFJxaHhIbmRqaDJNak83YjNGeWFMeWsxeHYzUWM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXpDczJzSnZMUURpR1VyZVNoOVBXRzYyQllzbkF5QTZURFdWeXptcVlOSDIzSG1PTThrUU1fRzhRcWZjenJzMWtVOHJ1OVpfcDRwZlVIQm85dUJGczM0dFZocHM4M3FBZGVPM1ZDNkVIUmZER3V2X19nMlE3eXU5RnRCaXdBbmpJeTlCbkdEWjgwa1h6UXd2ZDZYcUstWnpZV3Nmd3B4YlJtVF96U2c2cFhB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
