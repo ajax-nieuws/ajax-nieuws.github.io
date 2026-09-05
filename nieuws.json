@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T08:54:57.457999+00:00",
+    "generated_at": "2026-09-05T09:28:01.013580+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 108,
+    "article_count": 112,
     "event_count": 40,
-    "discovered_event_count": 87,
+    "discovered_event_count": 91,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 65,
+    "excluded_video_only_count": 61,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ffe01c1c16bfa7",
+      "title": "Ouazane onthult droomclub: 'Als kleine jongen ooit mijn doelen opgeschreven...'",
+      "category": "Overig",
+      "published": "2026-09-05T09:03:46+00:00",
+      "updated": "2026-09-05T09:03:46+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131958/ouazane-onthult-droomclub-als-kleine-jongen-ooit-mijn-doelen-opgeschreven.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "505fa67c191a89",
+      "title": "De enige Ajacied die overeind blijft in de storm: 'Vleiend als er interesse is'",
+      "category": "Transfers",
+      "published": "2026-09-05T08:57:00+00:00",
+      "updated": "2026-09-05T08:57:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWC0ydlhETmE5RkI5VnAwMFY2V3NXQ1AwdXdZeEhiV3FyUnRRTmM1T3lGdnZ2Qnc0Y2hmbDk1Wmx0NFZoYU9LY3ZGdm53a0pSdUNDdnk4YWR6NXB1QjUxLXdCcDlJMjljaXN4WG1FTUNaUmstNXBidVR3cHZMOGkyeTF0QTJOT2NQQVhYbE4yNUQ3d3lMRUtRb1Q1Q20?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "ea5fa09eb99e03",
       "title": "Ajax Tapes | The Project - Ajax",
@@ -122,7 +152,7 @@
     },
     {
       "id": "0acae23b197846",
-      "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...' - voetbalzone.nl",
+      "title": "Ajax corrigeert vernietigend artikel over Cruijff: 'Jordi is juist...'",
       "category": "Overig",
       "published": "2026-09-05T07:08:00+00:00",
       "updated": "2026-09-05T07:08:00+00:00",
@@ -435,7 +465,7 @@
     },
     {
       "id": "907ced7baa08e6",
-      "title": "Na Ajax, PSV en Feyenoord gaat ook vierde Eredivisie-club voor de landstitel - voetbalzone.nl",
+      "title": "Na Ajax, PSV en Feyenoord gaat ook vierde Eredivisie-club voor de landstitel",
       "category": "Wedstrijden",
       "published": "2026-09-04T16:11:00+00:00",
       "updated": "2026-09-04T16:11:00+00:00",
@@ -531,7 +561,7 @@
     },
     {
       "id": "1f908927f65b22",
-      "title": "Youri Regeer is goudeerlijk over Ajax - voetbalzone.nl",
+      "title": "Youri Regeer is goudeerlijk over Ajax",
       "category": "Overig",
       "published": "2026-09-04T15:05:00+00:00",
       "updated": "2026-09-04T15:05:00+00:00",
@@ -561,7 +591,7 @@
     },
     {
       "id": "c2a996cde97505",
-      "title": "Julian Brandt dolblij met twee nieuwe aanwinsten bij Ajax: 'Hij is heel atletisch, snel en springt hoog' - voetbalzone.nl",
+      "title": "Julian Brandt dolblij met twee nieuwe aanwinsten bij Ajax: 'Hij is heel atletisch, snel en springt hoog'",
       "category": "Transfers",
       "published": "2026-09-04T14:47:00+00:00",
       "updated": "2026-09-04T14:47:00+00:00",
@@ -631,36 +661,6 @@
         "name": "NOS",
         "url": "https://nos.nl/l/2629665",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "874ae8f3e434af",
-      "title": "Verweij verwacht opvallende afwezige bij Ajax - PSV: 'Denk dat hij er niet is'",
-      "category": "Blessures",
-      "published": "2026-09-04T14:08:10+00:00",
-      "updated": "2026-09-04T14:08:10+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131724/jordi-cruijff-mogelijk-afwezig-bij-ajax-psv-door-bezoek-aan-familie.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5a245d8cee71ee",
-      "title": "Voetbalsters PSV en Feyenoord naar Scandinavië, Ajax treft club uit Kazachstan - NU",
-      "category": "Overig",
-      "published": "2026-09-04T14:08:08+00:00",
-      "updated": "2026-09-04T14:08:08+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0pXUURLWmFCSXBMQlFSUUVseHpWNy10eFJBUnVjOE5jUlRHbGxPd0J0TEVzOHZIbzl1SUlYUHAwUEM1bnVBREdXN01fT09vZlRDTDEwUExvWmlpZTl0Y3QyMHhqMEoyZE1ySmE0Y19CTVdsN3Q5bHhGRE9ZelEyOGhVUTFGbHVKaU9VR3JYZlhwU3NOVVpZM0FqZHNVMWhnZ1lQZDgtdW5wRGdqNzNkNUU4eHItY2s?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
