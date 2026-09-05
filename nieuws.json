@@ -1,30 +1,111 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T17:55:06.873991+00:00",
+    "generated_at": "2026-09-05T18:30:25.497663+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 97,
+    "article_count": 100,
     "event_count": 40,
-    "discovered_event_count": 82,
+    "discovered_event_count": 83,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 63,
+    "excluded_video_only_count": 61,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
       "id": "80ae0753140acf",
-      "title": "LIVE: Ajax en PSV maken zich klaar, topper gaat bijna van start",
+      "title": "LIVE: Tolu doet het voor Ajax tegen PSV, topper weer in evenwicht",
       "category": "Wedstrijden",
-      "published": "2026-09-05T17:47:27+00:00",
-      "updated": "2026-09-05T17:47:27+00:00",
+      "published": "2026-09-05T18:24:57+00:00",
+      "updated": "2026-09-05T18:24:57+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2130158/live-ajax-psv.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "41196c9761452c",
+      "title": "VI Live: Tolu zorgt voor blijdschap in Amsterdam en zet Ajax op 1-1 tegen PSV",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T18:23:00+00:00",
+      "updated": "2026-09-05T18:23:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-psv-maken-zich-op-voor-eerste-eredivisie-topper",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "536c6d17e0de16",
+      "title": "El Ahmadi ziet Ajax-speler liever op andere positie: 'Geen speler voor 6-positie'",
+      "category": "Selectie",
+      "published": "2026-09-05T18:10:44+00:00",
+      "updated": "2026-09-05T18:10:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132119/el-ahmadi-ziet-betere-positie-voor-mokio-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "98820c2c255d18",
+      "title": "Ajax - PSV (5 sep., 2026) Live tussenstand",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T10:45:32+00:00",
+      "updated": "2026-09-05T18:08:17+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82ZjlpdlJ6dlZLQ1dFUWF0R1NGQVJHelZhOTNFSVMzck1HRW9yUUtBT2FYXzBuaVhOc2d6REdhWE42WmlfNnZPak9fQ2Zwa0U2cVpfdDh2UENDMHFoM1lnS2NpeWZrQjdpalFqVEtR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7ab1b83a2f125f",
+      "title": "Míchel verklaart reserverol van Ajax-aanwinst: 'Moeten hem stap voor stap brengen'",
+      "category": "Transfers",
+      "published": "2026-09-04T13:20:00+00:00",
+      "updated": "2026-09-05T17:58:32+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132126/michel-verklaart-reserverol-van-ajax-aanwinst.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPajRpck9IMHFzQURLRm1lT21BT1pLR19FalJPVjVvRGFTTUk2bXltUzR4b3hocTMyTmU2VHNyZDVqUUNuT1FRcUp5bGNydDVHUmdidE5PS1M3ZkhUT2RQejVUMV9iRUJXRkFzMDUwc29Da1hmQXFlZC05azJ3X2lqOFpBWkVMZG1odEtKNm1SYVpxeXVtTXZJMmRJNnQtb1pXajZvY1JwWEZOS0U2aG5TdWkxcFdTUVItd3R5NjN3V3R3Y3kxbTZQX3JTYw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "3afb71974e3486",
+      "title": "Hugo Borst neemt het op voor Ajax-speler: 'Ze zijn schandalig met hem omgegaan'",
+      "category": "Overig",
+      "published": "2026-09-05T17:48:00+00:00",
+      "updated": "2026-09-05T17:48:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZV9FNnlBVHdTNkZjcWZ0ckVRbDdJdEtOd3Q0TzFvRmtLbHBtNUlBUDdkR3lRaDNJd0hhR29Yb2d5OWNPVDExQkppejRiUGQ3b0k4QkpvV0NPR2xIazVhNFNLWW9CdTQxZFVucnpQRmdnalNEbDk0dTVoS0FTekFLRkNuZnlOQXNMcy1nSE9DYnpGdERNU2syTklZbXFuUnFaNlA0VHhXSkxseHd4RXdJbUtSaWFCamFZRWZreGVfcHc0YjZWWTdNWlhn?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -107,6 +188,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132107/vink-zag-talent-van-ajax-parel-al-op-jonge-leeftijd.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8861ba7cd1d3f5",
+      "title": "Rondom Ajax: Tifo-actie met megadoek voorbereid op gehele Zuidtribune voor Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-05T17:05:00+00:00",
+      "updated": "2026-09-05T17:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3VGUlh3M0k1OW5qT1hKekR1OERXWldqT0ExdE04c1VsM3RlcTdNZFJNZ2E5emlESDVwcFZRX0RRLVBtZU1TRFh3TGIyNTNILUJYb2ZHS3Mtc1NqTTU1clg0dDlLV093NzZLUU9wSXd1SVFmOFpNTmdSSU1WYjRSTm9HaGR4VndCZXVXdzlEQXBRem43aVBlSEF5Z1AxdlVoLW5LV1VTblZVbVZlZ09vUjdXcktxNlAyMTBPX0IzMGFuUUdYWWdZSTRxNngxUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -408,21 +504,6 @@
       ]
     },
     {
-      "id": "2ec2be05b9190b",
-      "title": "'Na zo'n transferzomer kunnen ze bij Ajax geen genoegen nemen met alleen aanhaken bij PSV'",
-      "category": "Transfers",
-      "published": "2026-09-05T08:10:00+00:00",
-      "updated": "2026-09-05T08:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2RVRndEcTl5OS1iYWFQZFQ0NmQ4R253aGhTM3VlN0tJcnlIbUFRQkhHV2xMRzNGb1RmSDJES1E1WldleUNybDAyWU8tb0Q3UWRVMXdUalFLeUJoeERSY3BnMlloNmZOSnlzZEJJVXhyQVB1am1BcEt4V1VZOVdLcGljbXNjZlhlT1FjVGRXT2xSR1V1UFBVaXkzdEd3QllSMjE3UzFtaGtTNmpQdmVvUU13VWRGOTJCLWU4VEV6bko?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "21049783e5c2c8",
       "title": "PSV heeft historisch weinig kansen tegen, Ajax vijf duels ongeslagen in de topper",
       "category": "Overig",
@@ -564,21 +645,6 @@
       "related_sources": []
     },
     {
-      "id": "25c0e7781d8f94",
-      "title": "Crisis bij Paris Saint-Germain: niet Mika Godts, maar andere ex-Ajacied en Jordan Teze stelen de show",
-      "category": "Overig",
-      "published": "2026-09-04T21:23:00+00:00",
-      "updated": "2026-09-04T21:23:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWNISTNTRDVtM0Y2RzBpZmlXdkV4OTJmc21GT2FGVkJIMzY3dWJGY3RDSjFmWUgxM3N1ek1faHVRUk04V29ZSlloc1VFRjdjSlNpN0hTeTc0VlZCV1dqM2hxQm5BV3k1QlRQelU4WGFtSGZRZDhwdHBCRlc3XzJOc1FXVGhfcUFaU1BxUk10d0U0VjZ5c2U1MGlmRzNray1RNU9oMWVsWTFoRGZLWVVKS2ZodkhrRjhTMW5nNndBRWxZbDRUckUwR1ZTLXFYdEJMMnZXSg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "4cae0b030a573c",
       "title": "Miljoenenaanwinst Ajax dankt zijn opa: 'Hij heeft de rol van mijn vader vervuld'",
       "category": "Transfers",
@@ -590,66 +656,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2131845/ajax-aanwinst-dankt-opa-voor-carriere.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4061f8fe51adb3",
-      "title": "Monserrate matchwinner in Almere - Ajax",
-      "category": "Overig",
-      "published": "2026-09-04T20:30:48+00:00",
-      "updated": "2026-09-04T20:30:48+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLXJVRFQ0MFVBc3hpdW9MY3NOSGpUeDNieHllcFA5YjZPd0wwaWJVR1hSRy1hdndfZ0pUaDNBZzNuX2dtZWx6dWtTd3RyR2E5TFU0emQ1dzFKVWJPQ0JkUUVFRlA2cWxHVVZJTzZkY20?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7ea45f612347c1",
-      "title": "'In de Topper tussen Ajax en PSV ligt de druk bij hen, zij moeten kampioen worden'",
-      "category": "Overig",
-      "published": "2026-09-04T19:26:37+00:00",
-      "updated": "2026-09-04T19:26:37+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131852/kieft-legt-druk-bij-ajax-voor-topper-tegen-psv.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7a7c851d178ceb",
-      "title": "LIVE eredivisie | Topper in Amsterdam: Ajax ontvangt PSV in Johan Cruijf Arena",
-      "category": "Wedstrijden",
-      "published": "2026-09-04T19:00:00+00:00",
-      "updated": "2026-09-04T19:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUM4Y0pPRklJWlBZY2xKcGtTZmFlZTVwQ3dEQ09CMXhWeXA4eXZwY0hKM0Y5VWNWZDQ4MFVjQUJEUDlVZl82VjRMdTd2R01pcXV4ZTNKTXdOUUtKU0tCdHJvUXlFeWVtTnZHTTNJWFlNQ1hES240TTBSYWhVdW5LdkFVN3ozVmhXUy13RmdVd25CeERkX2hNZXRfVWZlWVF6RktfS2I1Z3FSeFhEdU5MaQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8d3d62ff187a27",
-      "title": "Abdalla ging in weken van Ajax 1 naar Jong Ajax: 'Moeilijk, want je wil gelijk meer'",
-      "category": "Jong Ajax",
-      "published": "2026-09-04T17:35:00+00:00",
-      "updated": "2026-09-04T17:35:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlF0N0pueTd1RE9jR2wwcm9GTXlnVWNpbXIwUV96VjUyTkFQb3QwN2s1ZVloZjVobkhlX3hSbTMzaERiWU8yU1o0VnpNZTBGblZiWm9aT3RzTndEWEt1UXNNRlF2aGVyd1R6Wjljb0k3b2lXUkM2Y1c5SVplWTAzTzFPbER4Z3RhbGUzU1I1dUhEM25HZjRYRkVpbURRcE5tLTVZRjQ1eTJIUmlJbksxLUQwalllNUtHelhzQ0xR?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
