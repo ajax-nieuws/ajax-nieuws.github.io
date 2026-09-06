@@ -1,32 +1,94 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T14:28:31.097201+00:00",
+    "generated_at": "2026-09-06T14:54:52.528006+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 122,
+    "article_count": 125,
     "event_count": 40,
-    "discovered_event_count": 100,
+    "discovered_event_count": 99,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 63,
+    "excluded_video_only_count": 61,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "e5057bd9361ecb",
-      "title": "Ajax is Bouwman voorlopig kwijt na botsing met PSV'er Van Bommel",
-      "category": "Blessures",
-      "published": "2026-09-06T14:25:00+00:00",
-      "updated": "2026-09-06T14:25:00+00:00",
+      "id": "93f106efe03ab2",
+      "title": "Ajax geeft Bouwman-update: verdediger voorlopig uitgeschakeld na beuk Van Bommel",
+      "category": "Selectie",
+      "published": "2026-09-06T14:39:55+00:00",
+      "updated": "2026-09-06T14:39:55+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "0474dac43084a7",
+      "title": "Nodige schade bij Bouwman: Ajax-verdediger komt in september niet meer in actie",
+      "category": "Selectie",
+      "published": "2026-09-05T21:23:00+00:00",
+      "updated": "2026-09-06T14:37:40+00:00",
+      "source_count": 5,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1JrSzQxdDVocTJOQV9zcktJRUZfRFg5WDgwbXJTbUFNOHZnVXRJdURnbFFURTVCd3psY0hyTjc0Q0FtNWplcEx6cVVnWE9BMVJCRGNqSUhNLUpYcnZPRGFLQjNmaUxQS3owSjlqOUtjdXBmWEdMYnA2TWx5b0x0WUZ4TjBHUkZzS3F6WE4zSHZtLVZMd3ZRaVNBN0pSRlI4cWs0SUt1NDJUdERNLTNv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHR2TG0xNGc5S250YWltWHpUclpUZzZDSGtpYmlqX2lCMzVzakRiR2dPVGFlWTVrWG1DcVVZUlFZZ0ZjUmRqT0p4MXF2cTFNU1ZMMFhKd2ljd0xoTjhPWlRvR1NMOExNQ0RDeGw3amxfUTJIYTJ1RnVpNjBNLUtMYkVXSWJOdDdLNENqVkN1eW1SMFQxYlM0WkJxbklzV0wyMm93Nw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "184fe3744f5b52",
+      "title": "Bouwman voorlopig uitgeschakeld - Ajax",
+      "category": "Blessures",
+      "published": "2026-09-06T14:21:11+00:00",
+      "updated": "2026-09-06T14:35:04+00:00",
+      "source_count": 3,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TMDhRQjdVNDY1MGhZSlAyVUJJTG5TRXZtSWtoa3NuUlFFYTlMamRORk1qdEtZdS1rbEZ2dWJNRlJZMmM2X1owaTJ5RWZHSDQ2UmVZSTdNS0Z3SXNicGJySXVCektjMklJTklmb3FaWQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+          "via_google_news": false
+        },
+        {
+          "name": "AT5",
+          "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "038c9efcf1f695",
@@ -40,21 +102,6 @@
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnp0U05GZEEzZkNuNUlFbC16eF9hVGRwWW5DT2oxSWZoT05KR2Nqdmh1Y0ZSdmhXSll6SVozeDBUbXktV3BGcnFFMzFBOFVhSUswaUpjWFpUQ1Z3MTZhX2N3NW9VQ2F2WlByazQ5M081WXhzN0VFWTUyc0dnRTZSeko4RjhHRVBUcnlSY0MwUTE4LU9LQ2ktT2ZhbUN4SkNzZ0FkM3RKNE9CRGY0?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "93f106efe03ab2",
-      "title": "Ajax geeft Bouwman-update: verdediger voorlopig uitgeschakeld na beuk Van Bommel",
-      "category": "Selectie",
-      "published": "2026-09-06T14:19:46+00:00",
-      "updated": "2026-09-06T14:19:46+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -416,37 +463,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "0474dac43084a7",
-      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
-      "category": "Selectie",
-      "published": "2026-09-05T21:23:00+00:00",
-      "updated": "2026-09-06T07:45:00+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHR2TG0xNGc5S250YWltWHpUclpUZzZDSGtpYmlqX2lCMzVzakRiR2dPVGFlWTVrWG1DcVVZUlFZZ0ZjUmRqT0p4MXF2cTFNU1ZMMFhKd2ljd0xoTjhPWlRvR1NMOExNQ0RDeGw3amxfUTJIYTJ1RnVpNjBNLUtMYkVXSWJOdDdLNENqVkN1eW1SMFQxYlM0WkJxbklzV0wyMm93Nw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "b232ea8e166d12",
