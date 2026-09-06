@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T04:30:03.326131+00:00",
+    "generated_at": "2026-09-06T04:55:00.665458+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 123,
     "event_count": 40,
-    "discovered_event_count": 99,
+    "discovered_event_count": 100,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 53,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -549,6 +549,21 @@
       "related_sources": []
     },
     {
+      "id": "6c4d1302e13dcc",
+      "title": "Verhitte topper in de Johan Cruijff Arena | Samenvatting Ajax - PSV",
+      "category": "Club",
+      "published": "2026-09-05T20:14:08+00:00",
+      "updated": "2026-09-05T20:14:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oS3RZVlBHbGtSZC1Kd1ZfSURVLUVLY24xMUFaNGVmazJIN3NOT2tndUh1SndFUGM1NlJUZDhmY2JuOFRHUWRRcjZFX1VYbDl2Y0h6YQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "affb3a2c6a2442",
       "title": "Ajax - PSV: Live verslag | 5 september 2026",
       "category": "Wedstrijden",
@@ -635,21 +650,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWxUemlfTkxWSl9RekJESnFBMkZZbUd1VWp3SWg3SDZaTnV4bHFtVG96bk5YbEltRTVIX1Vaa09TNUQ1NFllNko4U2FCNGNGd0pEYTlZRlRWdzZrSnhxNEVSVlJ1Q1JXSnRtMlZ0Z0FhdFlyTXZIemVHaGdsODF2WDdmSm9UbUZHU0wyaW5XbC1GeElwN2xWb3JPNkhsZWEzVmI4ZG5MTk0zSDY5VjVfUWRkWThaWlVWdDE5RnlCZ1UySE9CeTBNdGozSGlRUQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "55bbb97e8e59f9",
-      "title": "Ajax komt net tekort en verliest Topper van PSV",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T19:59:00+00:00",
-      "updated": "2026-09-05T19:59:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55977/Ajax-komt-net-tekort-en-verliest-Topper-van-PSV",
-        "via_google_news": false
       },
       "related_sources": []
     }
