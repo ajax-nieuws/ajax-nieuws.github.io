@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T18:30:33.786909+00:00",
+    "generated_at": "2026-09-06T18:55:52.655574+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 130,
+    "article_count": 128,
     "event_count": 40,
     "discovered_event_count": 102,
     "source_count": 12,
@@ -14,16 +14,46 @@
   },
   "events": [
     {
-      "id": "fe3ac4491cac5b",
-      "title": "De Graafschap Vrouwen stunt net niet tegen Ajax: fout van keepster leidt nipte nederlaag in",
+      "id": "c9c31e65f1f46f",
+      "title": "Perez en Kwakman lovend over één Ajax-speler na topper: 'Hij geeft een signaal af'",
       "category": "Overig",
-      "published": "2026-09-06T18:27:37+00:00",
-      "updated": "2026-09-06T18:27:37+00:00",
+      "published": "2026-09-06T18:55:13+00:00",
+      "updated": "2026-09-06T18:55:13+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb24xamtQM1RHaDliZTNZdDZ2ekc4WFVhdzVKVHdvdW1ib0IxLU1FSGdwYVlqak9yRGlGMTRmakU2WVV4eFdnd3c0UHYtR29UX2Rpa1FZaUE3SnB3ZjBKaFFicmp5c09fZ19vRXlNdk9jTmRVOTRxbS1mWjcwa1lBRG9aSUI0TnM0UnlSVjZRc1F4TS12LUVZNEN2ZTZjYUhGQTdQZy1FRldwSEVGVHFMTXJuSUlsWTJ6el8ybzNROVZlb2p4RlVxVw?oc=5",
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132481/perez-en-kwakman-lovend-over-mokio.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d4a9e69d9598e2",
+      "title": "Kwakman zet vraagtekens bij wisselbeleid Míchel: 'Hem moet je altijd laten staan'",
+      "category": "Club",
+      "published": "2026-09-06T18:41:28+00:00",
+      "updated": "2026-09-06T18:41:28+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132483/kwakman-zet-vraagtekens-bij-wisselbeleid-michel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a5ec132e601da4",
+      "title": "Bertrand Traoré: sierlijke dribbelaar",
+      "category": "Overig",
+      "published": "2026-09-06T18:40:44+00:00",
+      "updated": "2026-09-06T18:40:44+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iblB5T0FNQkJqWURoX3R0NjBkZk13X19QdTBTemQ3RWM1NmlrSGhNR0ZiWjlWb3RpV2dQRVQ5d1loMVRsZmxiNmtXekFIWV8tVlVHMnI0eldmcHQxa0g4MUVRb1ByX0JBZ0sxeFVBQ3NoS19HYkE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -42,6 +72,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "10c979180127a1",
+      "title": "Bouwman voorlopig uitgeschakeld",
+      "category": "Blessures",
+      "published": "2026-09-06T14:25:00+00:00",
+      "updated": "2026-09-06T17:48:35+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRWNfMTRLSUlJMEJYaGNGRktGQXhjdmNLbG56YWtKV0xXd3VzckxDRE80YS1FeV8yMWV4ckhPdWtfTTZQeVBOR1AyOUluZ3FNYVdjOTIxdmtVenVOUzVwSk1FdFpFTElYd3pla0J3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "92f94e66bc836f",
@@ -68,8 +119,8 @@
       "id": "3d20e91aafe6bd",
       "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap",
       "category": "Ajax Vrouwen",
-      "published": "2026-09-06T17:03:45+00:00",
-      "updated": "2026-09-06T17:03:45+00:00",
+      "published": "2026-09-06T17:05:44+00:00",
+      "updated": "2026-09-06T17:05:44+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
@@ -110,7 +161,7 @@
       "related_sources": []
     },
     {
-      "id": "7be5c73ca3e525",
+      "id": "126481724bbdcc",
       "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) team statistieken",
       "category": "Wedstrijden",
       "published": "2026-09-04T20:04:47+00:00",
@@ -255,27 +306,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "184fe3744f5b52",
-      "title": "Bouwman voorlopig uitgeschakeld",
-      "category": "Blessures",
-      "published": "2026-09-06T14:21:11+00:00",
-      "updated": "2026-09-06T14:25:00+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TMDhRQjdVNDY1MGhZSlAyVUJJTG5TRXZtSWtoa3NuUlFFYTlMamRORk1qdEtZdS1rbEZ2dWJNRlJZMmM2X1owaTJ5RWZHSDQ2UmVZSTdNS0Z3SXNicGJySXVCektjMklJTklmb3FaWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "038c9efcf1f695",
@@ -670,36 +700,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlVxcDJ1Nm55bGJzWGZwOEdDSG5ZRnptczFkSC05VWJ0dU5UYUVPOVNILWJVS3RJZmJCUXE1TlhkaG9VUkxVLTIzVmo4WWdHR1J4SlNneVdXeTdKMDM1SjRqaVdKMjFQbGlzS0hHeUdaV05WczZvUzFKYUduNVRNeXd4QlZTOVhHa3E0eld2VHBUTXVSMHRIaHAtSHIwMkFZQzVKVXlSdV9xM2VPMFpfLUxuNTRteFlvVWhuUFcxd0ZBYWdNSGZ5ZE9GZw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b0d3eefb507326",
-      "title": "PSV is titelfavoriet, maar Ajax bewees dat het eindelijk weer serieus te nemen is in een titelstrijd",
-      "category": "Overig",
-      "published": "2026-09-06T08:00:00+00:00",
-      "updated": "2026-09-06T08:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjdXd3ZDS0JuS1F1OG5WQm5vOGo5TFJaMGdYdGNlaFZSSlFTRkJqUFJvN3hodFI4ZW1xWGhNYjRjbEVXYVo4OHpmZ21uZU9GVUtHenowV1pfS1RJRnNvMFlzek80Z2hfdTctYUdlZ2FBRkY0U1huU0VzVDhkZDlqeHdNbmFjcFVSWlZXUTBBOFFVYTA3M2V2X2YzM25qdWI0aUNtRmZMNHdDZDJkSmtVRzNaUzJNblM2UHkxTmxra3M3ZWZMT0NnNXVWdUFfZnJH?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8e719f1ea82d2f",
-      "title": "Bosz geeft complimenten aan Ajax: 'Dit kan een heel goede ploeg worden'",
-      "category": "Overig",
-      "published": "2026-09-06T07:55:00+00:00",
-      "updated": "2026-09-06T07:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/bosz-geeft-complimenten-aan-ajax-ze-zijn-gegroeid",
-        "via_google_news": false
       },
       "related_sources": []
     }
