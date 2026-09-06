@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T16:54:55.235731+00:00",
+    "generated_at": "2026-09-06T17:27:21.907385+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 124,
     "event_count": 40,
-    "discovered_event_count": 100,
+    "discovered_event_count": 98,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
@@ -13,6 +13,57 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "92f94e66bc836f",
+      "title": "FC Twente Vrouwen, AZ (v) en Ajax (v) blijven foutloos, hattrick voor Jill Roord en Floortje Bol",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T17:14:53+00:00",
+      "updated": "2026-09-06T17:18:36+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONjZfYjVhNDlVV3EtcGtFSDBOS0lBbE1iYndIWWdVYnZudjh4TDUwVW5uVVVYdUQwLTNxWEtIc192d3gwRDZBendRWVd5OUp3X2loLURaUktFbjBnamNHbG5VR0s1R0pDQW5mdEJNcWJObUZiQVNoZkhRQVNwWndGRWZneVo4dXViSHBWNmIxcW5Ca0NWSHAwZlNVYjhsX09zdzNkck9yYzBkYU8zdTN0aGFPN1ZoX1lmcGYyWnpJUEg4X2M3cDR5RkZhR3RJOF90YlRKRHBZYw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3FHcE51VDlyRy11ZG13aDFjTkFzQUFqMmFuRXQ5UDlUMU9aWENLU0dkbGNock9ZZWRZeUMxWG5oVWFMY212LTd4a0JBenV2cVNSQUhUZ1JHUEZ6Zmk1R3YtcGRhWFlfUjB1dWFwNVVVUEQ5eDYwbExobWV3c25SUFVMUjV4TWhwbW4zZVBLUnZUX0V6c3JVR0pBUDJxMFlITTFmZ01jUGdmdFByeDc4bXpVNVhDNEFxdXVJ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "3d20e91aafe6bd",
+      "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap - Ajax",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-06T17:03:45+00:00",
+      "updated": "2026-09-06T17:03:45+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNNM0tDRjl5U1BsQ0lVMWx2bjluWFBla1hLV3dRMnI4bUZSa3FzSVpRNmNwY3AtZTdRT2pqYktQbGJzN3diTjFFcDkyclNXNHVVUURQWHJRYWUyNjBEMkdkcDBtazNYT2V6VFRMQ2hELVAxOU1mM0JPbG1JNC12UlloREVnVTFDOUpzMTBJUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2136c894a0a6ea",
+      "title": "Ajax-huurling Carrizo luistert Kopenhagen-debuut direct op met treffer",
+      "category": "Selectie",
+      "published": "2026-09-06T16:57:44+00:00",
+      "updated": "2026-09-06T16:57:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-huurling-carrizo-luistert-kopenhagen-debuut-direct-op-met-treffer",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "d6f4fb3472404c",
       "title": "Ajax-fans woedend na slecht nieuws over Bouwman: 'Schandalig'",
@@ -60,22 +111,22 @@
     },
     {
       "id": "0715e899e6d6bd",
-      "title": "Ajax-verdediger Aaron Bouwman maand uit de roulatie na beuk van Ruben van Bommel",
+      "title": "Ajax geeft Bouwman-update: verdediger voorlopig uitgeschakeld na beuk Van Bommel",
       "category": "Selectie",
       "published": "2026-09-06T14:24:00+00:00",
       "updated": "2026-09-06T14:39:55+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVVKWFhzVExOVFB1U3hmU09YZWMtUDduRjNMNTNnOGhndmM1cVVpOWVSanZia3JtWEdva25yMDBsQTRaUGpYX3hyallKNmhEUFNXYjFFUS1mQVdCX2J3VXFrUHlPb2FxZTJaUXFGZXhWLURGeDcwcTMxamNXSndWV1BCaEIwVWFqeWlSNmJUMGI1RmdMUmI1THpNNWplSmhYNmhmX2FzLXNrSWtUdlY4Q1htWDlPVHc?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
-          "via_google_news": false
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVVKWFhzVExOVFB1U3hmU09YZWMtUDduRjNMNTNnOGhndmM1cVVpOWVSanZia3JtWEdva25yMDBsQTRaUGpYX3hyallKNmhEUFNXYjFFUS1mQVdCX2J3VXFrUHlPb2FxZTJaUXFGZXhWLURGeDcwcTMxamNXSndWV1BCaEIwVWFqeWlSNmJUMGI1RmdMUmI1THpNNWplSmhYNmhmX2FzLXNrSWtUdlY4Q1htWDlPVHc?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -183,7 +234,7 @@
     },
     {
       "id": "038c9efcf1f695",
-      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel - NU",
+      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel",
       "category": "Overig",
       "published": "2026-09-06T14:24:33+00:00",
       "updated": "2026-09-06T14:24:33+00:00",
@@ -244,7 +295,7 @@
     },
     {
       "id": "34c7e944f8bdb6",
-      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma - NU",
+      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma",
       "category": "Wedstrijden",
       "published": "2026-09-06T13:41:36+00:00",
       "updated": "2026-09-06T13:41:36+00:00",
@@ -655,51 +706,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcUx4Q2NoUjZmMEpkRzNQaHhjSmZ0aXdLVk8yWENGT0dRVkNqOGJXbUZVcGRhc3FlTElfaVNpX1U2dnlVSUNBcVRXSEw1eU42Y2VtYzRCUTFwUW9KZEpPMzlqU1gxWXI4eFl3RFdDdWZRaVZoNEM5Z1MxUmRsR2x0LTJOdFJMcTFIVTFWWEUxa3Y4UGZpX19zOW84c2JQWXBPb1lSaGpjMUgxWlZPdG1QaEswSmJKb09wUzk1UFYwaG8tOTlBN0FQc051ckdNRDJqMFd6MS1QLWQ1MXR6NEVsdVpCZjc5bFdNamFz?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "58cc7fb35d5609",
-      "title": "Snoeiharde Borst: 'Dit is een moordaanslag, ik raad hem psycholoog aan'",
-      "category": "Overig",
-      "published": "2026-09-06T07:14:08+00:00",
-      "updated": "2026-09-06T07:14:08+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132184/borst-haalt-uit-naar-van-bommel-moordaanslag.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "88cb7eb1496389",
-      "title": "Heel opvallende beelden: vertrokken Ajacied draagt plots PSV-shirt in stream",
-      "category": "Transfers",
-      "published": "2026-09-06T07:11:34+00:00",
-      "updated": "2026-09-06T07:11:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132219/opmerkelijke-beelden-van-voormalig-ajax-talent.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a46c8fdc76964c",
-      "title": "Scheidsrechtersbaas velt oordeel over Van Bommel: 'Gaat dit niet recht praten'",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T07:11:00+00:00",
-      "updated": "2026-09-06T07:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132244/scheidsrechtersbaas-van-meenen-over-harde-overtreding-van-van-bommel-op-bouwman.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
