@@ -1,24 +1,140 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T06:57:12.265251+00:00",
+    "generated_at": "2026-09-06T07:28:41.512666+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 121,
+    "article_count": 122,
     "event_count": 40,
-    "discovered_event_count": 96,
+    "discovered_event_count": 98,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 55,
+    "excluded_video_only_count": 54,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "58cc7fb35d5609",
+      "title": "Snoeiharde Borst: 'Dit is een moordaanslag, ik raad hem psycholoog aan'",
+      "category": "Overig",
+      "published": "2026-09-06T07:14:08+00:00",
+      "updated": "2026-09-06T07:14:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132184/borst-haalt-uit-naar-van-bommel-moordaanslag.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1dc1629a32d67b",
+      "title": "Míchel wil Ajax niet langs PSV-meetlat leggen en verklaart wissel Tolu",
+      "category": "Overig",
+      "published": "2026-09-06T07:11:41+00:00",
+      "updated": "2026-09-06T07:11:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/michel-wil-ajax-niet-langs-psv-meetlat-leggen-en-verklaart-wissel-tolu",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0474dac43084a7",
+      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
+      "category": "Selectie",
+      "published": "2026-09-05T21:23:00+00:00",
+      "updated": "2026-09-06T07:11:39+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "88cb7eb1496389",
+      "title": "Heel opvallende beelden: vertrokken Ajacied draagt plots PSV-shirt in stream",
+      "category": "Transfers",
+      "published": "2026-09-06T07:11:34+00:00",
+      "updated": "2026-09-06T07:11:34+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132219/opmerkelijke-beelden-van-voormalig-ajax-talent.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a46c8fdc76964c",
+      "title": "Scheidsrechtersbaas velt oordeel over Van Bommel: 'Gaat dit niet recht praten'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T07:11:00+00:00",
+      "updated": "2026-09-06T07:11:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132244/scheidsrechtersbaas-van-meenen-over-harde-overtreding-van-van-bommel-op-bouwman.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f3af281e33b60f",
+      "title": "Zes conclusies: Míchel kan niet meer om uitblinker heen, Van Bommel komt goed weg",
+      "category": "Selectie",
+      "published": "2026-09-06T07:10:06+00:00",
+      "updated": "2026-09-06T07:10:06+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132189/zes-conclusies-na-ajax-psv.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c5f32cfebd0c8e",
+      "title": "Ajax op rapport: één dissonant tegen PSV, Mokio, Brandt en Tolu sterk",
+      "category": "Overig",
+      "published": "2026-09-06T07:10:04+00:00",
+      "updated": "2026-09-06T07:10:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132157/ajax-op-rapport-een-dissonant-tegen-psv.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "091e873e2bae61",
       "title": "'Ajax en PSV laten bondscoach Xavi schrikken met topper van bedroevend niveau'",
       "category": "Overig",
-      "published": "2026-09-06T06:55:04+00:00",
-      "updated": "2026-09-06T06:55:04+00:00",
+      "published": "2026-09-06T07:03:41+00:00",
+      "updated": "2026-09-06T07:03:41+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -48,6 +164,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "e7c3b6c9184836",
+      "title": "Trainer Míchel zegt eerlijk wat hij van Ruben van Bommel vindt na Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-06T06:15:00+00:00",
+      "updated": "2026-09-06T06:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRks1bWlobWE0Q2ZIUlRZcWZWY3F0MmN2MDB1WGJZdUpCcE84c3pBM3lrcVFfRnIyM2ttQWwzNVFVMUFOYlBlallmdDVuUVhFWF9nd3N6UWYxSUk4Qm9ySGZaZlN2c19yTHpLMlRwaWJuRkFVSUp0d3lmS2gydTh2VHgyY096MGRvLVdJdmlsZW9MdExrNWw3SExRRDlVMmQwY2RKUXpvQWRwbUpKZDVLa09BR1ZHQTVyVER5ZHlXSFBIT2VPVVFv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "a6fb3dd2c91a07",
@@ -106,21 +237,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaVRQRlRBd2dzVmRqRVR3eG9Ca0N6VHk0a0I2cHhRUDBTZ1A0anlfU2NHRTlWaE0wSUV2c3AtTWlfNno3aC10UXI3YkVaeWNnQ01pdzdkcEhtWTF2ZkZENnh2Wlduc29rOGVQNGJXWk1jbnAzWXp1VWNnT3AzMnZGVzFDT1Y3aTJGbmEyNlpkQzl2empuQUUyQnI3cTdUWTM4Y1pJXy1yT0xleWtlTVpYV0cxbw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "88cb7eb1496389",
-      "title": "Heel opvallende beelden: vertrokken Ajacied draagt plots PSV-shirt in stream",
-      "category": "Transfers",
-      "published": "2026-09-05T21:54:45+00:00",
-      "updated": "2026-09-05T21:54:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132219/opmerkelijke-beelden-van-voormalig-ajax-talent.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -257,32 +373,6 @@
       ]
     },
     {
-      "id": "0474dac43084a7",
-      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
-      "category": "Selectie",
-      "published": "2026-09-05T20:53:47+00:00",
-      "updated": "2026-09-05T21:33:10+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "fbfd139656f800",
       "title": "Ajax-verdediger blikt terug op afgeketste transfer: 'Ik wil er niets over zeggen'",
       "category": "Transfers",
@@ -298,21 +388,6 @@
       "related_sources": []
     },
     {
-      "id": "ee6479729fe967",
-      "title": "Peter Bosz pakt één persoon keihard aan na Ajax - PSV: dit is waarom Ruben van Bommel niet voor camera verschijnt",
-      "category": "Overig",
-      "published": "2026-09-05T21:26:00+00:00",
-      "updated": "2026-09-05T21:26:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmo1VkthRGQzTW5LbDl0am5PU0RESmFmRFdzOTJvTklTMHJyU0J3dkhJellrOVVNV29xaW95blBSSW9pYVJ6YXB5eVZuS05vVFEtNDFTQ1N6X01UTUdtZjUyOWhwREE4V280eVQxdDJ0ZDJjNHh5bExhYXJ3S0RqV0R1Y29fcmlvSlJKaUZPd2RfaWUyNk5HQ3B1dk1ycUMwVlZ6NE9vRzJVVkVYNlM5LXQtZFVVVTZOY3dqeTlMQ0F5RGY5dUM1SUhjbHpUc3lQWkoyOGQ1OVdMVVJ6Y0RkUTNwcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "d998aa1ba101f6",
       "title": "Van Bommel zoekt Bouwman op in Ajax-kleedkamer, Klaassen vindt het een rode kaart",
       "category": "Wedstrijden",
@@ -323,21 +398,6 @@
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2629859",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "58cc7fb35d5609",
-      "title": "Snoeiharde Borst: 'Dit is een moordaanslag, ik raad hem psycholoog aan'",
-      "category": "Overig",
-      "published": "2026-09-05T21:04:14+00:00",
-      "updated": "2026-09-05T21:04:14+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132184/borst-haalt-uit-naar-van-bommel-moordaanslag.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -407,21 +467,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "f3af281e33b60f",
-      "title": "Zes conclusies: Míchel kan niet meer om uitblinker heen, Van Bommel komt goed weg",
-      "category": "Selectie",
-      "published": "2026-09-05T20:47:26+00:00",
-      "updated": "2026-09-05T20:47:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132189/zes-conclusies-na-ajax-psv.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "5e56e2f2718384",
@@ -544,27 +589,6 @@
       "related_sources": []
     },
     {
-      "id": "63f5fc174e37b0",
-      "title": "PSV wint mede dankzij doelpunt Geertruida van Ajax in vermakelijke eerste topper van het seizoen",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:07:19+00:00",
-      "updated": "2026-09-05T20:16:25+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMjZwbXN3QkV6YkY3VGVCZEQ3aEhQVmdNcmE3MWI4ZEhXd3Y5V3kydzhKSFUtY21iZmV3U25KemJTemZIN3lEUDIzazBMeXNrWkl1dm1wSm4yZDViR0tyQXdJeXZ5R3ZXc0RnYk9kYzZxSlZqc2Z5amVndEJLWmNLQWY1UnBIb0NiR0FIQ2ppVVVNbFlmX0JteDNrelBPM1NDcXRMMnlNc1dDZ2ZOenJ6NGFVRjRHcm1mVHh3M29HTEFXbEFPNk1URzhSWVdqUFVDWmxzdDg1TUlJWFRyYUtr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132156/psv-verslaat-ajax-in-vermakelijke-topper-dankzij-goal-geertruida.html",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
       "id": "0fc1e805fed573",
       "title": "Scheidsrechtersbaas geeft direct na Ajax - PSV uitsluitsel over beuk Ruben van Bommel aan Aaron Bouwman",
       "category": "Wedstrijden",
@@ -627,36 +651,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktGRkRwTGJCZFExTGZBY093ek5oSmotaTdrN19hWW84TVdyQzk4S0lvcXVLTzl6akh5TUlGOHRmbmNmZUxySkJYQVBzUTdBZWl6a3FPYklQYVNZSjNnWnUzNHhGV0FYWXhtS2V5WjNtWnMyelpiNTlWc1VoQVJnWXYtUW5DenhYdGIxTnFMVlBQN2M3c0xrZWdfYTZpbGhsbU1lWHFpLWJWUGRlUVdBbVNqQkZkbXJEN0tmdC1n?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "76364e887327d9",
-      "title": "Ajax - PSV: Spelerstatistieken | 5 september 2026",
-      "category": "Overig",
-      "published": "2026-09-05T20:10:58+00:00",
-      "updated": "2026-09-05T20:10:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjNyVHNGMF8wTEFIbk5nR2MtMEtwWDlFY3BxM3lIaVNUWUl3Z2syN3drNE53SEFhaXlrNkJobk8yaUtFdHlheEVuZVNTcnZNaC0zSGxEZUQzR1hrZndBanFqSnFSVnZSMUg4Q0pUX0dLa2JYa3NuQnlGT1JuMWxmcVEzUzI0b3BNWXZ4VTQ0QmpNVERqQzMtanB5eVp2MmxXZ0JFdlhtTS01SDVtSDJBOU96SWlFaWM5cU9sT25ybElCdkRfblE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d5feec10660c3a",
-      "title": "Ajax lijdt in verhitte kraker tegen PSV eerste nederlaag dit seizoen",
-      "category": "Blessures",
-      "published": "2026-09-04T15:15:00+00:00",
-      "updated": "2026-09-05T20:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239786/ajax-lijdt-in-verhitte-kraker-tegen-psv-eerste-nederlaag-dit-seizoen",
-        "via_google_news": false
       },
       "related_sources": []
     }
