@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T10:54:59.238846+00:00",
+    "generated_at": "2026-09-06T11:27:44.336399+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 124,
+    "article_count": 125,
     "event_count": 40,
-    "discovered_event_count": 99,
+    "discovered_event_count": 103,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 105,
-    "excluded_video_only_count": 57,
+    "excluded_paywall_count": 104,
+    "excluded_video_only_count": 58,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b3765c0f87ac56",
+      "title": "Verhitte Ajax-PSV valt op in buitenland: 'Brutale overtreding zorgt voor chaos'",
+      "category": "Overig",
+      "published": "2026-09-06T11:21:56+00:00",
+      "updated": "2026-09-06T11:21:56+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/verhitte-ajax-psv-valt-op-in-buitenland-brutale-overtreding-zorgt-voor-chaos",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "83a3f9e0ead472",
+      "title": "Scheidsrechtersbaas KNVB vindt dat Van Bommel rood moest krijgen tegen Ajax - NU",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T11:16:01+00:00",
+      "updated": "2026-09-06T11:16:01+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFlEQWhkRHpvRkt1VzB0TEQ2c0tPdkQxRkRobVRKUGtNQUNKNThqTEhVTUJKN1ZMRXJrT2loODBSaTF2V0FoaWs2cW5ZaTItVFRxdlVOaGUxSlJrMW9sY3ljdzYxSDRLMENNY2g4YURPUGNQLW5zT2lxWDI2ckxOWXVXWFZfNXdKck5Wd0lsRzgyS2FvS3lacUVBU2FjbkZnLU5EaF9ic0JKNlJ2bGFNdEYwT04?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "548cce935fdb73",
+      "title": "'Ajax wilde me houden, maar ik was er na één jaar wel een beetje klaar mee'",
+      "category": "Overig",
+      "published": "2026-09-06T11:15:00+00:00",
+      "updated": "2026-09-06T11:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132351/theo-janssen-was-na-een-seizoen-helemaal-klaar-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "f3023d932727bc",
       "title": "Driessen schrikt van Oranje-kandidaat: 'Voor een trainer ben je dan onbetrouwbaar'",
@@ -141,6 +186,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3VSYXNkQnpaMkRrMW92dnhuWV9QdzVDMW1UZF82QjVOVlc5eHBqc3JfaHJWeUxYRV9NVGZCZ3VtSC14Q1pVeERoS0ZRTGQ4bkNWalR6ZFdLSDVkU3lBb0N4UEotb2FQVW5hZmJHSW80V0liMEw5Y3E2YU1RYTNONVN6QThrdVM0MklFX3VHcU1JWkNBRVl2MUhzUldIaENxdVpIb09TbVpMQlZ4RThkZTFBRVpwNXRISFNkeklwbEtmNDg0RGV0MA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "89640a60299aef",
+      "title": "Interne steun bij Ajax voor Jordi Cruijff",
+      "category": "Overig",
+      "published": "2026-09-06T08:05:00+00:00",
+      "updated": "2026-09-06T08:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlVxcDJ1Nm55bGJzWGZwOEdDSG5ZRnptczFkSC05VWJ0dU5UYUVPOVNILWJVS3RJZmJCUXE1TlhkaG9VUkxVLTIzVmo4WWdHR1J4SlNneVdXeTdKMDM1SjRqaVdKMjFQbGlzS0hHeUdaV05WczZvUzFKYUduNVRNeXd4QlZTOVhHa3E0eld2VHBUTXVSMHRIaHAtSHIwMkFZQzVKVXlSdV9xM2VPMFpfLUxuNTRteFlvVWhuUFcxd0ZBYWdNSGZ5ZE9GZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -393,32 +453,22 @@
       "related_sources": []
     },
     {
-      "id": "5cd1e46d2d72f8",
-      "title": "PSV-trainer Bosz boekt in Amsterdam zijn 200e Eredivisie-zege",
+      "id": "ae0b379dc2b144",
+      "title": "Internationale pers ziet PSV winnen in Amsterdam: 'Dat kostte Ajax weer de zege'",
       "category": "Wedstrijden",
-      "published": "2026-09-05T20:51:28+00:00",
+      "published": "2026-09-05T23:16:00+00:00",
       "updated": "2026-09-06T06:25:00+00:00",
-      "source_count": 4,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132238/dit-schrijft-internationale-pers-over-ajax-psv-1-3.html",
         "via_google_news": false
       },
       "related_sources": [
         {
           "name": "AD",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXNBMjVKTEVOdXczVHlTZ1pCXzNESlZjdWJpVVhKU0xEb045OTJZSmlJbzNERlpIMXdPaHhTT2pZR0lKaEdGVkM3YkViU09QY05kdDdUMkRCRG95VDJwYllGa3ZpQS10QUpJMkZaUUEybFNvSVBvM2ZjbmEzUUd4eUd3Vk16dWlXNVVyNmlveVRrcWtFT1BUQjZ6eVBYY3dUUm1Oa1htcTBLMUJFWHBEX3J6eW4?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132238/dit-schrijft-internationale-pers-over-ajax-psv-1-3.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzBqMkxOOExDYlRKLVBKR0E2bDBQX2NwWThSaFJIWHNlTmgwdHJqdDlyd1JaMDlib3AzWmJVcjl2cElka0JvczRxYUtaMWRoMXdzYkVldlFqSG5KVUJ1UXpkbkpjektYWWRocDlXRjRqWi1hb0VRUjhsNVlVQl9Kb1NuVmJsQVhxUkpqWVEzY2NNV3BzMFFxRTM4TkZ6TVVycU94eENtbEtHV3hVczVqcHdqVHE?oc=5",
           "via_google_news": true
         }
       ]
@@ -544,21 +594,6 @@
       "related_sources": []
     },
     {
-      "id": "28ed8915b4789f",
-      "title": "Godts toont meteen 'lef' bij PSG: 'Voordat ze twijfelen aan de aankoop...'",
-      "category": "Transfers",
-      "published": "2026-09-05T21:41:01+00:00",
-      "updated": "2026-09-05T21:41:01+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132210/godts-geniet-van-ajax-afscheid-spreekt-over-psg-start.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "6661bc111c3aff",
       "title": "Samenvatting Ajax - PSV",
       "category": "Overig",
@@ -604,64 +639,25 @@
       "related_sources": []
     },
     {
-      "id": "c65493f07e6a95",
-      "title": "Ajax - PSV: Spelerstatistieken | 5 september 2026",
-      "category": "Overig",
-      "published": "2026-09-05T21:18:50+00:00",
-      "updated": "2026-09-05T21:18:50+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSVJKQk9nbUNvS2FzbVdSa0t3TU1yRGJzTTBtSkd4OUtMb3J4YVg2UWE0Z1dxNU95eTZEc1ZMcjZoZUhjRDY5TlE5d3ZUOXdxd2FhWFhRNHViVVFQVVhOalg2dUNwZ1Y5WnVBdVVJWnNJejhFdGJVZXExYVBOdzlfWFJIbGoxLVU3dnRZa2tUSWtPNUM3a0JHYVdfRW41UHNwUDZCNWNiY2NBTG5FSTZTTUlqeXAza2VCb1RaT2FQRTB5TmxGRWQxXzNIWldDTGlR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f2b605ce43a6da",
-      "title": "Ajax 1-3 PSV (5 sep., 2026) speler statistieken",
-      "category": "Overig",
-      "published": "2026-09-05T20:25:36+00:00",
-      "updated": "2026-09-05T20:57:40+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qTEg5bTd3aDU1VkM4akk2OUVFbEFMdjZXYWY2UUF6RXRXTFdheUM4b2NlT0x6ejN3a2NaMkNqM3FRY0VuTTFkb1JiZFpVU0ZDNzRUWDNkeVMwa2xCRWx3aFF0TlNUa18zQWluVFpWV3VYWk1naTZ4Q19rdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e04dbf2e639803",
-      "title": "Baas blikt terug op 'intense periode' en is duidelijk over Van Bommel",
-      "category": "Overig",
-      "published": "2026-09-05T20:56:00+00:00",
-      "updated": "2026-09-05T20:56:00+00:00",
-      "source_count": 1,
+      "id": "5cd1e46d2d72f8",
+      "title": "PSV-trainer Bosz boekt in Amsterdam zijn 200e Eredivisie-zege",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T20:51:28+00:00",
+      "updated": "2026-09-05T21:35:52+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/baas-blikt-terug-op-intense-periode-en-is-duidelijk-over-van-bommel",
+        "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
         "via_google_news": false
       },
-      "related_sources": []
-    },
-    {
-      "id": "5e56e2f2718384",
-      "title": "Topper op rapport: vier onvoldoendes bij Ajax, PSV-middenvelder blinkt uit",
-      "category": "Selectie",
-      "published": "2026-09-05T20:42:51+00:00",
-      "updated": "2026-09-05T20:42:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWNhZ3J3Z0d2M2JubkxNZmpid0RZaXltRjAxYW1Pd2pWUW9tY2lpSHNfd3p2UzZkSmY2anZvdDhTMjhqeHVJZUN3VEFDT0hfZ01TSUJ4NXZUelgyZU5JSzFVTENyZkdGWDVwZ3VxNkpqVFdhQnktYkpjTmY3S19JVEtYWG5HSmdVVm1pb0x1MnBNUXVJRTNGZkZkMVVDMUtCNHZic2tfcDNKc3lj?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzBqMkxOOExDYlRKLVBKR0E2bDBQX2NwWThSaFJIWHNlTmgwdHJqdDlyd1JaMDlib3AzWmJVcjl2cElka0JvczRxYUtaMWRoMXdzYkVldlFqSG5KVUJ1UXpkbkpjektYWWRocDlXRjRqWi1hb0VRUjhsNVlVQl9Kb1NuVmJsQVhxUkpqWVEzY2NNV3BzMFFxRTM4TkZ6TVVycU94eENtbEtHV3hVczVqcHdqVHE?oc=5",
+          "via_google_news": true
+        }
+      ]
     }
   ]
 }
