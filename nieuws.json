@@ -1,32 +1,53 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T14:54:52.528006+00:00",
+    "generated_at": "2026-09-06T15:28:39.652030+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 125,
+    "article_count": 122,
     "event_count": 40,
-    "discovered_event_count": 99,
+    "discovered_event_count": 98,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 61,
+    "excluded_video_only_count": 60,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "93f106efe03ab2",
-      "title": "Ajax geeft Bouwman-update: verdediger voorlopig uitgeschakeld na beuk Van Bommel",
-      "category": "Selectie",
-      "published": "2026-09-06T14:39:55+00:00",
-      "updated": "2026-09-06T14:39:55+00:00",
+      "id": "7be5c73ca3e525",
+      "title": "Ajax - De Graafschap Vrouwen (6 sep., 2026) Live tussenstand",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T20:04:47+00:00",
+      "updated": "2026-09-06T14:54:11+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nU3ktYXo3Y2hjMURCYkhyMDl5VEJMbEVONE5VajAxNDdyTms3QlZWMWlhemo4eUVTRk5aU3cwZk5NN2poeGVIa1QzXzQyOGtyRnZsenY2T3J3VTFXb3AtcjdsS1JNMG5JSHFGcTJB?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "0715e899e6d6bd",
+      "title": "Ajax-verdediger Aaron Bouwman maand uit de roulatie na beuk van Ruben van Bommel",
+      "category": "Selectie",
+      "published": "2026-09-06T14:24:00+00:00",
+      "updated": "2026-09-06T14:39:55+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVVKWFhzVExOVFB1U3hmU09YZWMtUDduRjNMNTNnOGhndmM1cVVpOWVSanZia3JtWEdva25yMDBsQTRaUGpYX3hyallKNmhEUFNXYjFFUS1mQVdCX2J3VXFrUHlPb2FxZTJaUXFGZXhWLURGeDcwcTMxamNXSndWV1BCaEIwVWFqeWlSNmJUMGI1RmdMUmI1THpNNWplSmhYNmhmX2FzLXNrSWtUdlY4Q1htWDlPVHc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "0474dac43084a7",
@@ -65,12 +86,42 @@
       ]
     },
     {
+      "id": "0bb5b0376668aa",
+      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
+      "category": "Blessures",
+      "published": "2026-09-06T14:31:00+00:00",
+      "updated": "2026-09-06T14:31:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bcc96174a0551a",
+      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel",
+      "category": "Overig",
+      "published": "2026-09-06T14:28:00+00:00",
+      "updated": "2026-09-06T14:28:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEd1Y2xzSVJ2eUFxQUxmRXYtMUlneVpkckFUQVVwa1F5LVBIQVZoSjhZOUVYZG9INF9UTTk3cEhOR1UzakpGOFpaUEpoQ3F5cEtxUUp4aXhlTDhTNWYtUkJGS1JjeU1TTUJuTi1BSFpGUndSX0ZNeVJaMF9EU2ZfUEdGUEhkNDliYWtJWnVldV84MERYZm5TZUhUVGd2M3BxZkJTRlJNLVFsRV9JQWpCT0REenFCWG9hUWd2ZGw1SHRXYk1sR0RYV3V2S0NyMzRSMHYwTnk0NlExX3NsZWRxbVNzcw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "184fe3744f5b52",
       "title": "Bouwman voorlopig uitgeschakeld - Ajax",
       "category": "Blessures",
       "published": "2026-09-06T14:21:11+00:00",
-      "updated": "2026-09-06T14:35:04+00:00",
-      "source_count": 3,
+      "updated": "2026-09-06T14:25:00+00:00",
+      "source_count": 2,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -81,11 +132,6 @@
         {
           "name": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
-          "via_google_news": false
-        },
-        {
-          "name": "AT5",
-          "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
           "via_google_news": false
         }
       ]
@@ -104,6 +150,42 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "0a1a23cb61e987",
+      "title": "Ajax O15 wint mini-Klassieker, Ajax O19 blijft ongeslagen - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T20:51:28+00:00",
+      "updated": "2026-09-06T13:46:28+00:00",
+      "source_count": 6,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelp0MHc4d3JpY3JCLWZlV2dRMERSdjZYU2Nzb2pxeERBY29CMnBjSTZpX3czclllUExDNTJrTmdoVmI3eWZ0M2FZZ3lhMWVtTktqWFE2cE5KY1pmZm1YSk93ME5aRGNUcExkNmd6YklmcjBXYzFVTEhzZFQtYUtLbk95V3hCQkx4Y05sWEk3RklLWGE2UTk4Zl9mbTE4RFFNVnd6WHFPODM4U2M?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "NOS",
+          "url": "https://nos.nl/l/2629885",
+          "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzhUcWpraDVBQUlEN2xfTV9WRUNpcy1IVDJiZkstd2FQZ3V4YlNGQzdHMEZjTmktdU1MWEFLSUpvS1FMV0Z4dUhFQlV2dmIzMTRKUjhpSVNTNVlQMGRWcmN2YTJzMm5aVkZUY3BRUmV6ZDkzQWg4b3dWN3RZMEo2aGFTUFVNdEltZnV6M29qRnJPY2RYUW9fN0FMMFgzLU1tcGpYLTZ1Y2x6ZmZuQ0ZsalhCWUpRcXNaeWs3NFFQUFlVc2s?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
+          "via_google_news": false
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132238/dit-schrijft-internationale-pers-over-ajax-psv-1-3.html",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "34c7e944f8bdb6",
@@ -155,32 +237,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "0a1a23cb61e987",
-      "title": "Ajax O15 wint mini-Klassieker, Ajax O19 blijft ongeslagen - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T08:06:43+00:00",
-      "updated": "2026-09-06T12:35:41+00:00",
-      "source_count": 3,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelp0MHc4d3JpY3JCLWZlV2dRMERSdjZYU2Nzb2pxeERBY29CMnBjSTZpX3czclllUExDNTJrTmdoVmI3eWZ0M2FZZ3lhMWVtTktqWFE2cE5KY1pmZm1YSk93ME5aRGNUcExkNmd6YklmcjBXYzFVTEhzZFQtYUtLbk95V3hCQkx4Y05sWEk3RklLWGE2UTk4Zl9mbTE4RFFNVnd6WHFPODM4U2M?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "NOS",
-          "url": "https://nos.nl/l/2629885",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFAzRl9KUlFZRXh5SFlGX3h5VTA3TzhvZTlwQ21kQXc1Nl9BYzFmVzcwQVIwQ0tUcVE3NnNnbzFJT3plWXA3ZlpBZ1gxS3FNRmp5Z2VHM2tKTTRzR1c3VkFWMnIzb3NqWWZjdGgzWmR6LWhxQW1UVWQtcTQ2N0tDMVc4Y1pveDdhcnM1NEJSYU9zbTd6V3ZvRWgtcTVqeXV6WXg4WHJEbFNrVldJOGRyNEx0UQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "2b0a76b6980a7d",
@@ -465,19 +521,25 @@
       "related_sources": []
     },
     {
-      "id": "b232ea8e166d12",
+      "id": "09356ec876cc0b",
       "title": "Vink vernietigend over Ajax-debutant: 'Dit is hoe een pupil verdedigt!'",
       "category": "Overig",
-      "published": "2026-09-06T07:45:00+00:00",
+      "published": "2026-09-05T21:04:00+00:00",
       "updated": "2026-09-06T07:45:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132255/vink-en-el-ahmadi-kritisch-op-ajax-aanwinst-tsygankov-na-invalbeurt-tegen-psv.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmNiUklTV3NJenNEODFCdU9zU0lqbl9QMG9sWE1xX2ZlQTl1bXBUVUo4WnBENEluT3lBMzJ2cC1tbzdCQmVPMDM2YnNHQlRMSzRZZHYxUTl0ZXdUc2JlbkFPUlFIOW1YdjVmM24wa2k1OGZxRjViRVBrVUtXdlRleE5wYTdnRGlvTmVMa29KOUZ4S0ZmU3RUdURqWGFTUXJOZ3F1R05wOU8zMG9fZkRHR29LaURZLXFTTWowa29kaHJnbDRaR1ZYWA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "ac0c063c5b0c23",
@@ -626,57 +688,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMU54TVZnbUxhNXVac1F0ZTctb1hfSnRxSWoycTVweVdDVlZGdmJhWTBqb3ZpS1pJTDA1MFF1NG03dTNlTnhUMkhCMWZ1elZZeFN1dkRCV3dFUE9GZTVQZVZrRERKMDVEeXJpSldTX1VXSTVmeTNIc2UzaUpSZnZZSGJ6ZzB6aTVaYWxiV3VFLVF4YkxyMXVhb1lBNi1HYjJXcWlRaDRDTjJ3OEh1NkhnOGhaMzZDbWFmMC1KNDRHVHVING52R0FR?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ae0b379dc2b144",
-      "title": "Internationale pers ziet PSV winnen in Amsterdam: 'Dat kostte Ajax weer de zege'",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T23:16:00+00:00",
-      "updated": "2026-09-06T06:25:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132238/dit-schrijft-internationale-pers-over-ajax-psv-1-3.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXNBMjVKTEVOdXczVHlTZ1pCXzNESlZjdWJpVVhKU0xEb045OTJZSmlJbzNERlpIMXdPaHhTT2pZR0lKaEdGVkM3YkViU09QY05kdDdUMkRCRG95VDJwYllGa3ZpQS10QUpJMkZaUUEybFNvSVBvM2ZjbmEzUUd4eUd3Vk16dWlXNVVyNmlveVRrcWtFT1BUQjZ6eVBYY3dUUm1Oa1htcTBLMUJFWHBEX3J6eW4?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "e7c3b6c9184836",
-      "title": "Trainer Míchel zegt eerlijk wat hij van Ruben van Bommel vindt na Ajax - PSV",
-      "category": "Overig",
-      "published": "2026-09-06T06:15:00+00:00",
-      "updated": "2026-09-06T06:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRks1bWlobWE0Q2ZIUlRZcWZWY3F0MmN2MDB1WGJZdUpCcE84c3pBM3lrcVFfRnIyM2ttQWwzNVFVMUFOYlBlallmdDVuUVhFWF9nd3N6UWYxSUk4Qm9ySGZaZlN2c19yTHpLMlRwaWJuRkFVSUp0d3lmS2gydTh2VHgyY096MGRvLVdJdmlsZW9MdExrNWw3SExRRDlVMmQwY2RKUXpvQWRwbUpKZDVLa09BR1ZHQTVyVER5ZHlXSFBIT2VPVVFv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a6fb3dd2c91a07",
-      "title": "Til ziet cruciaal moment tijdens Ajax - PSV: 'Wordt dan misschien totaal anders'",
-      "category": "Overig",
-      "published": "2026-09-06T05:38:00+00:00",
-      "updated": "2026-09-06T05:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132233/guus-til-blij-met-overwinning-van-psv-op-bezoek-bij-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
