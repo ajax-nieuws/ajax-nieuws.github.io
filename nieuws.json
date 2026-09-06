@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T20:29:29.591934+00:00",
+    "generated_at": "2026-09-06T20:55:01.755875+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 130,
+    "article_count": 131,
     "event_count": 40,
-    "discovered_event_count": 103,
+    "discovered_event_count": 105,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 56,
+    "excluded_video_only_count": 55,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -91,6 +91,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132497/veel-lof-voor-ajax-huurling-regeer-na-debuut-bij-werder.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3d20e91aafe6bd",
+      "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap",
+      "category": "Ajax Vrouwen",
+      "published": "2026-09-06T19:34:52+00:00",
+      "updated": "2026-09-06T19:34:52+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNNM0tDRjl5U1BsQ0lVMWx2bjluWFBla1hLV3dRMnI4bUZSa3FzSVpRNmNwY3AtZTdRT2pqYktQbGJzN3diTjFFcDkyclNXNHVVUURQWHJRYWUyNjBEMkdkcDBtazNYT2V6VFRMQ2hELVAxOU1mM0JPbG1JNC12UlloREVnVTFDOUpzMTBJUQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -210,21 +225,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "3d20e91aafe6bd",
-      "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap",
-      "category": "Ajax Vrouwen",
-      "published": "2026-09-06T17:05:44+00:00",
-      "updated": "2026-09-06T17:05:44+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNNM0tDRjl5U1BsQ0lVMWx2bjluWFBla1hLV3dRMnI4bUZSa3FzSVpRNmNwY3AtZTdRT2pqYktQbGJzN3diTjFFcDkyclNXNHVVUURQWHJRYWUyNjBEMkdkcDBtazNYT2V6VFRMQ2hELVAxOU1mM0JPbG1JNC12UlloREVnVTFDOUpzMTBJUQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "2136c894a0a6ea",
@@ -384,7 +384,7 @@
     },
     {
       "id": "bcc96174a0551a",
-      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel - voetbalzone.nl",
+      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel",
       "category": "Overig",
       "published": "2026-09-06T14:28:00+00:00",
       "updated": "2026-09-06T14:28:00+00:00",
@@ -481,7 +481,7 @@
     },
     {
       "id": "dc1aafa7a1e112",
-      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax - voetbalzone.nl",
+      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax",
       "category": "Overig",
       "published": "2026-09-06T13:08:00+00:00",
       "updated": "2026-09-06T13:08:00+00:00",
@@ -639,7 +639,7 @@
     },
     {
       "id": "b378795f111eeb",
-      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen' - voetbalzone.nl",
+      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen'",
       "category": "Wedstrijden",
       "published": "2026-09-06T09:56:00+00:00",
       "updated": "2026-09-06T09:56:00+00:00",
@@ -651,6 +651,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "eb4e44c6173ac8",
+      "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T09:16:24+00:00",
+      "updated": "2026-09-06T09:36:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132290/stewart-van-bommel-is-na-afloop-kleedkamer-ajax-ingegaan.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFVNN0xhTm1Hbk9iUlNPelcwRExGR3pBX0ZybVg5U2tZQ3RUUlRfUjczOFRidXM4aDJmclRsdkdlcjJhaEhxSW53T294NFhmNDBDZHF6LWtFQXItQk1SelctUGdXQld4U0lMWGNqbmRWRVg2R3VTeGNrR1J0VktYekRrUnM1SkV2dWRPOWtEMTBKVHhtTlBTcFhsd1dBWHctUlMyZGZzTlliNE1yNXJBMzNMSV9oYTFP?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "b20fb12df127d0",
@@ -669,7 +690,7 @@
     },
     {
       "id": "5304328a0727a1",
-      "title": "Speler bejubeld na Ajax - PSV: 'Een feest dat een dusdanige wereldtopper hier speelt!' - voetbalzone.nl",
+      "title": "Speler bejubeld na Ajax - PSV: 'Een feest dat een dusdanige wereldtopper hier speelt!'",
       "category": "Overig",
       "published": "2026-09-06T09:32:00+00:00",
       "updated": "2026-09-06T09:32:00+00:00",
@@ -679,21 +700,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXRtaGE1aktCX2tISlJyblhleWdwejlFWmd2dmIwVjdKMjBGNUNBZlNJdUVveFczU2tnZVhPbGR3emtQQ3ZrNkdhamJRdjBmMW5kbTFSV2pYM0NzbmNzX05GdnlxZWcwTnhpbUoxVGZ2blhwbWJ2NU1kWFVsMkVjOXotUW1weVFrUG42LW5fal9aUFJSb1ZwU2NleDI3emxvRDhUb2RqN3dXQW9zMUJ0X0xOX2ppcHNnQXdaWlBJYzFtaVRLaXVpSEJjc0w4OXM?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6361a168f78822",
-      "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T09:16:24+00:00",
-      "updated": "2026-09-06T09:16:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132290/stewart-van-bommel-is-na-afloop-kleedkamer-ajax-ingegaan.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
