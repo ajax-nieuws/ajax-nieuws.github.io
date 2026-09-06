@@ -1,18 +1,99 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T19:54:52.869598+00:00",
+    "generated_at": "2026-09-06T20:29:29.591934+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 130,
     "event_count": 40,
-    "discovered_event_count": 106,
+    "discovered_event_count": 103,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 105,
-    "excluded_video_only_count": 55,
+    "excluded_paywall_count": 104,
+    "excluded_video_only_count": 56,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "f771f7d1bf1018",
+      "title": "NOS-commentator lyrisch over Ajax-aankoop: 'Hij kan nu al niet meer om hem heen'",
+      "category": "Transfers",
+      "published": "2026-09-06T20:20:00+00:00",
+      "updated": "2026-09-06T20:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132500/roelfs-ziet-directe-impact-van-transfer-brandt.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "038c9efcf1f695",
+      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel - NU",
+      "category": "Overig",
+      "published": "2026-09-06T20:19:19+00:00",
+      "updated": "2026-09-06T20:19:19+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnp0U05GZEEzZkNuNUlFbC16eF9hVGRwWW5DT2oxSWZoT05KR2Nqdmh1Y0ZSdmhXSll6SVozeDBUbXktV3BGcnFFMzFBOFVhSUswaUpjWFpUQ1Z3MTZhX2N3NW9VQ2F2WlByazQ5M081WXhzN0VFWTUyc0dnRTZSeko4RjhHRVBUcnlSY0MwUTE4LU9LQ2ktT2ZhbUN4SkNzZ0FkM3RKNE9CRGY0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "27f3caec5aa1dc",
+      "title": "'Al die wissels van Ajax konden ook helemaal niet mee in het hoge tempo van PSV'",
+      "category": "Overig",
+      "published": "2026-09-06T19:07:19+00:00",
+      "updated": "2026-09-06T20:15:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/al-die-wissels-van-ajax-konden-ook-helemaal-niet-mee-in-het-hoge-tempo-van-psv",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcXRRWXlUQUZMR0NKN0NzN2FoTDhyUkFSWlRrS0RyWnRMLURtVnlveTlWTnQtdE1JMFZRc3dnbGIyMDhVWEhCSEVKRW9EcU92aGNnZHpFanlkY25WNkVWMnQ1RWdSVXQxNmtLY3lVQXd2Z2NRSkxCNTAweElJeXJpRE1iYlpjVTJTVFRQSmRXMjNQOFdUV1dhR3RldWZQVGlfOWxFSlhKSGp4VWFRajlLNG1nRkM1NjFabnp2ZXU0bWh3eTNRejZ0dDNpN2E4TUZpelI1M1lISXE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "c9c31e65f1f46f",
+      "title": "Perez en Kwakman lovend over één Ajax-speler na topper: 'Hij geeft een signaal af'",
+      "category": "Overig",
+      "published": "2026-09-06T20:14:28+00:00",
+      "updated": "2026-09-06T20:14:28+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132481/perez-en-kwakman-lovend-over-mokio.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "beae56d3ae7632",
+      "title": "Duitse pers eensgezind over Ajax-huurling: 'Voelt zich volledig thuis'",
+      "category": "Transfers",
+      "published": "2026-09-06T20:13:24+00:00",
+      "updated": "2026-09-06T20:13:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132497/veel-lof-voor-ajax-huurling-regeer-na-debuut-bij-werder.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "25b1793a11548e",
       "title": "'Ajax krijgt opnieuw bijzonder Bob Marley-shirt en krijgt veelbelovende tenues'",
@@ -24,36 +105,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132485/ajax-krijgt-opnieuw-bijzonder-bob-marley-shirt.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "27f3caec5aa1dc",
-      "title": "PSV vindt extra versnelling in topper: \"De wissels van Ajax konden niet mee in het hoge tempo\"",
-      "category": "Overig",
-      "published": "2026-09-06T19:07:19+00:00",
-      "updated": "2026-09-06T19:07:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcXRRWXlUQUZMR0NKN0NzN2FoTDhyUkFSWlRrS0RyWnRMLURtVnlveTlWTnQtdE1JMFZRc3dnbGIyMDhVWEhCSEVKRW9EcU92aGNnZHpFanlkY25WNkVWMnQ1RWdSVXQxNmtLY3lVQXd2Z2NRSkxCNTAweElJeXJpRE1iYlpjVTJTVFRQSmRXMjNQOFdUV1dhR3RldWZQVGlfOWxFSlhKSGp4VWFRajlLNG1nRkM1NjFabnp2ZXU0bWh3eTNRejZ0dDNpN2E4TUZpelI1M1lISXE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c9c31e65f1f46f",
-      "title": "Perez en Kwakman lovend over één Ajax-speler na topper: 'Hij geeft een signaal af'",
-      "category": "Overig",
-      "published": "2026-09-06T18:55:13+00:00",
-      "updated": "2026-09-06T18:55:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132481/perez-en-kwakman-lovend-over-mokio.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -209,7 +260,7 @@
       "id": "126481724bbdcc",
       "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) team statistieken",
       "category": "Wedstrijden",
-      "published": "2026-09-04T20:04:47+00:00",
+      "published": "2026-09-05T18:08:17+00:00",
       "updated": "2026-09-06T16:49:21+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -333,7 +384,7 @@
     },
     {
       "id": "bcc96174a0551a",
-      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel",
+      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-06T14:28:00+00:00",
       "updated": "2026-09-06T14:28:00+00:00",
@@ -342,21 +393,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONEd1Y2xzSVJ2eUFxQUxmRXYtMUlneVpkckFUQVVwa1F5LVBIQVZoSjhZOUVYZG9INF9UTTk3cEhOR1UzakpGOFpaUEpoQ3F5cEtxUUp4aXhlTDhTNWYtUkJGS1JjeU1TTUJuTi1BSFpGUndSX0ZNeVJaMF9EU2ZfUEdGUEhkNDliYWtJWnVldV84MERYZm5TZUhUVGd2M3BxZkJTRlJNLVFsRV9JQWpCT0REenFCWG9hUWd2ZGw1SHRXYk1sR0RYV3V2S0NyMzRSMHYwTnk0NlExX3NsZWRxbVNzcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "038c9efcf1f695",
-      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel",
-      "category": "Overig",
-      "published": "2026-09-06T14:24:33+00:00",
-      "updated": "2026-09-06T14:24:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnp0U05GZEEzZkNuNUlFbC16eF9hVGRwWW5DT2oxSWZoT05KR2Nqdmh1Y0ZSdmhXSll6SVozeDBUbXktV3BGcnFFMzFBOFVhSUswaUpjWFpUQ1Z3MTZhX2N3NW9VQ2F2WlByazQ5M081WXhzN0VFWTUyc0dnRTZSeko4RjhHRVBUcnlSY0MwUTE4LU9LQ2ktT2ZhbUN4SkNzZ0FkM3RKNE9CRGY0?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -409,7 +445,7 @@
     },
     {
       "id": "34c7e944f8bdb6",
-      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma",
+      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma - NU",
       "category": "Wedstrijden",
       "published": "2026-09-06T13:41:36+00:00",
       "updated": "2026-09-06T13:41:36+00:00",
@@ -445,7 +481,7 @@
     },
     {
       "id": "dc1aafa7a1e112",
-      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax",
+      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-06T13:08:00+00:00",
       "updated": "2026-09-06T13:08:00+00:00",
@@ -603,7 +639,7 @@
     },
     {
       "id": "b378795f111eeb",
-      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen'",
+      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen' - voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-09-06T09:56:00+00:00",
       "updated": "2026-09-06T09:56:00+00:00",
@@ -615,27 +651,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "eb4e44c6173ac8",
-      "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T09:16:24+00:00",
-      "updated": "2026-09-06T09:36:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132290/stewart-van-bommel-is-na-afloop-kleedkamer-ajax-ingegaan.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFVNN0xhTm1Hbk9iUlNPelcwRExGR3pBX0ZybVg5U2tZQ3RUUlRfUjczOFRidXM4aDJmclRsdkdlcjJhaEhxSW53T294NFhmNDBDZHF6LWtFQXItQk1SelctUGdXQld4U0lMWGNqbmRWRVg2R3VTeGNrR1J0VktYekRrUnM1SkV2dWRPOWtEMTBKVHhtTlBTcFhsd1dBWHctUlMyZGZzTlliNE1yNXJBMzNMSV9oYTFP?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "b20fb12df127d0",
@@ -654,7 +669,7 @@
     },
     {
       "id": "5304328a0727a1",
-      "title": "Speler bejubeld na Ajax - PSV: 'Een feest dat een dusdanige wereldtopper hier speelt!'",
+      "title": "Speler bejubeld na Ajax - PSV: 'Een feest dat een dusdanige wereldtopper hier speelt!' - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-06T09:32:00+00:00",
       "updated": "2026-09-06T09:32:00+00:00",
@@ -668,32 +683,17 @@
       "related_sources": []
     },
     {
-      "id": "e838b12c1951dd",
-      "title": "Tolu juicht op opvallende manier: 'Ik was boos, maar was niet voor hem bedoeld'",
-      "category": "Overig",
-      "published": "2026-09-06T09:02:59+00:00",
-      "updated": "2026-09-06T09:02:59+00:00",
+      "id": "6361a168f78822",
+      "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T09:16:24+00:00",
+      "updated": "2026-09-06T09:16:24+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132270/tolu-arokodare-over-het-vieren-van-zijn-doelpunt.html",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132290/stewart-van-bommel-is-na-afloop-kleedkamer-ajax-ingegaan.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4a06c6e81cd932",
-      "title": "NB: 'Míchel laat Ajax echt beter spelen, maar zijn wisselbeleid is wel een punt van aandacht'",
-      "category": "Club",
-      "published": "2026-09-06T09:00:00+00:00",
-      "updated": "2026-09-06T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUpDajJoeGhaSXpWbnNaN29kelVJRjZmSlZmR01NQlJOMWc1OFp0aFVqNDNacDlaSV9LVHdzdWVINjg4YlotOXIxQ1NxNTJtM3FBXzZkblV4WUVYdVJ1b2JNNUFmYWFjMEYyTUpMdnpMdmN2VXpodng5d3ZxZjRsY2hkT2FXSnk2cUpmOU0ycUV2NlNtcWVndDlkbUFWNFBzdi01WGFtYTJsVVd6TlZSbmpoRUhHdnFYZGJfaDNLb1ZmMnpUTUx5VDFR?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
