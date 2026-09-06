@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T11:54:56.644298+00:00",
+    "generated_at": "2026-09-06T12:34:12.136546+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 124,
+    "article_count": 125,
     "event_count": 40,
-    "discovered_event_count": 102,
+    "discovered_event_count": 101,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 58,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "2b0a76b6980a7d",
+      "title": "Scheidsrechtersbaas Van Meenen: 'Van Bommel had rood moeten krijgen tegen Ajax'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T11:16:01+00:00",
+      "updated": "2026-09-06T12:06:39+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZnlSQlVjS1NLV21zR2x4X2ppVDNVQVR5NjNMWG5mMnZ6YUxUTEtNaG5iOEQ5SjhfdksxU0FJZzVrWm0yZE4wX0dzOFZOb1RsalpxM1VlYlRrVV9Vcm9qQS1BYWFGOHBFbnNaVmdndHUwdXh6NEEtQV81ZklIeHVkMTR1QjdCZXZyNE9wOEpRb1haTThVcUswT2dxbEFqT2FXMF9ETTRlNndyRkptb1c3ZE5YLTB5OTk2Q3BxYWFkZ1pNMnNG?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hNT1k2RUVDU1NPdThUR3RuaDhycmlXb3pUNHY4Zk1KQUhTYXlPd1dWTWhoS1pra1VZdFZ3YXAzSWdGZ0d3ZXEzbUViNkRsZG5CYS1aOWpfd3c2eHFfV1JjQmFCTTRrRmJoZTJrOVVxZlRCNHhIX2pUYVF6c1JWandUR2p6alJ4eUNfaDFQUGp5WndwMkRWOHdpbnQ0cEk3anhiUTl0ZmpTcWpwYUNWNklB?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "b3765c0f87ac56",
       "title": "Verhitte Ajax-PSV valt op in buitenland: 'Brute overtreding zorgt voor chaos'",
@@ -25,21 +46,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/verhitte-ajax-psv-valt-op-in-buitenland-brutale-overtreding-zorgt-voor-chaos",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2b0a76b6980a7d",
-      "title": "Van Bommel had volgens scheidsrechtersbaas rood moeten krijgen tegen Ajax - NU",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T11:16:01+00:00",
-      "updated": "2026-09-06T11:16:01+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hNT1k2RUVDU1NPdThUR3RuaDhycmlXb3pUNHY4Zk1KQUhTYXlPd1dWTWhoS1pra1VZdFZ3YXAzSWdGZ0d3ZXEzbUViNkRsZG5CYS1aOWpfd3c2eHFfV1JjQmFCTTRrRmJoZTJrOVVxZlRCNHhIX2pUYVF6c1JWandUR2p6alJ4eUNfaDFQUGp5WndwMkRWOHdpbnQ0cEk3anhiUTl0ZmpTcWpwYUNWNklB?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -70,6 +76,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132268/valentijn-driessen-over-overtreding-ruben-van-bommel.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7638175d841a6b",
+      "title": "Scheidsrechtersbaas kraakhelder over veelbesproken beuk bij Ajax - PSV: ‘Lichaam is hier wapen, dus rood’",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T10:41:00+00:00",
+      "updated": "2026-09-06T10:41:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzN1M0dPZkFjZ1BNamNLRUNiQXlSNGZlX2YzMF8xWHFHOFlMTFJpSEpxakE3Y2M4NHd5MVVZT0NJYWJuSm5tYjFuRkxJN2YzZDZEclU3UG1fVzRSRnpJNjNZMXpRY3QxcGRJa24yVUtRLWQ5TXdBRjBjQVBsc1paWGw3X3gxUTVOSlQ3T2dGUHoyLU1yUUF4ZmIyeGkyNXIyY3o0a3JkN0tVRFNIN2NhZkhtRnNiSXZoQW92LU5JT2tsdGMwOVZwbnBLeTFsWkgz?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -140,6 +161,21 @@
       "related_sources": []
     },
     {
+      "id": "5304328a0727a1",
+      "title": "Speler bejubeld na Ajax - PSV: 'Een feest dat een dusdanige wereldtopper hier speelt!'",
+      "category": "Overig",
+      "published": "2026-09-06T09:32:00+00:00",
+      "updated": "2026-09-06T09:32:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXRtaGE1aktCX2tISlJyblhleWdwejlFWmd2dmIwVjdKMjBGNUNBZlNJdUVveFczU2tnZVhPbGR3emtQQ3ZrNkdhamJRdjBmMW5kbTFSV2pYM0NzbmNzX05GdnlxZWcwTnhpbUoxVGZ2blhwbWJ2NU1kWFVsMkVjOXotUW1weVFrUG42LW5fal9aUFJSb1ZwU2NleDI3emxvRDhUb2RqN3dXQW9zMUJ0X0xOX2ppcHNnQXdaWlBJYzFtaVRLaXVpSEJjc0w4OXM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "6361a168f78822",
       "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
       "category": "Wedstrijden",
@@ -189,6 +225,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "f334efeb254c66",
+      "title": "Kraay verbijsterd bij het zien van beelden Ter Stegen tijdens Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-06T08:37:00+00:00",
+      "updated": "2026-09-06T08:37:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnNGVTYxdHIzTmdrNWZPVllNVnpDZXJKc2h6bFBkbklEeUxOOC0za3lyOWdhZHZ4TjFhdVNBLV94SWE4QUJ5ZlQwYV8xZzFUUVJBM0Y4SjZqZGlUUG9FMU4xRVpsX0FEZDJDVW00MExuZlV2cGZzdy1OQlM1aXhPbkN5TURldzZ5amJUVUZySFAzcGVSRkVqdEJQNTNiVXhqeHB2cE9WZzFEdEV0WGIzQktIMHlwV1pFUVExQUxuSWhJQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "e623dbf54ff717",
@@ -519,6 +570,32 @@
       "related_sources": []
     },
     {
+      "id": "79c6351b24ab9e",
+      "title": "Vermoedelijke opstelling Ajax tegen PSV: beslissing over Kehrer en Amrabat",
+      "category": "Wedstrijden",
+      "published": "2026-09-04T15:11:04+00:00",
+      "updated": "2026-09-06T04:22:28+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenViOGNXLWdiWGtDQm83UmFnU0NvVXYxTEZKUm1GQWVUOUhoRG5DYjI0bHRYMlFEQWx0VEFXR3BMTUlLbTZqclBZV20wa3FzNnNYQVlLb2pqWGdGNkJ1bGZOd1JxbEI3dU1TdjFpVDlHX0RKS1JCN21PcTU3RDBxNGNoOXhrSlZzUk9INW5hUlFtWlVvSGRGYTBraU9nZlhBYzduSWlldXBzUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXdhSjQ5bDFzZ0NRQ2hFZl9jLUc1UXFRYVdFcUNqa0pzd0dBQWJvRWVaR0dVWEZDQUxudVZ1ckZEd01rSkY2T1FTTjJLY1hvaDBQNEc3dkMxOEJYYWlyYVhvNEpoZXB2VFNNWlhieldqRHl6eVBKWFU2SkpOWXRqbTZGLTFqTlVCdzk2YVdIazRjR2w2aUt2Qi15T0xRZFVINGN3MTdrcEctcmxDeHJLcEFkano?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55973/Vermoedelijke-opstelling-PSV",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "e696450420f8ff",
       "title": "Debutant Amrabat na overtreding Van Bommel: \"Denk ook dat het rood was\"",
       "category": "Overig",
@@ -589,66 +666,6 @@
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/bosz-slaat-terug-na-kritiek-op-van-bommel-families-erbij-slepen-niet-doen",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d6dad806e39c8b",
-      "title": "Karim El Ahmadi concludeert na Ajax - PSV: 'Hij zit zeker bij het Nederlands elftal'",
-      "category": "Overig",
-      "published": "2026-09-05T21:45:00+00:00",
-      "updated": "2026-09-05T21:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdHhXUFJSX0JWVG9lSkdkQ1k4cHliMVhDaXk3QnZva2dVNXRHNzIyMHRpcFZrZ1NFdjFLczc3d0Q1UU5rNXcwYWhTa2tUUWdWM3pNTUxUOENLY201OTlCSExmaHJOTV9LT3JOeWNJc0gzTHk0NUtlLUdObUFMemNVQXg3c0g5NE5yMjlEOTRQa0hqVWZ6akxsWG9TandYeEpta29DZktmbEVyM3hOSTc0WVoyRWsyN2xvN3E4NXNEdzZnQmc1RXd2emFoZlRyblFJc2tRMUk0WmpOSXBRWFJ1OXMwTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6661bc111c3aff",
-      "title": "Samenvatting Ajax - PSV",
-      "category": "Overig",
-      "published": "2026-09-05T21:41:00+00:00",
-      "updated": "2026-09-05T21:41:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmd09EMTVuODE1SERPVEdlQ19ZdUhBQ20zQW1LcTE1Tk9rckdjMXpFREJ3QVVhRVNZc2lOM3V2V1dJeUJPTTZldG5IMmtiSEw3QlhCank2ZXN3Qm9VVnBDellOZTBFUmVxOVhPZ2pqNm5TdUQ2?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f8568fd8d1de09",
-      "title": "Arbiter Sander van der Eijk weigert voor camera te komen na Ajax - PSV: 'Hij heeft het voor zichzelf verbruid'",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T21:40:00+00:00",
-      "updated": "2026-09-05T21:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcmxWN3NHbnNnTHBYZ3hXbURzY3VxMjk5VnpqRm5PdmZRemdxaXBYR0pUelpHcV85NVo5NFlMVVdzNWRnSjlzbkprc3FWbEM2bHV2VWN1Vk4xb3A2ejdMenlmdERJLXNSRUF4cUpNbThPbWhNaHlqNU9ZbG5HaDJ0ZmxwY0pkZVJpdjVhSWRVRVhudUZ1eGRWay1rU2FlRHNpQXBxRm15UGdhUXdlRU1LS2FBR3ZES1g0aFZsc2dJbXNfamk1WFotVDY1ZW1FSFVKSkdyZjhjVGdraXMwa19PdGY1bUl0R1lIcVlrQUs1TFI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a781fa83dc128f",
-      "title": "Amrabat neemt het op voor arbiter Van der Eijk: 'Floot een goede wedstrijd'",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T21:38:53+00:00",
-      "updated": "2026-09-05T21:38:53+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/amrabat-neemt-het-op-voor-arbiter-van-der-eijk-floot-een-goede-wedstrijd",
         "via_google_news": false
       },
       "related_sources": []
