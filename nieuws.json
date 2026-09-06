@@ -1,21 +1,21 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T11:27:44.336399+00:00",
+    "generated_at": "2026-09-06T11:54:56.644298+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 125,
+    "article_count": 124,
     "event_count": 40,
-    "discovered_event_count": 103,
+    "discovered_event_count": 102,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 58,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
       "id": "b3765c0f87ac56",
-      "title": "Verhitte Ajax-PSV valt op in buitenland: 'Brutale overtreding zorgt voor chaos'",
+      "title": "Verhitte Ajax-PSV valt op in buitenland: 'Brute overtreding zorgt voor chaos'",
       "category": "Overig",
       "published": "2026-09-06T11:21:56+00:00",
       "updated": "2026-09-06T11:21:56+00:00",
@@ -29,8 +29,8 @@
       "related_sources": []
     },
     {
-      "id": "83a3f9e0ead472",
-      "title": "Scheidsrechtersbaas KNVB vindt dat Van Bommel rood moest krijgen tegen Ajax - NU",
+      "id": "2b0a76b6980a7d",
+      "title": "Van Bommel had volgens scheidsrechtersbaas rood moeten krijgen tegen Ajax - NU",
       "category": "Wedstrijden",
       "published": "2026-09-06T11:16:01+00:00",
       "updated": "2026-09-06T11:16:01+00:00",
@@ -38,7 +38,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFlEQWhkRHpvRkt1VzB0TEQ2c0tPdkQxRkRobVRKUGtNQUNKNThqTEhVTUJKN1ZMRXJrT2loODBSaTF2V0FoaWs2cW5ZaTItVFRxdlVOaGUxSlJrMW9sY3ljdzYxSDRLMENNY2g4YURPUGNQLW5zT2lxWDI2ckxOWXVXWFZfNXdKck5Wd0lsRzgyS2FvS3lacUVBU2FjbkZnLU5EaF9ic0JKNlJ2bGFNdEYwT04?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hNT1k2RUVDU1NPdThUR3RuaDhycmlXb3pUNHY4Zk1KQUhTYXlPd1dWTWhoS1pra1VZdFZ3YXAzSWdGZ0d3ZXEzbUViNkRsZG5CYS1aOWpfd3c2eHFfV1JjQmFCTTRrRmJoZTJrOVVxZlRCNHhIX2pUYVF6c1JWandUR2p6alJ4eUNfaDFQUGp5WndwMkRWOHdpbnQ0cEk3anhiUTl0ZmpTcWpwYUNWNklB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -108,6 +108,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "b378795f111eeb",
+      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T09:56:00+00:00",
+      "updated": "2026-09-06T09:56:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWDNQdG1rQXVOQ3BKLVpNVWxTRDQyWEZ0R1RPQ2pDRlFpNjdPdllCelgyQl85ZW1xVXJFWTBaN0ZEUmNrUld2NkFCcUtGTllXNElYdTNhb3NpVFlLUjIxakVhenlpVDRWZlljVm44NndQbkVndTNvd0FCV05OMkFvaC1UN1l6MXo3a0J0NVJsUXZJcTVXWE80T2JYdU9XcjQ3Y0prYlVWUTliNzBkN1hPWXR5dDFqcEFXX2d4VjNJTE9ZWVNteFd5VE1fQVgwRzc2R1FmcXhXa2pLeDNZbTBSQnJPY1g?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "b20fb12df127d0",
@@ -637,27 +652,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "5cd1e46d2d72f8",
-      "title": "PSV-trainer Bosz boekt in Amsterdam zijn 200e Eredivisie-zege",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:51:28+00:00",
-      "updated": "2026-09-05T21:35:52+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzBqMkxOOExDYlRKLVBKR0E2bDBQX2NwWThSaFJIWHNlTmgwdHJqdDlyd1JaMDlib3AzWmJVcjl2cElka0JvczRxYUtaMWRoMXdzYkVldlFqSG5KVUJ1UXpkbkpjektYWWRocDlXRjRqWi1hb0VRUjhsNVlVQl9Kb1NuVmJsQVhxUkpqWVEzY2NNV3BzMFFxRTM4TkZ6TVVycU94eENtbEtHV3hVczVqcHdqVHE?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
