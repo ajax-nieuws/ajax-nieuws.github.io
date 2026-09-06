@@ -1,18 +1,109 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T07:54:53.736531+00:00",
+    "generated_at": "2026-09-06T08:30:47.876436+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 121,
+    "article_count": 122,
     "event_count": 40,
-    "discovered_event_count": 97,
+    "discovered_event_count": 98,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 56,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e838b12c1951dd",
+      "title": "Tolu juicht op opvallende manier: 'Ik was boos, maar was niet voor hem bedoeld'",
+      "category": "Overig",
+      "published": "2026-09-06T08:17:21+00:00",
+      "updated": "2026-09-06T08:17:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132270/tolu-arokodare-over-het-vieren-van-zijn-doelpunt.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "00361e511b36f3",
+      "title": "Bosz wint eindelijk met PSV in Amsterdam, maar sterk Ajax kan titelrace spannend maken",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T08:06:43+00:00",
+      "updated": "2026-09-06T08:06:43+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629885",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8e719f1ea82d2f",
+      "title": "Bosz geeft complimenten aan Ajax: 'Dit kan een hele goede ploeg worden'",
+      "category": "Overig",
+      "published": "2026-09-06T08:00:32+00:00",
+      "updated": "2026-09-06T08:00:32+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bosz-geeft-complimenten-aan-ajax-ze-zijn-gegroeid",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b0d3eefb507326",
+      "title": "PSV is titelfavoriet, maar Ajax bewees dat het eindelijk weer serieus te nemen is in een titelstrijd",
+      "category": "Overig",
+      "published": "2026-09-06T08:00:00+00:00",
+      "updated": "2026-09-06T08:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjdXd3ZDS0JuS1F1OG5WQm5vOGo5TFJaMGdYdGNlaFZSSlFTRkJqUFJvN3hodFI4ZW1xWGhNYjRjbEVXYVo4OHpmZ21uZU9GVUtHenowV1pfS1RJRnNvMFlzek80Z2hfdTctYUdlZ2FBRkY0U1huU0VzVDhkZDlqeHdNbmFjcFVSWlZXUTBBOFFVYTA3M2V2X2YzM25qdWI0aUNtRmZMNHdDZDJkSmtVRzNaUzJNblM2UHkxTmxra3M3ZWZMT0NnNXVWdUFfZnJH?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0474dac43084a7",
+      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
+      "category": "Selectie",
+      "published": "2026-09-05T21:23:00+00:00",
+      "updated": "2026-09-06T07:45:00+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHR2TG0xNGc5S250YWltWHpUclpUZzZDSGtpYmlqX2lCMzVzakRiR2dPVGFlWTVrWG1DcVVZUlFZZ0ZjUmRqT0p4MXF2cTFNU1ZMMFhKd2ljd0xoTjhPWlRvR1NMOExNQ0RDeGw3amxfUTJIYTJ1RnVpNjBNLUtMYkVXSWJOdDdLNENqVkN1eW1SMFQxYlM0WkJxbklzV0wyMm93Nw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "09356ec876cc0b",
       "title": "Vink vernietigend over Ajax-debutant: 'Dit is hoe een pupil verdedigt!'",
@@ -50,6 +141,21 @@
       "related_sources": []
     },
     {
+      "id": "0fc1e805fed573",
+      "title": "Scheidsrechtersbaas geeft direct na Ajax - PSV uitsluitsel over beuk Ruben van Bommel aan Aaron Bouwman",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T07:20:00+00:00",
+      "updated": "2026-09-06T07:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcUx4Q2NoUjZmMEpkRzNQaHhjSmZ0aXdLVk8yWENGT0dRVkNqOGJXbUZVcGRhc3FlTElfaVNpX1U2dnlVSUNBcVRXSEw1eU42Y2VtYzRCUTFwUW9KZEpPMzlqU1gxWXI4eFl3RFdDdWZRaVZoNEM5Z1MxUmRsR2x0LTJOdFJMcTFIVTFWWEUxa3Y4UGZpX19zOW84c2JQWXBPb1lSaGpjMUgxWlZPdG1QaEswSmJKb09wUzk1UFYwaG8tOTlBN0FQc051ckdNRDJqMFd6MS1QLWQ1MXR6NEVsdVpCZjc5bFdNamFz?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "58cc7fb35d5609",
       "title": "Snoeiharde Borst: 'Dit is een moordaanslag, ik raad hem psycholoog aan'",
       "category": "Overig",
@@ -63,32 +169,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "0474dac43084a7",
-      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
-      "category": "Selectie",
-      "published": "2026-09-05T21:23:00+00:00",
-      "updated": "2026-09-06T07:11:39+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "88cb7eb1496389",
@@ -248,7 +328,7 @@
     },
     {
       "id": "bc4074e8c26b57",
-      "title": "Míchel zag geweldig Ajax tegen PSV: 'We waren ze in veel situaties de baas'",
+      "title": "Míchel zag geweldig Ajax tegen PSV: 'We waren ze in veel situaties de baas' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-05T21:55:00+00:00",
       "updated": "2026-09-05T21:55:00+00:00",
@@ -355,22 +435,16 @@
       "id": "a781fa83dc128f",
       "title": "Amrabat neemt het op voor arbiter Van der Eijk: 'Floot een goede wedstrijd'",
       "category": "Wedstrijden",
-      "published": "2026-09-05T20:38:41+00:00",
+      "published": "2026-09-05T21:38:53+00:00",
       "updated": "2026-09-05T21:38:53+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/amrabat-neemt-het-op-voor-arbiter-van-der-eijk-floot-een-goede-wedstrijd",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132181/klaassen-verrast-door-reactie-van-der-eijk.html",
-          "via_google_news": false
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "5cd1e46d2d72f8",
@@ -405,6 +479,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132198/baas-blikt-terug-op-mislukte-transfer-naar-porto.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ee6479729fe967",
+      "title": "Peter Bosz pakt één persoon keihard aan na Ajax - PSV: dit is waarom Ruben van Bommel niet voor camera verschijnt",
+      "category": "Overig",
+      "published": "2026-09-05T21:26:00+00:00",
+      "updated": "2026-09-05T21:26:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmo1VkthRGQzTW5LbDl0am5PU0RESmFmRFdzOTJvTklTMHJyU0J3dkhJellrOVVNV29xaW95blBSSW9pYVJ6YXB5eVZuS05vVFEtNDFTQ1N6X01UTUdtZjUyOWhwREE4V280eVQxdDJ0ZDJjNHh5bExhYXJ3S0RqV0R1Y29fcmlvSlJKaUZPd2RfaWUyNk5HQ3B1dk1ycUMwVlZ6NE9vRzJVVkVYNlM5LXQtZFVVVTZOY3dqeTlMQ0F5RGY5dUM1SUhjbHpUc3lQWkoyOGQ1OVdMVVJ6Y0RkUTNwcw?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -535,21 +624,6 @@
       "related_sources": []
     },
     {
-      "id": "58512e7843d9f2",
-      "title": "Bruggink en Vink zien gemiste rode kaart bij Ajax-PSV: 'Een schandalige actie'",
-      "category": "Overig",
-      "published": "2026-09-05T20:24:17+00:00",
-      "updated": "2026-09-05T20:24:17+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132176/bruggink-en-vink-hekelen-van-bommel-na-harde-charge.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "5752fe4984f137",
       "title": "Arbitrale dwaling bij Ajax-PSV: 'moordaanslag' Van Bommel blijft onbestraft",
       "category": "Overig",
@@ -576,81 +650,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/klaassen-sprak-met-arbiter-over-overtreding-van-bommel-noemde-het-ongelukkig",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0fc1e805fed573",
-      "title": "Scheidsrechtersbaas geeft direct na Ajax - PSV uitsluitsel over beuk Ruben van Bommel aan Aaron Bouwman",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:16:00+00:00",
-      "updated": "2026-09-05T20:16:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcUx4Q2NoUjZmMEpkRzNQaHhjSmZ0aXdLVk8yWENGT0dRVkNqOGJXbUZVcGRhc3FlTElfaVNpX1U2dnlVSUNBcVRXSEw1eU42Y2VtYzRCUTFwUW9KZEpPMzlqU1gxWXI4eFl3RFdDdWZRaVZoNEM5Z1MxUmRsR2x0LTJOdFJMcTFIVTFWWEUxa3Y4UGZpX19zOW84c2JQWXBPb1lSaGpjMUgxWlZPdG1QaEswSmJKb09wUzk1UFYwaG8tOTlBN0FQc051ckdNRDJqMFd6MS1QLWQ1MXR6NEVsdVpCZjc5bFdNamFz?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0798c7a9d69694",
-      "title": "PSV verslaat Ajax in enerverende topper met twee gezichten",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:15:45+00:00",
-      "updated": "2026-09-05T20:15:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-verslaat-ajax-in-enerverende-topper-met-twee-gezichten",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6c4d1302e13dcc",
-      "title": "Verhitte topper in de Johan Cruijff Arena | Samenvatting Ajax - PSV",
-      "category": "Club",
-      "published": "2026-09-05T20:14:08+00:00",
-      "updated": "2026-09-05T20:14:08+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oS3RZVlBHbGtSZC1Kd1ZfSURVLUVLY24xMUFaNGVmazJIN3NOT2tndUh1SndFUGM1NlJUZDhmY2JuOFRHUWRRcjZFX1VYbDl2Y0h6YQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "affb3a2c6a2442",
-      "title": "Ajax - PSV: Live verslag | 5 september 2026",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:10:59+00:00",
-      "updated": "2026-09-05T20:10:59+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaktGRkRwTGJCZFExTGZBY093ek5oSmotaTdrN19hWW84TVdyQzk4S0lvcXVLTzl6akh5TUlGOHRmbmNmZUxySkJYQVBzUTdBZWl6a3FPYklQYVNZSjNnWnUzNHhGV0FYWXhtS2V5WjNtWnMyelpiNTlWc1VoQVJnWXYtUW5DenhYdGIxTnFMVlBQN2M3c0xrZWdfYTZpbGhsbU1lWHFpLWJWUGRlUVdBbVNqQkZkbXJEN0tmdC1n?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "76364e887327d9",
-      "title": "Ajax - PSV: Spelerstatistieken | 5 september 2026",
-      "category": "Overig",
-      "published": "2026-09-05T20:10:58+00:00",
-      "updated": "2026-09-05T20:10:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjNyVHNGMF8wTEFIbk5nR2MtMEtwWDlFY3BxM3lIaVNUWUl3Z2syN3drNE53SEFhaXlrNkJobk8yaUtFdHlheEVuZVNTcnZNaC0zSGxEZUQzR1hrZndBanFqSnFSVnZSMUg4Q0pUX0dLa2JYa3NuQnlGT1JuMWxmcVEzUzI0b3BNWXZ4VTQ0QmpNVERqQzMtanB5eVp2MmxXZ0JFdlhtTS01SDVtSDJBOU96SWlFaWM5cU9sT25ybElCdkRfblE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
