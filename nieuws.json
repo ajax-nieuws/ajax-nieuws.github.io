@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T21:55:11.109576+00:00",
+    "generated_at": "2026-09-06T22:28:17.530154+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 129,
+    "article_count": 128,
     "event_count": 40,
-    "discovered_event_count": 105,
+    "discovered_event_count": 103,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 55,
+    "excluded_video_only_count": 56,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e3f6b752d34f00",
+      "title": "Sjoerd Mossou verbijsterd na Ajax-PSV: 'Enige verklaring voor deze blunder'",
+      "category": "Selectie",
+      "published": "2026-09-06T22:02:00+00:00",
+      "updated": "2026-09-06T22:02:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132283/sjoerd-mossou-wil-verbod-op-var-na-rode-kaart-van-bommel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "9867341a3cb756",
       "title": "Noa Vahle hekelt reactie Bosz op Van Bommel-moment: 'Je kan ook anders beginnen'",
@@ -55,21 +70,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132500/roelfs-ziet-directe-impact-van-transfer-brandt.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "038c9efcf1f695",
-      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel",
-      "category": "Overig",
-      "published": "2026-09-06T20:19:19+00:00",
-      "updated": "2026-09-06T20:19:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnp0U05GZEEzZkNuNUlFbC16eF9hVGRwWW5DT2oxSWZoT05KR2Nqdmh1Y0ZSdmhXSll6SVozeDBUbXktV3BGcnFFMzFBOFVhSUswaUpjWFpUQ1Z3MTZhX2N3NW9VQ2F2WlByazQ5M081WXhzN0VFWTUyc0dnRTZSeko4RjhHRVBUcnlSY0MwUTE4LU9LQ2ktT2ZhbUN4SkNzZ0FkM3RKNE9CRGY0?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -155,6 +155,27 @@
       "related_sources": []
     },
     {
+      "id": "3d37d0a0aa139d",
+      "title": "Ajax-huurling Carrizo luistert Kopenhagen-debuut direct op met treffer",
+      "category": "Selectie",
+      "published": "2026-09-06T16:57:44+00:00",
+      "updated": "2026-09-06T18:57:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-huurling-carrizo-luistert-kopenhagen-debuut-direct-op-met-treffer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd00tMERuRkpZNjJJWE9WNS1TRk5URVlfbkVObkFTNVY0eXJuUmtGcTIxMmlBMXBrS3N4U1ZjYS1CSTg5eW9xMkxKSE1mdFdZTDlXazdKcGU1anVuRjdEM2dwLXA0a2I5elUwSC1iVTlJTVNTWTF5N0NlQjN3cjRCeXhlWUJVM1V3Vk9DVVI4UGhqWHJEOEtNYkNjOHdBWFNGUDRVaHQyaERCa2xtazNENHJ1UHk3bFB6WUFITHRMMTZ4cGdtaExhaTF4Yw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "d4a9e69d9598e2",
       "title": "Kwakman zet vraagtekens bij wisselbeleid Míchel: 'Hem moet je altijd laten staan'",
       "category": "Club",
@@ -215,6 +236,27 @@
       "related_sources": []
     },
     {
+      "id": "10c979180127a1",
+      "title": "Bouwman voorlopig uitgeschakeld",
+      "category": "Blessures",
+      "published": "2026-09-06T14:25:00+00:00",
+      "updated": "2026-09-06T17:48:35+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRWNfMTRLSUlJMEJYaGNGRktGQXhjdmNLbG56YWtKV0xXd3VzckxDRE80YS1FeV8yMWV4ckhPdWtfTTZQeVBOR1AyOUluZ3FNYVdjOTIxdmtVenVOUzVwSk1FdFpFTElYd3pla0J3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "92f94e66bc836f",
       "title": "FC Twente Vrouwen, AZ (v) en Ajax (v) blijven foutloos, hattrick voor Jill Roord en Floortje Bol",
       "category": "Wedstrijden",
@@ -234,21 +276,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "2136c894a0a6ea",
-      "title": "Ajax-huurling Carrizo luistert Kopenhagen-debuut direct op met treffer",
-      "category": "Selectie",
-      "published": "2026-09-06T16:57:44+00:00",
-      "updated": "2026-09-06T16:57:44+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-huurling-carrizo-luistert-kopenhagen-debuut-direct-op-met-treffer",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "9ed9001b9b1393",
@@ -393,7 +420,7 @@
     },
     {
       "id": "bcc96174a0551a",
-      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel",
+      "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-06T14:28:00+00:00",
       "updated": "2026-09-06T14:28:00+00:00",
@@ -407,25 +434,19 @@
       "related_sources": []
     },
     {
-      "id": "184fe3744f5b52",
-      "title": "Bouwman voorlopig uitgeschakeld",
-      "category": "Blessures",
-      "published": "2026-09-06T14:21:11+00:00",
-      "updated": "2026-09-06T14:25:00+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
+      "id": "038c9efcf1f695",
+      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel - NU",
+      "category": "Overig",
+      "published": "2026-09-06T14:24:33+00:00",
+      "updated": "2026-09-06T14:24:33+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TMDhRQjdVNDY1MGhZSlAyVUJJTG5TRXZtSWtoa3NuUlFFYTlMamRORk1qdEtZdS1rbEZ2dWJNRlJZMmM2X1owaTJ5RWZHSDQ2UmVZSTdNS0Z3SXNicGJySXVCektjMklJTklmb3FaWQ?oc=5",
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnp0U05GZEEzZkNuNUlFbC16eF9hVGRwWW5DT2oxSWZoT05KR2Nqdmh1Y0ZSdmhXSll6SVozeDBUbXktV3BGcnFFMzFBOFVhSUswaUpjWFpUQ1Z3MTZhX2N3NW9VQ2F2WlByazQ5M081WXhzN0VFWTUyc0dnRTZSeko4RjhHRVBUcnlSY0MwUTE4LU9LQ2ktT2ZhbUN4SkNzZ0FkM3RKNE9CRGY0?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
-          "via_google_news": false
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "cca9d791b930ff",
@@ -448,7 +469,7 @@
       "category": "Wedstrijden",
       "published": "2026-09-05T20:51:28+00:00",
       "updated": "2026-09-06T13:46:28+00:00",
-      "source_count": 6,
+      "source_count": 5,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -472,15 +493,15 @@
           "via_google_news": false
         },
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132238/dit-schrijft-internationale-pers-over-ajax-psv-1-3.html",
-          "via_google_news": false
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFAzRl9KUlFZRXh5SFlGX3h5VTA3TzhvZTlwQ21kQXc1Nl9BYzFmVzcwQVIwQ0tUcVE3NnNnbzFJT3plWXA3ZlpBZ1gxS3FNRmp5Z2VHM2tKTTRzR1c3VkFWMnIzb3NqWWZjdGgzWmR6LWhxQW1UVWQtcTQ2N0tDMVc4Y1pveDdhcnM1NEJSYU9zbTd6V3ZvRWgtcTVqeXV6WXg4WHJEbFNrVldJOGRyNEx0UQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
     {
       "id": "34c7e944f8bdb6",
-      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma",
+      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma - NU",
       "category": "Wedstrijden",
       "published": "2026-09-06T13:41:36+00:00",
       "updated": "2026-09-06T13:41:36+00:00",
@@ -510,7 +531,7 @@
     },
     {
       "id": "dc1aafa7a1e112",
-      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax",
+      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-06T13:08:00+00:00",
       "updated": "2026-09-06T13:08:00+00:00",
@@ -621,28 +642,28 @@
     },
     {
       "id": "d998aa1ba101f6",
-      "title": "Scheidsrechtersbaas KNVB: 'Veiligheid Bouwman in gevaar, rode kaart Van Bommel'",
+      "title": "Van Bommel zoekt Bouwman op in Ajax-kleedkamer, Klaassen vindt het een rode kaart",
       "category": "Wedstrijden",
       "published": "2026-09-05T21:22:49+00:00",
       "updated": "2026-09-06T10:09:10+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132312/scheidsrechtersbaas-knvb-veiligheid-bouwman-in-gevaar-rode-kaart-van-bommel.html",
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629859",
         "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "NOS",
-          "url": "https://nos.nl/l/2629859",
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132312/scheidsrechtersbaas-knvb-veiligheid-bouwman-in-gevaar-rode-kaart-van-bommel.html",
           "via_google_news": false
         }
       ]
     },
     {
       "id": "b378795f111eeb",
-      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen'",
+      "title": "Scheidsrechtersbaas gooit Van der Eijk voor de bus na Ajax - PSV: 'Ik ga hem die vraag zeker stellen' - voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-09-06T09:56:00+00:00",
       "updated": "2026-09-06T09:56:00+00:00",
@@ -656,10 +677,10 @@
       "related_sources": []
     },
     {
-      "id": "eb4e44c6173ac8",
+      "id": "0fc1e805fed573",
       "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
       "category": "Wedstrijden",
-      "published": "2026-09-06T09:16:24+00:00",
+      "published": "2026-09-06T07:20:00+00:00",
       "updated": "2026-09-06T09:36:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
@@ -675,21 +696,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "b20fb12df127d0",
-      "title": "Kraay ziet dissonant bij Ajax: 'Ongelofelijk, hij heeft tien minuten gewandeld'",
-      "category": "Overig",
-      "published": "2026-09-06T09:32:23+00:00",
-      "updated": "2026-09-06T09:32:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132301/kraay-leek-alsof-ter-stegen-niet-wist-dat-ajax-achterstond-tegen-psv.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     }
   ]
 }
