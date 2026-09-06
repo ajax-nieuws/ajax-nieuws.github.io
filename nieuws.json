@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T09:55:26.553641+00:00",
+    "generated_at": "2026-09-06T10:29:09.527046+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 124,
+    "article_count": 125,
     "event_count": 40,
     "discovered_event_count": 99,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 60,
+    "excluded_video_only_count": 56,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d998aa1ba101f6",
+      "title": "Van Bommel zoekt Bouwman op in Ajax-kleedkamer, Klaassen vindt het een rode kaart",
+      "category": "Wedstrijden",
+      "published": "2026-09-05T21:22:49+00:00",
+      "updated": "2026-09-06T10:09:10+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2629859",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132312/scheidsrechtersbaas-knvb-veiligheid-bouwman-in-gevaar-rode-kaart-van-bommel.html",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "b20fb12df127d0",
       "title": "Kraay ziet dissonant bij Ajax: 'Ongelofelijk, hij heeft tien minuten gewandeld'",
@@ -95,6 +116,21 @@
       "related_sources": []
     },
     {
+      "id": "89640a60299aef",
+      "title": "Interne steun bij Ajax voor Jordi Cruijff",
+      "category": "Overig",
+      "published": "2026-09-06T08:05:00+00:00",
+      "updated": "2026-09-06T08:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlVxcDJ1Nm55bGJzWGZwOEdDSG5ZRnptczFkSC05VWJ0dU5UYUVPOVNILWJVS3RJZmJCUXE1TlhkaG9VUkxVLTIzVmo4WWdHR1J4SlNneVdXeTdKMDM1SjRqaVdKMjFQbGlzS0hHeUdaV05WczZvUzFKYUduNVRNeXd4QlZTOVhHa3E0eld2VHBUTXVSMHRIaHAtSHIwMkFZQzVKVXlSdV9xM2VPMFpfLUxuNTRteFlvVWhuUFcxd0ZBYWdNSGZ5ZE9GZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "b0d3eefb507326",
       "title": "PSV is titelfavoriet, maar Ajax bewees dat het eindelijk weer serieus te nemen is in een titelstrijd",
       "category": "Overig",
@@ -126,22 +162,22 @@
     },
     {
       "id": "0474dac43084a7",
-      "title": "Ajax-verdediger Bouwman naar ziekenhuis na actie Van Bommel: 'Hij is groggy'",
+      "title": "Ajax-verdediger Bouwman naar ziekenhuis na aanslag Van Bommel",
       "category": "Selectie",
       "published": "2026-09-05T21:23:00+00:00",
       "updated": "2026-09-06T07:45:00+00:00",
       "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHR2TG0xNGc5S250YWltWHpUclpUZzZDSGtpYmlqX2lCMzVzakRiR2dPVGFlWTVrWG1DcVVZUlFZZ0ZjUmRqT0p4MXF2cTFNU1ZMMFhKd2ljd0xoTjhPWlRvR1NMOExNQ0RDeGw3amxfUTJIYTJ1RnVpNjBNLUtMYkVXSWJOdDdLNENqVkN1eW1SMFQxYlM0WkJxbklzV0wyMm93Nw?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHR2TG0xNGc5S250YWltWHpUclpUZzZDSGtpYmlqX2lCMzVzakRiR2dPVGFlWTVrWG1DcVVZUlFZZ0ZjUmRqT0p4MXF2cTFNU1ZMMFhKd2ljd0xoTjhPWlRvR1NMOExNQ0RDeGw3amxfUTJIYTJ1RnVpNjBNLUtMYkVXSWJOdDdLNENqVkN1eW1SMFQxYlM0WkJxbklzV0wyMm93Nw?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132190/bouwman-naar-ziekenhuis-na-actie-van-bommel-groggy.html",
+          "via_google_news": false
         },
         {
           "name": "Voetbalzone",
@@ -568,21 +604,6 @@
       "related_sources": []
     },
     {
-      "id": "d998aa1ba101f6",
-      "title": "Van Bommel zoekt Bouwman op in Ajax-kleedkamer, Klaassen vindt het een rode kaart",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T21:22:49+00:00",
-      "updated": "2026-09-05T21:22:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629859",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "f2b605ce43a6da",
       "title": "Ajax 1-3 PSV (5 sep., 2026) speler statistieken",
       "category": "Overig",
@@ -629,7 +650,7 @@
     },
     {
       "id": "83843902c7352b",
-      "title": "Klaassen snapt niets van uitblijven rood na beuk Van Bommel tijdens Ajax-PSV - NU",
+      "title": "Klaassen snapt niets van uitblijven rood na beuk Van Bommel tijdens Ajax-PSV",
       "category": "Overig",
       "published": "2026-09-05T20:38:45+00:00",
       "updated": "2026-09-05T20:38:45+00:00",
@@ -638,21 +659,6 @@
       "primary_source": {
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam9MNlM2TGlhZmJ4UnZMbWZsY3dCdlktT0g4MWVhUHNMOXJuQmxlbkp2alRISXlqUWVFOTU2YnNUSTNPX3FxNUVzcllxZ1c1WXNxMU1zcU5wVlVnaVZVWm1vbWt5djdDMEhIczFKbmtWa2J2MnpQTzlJNUp2ZW9qcnRQam43LUdtNkhvUnQzSHp1bU1OSEwyMzFTV1FjZVhFb1Z0YlRQeE9CN1V2dzFTTmJCalZiZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "02399aa1e9218f",
-      "title": "Hugo Borst haalt vernietigend uit na Ajax - PSV: 'Ga naar een psychiater'",
-      "category": "Transfers",
-      "published": "2026-09-05T20:38:00+00:00",
-      "updated": "2026-09-05T20:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeDQ5X0txY2ZsdVk3VGhzcDdFcTY1bmk2LVNwa3ZHVzg2ejZpOFo4SDVaalJORmhpeEtaakJLX2FDOXNCN3JVUmp2cEpnaHBKM3J2RklhOEtHYmtfUURJR0phbUZRM0NCOS1XMFduQWpuaFROdHZtWENCUFk5SW1PaFFwUVk2Ny1xejVuOXBuaTNoZzlDeE5QZGJ1amxrZ19PQVB1T1FwZzh1UEVYZGM5ekJpemdlLTBCaTJNZWREQQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
