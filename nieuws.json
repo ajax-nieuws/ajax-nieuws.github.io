@@ -1,18 +1,44 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T12:34:12.136546+00:00",
+    "generated_at": "2026-09-06T12:56:33.770504+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 125,
     "event_count": 40,
-    "discovered_event_count": 101,
+    "discovered_event_count": 102,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 58,
+    "excluded_video_only_count": 60,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0a1a23cb61e987",
+      "title": "Ajax O15 wint mini-Klassieker, Ajax O19 blijft ongeslagen - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T08:06:43+00:00",
+      "updated": "2026-09-06T12:35:41+00:00",
+      "source_count": 3,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelp0MHc4d3JpY3JCLWZlV2dRMERSdjZYU2Nzb2pxeERBY29CMnBjSTZpX3czclllUExDNTJrTmdoVmI3eWZ0M2FZZ3lhMWVtTktqWFE2cE5KY1pmZm1YSk93ME5aRGNUcExkNmd6YklmcjBXYzFVTEhzZFQtYUtLbk95V3hCQkx4Y05sWEk3RklLWGE2UTk4Zl9mbTE4RFFNVnd6WHFPODM4U2M?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "NOS",
+          "url": "https://nos.nl/l/2629885",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFAzRl9KUlFZRXh5SFlGX3h5VTA3TzhvZTlwQ21kQXc1Nl9BYzFmVzcwQVIwQ0tUcVE3NnNnbzFJT3plWXA3ZlpBZ1gxS3FNRmp5Z2VHM2tKTTRzR1c3VkFWMnIzb3NqWWZjdGgzWmR6LWhxQW1UVWQtcTQ2N0tDMVc4Y1pveDdhcnM1NEJSYU9zbTd6V3ZvRWgtcTVqeXV6WXg4WHJEbFNrVldJOGRyNEx0UQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "2b0a76b6980a7d",
       "title": "Scheidsrechtersbaas Van Meenen: 'Van Bommel had rood moeten krijgen tegen Ajax'",
@@ -161,21 +187,6 @@
       "related_sources": []
     },
     {
-      "id": "5304328a0727a1",
-      "title": "Speler bejubeld na Ajax - PSV: 'Een feest dat een dusdanige wereldtopper hier speelt!'",
-      "category": "Overig",
-      "published": "2026-09-06T09:32:00+00:00",
-      "updated": "2026-09-06T09:32:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXRtaGE1aktCX2tISlJyblhleWdwejlFWmd2dmIwVjdKMjBGNUNBZlNJdUVveFczU2tnZVhPbGR3emtQQ3ZrNkdhamJRdjBmMW5kbTFSV2pYM0NzbmNzX05GdnlxZWcwTnhpbUoxVGZ2blhwbWJ2NU1kWFVsMkVjOXotUW1weVFrUG42LW5fal9aUFJSb1ZwU2NleDI3emxvRDhUb2RqN3dXQW9zMUJ0X0xOX2ppcHNnQXdaWlBJYzFtaVRLaXVpSEJjc0w4OXM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "6361a168f78822",
       "title": "'Ruben van Bommel is na de wedstrijd direct de kleedkamer van Ajax ingegaan'",
       "category": "Wedstrijden",
@@ -204,27 +215,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "a7f70755a6b3f8",
-      "title": "Bosz wint eindelijk met PSV in Amsterdam, maar sterk Ajax kan titelrace spannend maken",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T08:06:43+00:00",
-      "updated": "2026-09-06T08:59:36+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629885",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFAzRl9KUlFZRXh5SFlGX3h5VTA3TzhvZTlwQ21kQXc1Nl9BYzFmVzcwQVIwQ0tUcVE3NnNnbzFJT3plWXA3ZlpBZ1gxS3FNRmp5Z2VHM2tKTTRzR1c3VkFWMnIzb3NqWWZjdGgzWmR6LWhxQW1UVWQtcTQ2N0tDMVc4Y1pveDdhcnM1NEJSYU9zbTd6V3ZvRWgtcTVqeXV6WXg4WHJEbFNrVldJOGRyNEx0UQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "f334efeb254c66",
@@ -667,6 +657,21 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/bosz-slaat-terug-na-kritiek-op-van-bommel-families-erbij-slepen-niet-doen",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6661bc111c3aff",
+      "title": "Samenvatting Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-05T21:41:00+00:00",
+      "updated": "2026-09-05T21:41:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmd09EMTVuODE1SERPVEdlQ19ZdUhBQ20zQW1LcTE1Tk9rckdjMXpFREJ3QVVhRVNZc2lOM3V2V1dJeUJPTTZldG5IMmtiSEw3QlhCank2ZXN3Qm9VVnBDellOZTBFUmVxOVhPZ2pqNm5TdUQ2?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     }
