@@ -1,21 +1,51 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T16:31:17.437933+00:00",
+    "generated_at": "2026-09-07T16:56:17.624366+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 105,
+    "discovered_event_count": 106,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 60,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "2913b90b5f0bd1",
+      "title": "Wim Kieft verbijsterd: 'Slaat het allemaal niet een beetje door, kom op zeg'",
+      "category": "Overig",
+      "published": "2026-09-07T16:54:00+00:00",
+      "updated": "2026-09-07T16:54:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132897/wim-kieft-verbaasd-over-ophef-rond-ruben-van-bommel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6099997e276d94",
+      "title": "Done deal: voormalig Ajax-aanvaller Bertrand Traoré heeft nieuwe club te pakken",
+      "category": "Transfers",
+      "published": "2026-09-07T16:39:00+00:00",
+      "updated": "2026-09-07T16:39:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132879/bertrand-traore-tekent-bij-wolverhampton-wanderers-na-vertrek-sunderland.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "224bc584399da5",
-      "title": "Driessen zaagt aan stoelpoten Míchel: 'Weet niet of hij Ajax hoop gaat brengen...'",
+      "title": "Driessen ongenadig na Ajax - PSV: 'Weet niet of hij Ajax een hoop gaat brengen'",
       "category": "Overig",
       "published": "2026-09-07T16:25:00+00:00",
       "updated": "2026-09-07T16:25:00+00:00",
@@ -192,22 +222,22 @@
     },
     {
       "id": "2bba272c0d17b3",
-      "title": "De Mos snapt niets van Ajax-ingreep tegen PSV: 'Dat was een mispeer'",
+      "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
       "category": "Overig",
       "published": "2026-09-07T12:05:00+00:00",
       "updated": "2026-09-07T13:31:59+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132754/aad-de-mos-lyrisch-over-kodai-sano-en-kritisch-op-wisselbeleid-ajax.html",
-        "via_google_news": false
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXRUdlRRLVdPbG4zMFhFR1hKREJjYjI0cHJQSC1JY1c0S25qQl80dnpTeTRTcVRSTVdrUGk4VFJLbXhobVVtSXRuRFhTWWlnMlA0cWRib1M4eVk5WkJwVkpXQW1MazNyVnU0cXR0S1FNcWNNcnZ4WS1HaEZ5WHhLbkZyYkpPbm5OVnpUSVpCZmE3RFVXSFJUeDRybjJfTlJqVHJVQVJBZGhvVFVCRWVTR2dBdFg5VWFnOGxRUG1GNDhDSGlkR2hSVzdCZnNuUDNSck9ydnNGYWdSSkF1dGJiMDVB?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXRUdlRRLVdPbG4zMFhFR1hKREJjYjI0cHJQSC1JY1c0S25qQl80dnpTeTRTcVRSTVdrUGk4VFJLbXhobVVtSXRuRFhTWWlnMlA0cWRib1M4eVk5WkJwVkpXQW1MazNyVnU0cXR0S1FNcWNNcnZ4WS1HaEZ5WHhLbkZyYkpPbm5OVnpUSVpCZmE3RFVXSFJUeDRybjJfTlJqVHJVQVJBZGhvVFVCRWVTR2dBdFg5VWFnOGxRUG1GNDhDSGlkR2hSVzdCZnNuUDNSck9ydnNGYWdSSkF1dGJiMDVB?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132754/aad-de-mos-lyrisch-over-kodai-sano-en-kritisch-op-wisselbeleid-ajax.html",
+          "via_google_news": false
         }
       ]
     },
@@ -605,21 +635,6 @@
       "related_sources": []
     },
     {
-      "id": "e3f6b752d34f00",
-      "title": "Sjoerd Mossou verbijsterd na Ajax-PSV: 'Enige verklaring voor deze blunder'",
-      "category": "Selectie",
-      "published": "2026-09-06T22:02:00+00:00",
-      "updated": "2026-09-06T22:02:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132283/sjoerd-mossou-wil-verbod-op-var-na-rode-kaart-van-bommel.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "3687635d480a17",
       "title": "Noa Vahle stoort zich aan enorm ongepast interview na Ajax - PSV",
       "category": "Overig",
@@ -631,21 +646,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZC05YVVHQzVMc3JEQ2Fqd0lEQXE5X21faWNBbEVwOFk3bFhfbjZqblpkeUFWR18yNWhOOTFjTEh4YVdGWXZoU1lxSldHX1c1N0tlRUhDQVdJX2ZPNkVfRVQ0VkRzdi02OE5NcUxjOHVMLWVKdXQ5NzNqMWVQV29fR1VrWTlYZzJhbUpqSUNKamttbGhuVlhJOGJkVUt6LURpUndWNWtOdVVXQUVL?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9867341a3cb756",
-      "title": "Noa Vahle hekelt reactie Bosz op Van Bommel-moment: 'Je kan ook anders beginnen'",
-      "category": "Overig",
-      "published": "2026-09-06T21:18:58+00:00",
-      "updated": "2026-09-06T21:18:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132515/noa-vahle-hekelt-reactie-bosz-na-van-bommel-moment.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
