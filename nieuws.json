@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T03:56:52.762650+00:00",
+    "generated_at": "2026-09-07T04:32:03.540003+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 135,
     "event_count": 40,
-    "discovered_event_count": 108,
+    "discovered_event_count": 109,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
@@ -72,27 +72,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "b82de5ce5040d2",
-      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
-      "category": "Blessures",
-      "published": "2026-09-06T14:31:00+00:00",
-      "updated": "2026-09-06T21:10:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVg1NjVlYjg1LWpPMDBBVy1FQWV6UW9scFczVktYNGs4RS05LUxWb1NiQk1zWmc3X1Bqbm1uV1pVUDdFektwZ29LcHROZ1p3dW9qV3B4b0RsSHZheVdfN0tIdGFJc3RmdXB3TnNZWmxrME1GRGVfNlBjRHRfZWNmajNkcWpTYUNzQVZzVDh1X3JWVHJCOHJpTGYxeTlUQTE1WjZKb212TXRtcXBaVGczRmFkVE5VSFlXaEZqQXZnVUtDR3dOMXBrNTNpNF9LSlc5N2lYR2t6OHgxVFFPQ0M2QUk4NUtrUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "f771f7d1bf1018",
@@ -255,27 +234,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "10c979180127a1",
-      "title": "Bouwman voorlopig uitgeschakeld",
-      "category": "Blessures",
-      "published": "2026-09-06T14:25:00+00:00",
-      "updated": "2026-09-06T17:48:35+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRWNfMTRLSUlJMEJYaGNGRktGQXhjdmNLbG56YWtKV0xXd3VzckxDRE80YS1FeV8yMWV4ckhPdWtfTTZQeVBOR1AyOUluZ3FNYVdjOTIxdmtVenVOUzVwSk1FdFpFTElYd3pla0J3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "80527feb7b7fa3",
@@ -455,6 +413,21 @@
       "related_sources": []
     },
     {
+      "id": "0bb5b0376668aa",
+      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
+      "category": "Blessures",
+      "published": "2026-09-06T14:31:00+00:00",
+      "updated": "2026-09-06T14:31:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "bcc96174a0551a",
       "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel",
       "category": "Overig",
@@ -468,6 +441,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "184fe3744f5b52",
+      "title": "Bouwman voorlopig uitgeschakeld",
+      "category": "Blessures",
+      "published": "2026-09-06T14:21:11+00:00",
+      "updated": "2026-09-06T14:25:00+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TMDhRQjdVNDY1MGhZSlAyVUJJTG5TRXZtSWtoa3NuUlFFYTlMamRORk1qdEtZdS1rbEZ2dWJNRlJZMmM2X1owaTJ5RWZHSDQ2UmVZSTdNS0Z3SXNicGJySXVCektjMklJTklmb3FaWQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "038c9efcf1f695",
