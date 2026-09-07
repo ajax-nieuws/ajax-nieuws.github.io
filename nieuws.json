@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T13:32:47.065375+00:00",
+    "generated_at": "2026-09-07T13:57:14.684493+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 131,
     "event_count": 40,
@@ -8,11 +8,32 @@
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 56,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "10c979180127a1",
+      "title": "Bouwman voorlopig uitgeschakeld",
+      "category": "Blessures",
+      "published": "2026-09-06T17:48:35+00:00",
+      "updated": "2026-09-07T13:41:03+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRWNfMTRLSUlJMEJYaGNGRktGQXhjdmNLbG56YWtKV0xXd3VzckxDRE80YS1FeV8yMWV4ckhPdWtfTTZQeVBOR1AyOUluZ3FNYVdjOTIxdmtVenVOUzVwSk1FdFpFTElYd3pla0J3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+          "via_google_news": false
+        }
+      ]
+    },
     {
       "id": "2bba272c0d17b3",
       "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
@@ -614,27 +635,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "10c979180127a1",
-      "title": "Bouwman voorlopig uitgeschakeld",
-      "category": "Blessures",
-      "published": "2026-09-06T14:25:00+00:00",
-      "updated": "2026-09-06T17:48:35+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRWNfMTRLSUlJMEJYaGNGRktGQXhjdmNLbG56YWtKV0xXd3VzckxDRE80YS1FeV8yMWV4ckhPdWtfTTZQeVBOR1AyOUluZ3FNYVdjOTIxdmtVenVOUzVwSk1FdFpFTElYd3pla0J3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "80527feb7b7fa3",
