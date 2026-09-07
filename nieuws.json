@@ -1,18 +1,69 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T07:33:02.016551+00:00",
+    "generated_at": "2026-09-07T07:57:38.096317+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 109,
+    "discovered_event_count": 108,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 59,
+    "excluded_video_only_count": 58,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "70824fcce3e354",
+      "title": "Rondje Eredivisie: had Feyenoord Hadj Moussa moeten verkopen?",
+      "category": "Transfers",
+      "published": "2026-09-07T06:25:24+00:00",
+      "updated": "2026-09-07T07:48:48+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-had-feyenoord-hadj-moussa-moeten-verkopen",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132549/ochendkranten-over-topper-ajax-psv-en-feyenoord-zege.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "cef7ab5aabc3d0",
+      "title": "Van Hanegem: 'Ik heb geen idee waarom Ajax daar vanaf leek te willen'",
+      "category": "Overig",
+      "published": "2026-09-07T07:38:00+00:00",
+      "updated": "2026-09-07T07:38:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132596/van-hanegem-snapt-niets-van-hysterisch-gedoe-na-topper.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "80d4470b7d96ab",
+      "title": "Ajacieden kunnen leren van actie Van Bommel: 'Getafe komt er ook nog aan bij Ajax'",
+      "category": "Overig",
+      "published": "2026-09-07T07:30:00+00:00",
+      "updated": "2026-09-07T07:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXRSdU51MHRTT3B0S2JhbVp5cU1JSzRkd1VxeGQzTkJFOTBTQ1Fra3c4eFB5bE5FeDdNZnhURFNLRlZ6NEZFdURyX1NqY1F5ZENsRm1JMXZuMi1UNEhLYmR1OGtUMWxtRzhSTXUtY3M4elYxOHI0UDdOZWRmUWdMZnhTQUdrV2JQbFE5OEVGOEVmVmtJZy1DQ2xaRWVUMFpyWWhIWkJXak5FdHB6LWw4UGg4eTFXdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "c9c31e65f1f46f",
       "title": "Perez en Kwakman lovend over één Ajax-speler na topper: 'Hij geeft een signaal af'",
@@ -39,21 +90,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132510/van-der-meijde-en-genee-keihard-over-leonardo.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c91ccd541da16a",
-      "title": "Kranten: 'Kapitale blunder cruciaal bij Ajax-PSV, Feyenoord heeft Moussa-opvolger'",
-      "category": "Transfers",
-      "published": "2026-09-07T06:25:24+00:00",
-      "updated": "2026-09-07T06:25:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132549/ochendkranten-over-topper-ajax-psv-en-feyenoord-zege.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -260,21 +296,6 @@
       "related_sources": []
     },
     {
-      "id": "5620b93beb801d",
-      "title": "Derksen: 'Ajax meldt zich voor Elia'",
-      "category": "Transfers",
-      "published": "2026-09-06T19:52:30+00:00",
-      "updated": "2026-09-06T19:52:30+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1REZEFyS3lzeVhQdmZIZ21FSUxfc1FGUW1lbVdPQmtJNk1GTllBcWxLa0x5SUt4ZEJCSEg1VjlIcHhEVHVqbVhDcnljSFpEYldhWHQ5NmFhaFp2U0Nja0c2RWE3ZHM4R0dMSkJIMkNxSTBvOXFOVjgwY1BSZGdmQWtSNGYzMTBFelNLYjdVNlcwQnhFZWdnVHVNVnQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "3d20e91aafe6bd",
       "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap",
       "category": "Ajax Vrouwen",
@@ -461,7 +482,7 @@
       "id": "f2b605ce43a6da",
       "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) team statistieken",
       "category": "Overig",
-      "published": "2026-09-05T20:25:36+00:00",
+      "published": "2026-09-05T20:57:40+00:00",
       "updated": "2026-09-06T16:49:21+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -614,6 +635,21 @@
       "related_sources": []
     },
     {
+      "id": "6661bc111c3aff",
+      "title": "Ajax - PSV (samenvatting)",
+      "category": "Overig",
+      "published": "2026-09-05T21:41:00+00:00",
+      "updated": "2026-09-06T14:17:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUh1UG9mQk95V2pxWnJNSWJ0NjFPWUxXeC1RaGRNTDlvOHE3c1MyUkJZRHlUVkZ2UzlZU0hZOTdBX3NnSThXVkk3djc4LVJMZWRJLXgyT3pCZ1ZrdFVxdEJWZ2VpWGxOSUFOMWpQZ05nY0F0bHhGdDdlMEp0VUVsNGRZVmU2OXp6aTFNMFFVT1hMVUlrS3BuQWtqejJJMTExMDNn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "cca9d791b930ff",
       "title": "Ajax meldt: Bouwman speelt deze maand niet meer",
       "category": "Wedstrijden",
@@ -627,47 +663,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "5133fab77d2a02",
-      "title": "Ajax O17 en O16 gaan pijnlijk onderuit in uitduels; Ajax O15 laat geen spaan heel van Feyenoord O15",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T14:00:00+00:00",
-      "updated": "2026-09-06T14:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1VlWDQtUlNDWFVDczRyMG5KWk9mbDJjdGdYUXJ4SHdpazFDUEhxZDhBSURVZjlGSUtNcnQzN2ZuLW84bm82NXhWcGFuQ3FPVHFBd05Kcm5kbXItUE1PcnFWSmdYU0lWM0Y1Q0VwYU82TTdoY1JGMl9HNzMzNzhNNHhQS0pUR1ptM1JVVjI0dTZzQ0ZZTFRkQlF5dE5iYU5kVG1naGdRN3hNbWZDd0VGV1ZSdnZtMEJYUV9rWVBOX2tQVmdfeFQ4Ti04UWZjMklKSWdCRGF3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5cd1e46d2d72f8",
-      "title": "PSV-trainer Bosz boekt in Amsterdam zijn 200e Eredivisie-zege",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T20:51:28+00:00",
-      "updated": "2026-09-06T13:46:28+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/psv-trainer-bosz-boekt-in-amsterdam-zijn-200e-eredivisie-zege",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzhUcWpraDVBQUlEN2xfTV9WRUNpcy1IVDJiZkstd2FQZ3V4YlNGQzdHMEZjTmktdU1MWEFLSUpvS1FMV0Z4dUhFQlV2dmIzMTRKUjhpSVNTNVlQMGRWcmN2YTJzMm5aVkZUY3BRUmV6ZDkzQWg4b3dWN3RZMEo2aGFTUFVNdEltZnV6M29qRnJPY2RYUW9fN0FMMFgzLU1tcGpYLTZ1Y2x6ZmZuQ0ZsalhCWUpRcXNaeWs3NFFQUFlVc2s?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzBqMkxOOExDYlRKLVBKR0E2bDBQX2NwWThSaFJIWHNlTmgwdHJqdDlyd1JaMDlib3AzWmJVcjl2cElka0JvczRxYUtaMWRoMXdzYkVldlFqSG5KVUJ1UXpkbkpjektYWWRocDlXRjRqWi1hb0VRUjhsNVlVQl9Kb1NuVmJsQVhxUkpqWVEzY2NNV3BzMFFxRTM4TkZ6TVVycU94eENtbEtHV3hVczVqcHdqVHE?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
