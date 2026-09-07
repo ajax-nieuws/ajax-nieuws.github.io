@@ -1,30 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T20:30:41.850286+00:00",
+    "generated_at": "2026-09-07T20:55:38.345302+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 118,
+    "article_count": 116,
     "event_count": 40,
-    "discovered_event_count": 93,
+    "discovered_event_count": 90,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 55,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "6ff06eed9feb1a",
-      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax",
-      "category": "Transfers",
-      "published": "2026-09-07T19:33:00+00:00",
-      "updated": "2026-09-07T19:33:00+00:00",
+      "id": "c17695bf376842",
+      "title": "Van der Vaart geniet: 'Ik heb als Ajacied met trots naar Ajax gekeken'",
+      "category": "Overig",
+      "published": "2026-09-07T20:48:45+00:00",
+      "updated": "2026-09-07T20:48:45+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmx2SmR5cDdrYXRiVjhRTGs4MnF5MnN6ZlVrRm9hdXlPZE1yelNicnFmOVF5eU1lSVkzMC1SaG1UODdFVGhvVndrRHE5anJ4c0dGcGlPQUt5Z3o3bVF2M0ZsZG9IbzBlV3BzZ1c5R3RmbTI0VTFibmFFY1gwVE9Dc2pEUWZ0Q0pPWmsyUUI0bVlmc01pdDk4RWRGSzFzNFcwcVFOLWdVRUtjWlNVRHZuUzBuNTQ?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132957/wim-kieft-en-rafael-van-der-vaart-genoten-van-ajax-psv-geweldige-wedstrijd.html",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -167,7 +167,7 @@
     },
     {
       "id": "b4e4b95be9d534",
-      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’",
+      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’ - Voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-07T15:02:00+00:00",
       "updated": "2026-09-07T15:25:53+00:00",
@@ -203,7 +203,7 @@
     },
     {
       "id": "70241163892950",
-      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax'",
+      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax' - Voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-09-07T15:10:00+00:00",
       "updated": "2026-09-07T15:10:00+00:00",
@@ -263,7 +263,7 @@
     },
     {
       "id": "10c979180127a1",
-      "title": "Bouwman voorlopig uitgeschakeld - Ajax",
+      "title": "Bouwman voorlopig uitgeschakeld",
       "category": "Blessures",
       "published": "2026-09-06T17:48:35+00:00",
       "updated": "2026-09-07T13:41:03+00:00",
@@ -283,12 +283,12 @@
       ]
     },
     {
-      "id": "d9fb8375d83afb",
+      "id": "2b0a76b6980a7d",
       "title": "'Van Bommel had rood moeten krijgen tijdens Ajax - PSV, maar hij ook...'",
-      "category": "Overig",
-      "published": "2026-09-07T13:06:00+00:00",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T11:16:01+00:00",
       "updated": "2026-09-07T13:37:00+00:00",
-      "source_count": 2,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -297,8 +297,18 @@
       },
       "related_sources": [
         {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZnlSQlVjS1NLV21zR2x4X2ppVDNVQVR5NjNMWG5mMnZ6YUxUTEtNaG5iOEQ5SjhfdksxU0FJZzVrWm0yZE4wX0dzOFZOb1RsalpxM1VlYlRrVV9Vcm9qQS1BYWFGOHBFbnNaVmdndHUwdXh6NEEtQV81ZklIeHVkMTR1QjdCZXZyNE9wOEpRb1haTThVcUswT2dxbEFqT2FXMF9ETTRlNndyRkptb1c3ZE5YLTB5OTk2Q3BxYWFkZ1pNMnNG?oc=5",
+          "via_google_news": true
+        },
+        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0U5WDNFU2t4TTdZeU1laTBFSVl1TTNkRUJxZ0N6SG5CSjhFNVJFeFVVS24xbFVidlVKY0xhOUFFdjlJMnBGanJlaW81Yk9VUnFPY09sQW5jWEVJWnRqbXVhTWZqLXo1eGNYNW0zZTZZblJpcWZLd3pIdnBhX3hjdVhudzhLSXBpN0hxRGpaYnBGd1BNc1czU2xvaXRPUzRXbWI0X2gwcGFYTmZvREZfWkpsRU9CblBkT3BCcHllQmVZa21FLUpCdEhR?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hNT1k2RUVDU1NPdThUR3RuaDhycmlXb3pUNHY4Zk1KQUhTYXlPd1dWTWhoS1pra1VZdFZ3YXAzSWdGZ0d3ZXEzbUViNkRsZG5CYS1aOWpfd3c2eHFfV1JjQmFCTTRrRmJoZTJrOVVxZlRCNHhIX2pUYVF6c1JWandUR2p6alJ4eUNfaDFQUGp5WndwMkRWOHdpbnQ0cEk3anhiUTl0ZmpTcWpwYUNWNklB?oc=5",
           "via_google_news": true
         }
       ]
@@ -392,7 +402,7 @@
     },
     {
       "id": "54ca06ff7c255e",
-      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden",
+      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden - Voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-09-07T10:50:00+00:00",
       "updated": "2026-09-07T10:50:00+00:00",
@@ -466,6 +476,21 @@
       "related_sources": []
     },
     {
+      "id": "a11bdf045b5ea0",
+      "title": "Beging de arbitrage fout op fout tijdens Ajax - PSV? 6 discutabele momenten op een rij - Voetbalzone.nl",
+      "category": "Overig",
+      "published": "2026-09-07T08:37:00+00:00",
+      "updated": "2026-09-07T08:37:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVFvU3F3MmZPR0Z0ZTg3VklZZ0kwb3ZMNUlWejVNVk1UYzZtclVVRDlZUURlODdCbWx0UDBwOWNleG93NjVUYmZwMUFXT0IwcGJyRnpld1lJNWprZElCVGNJRW5vTV85a2M5M0Y3M05hZnhUMHpKdUJzU2pDLV9YTFFObU5Fa3N3eUI0LUJLeW91dDBORjY1VklfUk0zczdMWlRIZHpEbzE3UHZJTF93Y0p4VDY2ejlIM3NrVlZabjZHaXBabFJMeE0xcEI5cFhpWENJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "4045086c1a7869",
       "title": "Vrees voor Bouwman: 'De Ajax-trein kan gaan rijden en dan is hij de klos'",
       "category": "Overig",
@@ -497,7 +522,7 @@
     },
     {
       "id": "0a1a23cb61e987",
-      "title": "Ajax O15 wint mini-Klassieker, Ajax O19 blijft ongeslagen - Ajax",
+      "title": "Ajax O15 wint mini-Klassieker, Ajax O19 blijft ongeslagen",
       "category": "Wedstrijden",
       "published": "2026-09-07T08:15:45+00:00",
       "updated": "2026-09-07T08:15:45+00:00",
@@ -537,21 +562,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0pMWHQwQUNULWJaM3ZDSVFicnBaX2FBYVBkcmZvbTVFMDIyQmU2M01tRERQRW85ejlya1REc3I0OGJYQXBPN2R0YmVUQjJrd0pFLTcxaDF6ZUxTSWhvaUdqc1M2QWVJRkRHZFV2NjFja05PMVBiT1RwMXp3aEpNVnZ6RW5OMTMtbV9YMGxPRXJxNGptcDRNbHRWbw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cef7ab5aabc3d0",
-      "title": "Van Hanegem: 'Ik heb geen idee waarom Ajax daar vanaf leek te willen'",
-      "category": "Overig",
-      "published": "2026-09-07T07:38:00+00:00",
-      "updated": "2026-09-07T07:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132596/van-hanegem-snapt-niets-van-hysterisch-gedoe-na-topper.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
