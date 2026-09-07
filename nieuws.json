@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T09:57:39.549645+00:00",
+    "generated_at": "2026-09-07T10:31:35.178277+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 131,
     "event_count": 40,
     "discovered_event_count": 106,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 58,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ecf47b2c9413df",
+      "title": "Zo ontspoorde Ajax-PSV even na de beuk van Van Bommel",
+      "category": "Overig",
+      "published": "2026-09-07T10:22:18+00:00",
+      "updated": "2026-09-07T10:22:18+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/zo-ontspoorde-ajax-psv-even-na-de-beuk-van-van-bommel",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "932c87bbb87cdd",
+      "title": "'Geen onderzoek van aanklager betaald voetbal naar actie Van Bommel'",
+      "category": "Overig",
+      "published": "2026-09-07T10:14:30+00:00",
+      "updated": "2026-09-07T10:14:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132680/geen-onderzoek-van-aanklager-betaald-voetbal-naar-van-bommel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "59466ec72d8d96",
+      "title": "Ajax wacht met smart op 'Speedy Gonzales': 'Kan duel met één actie openbreken'",
+      "category": "Overig",
+      "published": "2026-09-07T10:00:00+00:00",
+      "updated": "2026-09-07T10:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2131760/wat-haalt-ajax-binnen-met-simon-adingra.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "377c5875cbffae",
       "title": "AD: Xavi-assistent bezoekt opvallend duel voor zes (!) Oranje-kandidaten",
@@ -95,6 +140,21 @@
       "related_sources": []
     },
     {
+      "id": "81acd9d6bf4036",
+      "title": "Spaan sloopt Peter Bosz na Ajax-PSV: 'Rot een eind op, trainer'",
+      "category": "Overig",
+      "published": "2026-09-07T07:45:00+00:00",
+      "updated": "2026-09-07T07:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0pMWHQwQUNULWJaM3ZDSVFicnBaX2FBYVBkcmZvbTVFMDIyQmU2M01tRERQRW85ejlya1REc3I0OGJYQXBPN2R0YmVUQjJrd0pFLTcxaDF6ZUxTSWhvaUdqc1M2QWVJRkRHZFV2NjFja05PMVBiT1RwMXp3aEpNVnZ6RW5OMTMtbV9YMGxPRXJxNGptcDRNbHRWbw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "cef7ab5aabc3d0",
       "title": "Van Hanegem: 'Ik heb geen idee waarom Ajax daar vanaf leek te willen'",
       "category": "Overig",
@@ -151,36 +211,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132510/van-der-meijde-en-genee-keihard-over-leonardo.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ecf47b2c9413df",
-      "title": "Zo ontspoorde Ajax-PSV even na de beuk van Van Bommel",
-      "category": "Overig",
-      "published": "2026-09-07T06:05:30+00:00",
-      "updated": "2026-09-07T06:05:30+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/zo-ontspoorde-ajax-psv-even-na-de-beuk-van-van-bommel",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e821f0526411a5",
-      "title": "Van Hanegem snapt niet dat Ajax Baas mogelijk wilde verkopen: 'Hij heeft dat niet, hij heeft de toekomst'",
-      "category": "Transfers",
-      "published": "2026-09-07T06:00:00+00:00",
-      "updated": "2026-09-07T06:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONC1PVHQ0VU9WTjliVjc4Nmw1REVXZ3dqcnVsZkgybHBNWGdBXzAwSEFFX0MxMl9wS215Ynp1MU1EZGQwa256dkZzdE1YWWlwQ0txLWxlc3FoZnhJcjJfM25GVzFjYzlOUTA5Rm5iQVRzWWVXUlhoVWdYalE0VlVHOVd2WEI0MXRiczRtSmRQTWtiay1NamlGVmVLbzdnSVNMbE8yQzVpd2k1cTFLY1BXTlA5aUlHcXY4RDZ5UHNJdS1NUzRoX0J1TUZRaHNsRm1zX0tj?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -616,57 +646,6 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/55980/Klaassen-%22We-zijn-nu-een-stuk-beter-geworden%22",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0474dac43084a7",
-      "title": "Ajax-verdediger Aaron Bouwman maand uit de roulatie na beuk van Ruben van Bommel",
-      "category": "Selectie",
-      "published": "2026-09-05T21:23:00+00:00",
-      "updated": "2026-09-06T14:39:55+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVVKWFhzVExOVFB1U3hmU09YZWMtUDduRjNMNTNnOGhndmM1cVVpOWVSanZia3JtWEdva25yMDBsQTRaUGpYX3hyallKNmhEUFNXYjFFUS1mQVdCX2J3VXFrUHlPb2FxZTJaUXFGZXhWLURGeDcwcTMxamNXSndWV1BCaEIwVWFqeWlSNmJUMGI1RmdMUmI1THpNNWplSmhYNmhmX2FzLXNrSWtUdlY4Q1htWDlPVHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132405/bouwman-voorlopig-uitgeschakeld-bij-ajax.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHR2TG0xNGc5S250YWltWHpUclpUZzZDSGtpYmlqX2lCMzVzakRiR2dPVGFlWTVrWG1DcVVZUlFZZ0ZjUmRqT0p4MXF2cTFNU1ZMMFhKd2ljd0xoTjhPWlRvR1NMOExNQ0RDeGw3amxfUTJIYTJ1RnVpNjBNLUtMYkVXSWJOdDdLNENqVkN1eW1SMFQxYlM0WkJxbklzV0wyMm93Nw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzdITmZFVThjMTlZSFZ4ZGR0TmpvWno1ZnluOEFieUpaRUVrbDZXS0wyVWtJbnZVNE9zcTN6UlFsc2I3REtsLWFaZXFRNVBCYnlySzZfOUowX1RlaDc5ZTRwQTdNYnJuUTZLYlozTmRubnJMcWI1ZEVzNnVaYVNqTHg1eWp5aFY5Q3diM0RNSDdTM3gxVG9SRUJGNHVNTkgxSXR4RWVDNmJmbjY2amlhMDY0WU5WdEo0M2lzcDFJNTVBb1I2Z0RubHZkRzdmREtmSmlIbkd6Mkw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW4wY2JqY01pQ2V6MjNnc1dlbXJkLTUtVTh2UTg4TmtNWU1aQXBEUWRNZ0VleUtDUTNqWG1qUHU0MmhSblA1c012cVB4Z3E1N0VZNWk1LWR6UXljNHF5d3pDc2lCMlUzSXJUQmVmMnBnVDE5djhpbFkwamd0a1Jjc0NQWU9JNGswcWxHcw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "e74bf66bddb229",
-      "title": "Nodige schade bij Bouwman: Ajax-verdediger komt in september niet meer in actie",
-      "category": "Selectie",
-      "published": "2026-09-06T14:37:40+00:00",
-      "updated": "2026-09-06T14:37:40+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd1JrSzQxdDVocTJOQV9zcktJRUZfRFg5WDgwbXJTbUFNOHZnVXRJdURnbFFURTVCd3psY0hyTjc0Q0FtNWplcEx6cVVnWE9BMVJCRGNqSUhNLUpYcnZPRGFLQjNmaUxQS3owSjlqOUtjdXBmWEdMYnA2TWx5b0x0WUZ4TjBHUkZzS3F6WE4zSHZtLVZMd3ZRaVNBN0pSRlI4cWs0SUt1NDJUdERNLTNv?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
