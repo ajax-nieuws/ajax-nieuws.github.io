@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T18:34:15.957884+00:00",
+    "generated_at": "2026-09-07T18:57:01.642468+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 130,
     "event_count": 40,
-    "discovered_event_count": 101,
+    "discovered_event_count": 99,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
@@ -14,34 +14,40 @@
   },
   "events": [
     {
-      "id": "e05fdc820f33f0",
-      "title": "'Als je dan was gestopt bij Ajax - PSV, zei je dat hij bij PSG moet voetballen'",
+      "id": "2b8cdb5669a271",
+      "title": "Klaassen zorgt voor hilariteit na opstootje Ajax - PSV: 'Hou me tegen!'",
       "category": "Overig",
-      "published": "2026-09-07T18:14:00+00:00",
-      "updated": "2026-09-07T18:14:00+00:00",
+      "published": "2026-09-07T18:38:00+00:00",
+      "updated": "2026-09-07T18:38:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132926/kenneth-perez-lyrisch-over-mokio-maar-ziet-ook-groot-probleem.html",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132940/wim-kieft-over-rol-davy-klaassen-bij-opstootje-ajax-psv.html",
         "via_google_news": false
       },
       "related_sources": []
     },
     {
       "id": "82becec9833196",
-      "title": "Kenneth Perez: 'Na één helft bij Ajax - PSV denk je: die moet naar PSG of Bayern!'",
+      "title": "Perez: 'Na één helft bij Ajax-PSV denk je: die moet bij PSG of Bayern voetballen'",
       "category": "Overig",
       "published": "2026-09-07T17:30:46+00:00",
-      "updated": "2026-09-07T17:30:46+00:00",
-      "source_count": 1,
+      "updated": "2026-09-07T18:35:54+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZaUhrVlNKcTh3V3BGOE9lMjNtLXFrQ0pvLWhaM3hFczZSdDNnN3lyX0lURGVpVHJjdHI1UU0ybFhJR2JHUnZfYzVHYUV3Smg3V3k0dlYxUHBtRE9hcmNadFpxVlpZRFZyR0NxM0Iwd1FzWTRwODR1Mno0RE1tLWx5ZmpoLVBVdUNVWHJPMDVwRHNDVVNR?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132926/kenneth-perez-lyrisch-over-mokio-maar-ziet-ook-groot-probleem.html",
+        "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZaUhrVlNKcTh3V3BGOE9lMjNtLXFrQ0pvLWhaM3hFczZSdDNnN3lyX0lURGVpVHJjdHI1UU0ybFhJR2JHUnZfYzVHYUV3Smg3V3k0dlYxUHBtRE9hcmNadFpxVlpZRFZyR0NxM0Iwd1FzWTRwODR1Mno0RE1tLWx5ZmpoLVBVdUNVWHJPMDVwRHNDVVNR?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "2913b90b5f0bd1",
@@ -551,21 +557,6 @@
       "related_sources": []
     },
     {
-      "id": "c9c31e65f1f46f",
-      "title": "Perez en Kwakman lovend over één Ajax-speler na topper: 'Hij geeft een signaal af'",
-      "category": "Overig",
-      "published": "2026-09-07T06:54:14+00:00",
-      "updated": "2026-09-07T06:54:14+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132481/perez-en-kwakman-lovend-over-mokio.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "d82201e85918f5",
       "title": "Míchel gekraakt om wissel bij Ajax - PSV: ‘Hem altijd laten staan!’",
       "category": "Overig",
@@ -654,6 +645,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "b82de5ce5040d2",
+      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
+      "category": "Blessures",
+      "published": "2026-09-06T14:31:00+00:00",
+      "updated": "2026-09-06T21:10:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVg1NjVlYjg1LWpPMDBBVy1FQWV6UW9scFczVktYNGs4RS05LUxWb1NiQk1zWmc3X1Bqbm1uV1pVUDdFektwZ29LcHROZ1p3dW9qV3B4b0RsSHZheVdfN0tIdGFJc3RmdXB3TnNZWmxrME1GRGVfNlBjRHRfZWNmajNkcWpTYUNzQVZzVDh1X3JWVHJCOHJpTGYxeTlUQTE1WjZKb212TXRtcXBaVGczRmFkVE5VSFlXaEZqQXZnVUtDR3dOMXBrNTNpNF9LSlc5N2lYR2t6OHgxVFFPQ0M2QUk4NUtrUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     }
   ]
 }
