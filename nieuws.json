@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T10:31:35.178277+00:00",
+    "generated_at": "2026-09-07T10:56:26.455268+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 131,
+    "article_count": 132,
     "event_count": 40,
-    "discovered_event_count": 106,
+    "discovered_event_count": 105,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 55,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "9dc903f3eee137",
+      "title": "Kersverse Ajax-uitblinker was ook in beeld bij PSV: 'Wist dat ze in gesprek waren'",
+      "category": "Selectie",
+      "published": "2026-09-07T10:40:00+00:00",
+      "updated": "2026-09-07T10:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132685/stewart-gaat-in-op-psv-interesse-in-ajax-uitblinker-brandt.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "ecf47b2c9413df",
       "title": "Zo ontspoorde Ajax-PSV even na de beuk van Van Bommel",
@@ -407,6 +422,21 @@
       "related_sources": []
     },
     {
+      "id": "5620b93beb801d",
+      "title": "Derksen: 'Ajax meldt zich voor Elia'",
+      "category": "Transfers",
+      "published": "2026-09-06T19:52:30+00:00",
+      "updated": "2026-09-06T19:52:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1REZEFyS3lzeVhQdmZIZ21FSUxfc1FGUW1lbVdPQmtJNk1GTllBcWxLa0x5SUt4ZEJCSEg1VjlIcHhEVHVqbVhDcnljSFpEYldhWHQ5NmFhaFp2U0Nja0c2RWE3ZHM4R0dMSkJIMkNxSTBvOXFOVjgwY1BSZGdmQWtSNGYzMTBFelNLYjdVNlcwQnhFZWdnVHVNVnQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "3d20e91aafe6bd",
       "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap",
       "category": "Ajax Vrouwen",
@@ -590,6 +620,21 @@
       "related_sources": []
     },
     {
+      "id": "b150d3181f3ab6",
+      "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) speler statistieken",
+      "category": "Overig",
+      "published": "2026-09-05T20:57:40+00:00",
+      "updated": "2026-09-06T17:19:49+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SOTV3Q1g4dHVOaUdQU0p1NzlpeGRkZThxYi14TU9YTzlwdDVYbE5EV3VmdU9rX3ZjRWpCQW5Xb3QxWjIycWNhNVBhTkZiQWgzSkJYM0h0anByLTdjVzVoeVFrQmlHVVZodkJKcENsN3JBRDZtXzNOSE9acw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "9ed9001b9b1393",
       "title": "Amsterdammers hebben grote moeite met promovendus | Samenvatting Ajax - De Graafschap",
       "category": "Overig",
@@ -601,51 +646,6 @@
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnBhMjh3eFJweE5BMXFSemxzMjVaN2t1SHZqaEppOVVIaVZYbEZvMmoxbHFucldFb20wb0FtYjZicnVZUEQzRk45TFhTakVhM1NUXzNrTTltaF8yS29WOUIyQXJ3VlV3M0oxWlFIdFA2enBBVkdYWEx6bzlPZG03Q2hOVnMwS2Y2dXdyVWNGNUhVSTlBMXBOcGVkVzRMT29NTGRETTRoVld1Q1g2Z2pncUpQZTEyd1pkQng4X1F5Ti1naktj?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f2b605ce43a6da",
-      "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) team statistieken",
-      "category": "Overig",
-      "published": "2026-09-05T20:57:40+00:00",
-      "updated": "2026-09-06T16:49:21+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLaWZfc211akNkWld6TzJySVRPdnpRbDRtTUdtTEtfeDcxMmtRWFVMdDBtc2lwTVFMYkFPelZEenMzd3pCeFl1LVVBY2pPNzNfMHBDVURWRGZuTm00d1YxNnZYZ0YzaWJGMDFkTVBoQVA0UU1JYVJHZg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d6f4fb3472404c",
-      "title": "Ajax-fans woedend na slecht nieuws over Bouwman: 'Schandalig'",
-      "category": "Overig",
-      "published": "2026-09-06T16:12:23+00:00",
-      "updated": "2026-09-06T16:12:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132422/woede-bij-ajax-fans-na-blessurenieuws-bouwman.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b4782743d74a05",
-      "title": "Klaassen: \"We zijn nu een stuk beter geworden\"",
-      "category": "Overig",
-      "published": "2026-09-06T14:46:22+00:00",
-      "updated": "2026-09-06T14:46:22+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55980/Klaassen-%22We-zijn-nu-een-stuk-beter-geworden%22",
-        "via_google_news": false
       },
       "related_sources": []
     }
