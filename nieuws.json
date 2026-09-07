@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T02:56:26.904310+00:00",
+    "generated_at": "2026-09-07T03:32:02.532077+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 133,
     "event_count": 40,
-    "discovered_event_count": 107,
+    "discovered_event_count": 108,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
@@ -25,6 +25,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132283/sjoerd-mossou-wil-verbod-op-var-na-rode-kaart-van-bommel.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3687635d480a17",
+      "title": "Noa Vahle stoort zich aan enorm ongepast interview na Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-06T21:41:44+00:00",
+      "updated": "2026-09-06T21:41:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZC05YVVHQzVMc3JEQ2Fqd0lEQXE5X21faWNBbEVwOFk3bFhfbjZqblpkeUFWR18yNWhOOTFjTEh4YVdGWXZoU1lxSldHX1c1N0tlRUhDQVdJX2ZPNkVfRVQ0VkRzdi02OE5NcUxjOHVMLWVKdXQ5NzNqMWVQV29fR1VrWTlYZzJhbUpqSUNKamttbGhuVlhJOGJkVUt6LURpUndWNWtOdVVXQUVL?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -676,27 +691,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "d998aa1ba101f6",
-      "title": "Van Bommel zoekt Bouwman op in Ajax-kleedkamer, Klaassen vindt het een rode kaart",
-      "category": "Wedstrijden",
-      "published": "2026-09-05T21:22:49+00:00",
-      "updated": "2026-09-06T10:09:10+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2629859",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132312/scheidsrechtersbaas-knvb-veiligheid-bouwman-in-gevaar-rode-kaart-van-bommel.html",
-          "via_google_news": false
-        }
-      ]
     }
   ]
 }
