@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T05:56:45.378988+00:00",
+    "generated_at": "2026-09-07T06:40:04.751243+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 137,
+    "article_count": 135,
     "event_count": 40,
-    "discovered_event_count": 110,
+    "discovered_event_count": 111,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 55,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "c91ccd541da16a",
+      "title": "Kranten: 'Kapitale blunder cruciaal bij Ajax-PSV, Feyenoord heeft Moussa-opvolger'",
+      "category": "Transfers",
+      "published": "2026-09-07T06:25:24+00:00",
+      "updated": "2026-09-07T06:25:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132549/ochendkranten-over-topper-ajax-psv-en-feyenoord-zege.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ecf47b2c9413df",
+      "title": "Zo ontspoorde Ajax-PSV even na de beuk van Van Bommel",
+      "category": "Overig",
+      "published": "2026-09-07T06:05:30+00:00",
+      "updated": "2026-09-07T06:05:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/zo-ontspoorde-ajax-psv-even-na-de-beuk-van-van-bommel",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d82201e85918f5",
+      "title": "Míchel gekraakt om wissel bij Ajax - PSV: ‘Hem altijd laten staan!’",
+      "category": "Overig",
+      "published": "2026-09-07T05:59:31+00:00",
+      "updated": "2026-09-07T05:59:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzBwemJ0M0wyRFdTN01kUFVnRXJYSWZWYk5tejk5VWJMUFNYMEFyUXBfQjlSMElHOExDT0hlNmZFU21fMWplTzZDdEJMV1ZmMzFpa0haUG1XNlY0cjY2VlJMSnR2NWFadUJObW9fc2s4ZkxHQ3VtZm5heS1pUk55TnJxWnByeENlMWctWGs3dWczeDM1UXZrd3poMzhmQ3RIaVRxdWJrRF9wWnc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "5e12c4a856c92a",
       "title": "Veelbesproken Van Bommel vertolkt ook tactische hoofdrol bij Ajax - PSV",
@@ -59,8 +104,8 @@
       "related_sources": []
     },
     {
-      "id": "9696bde70a2f8a",
-      "title": "Van Basten maakt zich nog altijd zorgen om Ajax: 'Ook weleens goed dat het gezegd wordt'",
+      "id": "5d806c6182984a",
+      "title": "Van Basten maakt zich nog altijd zorgen om Ajax: 'Leonardo zou eigenlijk contributie moeten betalen'",
       "category": "Overig",
       "published": "2026-09-07T05:00:00+00:00",
       "updated": "2026-09-07T05:00:00+00:00",
@@ -68,7 +113,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzdQTmx1X1lBTklIOHBkTHhoeDFJaXM5c0d5M1BzSGZFLWs4eWVVa3kzMTZwd0E4RlpIQmh5ZTVhYW5OVU5JU2FKX1paa3hVYTg5VVVabHNZTGFYVFVzUlJxRGpsWjQ0Wm9wSWFaXzd3OGFxNnp3elEyb3JuSlZNZkEtUk1NaXhOWlNSZ2lvelV1WlczZ3lSenVNZTAxbk9GQWctNlFoWXJVU1FiR2RmbzBWYUpBNFcxZy1YakVVTEdMdXZN?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObVU3NG53cWR4LVYyaUJUNWZjQlhtc01vb3hITURDdWVXMHhSOVgtQlQ3RXNZczlLQVN1ZmFiTGRkdUtLQ1kyM1dPajd5UVR3NzhBSkdKczZROUtXMU1ERzNIZTVDYWdmZzc0YV9WRzZIWkR5ZVhQZV9wZldSMlB1TTltamxyeG9IMEVITXF6el9uZnJBMmZEanRXazMxMkVKOV92eWtkb1BDOUpqQXNsT3RDNDhOMGxyWkRnTjE4LVg4WHdBblBKQUJudUxJajMyS1Z2SA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -132,6 +177,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "b82de5ce5040d2",
+      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
+      "category": "Blessures",
+      "published": "2026-09-06T14:31:00+00:00",
+      "updated": "2026-09-06T21:10:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVg1NjVlYjg1LWpPMDBBVy1FQWV6UW9scFczVktYNGs4RS05LUxWb1NiQk1zWmc3X1Bqbm1uV1pVUDdFektwZ29LcHROZ1p3dW9qV3B4b0RsSHZheVdfN0tIdGFJc3RmdXB3TnNZWmxrME1GRGVfNlBjRHRfZWNmajNkcWpTYUNzQVZzVDh1X3JWVHJCOHJpTGYxeTlUQTE1WjZKb212TXRtcXBaVGczRmFkVE5VSFlXaEZqQXZnVUtDR3dOMXBrNTNpNF9LSlc5N2lYR2t6OHgxVFFPQ0M2QUk4NUtrUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "f771f7d1bf1018",
@@ -398,21 +464,6 @@
       "related_sources": []
     },
     {
-      "id": "b150d3181f3ab6",
-      "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) speler statistieken",
-      "category": "Overig",
-      "published": "2026-09-05T07:00:00+00:00",
-      "updated": "2026-09-06T17:19:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SOTV3Q1g4dHVOaUdQU0p1NzlpeGRkZThxYi14TU9YTzlwdDVYbE5EV3VmdU9rX3ZjRWpCQW5Xb3QxWjIycWNhNVBhTkZiQWgzSkJYM0h0anByLTdjVzVoeVFrQmlHVVZodkJKcENsN3JBRDZtXzNOSE9acw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "9ed9001b9b1393",
       "title": "Amsterdammers hebben grote moeite met promovendus | Samenvatting Ajax - De Graafschap",
       "category": "Overig",
@@ -423,6 +474,21 @@
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnBhMjh3eFJweE5BMXFSemxzMjVaN2t1SHZqaEppOVVIaVZYbEZvMmoxbHFucldFb20wb0FtYjZicnVZUEQzRk45TFhTakVhM1NUXzNrTTltaF8yS29WOUIyQXJ3VlV3M0oxWlFIdFA2enBBVkdYWEx6bzlPZG03Q2hOVnMwS2Y2dXdyVWNGNUhVSTlBMXBOcGVkVzRMT29NTGRETTRoVld1Q1g2Z2pncUpQZTEyd1pkQng4X1F5Ti1naktj?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f2b605ce43a6da",
+      "title": "Ajax 1-0 De Graafschap Vrouwen (6 sep., 2026) team statistieken",
+      "category": "Overig",
+      "published": "2026-09-05T20:57:40+00:00",
+      "updated": "2026-09-06T16:49:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLaWZfc211akNkWld6TzJySVRPdnpRbDRtTUdtTEtfeDcxMmtRWFVMdDBtc2lwTVFMYkFPelZEenMzd3pCeFl1LVVBY2pPNzNfMHBDVURWRGZuTm00d1YxNnZYZ0YzaWJGMDFkTVBoQVA0UU1JYVJHZg?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -524,21 +590,6 @@
       "related_sources": []
     },
     {
-      "id": "0bb5b0376668aa",
-      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
-      "category": "Blessures",
-      "published": "2026-09-06T14:31:00+00:00",
-      "updated": "2026-09-06T14:31:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "bcc96174a0551a",
       "title": "Ajax komt met zorgwekkende update over Aaron Bouwman na spijkerharde overtreding van Van Bommel",
       "category": "Overig",
@@ -555,7 +606,7 @@
     },
     {
       "id": "038c9efcf1f695",
-      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel",
+      "title": "Ajax moet Bouwman maand missen door gekneusde long na beuk Van Bommel - NU",
       "category": "Overig",
       "published": "2026-09-06T14:24:33+00:00",
       "updated": "2026-09-06T14:24:33+00:00",
@@ -564,21 +615,6 @@
       "primary_source": {
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnp0U05GZEEzZkNuNUlFbC16eF9hVGRwWW5DT2oxSWZoT05KR2Nqdmh1Y0ZSdmhXSll6SVozeDBUbXktV3BGcnFFMzFBOFVhSUswaUpjWFpUQ1Z3MTZhX2N3NW9VQ2F2WlByazQ5M081WXhzN0VFWTUyc0dnRTZSeko4RjhHRVBUcnlSY0MwUTE4LU9LQ2ktT2ZhbUN4SkNzZ0FkM3RKNE9CRGY0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6661bc111c3aff",
-      "title": "Ajax - PSV (samenvatting)",
-      "category": "Overig",
-      "published": "2026-09-05T21:41:00+00:00",
-      "updated": "2026-09-06T14:17:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUh1UG9mQk95V2pxWnJNSWJ0NjFPWUxXeC1RaGRNTDlvOHE3c1MyUkJZRHlUVkZ2UzlZU0hZOTdBX3NnSThXVkk3djc4LVJMZWRJLXgyT3pCZ1ZrdFVxdEJWZ2VpWGxOSUFOMWpQZ05nY0F0bHhGdDdlMEp0VUVsNGRZVmU2OXp6aTFNMFFVT1hMVUlrS3BuQWtqejJJMTExMDNn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -595,6 +631,21 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/55978/Ajax-meldt-Bouwman-speelt-deze-maand-niet-meer",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5133fab77d2a02",
+      "title": "Ajax O17 en O16 gaan pijnlijk onderuit in uitduels; Ajax O15 laat geen spaan heel van Feyenoord O15",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T14:00:00+00:00",
+      "updated": "2026-09-06T14:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1VlWDQtUlNDWFVDczRyMG5KWk9mbDJjdGdYUXJ4SHdpazFDUEhxZDhBSURVZjlGSUtNcnQzN2ZuLW84bm82NXhWcGFuQ3FPVHFBd05Kcm5kbXItUE1PcnFWSmdYU0lWM0Y1Q0VwYU82TTdoY1JGMl9HNzMzNzhNNHhQS0pUR1ptM1JVVjI0dTZzQ0ZZTFRkQlF5dE5iYU5kVG1naGdRN3hNbWZDd0VGV1ZSdnZtMEJYUV9rWVBOX2tQVmdfeFQ4Ti04UWZjMklKSWdCRGF3?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -623,51 +674,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "34c7e944f8bdb6",
-      "title": "Scorende Weghorst 'had nog appeltje te schillen' met Groningen na Ajax-trauma",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T13:41:36+00:00",
-      "updated": "2026-09-06T13:41:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTMxV2tlenhHM0ZGSzhYQUJPc01oNFlIamIxSUFKZGhtdkRieXVfdHZhTEVIa095b0N3ZGFQYkxTSURydFY4SFZjRU1ES2dhTktySE5jejRIaks0c3RfUE5PVzhPTVgwWC05d0J6R2FvaGlLaGtmMzFVX2pVQkFpeGNnSkNrR2xOckhoSW1DdVNmMklvT1A3WXpldkpxTnAtcGh3cmMyUi1oOUZzNVJvOWlBbVU?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "35c48f38f5acdd",
-      "title": "Driessen bikkelhard voor Ajax en PSV na topper: 'Bedroevend niveau'",
-      "category": "Overig",
-      "published": "2026-09-06T13:10:00+00:00",
-      "updated": "2026-09-06T13:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmlHSUFzMkV3dnRZRlcxdEFoODBKdjFrUDBPSWhHbGxJbTJjYks2MXNGdGJNMWFtS2w3b1Nabi1hT0k4SHdJT1ZnTzc2TjdsV2R5M1FTOXhiTUZUNHNHSHJwQWtMR0JseFFTNmZYZ25xbFVLSGgyWFplSFZaUGtwM0tMQkZZZC16bnVnME12UkM0MS01OGhsNDZ1T2plS3ZnRGc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "dc1aafa7a1e112",
-      "title": "Weghorst verwijst na goal tegen FC Groningen naar trauma met Ajax",
-      "category": "Overig",
-      "published": "2026-09-06T13:08:00+00:00",
-      "updated": "2026-09-06T13:08:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaVNWMUpqdldTV1E0d0R3c1pxYXZSUVAxU2hmZjdPdWU5OWJCT2hkZnZWaE5DOFQtSURMY1ZkYkZTc2ZDdGJfYnQ5X3djN1ZSSk9teDI4LWhpT2dxZmlrV0RwdWNIR1NKSUlfSldvM3pYSUxxcXNsQ2tGY0ZTcTdvTERQOXlSVjE5eDdvZHRlenlxdUhRUURpVzJBSHlJV2paTk1xR3hIN3lLTzA3ZTQ3SkhjY05IVTR5b0Fv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
