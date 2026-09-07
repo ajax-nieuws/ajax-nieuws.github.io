@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T14:31:46.738032+00:00",
+    "generated_at": "2026-09-07T14:57:50.228315+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 131,
     "event_count": 40,
-    "discovered_event_count": 105,
+    "discovered_event_count": 104,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 56,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0bcaf4bcc9b3bb",
+      "title": "KNVB hakt knoop door na veelbesproken Ajax - PSV: nieuwe klus voor Van der Eijk",
+      "category": "Wedstrijden",
+      "published": "2026-09-07T14:44:26+00:00",
+      "updated": "2026-09-07T14:44:26+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132825/knvb-maakt-scheidsrechters-bekend-voor-speelronde-zes-eredivisie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "892778ec0b1105",
+      "title": "Rondom Ajax: Ajax kent scheidsrechter voor duel met Fortuna Sittard",
+      "category": "Wedstrijden",
+      "published": "2026-09-07T14:25:00+00:00",
+      "updated": "2026-09-07T14:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzdpd21MWTZybENBbkpPeV9rSjBnRnhmNkw5dUZhTVl6a2hBMFBsa1d2YmVpS0p5S3lVM2NGSkhVR2xsM1IxdmtYSkwzMGJCRHF4dVdmQUc0aUhpcTVzWGFranJ2REE2NEM0d3RUNE1fOXh5N3pES0V5ZThHdnhRd0g3VVRaV0xNS0NoZFItbjRueUVSNTNVRWJpQkZ0dUlfT250UERzc1lwb1hXZ1R6SHJ3ZXUzTGtf?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f145734f9afa5f",
+      "title": "Ajax kiest voor de korte termijn: 'Jordi Cruijff denkt als een Spanjaard'",
+      "category": "Overig",
+      "published": "2026-09-07T14:15:00+00:00",
+      "updated": "2026-09-07T14:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE93TDVYOG1MR2tjdk0yX1lxa1NtbzdTWFhzTGJfanlyM2ZQVkdfN1p4X3FTLTVaOWNoa05FdGp0LTBGTXh6MHRCallCbGp6UmRwd0g3bXpLOHowTkxwd0gzYVdkV0tzckZLUVgwek5rRm5CUnFKTTJQVTE1LW5yR1JVZ0lkUGlSc2NPd1JlQUxCcnpTQmpKOWVSWk1yYm5pZFdJbnlyaWd1Zw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "b172867ce6c336",
       "title": "'Dat Ajax tactische truc uithaalde die werkte, vond ik heel hoopgevend'",
@@ -146,8 +191,8 @@
       "id": "54ca06ff7c255e",
       "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden",
       "category": "Wedstrijden",
-      "published": "2026-09-07T10:55:04+00:00",
-      "updated": "2026-09-07T10:55:04+00:00",
+      "published": "2026-09-07T10:50:00+00:00",
+      "updated": "2026-09-07T10:50:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -530,21 +575,6 @@
       ]
     },
     {
-      "id": "beae56d3ae7632",
-      "title": "Duitse pers eensgezind over Ajax-huurling: 'Voelt zich volledig thuis'",
-      "category": "Transfers",
-      "published": "2026-09-06T20:13:24+00:00",
-      "updated": "2026-09-06T20:13:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132497/veel-lof-voor-ajax-huurling-regeer-na-debuut-bij-werder.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "5620b93beb801d",
       "title": "Derksen: 'Ajax meldt zich voor Elia'",
       "category": "Transfers",
@@ -575,6 +605,27 @@
       "related_sources": []
     },
     {
+      "id": "3d37d0a0aa139d",
+      "title": "Ajax-huurling Carrizo luistert Kopenhagen-debuut direct op met treffer",
+      "category": "Selectie",
+      "published": "2026-09-06T16:57:44+00:00",
+      "updated": "2026-09-06T18:57:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-huurling-carrizo-luistert-kopenhagen-debuut-direct-op-met-treffer",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd00tMERuRkpZNjJJWE9WNS1TRk5URVlfbkVObkFTNVY0eXJuUmtGcTIxMmlBMXBrS3N4U1ZjYS1CSTg5eW9xMkxKSE1mdFdZTDlXazdKcGU1anVuRjdEM2dwLXA0a2I5elUwSC1iVTlJTVNTWTF5N0NlQjN3cjRCeXhlWUJVM1V3Vk9DVVI4UGhqWHJEOEtNYkNjOHdBWFNGUDRVaHQyaERCa2xtazNENHJ1UHk3bFB6WUFITHRMMTZ4cGdtaExhaTF4Yw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "a5ec132e601da4",
       "title": "Bertrand Traoré: sierlijke dribbelaar",
       "category": "Overig",
@@ -600,57 +651,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb24xamtQM1RHaDliZTNZdDZ2ekc4WFVhdzVKVHdvdW1ib0IxLU1FSGdwYVlqak9yRGlGMTRmakU2WVV4eFdnd3c0UHYtR29UX2Rpa1FZaUE3SnB3ZjBKaFFicmp5c09fZ19vRXlNdk9jTmRVOTRxbS1mWjcwa1lBRG9aSUI0TnM0UnlSVjZRc1F4TS12LUVZNEN2ZTZjYUhGQTdQZy1FRldwSEVGVHFMTXJuSUlsWTJ6el8ybzNROVZlb2p4RlVxVw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "80527feb7b7fa3",
-      "title": "Interviews na Ajax (V) - De Graafschap (V)",
-      "category": "Overig",
-      "published": "2026-09-06T17:33:26+00:00",
-      "updated": "2026-09-06T17:33:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOENEakt2VkU4NldXcV9leVhzdjJQQjdzcDFHYlIxMTJaQUtRYkxndzd2MHg5ZlNSZFBxaEFrc0Y0UmhaRGVHOHdlTG1HdC12QTVXRDMyZXdxNDdNdHpFcVFLUDdTNTlWb3VNWGh3dmxFZmhZLWVjVGlscTB4T3UtX1luVDRwc1FE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "92f94e66bc836f",
-      "title": "FC Twente Vrouwen, AZ (v) en Ajax (v) blijven foutloos, hattrick voor Jill Roord en Floortje Bol",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T17:18:36+00:00",
-      "updated": "2026-09-06T17:30:25+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONjZfYjVhNDlVV3EtcGtFSDBOS0lBbE1iYndIWWdVYnZudjh4TDUwVW5uVVVYdUQwLTNxWEtIc192d3gwRDZBendRWVd5OUp3X2loLURaUktFbjBnamNHbG5VR0s1R0pDQW5mdEJNcWJObUZiQVNoZkhRQVNwWndGRWZneVo4dXViSHBWNmIxcW5Ca0NWSHAwZlNVYjhsX09zdzNkck9yYzBkYU8zdTN0aGFPN1ZoX1lmcGYyWnpJUEg4X2M3cDR5RkZhR3RJOF90YlRKRHBZYw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3FHcE51VDlyRy11ZG13aDFjTkFzQUFqMmFuRXQ5UDlUMU9aWENLU0dkbGNock9ZZWRZeUMxWG5oVWFMY212LTd4a0JBenV2cVNSQUhUZ1JHUEZ6Zmk1R3YtcGRhWFlfUjB1dWFwNVVVUEQ5eDYwbExobWV3c25SUFVMUjV4TWhwbW4zZVBLUnZUX0V6c3JVR0pBUDJxMFlITTFmZ01jUGdmdFByeDc4bXpVNVhDNEFxdXVJ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "e4ddbc2c7411c3",
-      "title": "Ajax Vrouwen verslaat De Graafschap en wint voor derde keer op rij met minimaal verschil",
-      "category": "Ajax Vrouwen",
-      "published": "2026-09-06T17:25:00+00:00",
-      "updated": "2026-09-06T17:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2hCQ2Y3R2pyMHJySEtabG9QWHkybjJiNE4zUnZwY3lKZnVwLVF6cVlkb0FpbjBVeHpqWGo2RkFTX0VoUEZHWFB1cVI0cGJ5cXVoaV85U1NBMW5seFNvZlloSHdKRlJ0b213Q1N3TjdQc2xLMUVkWHRwcV9iZDJ0ZXdVdTZhWWtJNXFWdDZJUUpfWWszSVZPSmYxY05pZEQyaGNON0s0TDFSUTA4d0RnbFNBQ19yUWdIdC13bnBDVUdncmg4dWx0SHZBMk1sQWFEbmxxYVdR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
