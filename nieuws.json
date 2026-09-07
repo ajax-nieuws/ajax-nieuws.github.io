@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T12:38:11.730526+00:00",
+    "generated_at": "2026-09-07T12:59:43.161880+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 132,
+    "article_count": 131,
     "event_count": 40,
-    "discovered_event_count": 105,
+    "discovered_event_count": 104,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 58,
+    "excluded_video_only_count": 57,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "9892d009b535ca",
+      "title": "Perez stipt grote verschil tussen Ajax en PSV aan: 'Als het er écht toe doet'",
+      "category": "Overig",
+      "published": "2026-09-07T12:53:25+00:00",
+      "updated": "2026-09-07T12:53:25+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132761/perez-stipt-grote-verschil-tussen-ajax-en-psv-aan.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "2bba272c0d17b3",
       "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
@@ -639,27 +654,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "92f94e66bc836f",
-      "title": "FC Twente Vrouwen, AZ (v) en Ajax (v) blijven foutloos, hattrick voor Jill Roord en Floortje Bol",
-      "category": "Wedstrijden",
-      "published": "2026-09-06T17:18:36+00:00",
-      "updated": "2026-09-06T17:30:25+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONjZfYjVhNDlVV3EtcGtFSDBOS0lBbE1iYndIWWdVYnZudjh4TDUwVW5uVVVYdUQwLTNxWEtIc192d3gwRDZBendRWVd5OUp3X2loLURaUktFbjBnamNHbG5VR0s1R0pDQW5mdEJNcWJObUZiQVNoZkhRQVNwWndGRWZneVo4dXViSHBWNmIxcW5Ca0NWSHAwZlNVYjhsX09zdzNkck9yYzBkYU8zdTN0aGFPN1ZoX1lmcGYyWnpJUEg4X2M3cDR5RkZhR3RJOF90YlRKRHBZYw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3FHcE51VDlyRy11ZG13aDFjTkFzQUFqMmFuRXQ5UDlUMU9aWENLU0dkbGNock9ZZWRZeUMxWG5oVWFMY212LTd4a0JBenV2cVNSQUhUZ1JHUEZ6Zmk1R3YtcGRhWFlfUjB1dWFwNVVVUEQ5eDYwbExobWV3c25SUFVMUjV4TWhwbW4zZVBLUnZUX0V6c3JVR0pBUDJxMFlITTFmZ01jUGdmdFByeDc4bXpVNVhDNEFxdXVJ?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
