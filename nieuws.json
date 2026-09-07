@@ -1,18 +1,65 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T12:59:43.161880+00:00",
+    "generated_at": "2026-09-07T13:32:47.065375+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 131,
     "event_count": 40,
-    "discovered_event_count": 104,
+    "discovered_event_count": 103,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 57,
+    "excluded_video_only_count": 56,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "2bba272c0d17b3",
+      "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
+      "category": "Overig",
+      "published": "2026-09-07T12:05:00+00:00",
+      "updated": "2026-09-07T13:31:59+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXRUdlRRLVdPbG4zMFhFR1hKREJjYjI0cHJQSC1JY1c0S25qQl80dnpTeTRTcVRSTVdrUGk4VFJLbXhobVVtSXRuRFhTWWlnMlA0cWRib1M4eVk5WkJwVkpXQW1MazNyVnU0cXR0S1FNcWNNcnZ4WS1HaEZ5WHhLbkZyYkpPbm5OVnpUSVpCZmE3RFVXSFJUeDRybjJfTlJqVHJVQVJBZGhvVFVCRWVTR2dBdFg5VWFnOGxRUG1GNDhDSGlkR2hSVzdCZnNuUDNSck9ydnNGYWdSSkF1dGJiMDVB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132754/aad-de-mos-lyrisch-over-kodai-sano-en-kritisch-op-wisselbeleid-ajax.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "2b0a76b6980a7d",
+      "title": "'Van Bommel had rood moeten krijgen tijdens Ajax - PSV, maar hij ook...'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T11:16:01+00:00",
+      "updated": "2026-09-07T13:06:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132759/willy-en-rene-van-de-kerkhof-oneens-over-tackle-ruben-van-bommel.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZnlSQlVjS1NLV21zR2x4X2ppVDNVQVR5NjNMWG5mMnZ6YUxUTEtNaG5iOEQ5SjhfdksxU0FJZzVrWm0yZE4wX0dzOFZOb1RsalpxM1VlYlRrVV9Vcm9qQS1BYWFGOHBFbnNaVmdndHUwdXh6NEEtQV81ZklIeHVkMTR1QjdCZXZyNE9wOEpRb1haTThVcUswT2dxbEFqT2FXMF9ETTRlNndyRkptb1c3ZE5YLTB5OTk2Q3BxYWFkZ1pNMnNG?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0hNT1k2RUVDU1NPdThUR3RuaDhycmlXb3pUNHY4Zk1KQUhTYXlPd1dWTWhoS1pra1VZdFZ3YXAzSWdGZ0d3ZXEzbUViNkRsZG5CYS1aOWpfd3c2eHFfV1JjQmFCTTRrRmJoZTJrOVVxZlRCNHhIX2pUYVF6c1JWandUR2p6alJ4eUNfaDFQUGp5WndwMkRWOHdpbnQ0cEk3anhiUTl0ZmpTcWpwYUNWNklB?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "9892d009b535ca",
       "title": "Perez stipt grote verschil tussen Ajax en PSV aan: 'Als het er écht toe doet'",
@@ -25,21 +72,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132761/perez-stipt-grote-verschil-tussen-ajax-en-psv-aan.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2bba272c0d17b3",
-      "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
-      "category": "Overig",
-      "published": "2026-09-07T12:05:00+00:00",
-      "updated": "2026-09-07T12:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXRUdlRRLVdPbG4zMFhFR1hKREJjYjI0cHJQSC1JY1c0S25qQl80dnpTeTRTcVRSTVdrUGk4VFJLbXhobVVtSXRuRFhTWWlnMlA0cWRib1M4eVk5WkJwVkpXQW1MazNyVnU0cXR0S1FNcWNNcnZ4WS1HaEZ5WHhLbkZyYkpPbm5OVnpUSVpCZmE3RFVXSFJUeDRybjJfTlJqVHJVQVJBZGhvVFVCRWVTR2dBdFg5VWFnOGxRUG1GNDhDSGlkR2hSVzdCZnNuUDNSck9ydnNGYWdSSkF1dGJiMDVB?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -60,22 +92,22 @@
     },
     {
       "id": "a2e42bdfc39e07",
-      "title": "Ajax wacht met smart op 'Speedy Gonzales': 'Kan duel met één actie openbreken'",
+      "title": "Ajax kijkt reikhalzend uit naar Adingra: 'Kan duel met één actie openbreken'",
       "category": "Overig",
       "published": "2026-09-07T10:00:00+00:00",
       "updated": "2026-09-07T11:20:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2131760/wat-haalt-ajax-binnen-met-simon-adingra.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGpXMFpJQlRsLXN4T0w5MTNKRDMyUUtjeVpmb0FmUnl0c1RCVDRCeFFYSjJhZnhyZ0VIODM1WGNkblJoVFlYak5odnVUSndkaXZkZG9FdU5JMko0Nllmb0IxbWlrUDFZbVZHOUFXbDZEUVA0UWhVUHo2Z2pMRzVia1ZRdGNtRmJ6VlNLREdiRGtFWGhTTkdua2drX3FSRnBFRkdQdXVlMnRuMVhSUFE?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGpXMFpJQlRsLXN4T0w5MTNKRDMyUUtjeVpmb0FmUnl0c1RCVDRCeFFYSjJhZnhyZ0VIODM1WGNkblJoVFlYak5odnVUSndkaXZkZG9FdU5JMko0Nllmb0IxbWlrUDFZbVZHOUFXbDZEUVA0UWhVUHo2Z2pMRzVia1ZRdGNtRmJ6VlNLREdiRGtFWGhTTkdua2drX3FSRnBFRkdQdXVlMnRuMVhSUFE?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2131760/wat-haalt-ajax-binnen-met-simon-adingra.html",
+          "via_google_news": false
         }
       ]
     },
@@ -138,6 +170,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "81acd9d6bf4036",
+      "title": "Spaan sloopt Peter Bosz na Ajax-PSV: 'Rot een eind op, trainer'",
+      "category": "Overig",
+      "published": "2026-09-07T07:45:00+00:00",
+      "updated": "2026-09-07T09:31:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0pMWHQwQUNULWJaM3ZDSVFicnBaX2FBYVBkcmZvbTVFMDIyQmU2M01tRERQRW85ejlya1REc3I0OGJYQXBPN2R0YmVUQjJrd0pFLTcxaDF6ZUxTSWhvaUdqc1M2QWVJRkRHZFV2NjFja05PMVBiT1RwMXp3aEpNVnZ6RW5OMTMtbV9YMGxPRXJxNGptcDRNbHRWbw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzcGZraHNvOEVkM0c2YVRZT0dySGVtZXlwRTdnUXNKSndJelIxQjlmRHQxLWhTeWcwMy1qbWxQbl9sd2pkb1BLZFRuZ3A2T1l0aGNzTzF4R1dWVTVjei1yU25fS1MzNkpKOFBVei0tRE9iTW5DVlBmUHdXVEJtT191YkVSNlF1bXZPMXB1QjZkZHBRdG5jeUhOOUNMbjlGb1EyUk5pMGJSZl9XNFg2VjBVZTM3ZTF0U3c?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "377c5875cbffae",
@@ -236,40 +289,19 @@
       "related_sources": []
     },
     {
-      "id": "81acd9d6bf4036",
-      "title": "Spaan sloopt Peter Bosz na Ajax-PSV: 'Rot een eind op, trainer'",
-      "category": "Overig",
-      "published": "2026-09-07T07:45:00+00:00",
-      "updated": "2026-09-07T07:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0pMWHQwQUNULWJaM3ZDSVFicnBaX2FBYVBkcmZvbTVFMDIyQmU2M01tRERQRW85ejlya1REc3I0OGJYQXBPN2R0YmVUQjJrd0pFLTcxaDF6ZUxTSWhvaUdqc1M2QWVJRkRHZFV2NjFja05PMVBiT1RwMXp3aEpNVnZ6RW5OMTMtbV9YMGxPRXJxNGptcDRNbHRWbw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "349bc888a48943",
+      "id": "cef7ab5aabc3d0",
       "title": "Van Hanegem: 'Ik heb geen idee waarom Ajax daar vanaf leek te willen'",
       "category": "Overig",
-      "published": "2026-09-07T06:00:00+00:00",
+      "published": "2026-09-07T07:38:00+00:00",
       "updated": "2026-09-07T07:38:00+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132596/van-hanegem-snapt-niets-van-hysterisch-gedoe-na-topper.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUTZ6SFhHc3NvSkNtNzRhdDA3clBpWmtkbnBDYzUxMHM2MndXcC1jZ1BfS0Zydm1QendJbjJ2SUlPSk03c0I3RmMzWERxSVhlUHlYVWFPOThkalJnLVZ0UTJKM0dQVzdQSmx6UHlwTXhyWWRyWExsUTdJa0VING53MC1XXzQyaWlmVllIQ09aRzZHUWhscDhIQjdQdWdJTDNtbHRvZHJwSEtIVlU0aEVxelZoSW9aWmk3bG1HWUFSTQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "6a562563631fba",
@@ -437,27 +469,6 @@
       "related_sources": []
     },
     {
-      "id": "b82de5ce5040d2",
-      "title": "Aaron Bouwman weken geblesseerd na beuk Van Bommel: long en borstbeen gekneusd",
-      "category": "Blessures",
-      "published": "2026-09-06T14:31:00+00:00",
-      "updated": "2026-09-06T21:10:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239792/aaron-bouwman-weken-geblesseerd-na-beuk-van-bommel-long-en-borstbeen-gekneusd",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVg1NjVlYjg1LWpPMDBBVy1FQWV6UW9scFczVktYNGs4RS05LUxWb1NiQk1zWmc3X1Bqbm1uV1pVUDdFektwZ29LcHROZ1p3dW9qV3B4b0RsSHZheVdfN0tIdGFJc3RmdXB3TnNZWmxrME1GRGVfNlBjRHRfZWNmajNkcWpTYUNzQVZzVDh1X3JWVHJCOHJpTGYxeTlUQTE1WjZKb212TXRtcXBaVGczRmFkVE5VSFlXaEZqQXZnVUtDR3dOMXBrNTNpNF9LSlc5N2lYR2t6OHgxVFFPQ0M2QUk4NUtrUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "f771f7d1bf1018",
       "title": "NOS-commentator lyrisch over Ajax-aankoop: 'Hij kan nu al niet meer om hem heen'",
       "category": "Transfers",
@@ -509,6 +520,21 @@
       "related_sources": []
     },
     {
+      "id": "5620b93beb801d",
+      "title": "Derksen: 'Ajax meldt zich voor Elia'",
+      "category": "Transfers",
+      "published": "2026-09-06T19:52:30+00:00",
+      "updated": "2026-09-06T19:52:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1REZEFyS3lzeVhQdmZIZ21FSUxfc1FGUW1lbVdPQmtJNk1GTllBcWxLa0x5SUt4ZEJCSEg1VjlIcHhEVHVqbVhDcnljSFpEYldhWHQ5NmFhaFp2U0Nja0c2RWE3ZHM4R0dMSkJIMkNxSTBvOXFOVjgwY1BSZGdmQWtSNGYzMTBFelNLYjdVNlcwQnhFZWdnVHVNVnQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "3d20e91aafe6bd",
       "title": "Geduldige Ajax Vrouwen knokken zich langs De Graafschap",
       "category": "Ajax Vrouwen",
@@ -520,21 +546,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXNNM0tDRjl5U1BsQ0lVMWx2bjluWFBla1hLV3dRMnI4bUZSa3FzSVpRNmNwY3AtZTdRT2pqYktQbGJzN3diTjFFcDkyclNXNHVVUURQWHJRYWUyNjBEMkdkcDBtazNYT2V6VFRMQ2hELVAxOU1mM0JPbG1JNC12UlloREVnVTFDOUpzMTBJUQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "25b1793a11548e",
-      "title": "'Ajax krijgt opnieuw bijzonder Bob Marley-shirt en krijgt veelbelovende tenues'",
-      "category": "Overig",
-      "published": "2026-09-06T19:10:02+00:00",
-      "updated": "2026-09-06T19:10:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132485/ajax-krijgt-opnieuw-bijzonder-bob-marley-shirt.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -571,21 +582,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnozZzl4TFJMQ1ptclNJLTRqTWtLQ3oyX0NyNnF6ZWo2cUlDaFdveFNyTkpyR2MxV2ZtbkMtVW5NUTlTb2tPaGRQbjJ1WVNoZW1xcmhOMjZlOEJ2Y3Q0bXJCT0tXb1ozYUZ2TEJCQXotb0o3bERjRjFCd0RsbV9qN2xxTldtT05pYW9EaThPZWpfMjIxMk02OHZkQmxHSXRCMU9iWDF3TldsRzVtNmJZcVhrMWU?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d4a9e69d9598e2",
-      "title": "Kwakman zet vraagtekens bij wisselbeleid Míchel: 'Hem moet je altijd laten staan'",
-      "category": "Club",
-      "published": "2026-09-06T18:41:28+00:00",
-      "updated": "2026-09-06T18:41:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132483/kwakman-zet-vraagtekens-bij-wisselbeleid-michel.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -654,6 +650,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "92f94e66bc836f",
+      "title": "FC Twente Vrouwen, AZ (v) en Ajax (v) blijven foutloos, hattrick voor Jill Roord en Floortje Bol",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T17:18:36+00:00",
+      "updated": "2026-09-06T17:30:25+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONjZfYjVhNDlVV3EtcGtFSDBOS0lBbE1iYndIWWdVYnZudjh4TDUwVW5uVVVYdUQwLTNxWEtIc192d3gwRDZBendRWVd5OUp3X2loLURaUktFbjBnamNHbG5VR0s1R0pDQW5mdEJNcWJObUZiQVNoZkhRQVNwWndGRWZneVo4dXViSHBWNmIxcW5Ca0NWSHAwZlNVYjhsX09zdzNkck9yYzBkYU8zdTN0aGFPN1ZoX1lmcGYyWnpJUEg4X2M3cDR5RkZhR3RJOF90YlRKRHBZYw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3FHcE51VDlyRy11ZG13aDFjTkFzQUFqMmFuRXQ5UDlUMU9aWENLU0dkbGNock9ZZWRZeUMxWG5oVWFMY212LTd4a0JBenV2cVNSQUhUZ1JHUEZ6Zmk1R3YtcGRhWFlfUjB1dWFwNVVVUEQ5eDYwbExobWV3c25SUFVMUjV4TWhwbW4zZVBLUnZUX0V6c3JVR0pBUDJxMFlITTFmZ01jUGdmdFByeDc4bXpVNVhDNEFxdXVJ?oc=5",
+          "via_google_news": true
+        }
+      ]
     }
   ]
 }
