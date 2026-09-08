@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T13:58:01.815908+00:00",
+    "generated_at": "2026-09-08T14:33:43.133717+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 85,
+    "article_count": 64,
     "event_count": 40,
-    "discovered_event_count": 71,
-    "source_count": 11,
+    "discovered_event_count": 56,
+    "source_count": 8,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 69,
+    "excluded_video_only_count": 68,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -134,27 +134,33 @@
       "related_sources": []
     },
     {
-      "id": "76311fafacfa01",
+      "id": "1724488cf34eb0",
       "title": "'Wat de Ajax-selectie ook uitspookt op zo'n dag, spelers missen fitheid...'",
       "category": "Selectie",
-      "published": "2026-09-08T07:51:06+00:00",
+      "published": "2026-09-08T05:30:00+00:00",
       "updated": "2026-09-08T07:51:06+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133040/spaan-looft-jorthy-mokio-maar-is-kritisch-op-fitheid-van-ajax-spelers.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUk4T1lRYmE4el9aTFY5allyOVBlekt5UFRXSjl2aUVFXzhqZTkyS2JHeFBEQk15SnNQSVMtR09JWDY2d1dpTlgzaUxucnpTSHhZcTdZcUNwS1NHQUZ0MXdBc0F5Y3lpcHROZ01LQXhuSVpzTlMxb0VLRVJfU2dvLU9iYU54ZzdQUDdsMEpzLURQQU05ZDQyMUZKSm8xVDFpZ0VPTmc5bHZfYW9TZzJpejk0MVEzLWRxU0VmQmJHQmRnejVfaUVNUUpn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
-      "id": "26e80bfe588edc",
+      "id": "ded9586800efc2",
       "title": "Van der Vaart: 'Hij is in potentie echt de allerbeste bij Ajax…'",
       "category": "Overig",
-      "published": "2026-09-07T19:23:00+00:00",
+      "published": "2026-09-08T06:49:42+00:00",
       "updated": "2026-09-08T07:25:55+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -165,11 +171,6 @@
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0dINDdDU1N4MGpQXzdzSDhTQVYxMU9ZVUJ6Y1lES2MzVFRuajFRbUlIbmNoeTI1ZURLZzdXWURfV2NWQmFSR0VFd3plOWRCNTJPazNlRUhGNkN3SGhQdTVybEU3Y2pURm1OMXRQNUhYeXJYaWwyV0x4TUZLczYyTjU2WUpienJXWEViX0wxaVNMTk9IbnpheGZqZEt5enA1QmU4dXlPRHI?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBpQTdudUhTOHdXaWlTems4S1FnY3hDY0RyU1U2TEo4UWZwV180RDd1OUNNOXRWTUNSTjBqR1JoNFh3cTN4VjJvMHVPM1hWSlIzTDB5N1o1LVFmcXNCSENSdWNTUkJVMGRCVlNGVjVHVk5rU2JQdjJ6OWpUQk9jNTlMQUs2Z1QzSnpTU0JKZXN6X3ZCbHI5dWtTUUd1RkZqQllOWlBvUkw5MFdMUGVZdDh2MzQzMDFaWEozS1ZITTRKVFF3YVdIU2dqMWJQUDFJMkRIdm1uNkZEYnFQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -225,7 +226,7 @@
       "category": "Overig",
       "published": "2026-09-07T17:30:46+00:00",
       "updated": "2026-09-08T06:22:15+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -234,31 +235,11 @@
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGZBZE1SV0M3NE1OcVN6WjYweVlWdWlINURtdk5kTGNWQmR3NVE3RUFrdVA3c05SYi1HZU1hY185b25Ka0VncUJfcEROMi00NmFPb3gzX2RLaGl1Ykh5dmZlZnRacThhczlKSS1rRHhUSjI2MjB6OHF3NDN4a2NPZUZzclF5TVkxV2hsaDJuWGd5ZVZQTFQ3ZktIUnVGU3U1eXFNbkNuek82cWFsVDhENjBPeDdnOURjR3hmVw?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZaUhrVlNKcTh3V3BGOE9lMjNtLXFrQ0pvLWhaM3hFczZSdDNnN3lyX0lURGVpVHJjdHI1UU0ybFhJR2JHUnZfYzVHYUV3Smg3V3k0dlYxUHBtRE9hcmNadFpxVlpZRFZyR0NxM0Iwd1FzWTRwODR1Mno0RE1tLWx5ZmpoLVBVdUNVWHJPMDVwRHNDVVNR?oc=5",
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "0851182429f40f",
-      "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!'",
-      "category": "Selectie",
-      "published": "2026-09-07T21:17:00+00:00",
-      "updated": "2026-09-07T21:17:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHBvNWZFYjJDckVGYW4xYWtKbGVySm9nQV9NQlh0MFFwNVlTV0piNDBxUWhFbzhDSDhJMXprcUJTRDlaa3hsYVFzM3BESGhRdHV6SjE2NmZjYmNabWU1djdlNUlPLVFfQWNuMndxZmV0VFB5RXk3ajZFNXZPQ2QtRXB2ZnJrN3B2NU5kZ0RqRklUY1RBd1k0LUx3OG9Ob3lOd1Z1WnRyRFppYkJhRzlpemJYSDMyQ1NWUTRZ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "c17695bf376842",
@@ -272,21 +253,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132957/wim-kieft-en-rafael-van-der-vaart-genoten-van-ajax-psv-geweldige-wedstrijd.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6ff06eed9feb1a",
-      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax",
-      "category": "Transfers",
-      "published": "2026-09-07T19:33:00+00:00",
-      "updated": "2026-09-07T19:33:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmx2SmR5cDdrYXRiVjhRTGs4MnF5MnN6ZlVrRm9hdXlPZE1yelNicnFmOVF5eU1lSVkzMC1SaG1UODdFVGhvVndrRHE5anJ4c0dGcGlPQUt5Z3o3bVF2M0ZsZG9IbzBlV3BzZ1c5R3RmbTI0VTFibmFFY1gwVE9Dc2pEUWZ0Q0pPWmsyUUI0bVlmc01pdDk4RWRGSzFzNFcwcVFOLWdVRUtjWlNVRHZuUzBuNTQ?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -317,21 +283,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132940/wim-kieft-over-rol-davy-klaassen-bij-opstootje-ajax-psv.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2c34cd33144ac0",
-      "title": "Kieft zag speler Ajax compleet veranderen tegen PSV: 'Slaat normaal nog geen vlieg dood!'",
-      "category": "Overig",
-      "published": "2026-09-07T18:14:00+00:00",
-      "updated": "2026-09-07T18:14:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczRJYzVHdW9oNklWblltUHJtcU9iTXJfb1BsemdkcF9WVU9HWjRSUThYTlJYWEEwWGFqdGI4YjBpd0xaMlpFb3dVQU83bGFrWDJadWZhZVBBTldXQXZBVUx2NW9pYnZiV0pFZXFTaWlvVkJnN09HaGxYVTBJVlYtUjU5ZzRpLV9EN3lKMG5FeUVvMEo1eFZTd2JwU0lJektyM0dnMG9YT29HcEFyQnhkdTFwLURKWlNoYUdleGhpbWFtSU9XMFBMcDBQamlEUnNIZDhRX29n?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -403,24 +354,18 @@
     },
     {
       "id": "b4e4b95be9d534",
-      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’",
+      "title": "'Hoofdrolspeler bij Ajax - PSV beëindigt carrière spoedig'",
       "category": "Overig",
-      "published": "2026-09-07T15:02:00+00:00",
+      "published": "2026-09-07T15:25:53+00:00",
       "updated": "2026-09-07T15:25:53+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1ZDTmJYTFI4dmJQYzIyZHpxbU1UbFRfbmEyblZ0T2xiZUZ6VXltNkpDUzg3RVFQWnFzamZNeGk2RC1BNnFPRS1FY05RSTVEU0xGMDQ4LWZueEFzeTBOMjN3WmRrcHo4MjQ3RkVnR2JsdldKV0lwR0JVSTM2TVJOdldMajkweGxUSHJZRGJGeTNwVnBsM0VsQlFuaDZ3ZXNTLXdCOWZhQTZUNnpvWWJEamJBYTRNb2NsMGZRZHg5dlFiaEk?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFVoME1YUnJGQzNpRDRFSmFQYkZfYjU3UGp6dWVoV3BmSDR0MlVnTjhfMy1ucS05VmgyblZUcXVKTFI1MWhEXzJiWEVBQ2Y1OGNpNkN3MzZQbFMxMFpPUFc4S3pMRlN6MUhHUDgwSG84NFB5OGdySXhxdno1QjRzUVVrMXNZa1gzcm1GLUJYbXJac2Uxc0hwR0J3?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFVoME1YUnJGQzNpRDRFSmFQYkZfYjU3UGp6dWVoV3BmSDR0MlVnTjhfMy1ucS05VmgyblZUcXVKTFI1MWhEXzJiWEVBQ2Y1OGNpNkN3MzZQbFMxMFpPUFc4S3pMRlN6MUhHUDgwSG84NFB5OGdySXhxdno1QjRzUVVrMXNZa1gzcm1GLUJYbXJac2Uxc0hwR0J3?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "eba8906b16e4af",
@@ -433,21 +378,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtQQnpaeHEySXVHRHQ3cEFlQzE2M3pVa2JaRC1CdmxGSE55aTRLVDJoeS1aY205d2ROb2didnNuNmVNdi1HXzlJTmpxUURJTGxTWDVCTlQ5a3BhQzY1ZUVjV09USE9UTVFkQzg5SGVqcnNzTEpXajdPLWFWVVRjdDhrNWFTT0hDZktKUDhUTmh1N2xYNERDN25oSGVnbXhUVmN3SDhPYTZuVTNJREQwVENscjZ1VzEz?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "70241163892950",
-      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax'",
-      "category": "Transfers",
-      "published": "2026-09-07T15:10:00+00:00",
-      "updated": "2026-09-07T15:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkU0aG5RcC1yTXQ3ZmQxVUJ3eFhtT0Y2Mngycjloc0JGTUZadkI2LUl4UDB3Nzc2RVBNeVJVZldVUk51ODBVLUYyWHIwZDNwbDlhMUl0cDNXeXZxUWgzcUVpUXlHeldtRmZoUlFWTDVkaG5ZdmpLTExkNnpPcmwxc19BWFluRWpYWjlJcTExMFVPT3lwd0dkVTNpSG1zb2pLSkhyZ3JKOFFpOHVTYzU5SFdDVQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -534,27 +464,6 @@
       ]
     },
     {
-      "id": "d9fb8375d83afb",
-      "title": "'Van Bommel had rood moeten krijgen tijdens Ajax - PSV, maar hij ook...'",
-      "category": "Overig",
-      "published": "2026-09-07T13:06:00+00:00",
-      "updated": "2026-09-07T13:37:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132759/willy-en-rene-van-de-kerkhof-oneens-over-tackle-ruben-van-bommel.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0U5WDNFU2t4TTdZeU1laTBFSVl1TTNkRUJxZ0N6SG5CSjhFNVJFeFVVS24xbFVidlVKY0xhOUFFdjlJMnBGanJlaW81Yk9VUnFPY09sQW5jWEVJWnRqbXVhTWZqLXo1eGNYNW0zZTZZblJpcWZLd3pIdnBhX3hjdVhudzhLSXBpN0hxRGpaYnBGd1BNc1czU2xvaXRPUzRXbWI0X2gwcGFYTmZvREZfWkpsRU9CblBkT3BCcHllQmVZa21FLUpCdEhR?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "2bba272c0d17b3",
       "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
       "category": "Overig",
@@ -574,6 +483,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "2a0857ef871612",
+      "title": "'Van Bommel had rood moeten krijgen tijdens Ajax - PSV, maar hij ook...'",
+      "category": "Overig",
+      "published": "2026-09-07T13:06:00+00:00",
+      "updated": "2026-09-07T13:06:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132759/willy-en-rene-van-de-kerkhof-oneens-over-tackle-ruben-van-bommel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "85ef5a7949b5e9",
@@ -606,21 +530,6 @@
       "related_sources": []
     },
     {
-      "id": "54ca06ff7c255e",
-      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden",
-      "category": "Wedstrijden",
-      "published": "2026-09-07T10:50:00+00:00",
-      "updated": "2026-09-07T10:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3Z3VVFGdTQxVFdFS3FrUXR4bS1pc1JTbm1Hc2FJWkhJdGpqa2RJX3RDb1JrNXJXcWdkbmtHaGNLdFMzaWJxXy1BOHpCc0xyUzBycjUtQlZsUnhfLVEybERMYUJwdENyUDNYUWJiYXdicHNXbG5kUm9RMGFYUXVtdVBxd0FoSjFla0QwbFdZdl9lT0tkNVgxVGFFOVl3Q1dOZDQwaFdsSU4xWm8xZXhtWHJadjEzeXR5UGRpSzQ5ckptNGhtRmtVVmhVTGY2QQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "ecf47b2c9413df",
       "title": "Zo ontspoorde Ajax-PSV even na de beuk van Van Bommel",
       "category": "Overig",
@@ -636,37 +545,106 @@
       "related_sources": []
     },
     {
+      "id": "70824fcce3e354",
+      "title": "Rondje Eredivisie: had Feyenoord Hadj Moussa moeten verkopen?",
+      "category": "Transfers",
+      "published": "2026-09-07T08:27:00+00:00",
+      "updated": "2026-09-07T08:27:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-had-feyenoord-hadj-moussa-moeten-verkopen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0a1a23cb61e987",
+      "title": "Ajax O15 wint mini-Klassieker, Ajax O19 blijft ongeslagen - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-09-07T08:15:45+00:00",
+      "updated": "2026-09-07T08:15:45+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelp0MHc4d3JpY3JCLWZlV2dRMERSdjZYU2Nzb2pxeERBY29CMnBjSTZpX3czclllUExDNTJrTmdoVmI3eWZ0M2FZZ3lhMWVtTktqWFE2cE5KY1pmZm1YSk93ME5aRGNUcExkNmd6YklmcjBXYzFVTEhzZFQtYUtLbk95V3hCQkx4Y05sWEk3RklLWGE2UTk4Zl9mbTE4RFFNVnd6WHFPODM4U2M?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "905f6be7c9b8d2",
+      "title": "Ajax TV | Highlights Ajax - PSV | Vriendenloterij Eredivisie",
+      "category": "Wedstrijden",
+      "published": "2026-09-07T08:00:00+00:00",
+      "updated": "2026-09-07T08:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVFnQkhpTmw4N2xTclI1S0hYNXhMWkJ4b0U0cV9RTTY4aEdlSV9BaVFfR1RCWF8zdTJ2dTZJVG5rNUdLUEg3cXJJbElxdmZrV3YyTzRKNnJlZGM2a1dkWVd4OVFqdnppR0laTzBQQWFGOXZ4R2pCYmt1eWVvTzU3TTZveVQ4dEd3ejJlUkFrX3E4MV92dHNFVXRLWi1VUmltdmpRX2tRa0s?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "81acd9d6bf4036",
       "title": "Spaan sloopt Peter Bosz na Ajax-PSV: 'Rot een eind op, trainer'",
       "category": "Overig",
       "published": "2026-09-07T07:45:00+00:00",
-      "updated": "2026-09-07T09:31:00+00:00",
-      "source_count": 2,
+      "updated": "2026-09-07T07:45:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0pMWHQwQUNULWJaM3ZDSVFicnBaX2FBYVBkcmZvbTVFMDIyQmU2M01tRERQRW85ejlya1REc3I0OGJYQXBPN2R0YmVUQjJrd0pFLTcxaDF6ZUxTSWhvaUdqc1M2QWVJRkRHZFV2NjFja05PMVBiT1RwMXp3aEpNVnZ6RW5OMTMtbV9YMGxPRXJxNGptcDRNbHRWbw?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkkzcGZraHNvOEVkM0c2YVRZT0dySGVtZXlwRTdnUXNKSndJelIxQjlmRHQxLWhTeWcwMy1qbWxQbl9sd2pkb1BLZFRuZ3A2T1l0aGNzTzF4R1dWVTVjei1yU25fS1MzNkpKOFBVei0tRE9iTW5DVlBmUHdXVEJtT191YkVSNlF1bXZPMXB1QjZkZHBRdG5jeUhOOUNMbjlGb1EyUk5pMGJSZl9XNFg2VjBVZTM3ZTF0U3c?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
-      "id": "a11bdf045b5ea0",
-      "title": "Beging de arbitrage fout op fout tijdens Ajax - PSV? 6 discutabele momenten op een rij",
-      "category": "Overig",
-      "published": "2026-09-07T08:37:00+00:00",
-      "updated": "2026-09-07T08:37:00+00:00",
+      "id": "6a562563631fba",
+      "title": "Ajax-spelers fel na bizarre overtreding Van Bommel: 'In Europese wedstrijd kun je er dan uitgestuurd worden'",
+      "category": "Wedstrijden",
+      "published": "2026-09-07T07:30:00+00:00",
+      "updated": "2026-09-07T07:30:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVFvU3F3MmZPR0Z0ZTg3VklZZ0kwb3ZMNUlWejVNVk1UYzZtclVVRDlZUURlODdCbWx0UDBwOWNleG93NjVUYmZwMUFXT0IwcGJyRnpld1lJNWprZElCVGNJRW5vTV85a2M5M0Y3M05hZnhUMHpKdUJzU2pDLV9YTFFObU5Fa3N3eUI0LUJLeW91dDBORjY1VklfUk0zczdMWlRIZHpEbzE3UHZJTF93Y0p4VDY2ejlIM3NrVlZabjZHaXBabFJMeE0xcEI5cFhpWENJ?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXFHNXpXdG1jaHdvMjlSR21INmc5WnJpRUtWSkpkRzhPTWgwZ3A3YW5vRkZHY0hhNWc5YVpsenluQmJMelk4ZWRDWHBFNzhhX1Q0ZVdUNHpOSC00YnhMLVlaZVJERmg2UlV4NW96MmFfWjR1Q3NXRHBRR3FsRUdaa0FoZDFxQkxZbGFTa2tzYjZQR0UyRUNOV3lJMW4ybTFib2dmd3MtTDdmejNJT0JVSEl2alVrSy15cGhza0xTY2ZnWWMydElyWWdwUVRIVzR4WHhOaWZYMGM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e821f0526411a5",
+      "title": "Van Hanegem snapt niet dat Ajax Baas mogelijk wilde verkopen: 'Hij heeft dat niet, hij heeft de toekomst'",
+      "category": "Transfers",
+      "published": "2026-09-07T06:00:00+00:00",
+      "updated": "2026-09-07T06:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONC1PVHQ0VU9WTjliVjc4Nmw1REVXZ3dqcnVsZkgybHBNWGdBXzAwSEFFX0MxMl9wS215Ynp1MU1EZGQwa256dkZzdE1YWWlwQ0txLWxlc3FoZnhJcjJfM25GVzFjYzlOUTA5Rm5iQVRzWWVXUlhoVWdYalE0VlVHOVd2WEI0MXRiczRtSmRQTWtiay1NamlGVmVLbzdnSVNMbE8yQzVpd2k1cTFLY1BXTlA5aUlHcXY4RDZ5UHNJdS1NUzRoX0J1TUZRaHNsRm1zX0tj?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d82201e85918f5",
+      "title": "Míchel gekraakt om wissel bij Ajax - PSV: ‘Hem altijd laten staan!’",
+      "category": "Overig",
+      "published": "2026-09-07T05:59:31+00:00",
+      "updated": "2026-09-07T05:59:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzBwemJ0M0wyRFdTN01kUFVnRXJYSWZWYk5tejk5VWJMUFNYMEFyUXBfQjlSMElHOExDT0hlNmZFU21fMWplTzZDdEJMV1ZmMzFpa0haUG1XNlY0cjY2VlJMSnR2NWFadUJObW9fc2s4ZkxHQ3VtZm5heS1pUk55TnJxWnByeENlMWctWGs3dWczeDM1UXZrd3poMzhmQ3RIaVRxdWJrRF9wWnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
