@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T05:56:25.895563+00:00",
+    "generated_at": "2026-09-08T06:37:10.217527+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 103,
+    "article_count": 102,
     "event_count": 40,
-    "discovered_event_count": 84,
+    "discovered_event_count": 82,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
@@ -13,6 +13,47 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "5a98a47b28baa3",
+      "title": "'Twist rond voormalig Ajax en PSV-target: Anderlecht wil deal, speler zegt 'nee''",
+      "category": "Transfers",
+      "published": "2026-09-08T06:27:44+00:00",
+      "updated": "2026-09-08T06:27:44+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133010/mario-stroeykens-weigert-transfer-naar-ludogorets-na-interesse-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "82becec9833196",
+      "title": "Perez: 'Na één helft bij Ajax-PSV denk je: die moet bij PSG of Bayern voetballen'",
+      "category": "Overig",
+      "published": "2026-09-07T17:30:46+00:00",
+      "updated": "2026-09-08T06:22:15+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132926/kenneth-perez-lyrisch-over-mokio-maar-ziet-ook-groot-probleem.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGZBZE1SV0M3NE1OcVN6WjYweVlWdWlINURtdk5kTGNWQmR3NVE3RUFrdVA3c05SYi1HZU1hY185b25Ka0VncUJfcEROMi00NmFPb3gzX2RLaGl1Ykh5dmZlZnRacThhczlKSS1rRHhUSjI2MjB6OHF3NDN4a2NPZUZzclF5TVkxV2hsaDJuWGd5ZVZQTFQ3ZktIUnVGU3U1eXFNbkNuek82cWFsVDhENjBPeDdnOURjR3hmVw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZaUhrVlNKcTh3V3BGOE9lMjNtLXFrQ0pvLWhaM3hFczZSdDNnN3lyX0lURGVpVHJjdHI1UU0ybFhJR2JHUnZfYzVHYUV3Smg3V3k0dlYxUHBtRE9hcmNadFpxVlpZRFZyR0NxM0Iwd1FzWTRwODR1Mno0RE1tLWx5ZmpoLVBVdUNVWHJPMDVwRHNDVVNR?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "0851182429f40f",
       "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!'",
@@ -87,32 +128,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "82becec9833196",
-      "title": "Perez: 'Na één helft bij Ajax-PSV denk je: die moet bij PSG of Bayern voetballen'",
-      "category": "Overig",
-      "published": "2026-09-07T17:30:46+00:00",
-      "updated": "2026-09-07T18:52:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132926/kenneth-perez-lyrisch-over-mokio-maar-ziet-ook-groot-probleem.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWGZBZE1SV0M3NE1OcVN6WjYweVlWdWlINURtdk5kTGNWQmR3NVE3RUFrdVA3c05SYi1HZU1hY185b25Ka0VncUJfcEROMi00NmFPb3gzX2RLaGl1Ykh5dmZlZnRacThhczlKSS1rRHhUSjI2MjB6OHF3NDN4a2NPZUZzclF5TVkxV2hsaDJuWGd5ZVZQTFQ3ZktIUnVGU3U1eXFNbkNuek82cWFsVDhENjBPeDdnOURjR3hmVw?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZaUhrVlNKcTh3V3BGOE9lMjNtLXFrQ0pvLWhaM3hFczZSdDNnN3lyX0lURGVpVHJjdHI1UU0ybFhJR2JHUnZfYzVHYUV3Smg3V3k0dlYxUHBtRE9hcmNadFpxVlpZRFZyR0NxM0Iwd1FzWTRwODR1Mno0RE1tLWx5ZmpoLVBVdUNVWHJPMDVwRHNDVVNR?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "2b8cdb5669a271",
@@ -272,21 +287,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzdpd21MWTZybENBbkpPeV9rSjBnRnhmNkw5dUZhTVl6a2hBMFBsa1d2YmVpS0p5S3lVM2NGSkhVR2xsM1IxdmtYSkwzMGJCRHF4dVdmQUc0aUhpcTVzWGFranJ2REE2NEM0d3RUNE1fOXh5N3pES0V5ZThHdnhRd0g3VVRaV0xNS0NoZFItbjRueUVSNTNVRWJpQkZ0dUlfT250UERzc1lwb1hXZ1R6SHJ3ZXUzTGtf?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f145734f9afa5f",
-      "title": "Ajax kiest voor de korte termijn: 'Jordi Cruijff denkt als een Spanjaard'",
-      "category": "Overig",
-      "published": "2026-09-07T14:15:00+00:00",
-      "updated": "2026-09-07T14:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE93TDVYOG1MR2tjdk0yX1lxa1NtbzdTWFhzTGJfanlyM2ZQVkdfN1p4X3FTLTVaOWNoa05FdGp0LTBGTXh6MHRCallCbGp6UmRwd0g3bXpLOHowTkxwd0gzYVdkV0tzckZLUVgwek5rRm5CUnFKTTJQVTE1LW5yR1JVZ0lkUGlSc2NPd1JlQUxCcnpTQmpKOWVSWk1yYm5pZFdJbnlyaWd1Zw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -557,21 +557,6 @@
       "related_sources": []
     },
     {
-      "id": "4045086c1a7869",
-      "title": "Vrees voor Bouwman: 'De Ajax-trein kan gaan rijden en dan is hij de klos'",
-      "category": "Overig",
-      "published": "2026-09-07T08:29:20+00:00",
-      "updated": "2026-09-07T08:29:20+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132605/ajax-moet-leren-van-wat-er-gebeurde-met-van-bommel-getafe-komt-er-ook-nog-aan.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "70824fcce3e354",
       "title": "Rondje Eredivisie: had Feyenoord Hadj Moussa moeten verkopen?",
       "category": "Transfers",
@@ -627,6 +612,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXFHNXpXdG1jaHdvMjlSR21INmc5WnJpRUtWSkpkRzhPTWgwZ3A3YW5vRkZHY0hhNWc5YVpsenluQmJMelk4ZWRDWHBFNzhhX1Q0ZVdUNHpOSC00YnhMLVlaZVJERmg2UlV4NW96MmFfWjR1Q3NXRHBRR3FsRUdaa0FoZDFxQkxZbGFTa2tzYjZQR0UyRUNOV3lJMW4ybTFib2dmd3MtTDdmejNJT0JVSEl2alVrSy15cGhza0xTY2ZnWWMydElyWWdwUVRIVzR4WHhOaWZYMGM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e821f0526411a5",
+      "title": "Van Hanegem snapt niet dat Ajax Baas mogelijk wilde verkopen: 'Hij heeft dat niet, hij heeft de toekomst'",
+      "category": "Transfers",
+      "published": "2026-09-07T06:00:00+00:00",
+      "updated": "2026-09-07T06:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONC1PVHQ0VU9WTjliVjc4Nmw1REVXZ3dqcnVsZkgybHBNWGdBXzAwSEFFX0MxMl9wS215Ynp1MU1EZGQwa256dkZzdE1YWWlwQ0txLWxlc3FoZnhJcjJfM25GVzFjYzlOUTA5Rm5iQVRzWWVXUlhoVWdYalE0VlVHOVd2WEI0MXRiczRtSmRQTWtiay1NamlGVmVLbzdnSVNMbE8yQzVpd2k1cTFLY1BXTlA5aUlHcXY4RDZ5UHNJdS1NUzRoX0J1TUZRaHNsRm1zX0tj?oc=5",
         "via_google_news": true
       },
       "related_sources": []
