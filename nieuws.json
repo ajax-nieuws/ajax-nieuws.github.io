@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T11:30:30.089652+00:00",
+    "generated_at": "2026-09-08T11:56:45.738331+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 88,
+    "article_count": 89,
     "event_count": 40,
-    "discovered_event_count": 71,
+    "discovered_event_count": 72,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 106,
-    "excluded_video_only_count": 65,
+    "excluded_paywall_count": 105,
+    "excluded_video_only_count": 66,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "2861a7ce46e849",
+      "title": "Ajax-duels tot en met januari 2027 vastgesteld",
+      "category": "Overig",
+      "published": "2026-09-08T11:40:10+00:00",
+      "updated": "2026-09-08T11:40:10+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNm5RUWdGaDBUYy0zLXdpRy16b0pOTjBDaWJCc1pyWUgzLXFQeFJhSGpjY3VUaFhXcmR0WnNYNUZ1QlBYOXZ4SmVfYWQwR3k5WC1mamZIc1VaNGRKTE9ia1FvVTlGYmpHU3Y0bDBaMzRYN09WWUFSbkswb2dsdjgwRTFRMA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "64ff053a1ea8d0",
       "title": "Ajax TV | Jano Monserrate 🇪🇸 | Highlights Almere City FC - Jong Ajax | Keuken Kampioen Divisie",
@@ -40,21 +55,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/nec-en-fc-twente-spelen-doordeweeks-hun-inhaalduels-ajax-nog-niet",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "631d36e6e4b681",
-      "title": "Ajax 2-2 Heerenveen (16 aug., 2026) Uitslag",
-      "category": "Wedstrijden",
-      "published": "2026-09-08T09:41:34+00:00",
-      "updated": "2026-09-08T09:41:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTndUdzk2LUU1eUFtX2lzMi02eno4cGNjMlB4UmhIaFRCN2Y5emczVldlZ2wyRXYxNnlKdEticzN3S2diNlJJSkZJSlR4RnZxRlF2ZEdJYUhiTGh5WGt6MWxTQUVZQVh1b3dMbzNHZ0FNWkpOa2RXQWxUMWhHWEZqTGhKUno3S0k?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -193,7 +193,7 @@
     },
     {
       "id": "0851182429f40f",
-      "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!'",
+      "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!' - voetbalzone.nl",
       "category": "Selectie",
       "published": "2026-09-07T21:17:00+00:00",
       "updated": "2026-09-07T21:17:00+00:00",
@@ -223,7 +223,7 @@
     },
     {
       "id": "6ff06eed9feb1a",
-      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax",
+      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax - voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-09-07T19:33:00+00:00",
       "updated": "2026-09-07T19:33:00+00:00",
@@ -263,6 +263,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132940/wim-kieft-over-rol-davy-klaassen-bij-opstootje-ajax-psv.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2c34cd33144ac0",
+      "title": "Kieft zag speler Ajax compleet veranderen tegen PSV: 'Slaat normaal nog geen vlieg dood!' - voetbalzone.nl",
+      "category": "Overig",
+      "published": "2026-09-07T18:14:00+00:00",
+      "updated": "2026-09-07T18:14:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczRJYzVHdW9oNklWblltUHJtcU9iTXJfb1BsemdkcF9WVU9HWjRSUThYTlJYWEEwWGFqdGI4YjBpd0xaMlpFb3dVQU83bGFrWDJadWZhZVBBTldXQXZBVUx2NW9pYnZiV0pFZXFTaWlvVkJnN09HaGxYVTBJVlYtUjU5ZzRpLV9EN3lKMG5FeUVvMEo1eFZTd2JwU0lJektyM0dnMG9YT29HcEFyQnhkdTFwLURKWlNoYUdleGhpbWFtSU9XMFBMcDBQamlEUnNIZDhRX29n?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -334,7 +349,7 @@
     },
     {
       "id": "b4e4b95be9d534",
-      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’",
+      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’ - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-07T15:02:00+00:00",
       "updated": "2026-09-07T15:25:53+00:00",
@@ -370,7 +385,7 @@
     },
     {
       "id": "70241163892950",
-      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax'",
+      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax' - voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-09-07T15:10:00+00:00",
       "updated": "2026-09-07T15:10:00+00:00",
@@ -558,7 +573,7 @@
     },
     {
       "id": "54ca06ff7c255e",
-      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden",
+      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden - voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-09-07T10:50:00+00:00",
       "updated": "2026-09-07T10:50:00+00:00",
@@ -609,7 +624,7 @@
     },
     {
       "id": "a11bdf045b5ea0",
-      "title": "Beging de arbitrage fout op fout tijdens Ajax - PSV? 6 discutabele momenten op een rij",
+      "title": "Beging de arbitrage fout op fout tijdens Ajax - PSV? 6 discutabele momenten op een rij - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-07T08:37:00+00:00",
       "updated": "2026-09-07T08:37:00+00:00",
@@ -663,21 +678,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVFnQkhpTmw4N2xTclI1S0hYNXhMWkJ4b0U0cV9RTTY4aEdlSV9BaVFfR1RCWF8zdTJ2dTZJVG5rNUdLUEg3cXJJbElxdmZrV3YyTzRKNnJlZGM2a1dkWVd4OVFqdnppR0laTzBQQWFGOXZ4R2pCYmt1eWVvTzU3TTZveVQ4dEd3ejJlUkFrX3E4MV92dHNFVXRLWi1VUmltdmpRX2tRa0s?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6a562563631fba",
-      "title": "Ajax-spelers fel na bizarre overtreding Van Bommel: 'In Europese wedstrijd kun je er dan uitgestuurd worden'",
-      "category": "Wedstrijden",
-      "published": "2026-09-07T07:30:00+00:00",
-      "updated": "2026-09-07T07:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXFHNXpXdG1jaHdvMjlSR21INmc5WnJpRUtWSkpkRzhPTWgwZ3A3YW5vRkZHY0hhNWc5YVpsenluQmJMelk4ZWRDWHBFNzhhX1Q0ZVdUNHpOSC00YnhMLVlaZVJERmg2UlV4NW96MmFfWjR1Q3NXRHBRR3FsRUdaa0FoZDFxQkxZbGFTa2tzYjZQR0UyRUNOV3lJMW4ybTFib2dmd3MtTDdmejNJT0JVSEl2alVrSy15cGhza0xTY2ZnWWMydElyWWdwUVRIVzR4WHhOaWZYMGM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
