@@ -1,33 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T17:30:17.887179+00:00",
+    "generated_at": "2026-09-08T17:55:35.854957+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 75,
+    "article_count": 73,
     "event_count": 40,
-    "discovered_event_count": 62,
+    "discovered_event_count": 60,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 74,
+    "excluded_video_only_count": 73,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
-    {
-      "id": "58c4c1d51eac45",
-      "title": "VriendenLoterij Eredivisie-duels tot en met januari 2027 vastgesteld",
-      "category": "Wedstrijden",
-      "published": "2026-09-08T16:15:42+00:00",
-      "updated": "2026-09-08T16:15:42+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUi1HOFBJdzZ3TGhjbGh5MXgtM3BGbGN2TmxERW5lcXRTZ1ZFLWNEQTdRLTRoRVlXdUNudElmQkpMc2ZSMDRGbTdwN0tVMkZCTENHRm1SZW9YSWQ4Q3lodC1tOHhmNXFwaUVqRFpQT2tmU2pnUzBXV0JkbEpIeXlWWGh3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
     {
       "id": "52fe1b0859b469",
       "title": "Ajax-middenvelder Amrabat stopt als Marokkaans international zolang Ouahbi bondscoach is",
@@ -116,6 +101,21 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjBOOGF2RFdKbGNfQlpMZm1IcFBJZ0c5Um9vaEhmNUwtM19OeUJCdGJPdS1Cdk1LSGpkMkNGTGwzdENLX1FDNzk0OE1JYm1jMndtaFkzbHhfeFlyellBRnBzMzJ1OVQzSC0wYW1kYXZocnREc0ZuZFVnUjRmRi16ajhwM1JUUXNoM1ZZdFdNaUtGQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2861a7ce46e849",
+      "title": "VriendenLoterij Eredivisie-duels tot en met januari 2027 vastgesteld",
+      "category": "Wedstrijden",
+      "published": "2026-09-08T11:40:10+00:00",
+      "updated": "2026-09-08T11:40:10+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNm5RUWdGaDBUYy0zLXdpRy16b0pOTjBDaWJCc1pyWUgzLXFQeFJhSGpjY3VUaFhXcmR0WnNYNUZ1QlBYOXZ4SmVfYWQwR3k5WC1mamZIc1VaNGRKTE9ia1FvVTlGYmpHU3Y0bDBaMzRYN09WWUFSbkswb2dsdjgwRTFRMA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -581,23 +581,23 @@
       "related_sources": []
     },
     {
-      "id": "10c979180127a1",
-      "title": "Bouwman voorlopig uitgeschakeld",
+      "id": "b82de5ce5040d2",
+      "title": "Ajax is Bouwman voorlopig kwijt",
       "category": "Blessures",
-      "published": "2026-09-06T17:48:35+00:00",
+      "published": "2026-09-06T21:10:00+00:00",
       "updated": "2026-09-07T13:41:03+00:00",
       "source_count": 2,
-      "official_confirmation": true,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRWNfMTRLSUlJMEJYaGNGRktGQXhjdmNLbG56YWtKV0xXd3VzckxDRE80YS1FeV8yMWV4ckhPdWtfTTZQeVBOR1AyOUluZ3FNYVdjOTIxdmtVenVOUzVwSk1FdFpFTElYd3pla0J3?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
-          "via_google_news": false
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVg1NjVlYjg1LWpPMDBBVy1FQWV6UW9scFczVktYNGs4RS05LUxWb1NiQk1zWmc3X1Bqbm1uV1pVUDdFektwZ29LcHROZ1p3dW9qV3B4b0RsSHZheVdfN0tIdGFJc3RmdXB3TnNZWmxrME1GRGVfNlBjRHRfZWNmajNkcWpTYUNzQVZzVDh1X3JWVHJCOHJpTGYxeTlUQTE1WjZKb212TXRtcXBaVGczRmFkVE5VSFlXaEZqQXZnVUtDR3dOMXBrNTNpNF9LSlc5N2lYR2t6OHgxVFFPQ0M2QUk4NUtrUQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
