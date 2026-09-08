@@ -1,39 +1,24 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T06:59:38.703910+00:00",
+    "generated_at": "2026-09-08T07:32:06.988982+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 102,
+    "article_count": 100,
     "event_count": 40,
-    "discovered_event_count": 82,
+    "discovered_event_count": 79,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 61,
+    "excluded_video_only_count": 63,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "fb1b8c24649ccf",
-      "title": "'Deense krant meldt nieuwe Ajax-aanwinst: scout maakt overstap naar Amsterdam'",
-      "category": "Transfers",
-      "published": "2026-09-08T06:59:00+00:00",
-      "updated": "2026-09-08T06:59:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2133026/ajax-haalt-deense-scout-carsten-abrahamsen-voor-jeugdopleiding-binnen.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "ded9586800efc2",
-      "title": "Van der Vaart blijft hoopvol bij Ajax: 'Denk dat hij er veel gaat maken'",
+      "title": "Van der Vaart: 'Hij is in potentie echt de allerbeste bij Ajax…'",
       "category": "Overig",
-      "published": "2026-09-07T19:26:00+00:00",
-      "updated": "2026-09-08T06:49:42+00:00",
+      "published": "2026-09-08T06:49:42+00:00",
+      "updated": "2026-09-08T07:25:55+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
@@ -50,17 +35,17 @@
       ]
     },
     {
-      "id": "39a5c068e07c24",
-      "title": "'Ajax vindt in Denemarken met Abrahamsen nieuwe scout voor jeugdopleiding'",
-      "category": "Jeugd",
-      "published": "2026-09-08T06:40:00+00:00",
-      "updated": "2026-09-08T06:40:00+00:00",
+      "id": "fb1b8c24649ccf",
+      "title": "'Deense krant meldt nieuwe Ajax-aanwinst: scout maakt overstap naar Amsterdam'",
+      "category": "Transfers",
+      "published": "2026-09-08T06:59:00+00:00",
+      "updated": "2026-09-08T06:59:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbERxRElQZFhKdkRPczREN1JMb3E5VXZJSHEwR3dzSm1waFQ2Z2VhT09STTlfSkpRMHV1akRnWG1vSFd1Rm9SYUtUaTlrZVYycnBOQ296dTZ1WVFHRnRkMWVMTjVkSXlZWTNFQllRcnlxUlI2Yy1jLXRZdGJPRk5maTZMNzBkX2QyTTNROGw4WWFXd3BUR3pDNGhJbFltS3VzelMzNkdBc0NIS3hKR1hHMXFXRjB1aVVSVEx0cWtQeG8?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133026/ajax-haalt-deense-scout-carsten-abrahamsen-voor-jeugdopleiding-binnen.html",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -323,6 +308,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzdpd21MWTZybENBbkpPeV9rSjBnRnhmNkw5dUZhTVl6a2hBMFBsa1d2YmVpS0p5S3lVM2NGSkhVR2xsM1IxdmtYSkwzMGJCRHF4dVdmQUc0aUhpcTVzWGFranJ2REE2NEM0d3RUNE1fOXh5N3pES0V5ZThHdnhRd0g3VVRaV0xNS0NoZFItbjRueUVSNTNVRWJpQkZ0dUlfT250UERzc1lwb1hXZ1R6SHJ3ZXUzTGtf?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b172867ce6c336",
+      "title": "'Dat Ajax tactische truc uithaalde die werkte, vond ik heel hoopgevend'",
+      "category": "Overig",
+      "published": "2026-09-07T13:45:00+00:00",
+      "updated": "2026-09-07T13:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRPSm9NU2tfSFZLRjAzSk1JTDRQdDBLLUstcTZSZ2RSdHdSd1NGZS1mVk5rSzFNSVIwbkdHZ3ZhOUg0S3pfX0x6RWZkajJ4WV9WQ1Zsend3bnZLaUMwSzZ5bXlNTEFkVHhzTkRwTjk5V2xJczVBT3daQTNJU0RpaE50R0FYV1JrVkF0VzFnZEVpNGUwelppTHBhZ0J0YWpqaW11ZTlEcw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
