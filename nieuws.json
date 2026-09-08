@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T21:28:20.374602+00:00",
+    "generated_at": "2026-09-08T21:55:05.147121+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 66,
     "event_count": 40,
@@ -8,11 +8,26 @@
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 75,
+    "excluded_video_only_count": 77,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e01393a7eff0f9",
+      "title": "Na Ajax - PSV ligt Pol van Boekel ook in Champions League onder vuur",
+      "category": "Wedstrijden",
+      "published": "2026-09-08T21:13:00+00:00",
+      "updated": "2026-09-08T21:13:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2p2andJZGZ6eDY3aThGUkp2b0wyQ2hza0QzMi1aODJ1NERNMFBTU2tXTUpZZ0FsYldqMDQtOElUQlVfTDBucDd4cVZoSzhzTm9OQnp0aWdYcVBBVjJLcEVWcDJDWHZDSjI5b1A2MWM4N3JRazhjV0V0VXBXNndyamRzUHJPTWlYUnZkb3doNkZ3OXRfNTNNeXNwcWVVcFl4NjhVdENvcm5tMWRiMmtxeDMyS3V1akpqcUVWcw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "2f9b7e904de0d7",
       "title": "Ajax O16 bekert eenvoudig door na ruime zege op amateurs van Zeeburgia",
@@ -663,21 +678,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0U5WDNFU2t4TTdZeU1laTBFSVl1TTNkRUJxZ0N6SG5CSjhFNVJFeFVVS24xbFVidlVKY0xhOUFFdjlJMnBGanJlaW81Yk9VUnFPY09sQW5jWEVJWnRqbXVhTWZqLXo1eGNYNW0zZTZZblJpcWZLd3pIdnBhX3hjdVhudzhLSXBpN0hxRGpaYnBGd1BNc1czU2xvaXRPUzRXbWI0X2gwcGFYTmZvREZfWkpsRU9CblBkT3BCcHllQmVZa21FLUpCdEhR?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "85ef5a7949b5e9",
-      "title": "Vrijdagavond Ajax-PSV: zo laadt de stad zich op",
-      "category": "Overig",
-      "published": "2026-09-07T12:11:00+00:00",
-      "updated": "2026-09-07T12:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/55981/%3Ch2%3EVrijdagavond-Ajax-PSV-zo-laadt-de-stad-zich-op%3Ch2%3E",
-        "via_google_news": false
       },
       "related_sources": []
     }
