@@ -1,18 +1,44 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T17:55:35.854957+00:00",
+    "generated_at": "2026-09-08T18:35:26.010382+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 73,
     "event_count": 40,
-    "discovered_event_count": 60,
+    "discovered_event_count": 58,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 106,
-    "excluded_video_only_count": 73,
+    "excluded_paywall_count": 107,
+    "excluded_video_only_count": 74,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e821f0526411a5",
+      "title": "Van Bronckhorst over Hadj Moussa: ‘Hij heeft keuzes gemaakt die niet konden, maar we kijken nu naar de toekomst’",
+      "category": "Transfers",
+      "published": "2026-09-07T06:00:00+00:00",
+      "updated": "2026-09-08T17:45:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdGlBSzlESFJpeXVwYUpnbzZDS1RSSDhKT0hpWHYxTlc2a1E4SU5DQlZ2ZHNmWFh4clVnTVpXdGdScWZwR3puVllBN1VPYkFHS0JlTTI2ajF1QnlKaHJhWHZ3RXRVdzFzUDc4UmxRZzV4djhSWlR4TnRXTGVrNEY5cWxFSUg2VGJJWE5iUnJpSmZDSWtraWYwWkZIbEtpbW1vVnd2ZUZ5cS1fbmdQcHBzalNaNzhvR3FsOFFpRkFrM2FvTG9EbGJTNFduNUF5dW9yeHB6bTVMYzRmQWxl?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/rondje-eredivisie-had-feyenoord-hadj-moussa-moeten-verkopen",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONC1PVHQ0VU9WTjliVjc4Nmw1REVXZ3dqcnVsZkgybHBNWGdBXzAwSEFFX0MxMl9wS215Ynp1MU1EZGQwa256dkZzdE1YWWlwQ0txLWxlc3FoZnhJcjJfM25GVzFjYzlOUTA5Rm5iQVRzWWVXUlhoVWdYalE0VlVHOVd2WEI0MXRiczRtSmRQTWtiay1NamlGVmVLbzdnSVNMbE8yQzVpd2k1cTFLY1BXTlA5aUlHcXY4RDZ5UHNJdS1NUzRoX0J1TUZRaHNsRm1zX0tj?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "52fe1b0859b469",
       "title": "Ajax-middenvelder Amrabat stopt als Marokkaans international zolang Ouahbi bondscoach is",
@@ -49,20 +75,20 @@
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2133297/sofyan-amrabat-stopt-als-international-van-marokko.html",
-          "via_google_news": false
-        },
-        {
           "name": "NU.nl",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhUNUJvZTNvaDZmNDMwZUluZDk2Zkg0M1pZQk9ZUlNHc1NMRjFjLWRBVEdXc2VUb2xCRGotdVkwYzhwaFZDRVlkaFR3OE8xQzA5ZlM0QUxUR0N2MEZEcWIyVEs5aDh4YmhjSXp3RlFQdC16eU5kU1c0dV9KQlRQTW00Yk5ESl9zWkw1TDhyMDNlQWVCLVNtb3I0dmVKTXVmbkVqSGJKcnR1TEc0S3ZNNlhlNDNLQQ?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2133297/sofyan-amrabat-stopt-als-international-van-marokko.html",
+          "via_google_news": false
         }
       ]
     },
     {
       "id": "f209d37f3e419f",
-      "title": "Ajax-middenvelder Sofyan Amrabat neemt drastisch besluit, haalt vernietigend uit en breekt met Marokko",
+      "title": "Amrabat neemt drastisch besluit en haalt uit: Ajax-middenvelder breekt met Marokko",
       "category": "Transfers",
       "published": "2026-09-08T15:15:00+00:00",
       "updated": "2026-09-08T15:15:00+00:00",
@@ -471,7 +497,7 @@
     },
     {
       "id": "4fd52049a0c50b",
-      "title": "'Hij doet normaal geen vlieg kwaad, maar wordt nu opeens helemaal wild bij Ajax'",
+      "title": "'Hij doet geen vlieg kwaad, maar wordt nu opeens helemaal wild bij Ajax'",
       "category": "Overig",
       "published": "2026-09-07T16:22:27+00:00",
       "updated": "2026-09-07T16:22:27+00:00",
@@ -506,21 +532,6 @@
       ]
     },
     {
-      "id": "eba8906b16e4af",
-      "title": "Míchel krijgt flinke kritiek na reserverol Ajacied: 'Een onbegrijpelijke beslissing'",
-      "category": "Selectie",
-      "published": "2026-09-07T15:10:00+00:00",
-      "updated": "2026-09-07T15:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEtQQnpaeHEySXVHRHQ3cEFlQzE2M3pVa2JaRC1CdmxGSE55aTRLVDJoeS1aY205d2ROb2didnNuNmVNdi1HXzlJTmpxUURJTGxTWDVCTlQ5a3BhQzY1ZUVjV09USE9UTVFkQzg5SGVqcnNzTEpXajdPLWFWVVRjdDhrNWFTT0hDZktKUDhUTmh1N2xYNERDN25oSGVnbXhUVmN3SDhPYTZuVTNJREQwVENscjZ1VzEz?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "70241163892950",
       "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax'",
       "category": "Transfers",
@@ -531,6 +542,21 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkU0aG5RcC1yTXQ3ZmQxVUJ3eFhtT0Y2Mngycjloc0JGTUZadkI2LUl4UDB3Nzc2RVBNeVJVZldVUk51ODBVLUYyWHIwZDNwbDlhMUl0cDNXeXZxUWgzcUVpUXlHeldtRmZoUlFWTDVkaG5ZdmpLTExkNnpPcmwxc19BWFluRWpYWjlJcTExMFVPT3lwd0dkVTNpSG1zb2pLSkhyZ3JKOFFpOHVTYzU5SFdDVQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7b1db6862c179c",
+      "title": "Flinke kritiek op wisselvallige Ajacied: 'Dat is en blijft gewoon geen Ajax-niveau'",
+      "category": "Overig",
+      "published": "2026-09-07T15:10:00+00:00",
+      "updated": "2026-09-07T15:10:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1lSYVJ0RG5NV3NZUzEtVGVOOFlYT0ZqUlpMVjNJVDNuMkg2V2hTRlF2eWd4Z3VtcTBUUGlmU2t0RFBXbm85MzU0ZDFtdFVGbkFZOEV0TGFSTWpKQkFNV0tYSVRyMkJQNFl6XzF6S3ZUT1RvdjhSMk44cVZyZkRpNkU0aVoyNUNBZXZ2WVJRTU4zbUpVSnZBUUxYQ3hjTzNIZU10b0pWMUFXNk9sbk5QZzZ4bU9FUms?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -657,21 +683,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGpXMFpJQlRsLXN4T0w5MTNKRDMyUUtjeVpmb0FmUnl0c1RCVDRCeFFYSjJhZnhyZ0VIODM1WGNkblJoVFlYak5odnVUSndkaXZkZG9FdU5JMko0Nllmb0IxbWlrUDFZbVZHOUFXbDZEUVA0UWhVUHo2Z2pMRzVia1ZRdGNtRmJ6VlNLREdiRGtFWGhTTkdua2drX3FSRnBFRkdQdXVlMnRuMVhSUFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "54ca06ff7c255e",
-      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden",
-      "category": "Wedstrijden",
-      "published": "2026-09-07T10:50:00+00:00",
-      "updated": "2026-09-07T10:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3Z3VVFGdTQxVFdFS3FrUXR4bS1pc1JTbm1Hc2FJWkhJdGpqa2RJX3RDb1JrNXJXcWdkbmtHaGNLdFMzaWJxXy1BOHpCc0xyUzBycjUtQlZsUnhfLVEybERMYUJwdENyUDNYUWJiYXdicHNXbG5kUm9RMGFYUXVtdVBxd0FoSjFla0QwbFdZdl9lT0tkNVgxVGFFOVl3Q1dOZDQwaFdsSU4xWm8xZXhtWHJadjEzeXR5UGRpSzQ5ckptNGhtRmtVVmhVTGY2QQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
