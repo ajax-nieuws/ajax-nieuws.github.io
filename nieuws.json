@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T10:56:33.578375+00:00",
+    "generated_at": "2026-09-08T11:30:30.089652+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 90,
+    "article_count": 88,
     "event_count": 40,
-    "discovered_event_count": 73,
+    "discovered_event_count": 71,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 105,
-    "excluded_video_only_count": 64,
+    "excluded_paywall_count": 106,
+    "excluded_video_only_count": 65,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -40,6 +40,21 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/nec-en-fc-twente-spelen-doordeweeks-hun-inhaalduels-ajax-nog-niet",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "631d36e6e4b681",
+      "title": "Ajax 2-2 Heerenveen (16 aug., 2026) Uitslag",
+      "category": "Wedstrijden",
+      "published": "2026-09-08T09:41:34+00:00",
+      "updated": "2026-09-08T09:41:34+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTndUdzk2LUU1eUFtX2lzMi02eno4cGNjMlB4UmhIaFRCN2Y5emczVldlZ2wyRXYxNnlKdEticzN3S2diNlJJSkZJSlR4RnZxRlF2ZEdJYUhiTGh5WGt6MWxTQUVZQVh1b3dMbzNHZ0FNWkpOa2RXQWxUMWhHWEZqTGhKUno3S0k?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -450,19 +465,24 @@
       ]
     },
     {
-      "id": "d9fb8375d83afb",
-      "title": "'Van Bommel had rood moeten krijgen tijdens Ajax - PSV, maar hij ook...'",
-      "category": "Overig",
-      "published": "2026-09-07T13:06:00+00:00",
+      "id": "dbb26d0b719585",
+      "title": "Scheidsrechtersbaas Van Meenen: 'Van Bommel had rood moeten krijgen tegen Ajax'",
+      "category": "Wedstrijden",
+      "published": "2026-09-06T12:06:39+00:00",
       "updated": "2026-09-07T13:37:00+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132759/willy-en-rene-van-de-kerkhof-oneens-over-tackle-ruben-van-bommel.html",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZnlSQlVjS1NLV21zR2x4X2ppVDNVQVR5NjNMWG5mMnZ6YUxUTEtNaG5iOEQ5SjhfdksxU0FJZzVrWm0yZE4wX0dzOFZOb1RsalpxM1VlYlRrVV9Vcm9qQS1BYWFGOHBFbnNaVmdndHUwdXh6NEEtQV81ZklIeHVkMTR1QjdCZXZyNE9wOEpRb1haTThVcUswT2dxbEFqT2FXMF9ETTRlNndyRkptb1c3ZE5YLTB5OTk2Q3BxYWFkZ1pNMnNG?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2132759/willy-en-rene-van-de-kerkhof-oneens-over-tackle-ruben-van-bommel.html",
+          "via_google_news": false
+        },
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR0U5WDNFU2t4TTdZeU1laTBFSVl1TTNkRUJxZ0N6SG5CSjhFNVJFeFVVS24xbFVidlVKY0xhOUFFdjlJMnBGanJlaW81Yk9VUnFPY09sQW5jWEVJWnRqbXVhTWZqLXo1eGNYNW0zZTZZblJpcWZLd3pIdnBhX3hjdVhudzhLSXBpN0hxRGpaYnBGd1BNc1czU2xvaXRPUzRXbWI0X2gwcGFYTmZvREZfWkpsRU9CblBkT3BCcHllQmVZa21FLUpCdEhR?oc=5",
@@ -658,21 +678,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRXFHNXpXdG1jaHdvMjlSR21INmc5WnJpRUtWSkpkRzhPTWgwZ3A3YW5vRkZHY0hhNWc5YVpsenluQmJMelk4ZWRDWHBFNzhhX1Q0ZVdUNHpOSC00YnhMLVlaZVJERmg2UlV4NW96MmFfWjR1Q3NXRHBRR3FsRUdaa0FoZDFxQkxZbGFTa2tzYjZQR0UyRUNOV3lJMW4ybTFib2dmd3MtTDdmejNJT0JVSEl2alVrSy15cGhza0xTY2ZnWWMydElyWWdwUVRIVzR4WHhOaWZYMGM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e821f0526411a5",
-      "title": "Van Hanegem snapt niet dat Ajax Baas mogelijk wilde verkopen: 'Hij heeft dat niet, hij heeft de toekomst'",
-      "category": "Transfers",
-      "published": "2026-09-07T06:00:00+00:00",
-      "updated": "2026-09-07T06:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONC1PVHQ0VU9WTjliVjc4Nmw1REVXZ3dqcnVsZkgybHBNWGdBXzAwSEFFX0MxMl9wS215Ynp1MU1EZGQwa256dkZzdE1YWWlwQ0txLWxlc3FoZnhJcjJfM25GVzFjYzlOUTA5Rm5iQVRzWWVXUlhoVWdYalE0VlVHOVd2WEI0MXRiczRtSmRQTWtiay1NamlGVmVLbzdnSVNMbE8yQzVpd2k1cTFLY1BXTlA5aUlHcXY4RDZ5UHNJdS1NUzRoX0J1TUZRaHNsRm1zX0tj?oc=5",
         "via_google_news": true
       },
       "related_sources": []
