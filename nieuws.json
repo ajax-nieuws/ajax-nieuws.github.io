@@ -1,21 +1,57 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T14:58:55.454667+00:00",
+    "generated_at": "2026-09-08T15:33:40.240348+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 75,
+    "article_count": 76,
     "event_count": 40,
-    "discovered_event_count": 62,
+    "discovered_event_count": 61,
     "source_count": 10,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 70,
+    "excluded_video_only_count": 71,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "9bfcbdd8dd10d2",
+      "title": "Amrabat bedankt voorlopig voor Marokko: 'Speel niet onder deze bondscoach'",
+      "category": "Overig",
+      "published": "2026-09-08T15:08:00+00:00",
+      "updated": "2026-09-08T15:24:59+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/amrabat-bedankt-voorlopig-voor-marokko-speel-niet-onder-deze-bondscoach",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2133297/sofyan-amrabat-stopt-als-international-van-marokko.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "f209d37f3e419f",
+      "title": "Ajax-middenvelder Sofyan Amrabat neemt drastisch besluit, haalt vernietigend uit en breekt met Marokko",
+      "category": "Transfers",
+      "published": "2026-09-08T15:15:00+00:00",
+      "updated": "2026-09-08T15:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR2hnQ0ZSdW80VWp4cXU3c1VGUlRSMXZjYWpGbEVPMnVBSWJQcG1IQmxtQmFXZ1ZPbzVMekI4WnFRSXFEdGNtRFNUcVlybkJHY1RTY2loQkd2bk93NUtWTzJMQkd5SzByN3VGUUlOaVprU2NTb2dJeFBxbE45dkhFNms3T3B4a0lFNGwzY3p3NXNFbVVjVE82eDBZS2pTelRDakI0bE5qOWRtc2hOaVg2a0hnejhpNWROaGkyb3ItQUQ1U24zWnA1NXlNMFNEOUU5STdGTWsyemlVMVFjaUh3UGdwUjBOTDNoZXNr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "c778ce3035207b",
-      "title": "'Míchel kan je al bijna afschrijven! Hij stelt zijn allerbeste speler niet eens op bij Ajax' - Voetbalzone.nl",
+      "title": "'Míchel kan je al bijna afschrijven! Hij stelt zijn allerbeste speler niet eens op bij Ajax'",
       "category": "Overig",
       "published": "2026-09-08T13:48:00+00:00",
       "updated": "2026-09-08T13:48:00+00:00",
@@ -59,38 +95,8 @@
       "related_sources": []
     },
     {
-      "id": "22315e22669ec8",
-      "title": "KNVB maakt data en tijden Ajax tot en met speelronde 21 bekend",
-      "category": "Wedstrijden",
-      "published": "2026-09-08T11:40:00+00:00",
-      "updated": "2026-09-08T11:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3NhN1RtZTZRTzJ0aXVqTjV0WlhHU2kxMHJuZndaNVFVTWhPVHZCSS1oZEdiT040ZnRrSmVFdmlneEFsMzJWbmVlSDI2NUk1RmxDRFN4OFYxazRJbWswa29xTExGZmFuanl5WVZaaHk1TnpJUWFoZVJLYnJ4SzF6dWloSHNfQ3ltX21RMUZlQ2JxcF9aeEU0Q1ZiVkRMMHZnS2dSTUNn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "235035f2182af0",
-      "title": "Nijhuis neemt VAR in bescherming na Ajax-PSV, maar is duidelijk: 'Dit is een rode kaart'",
-      "category": "Overig",
-      "published": "2026-09-08T10:30:00+00:00",
-      "updated": "2026-09-08T10:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQk1rOFAwNGVyTndTSkJWS0RfazFleW1zNjh2LVJxQ2tZejBPaFBKQ3JYOHhOM2Q5VWVta1QwVFJIRFpQR2tHRlBDNW5GRGt3MHczS0tKQ2tkZUFGdU9RTEtyeEVqNGZScUk0WEdOS2l2REJJWlk0cFdoTnQwaFFPTlVuMUFSTGlDdURORFdXaW5ZcmJkMTdRZ2M0VmNLdDZSWnRrbGNOd0EteE4wQ0hpdkh2NGYzbG9Uemg0SA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "64ff053a1ea8d0",
-      "title": "Ajax TV | Jano Monserrate 🇪🇸 | Highlights Almere City FC - Jong Ajax | Keuken Kampioen Divisie",
+      "title": "Ajax TV | Jano Monserrate 🇪🇸 | Highlights Almere City FC - Jong Ajax | Keuken Kampioen Divisie - ajaxshowtime.com",
       "category": "Jong Ajax",
       "published": "2026-09-08T10:30:00+00:00",
       "updated": "2026-09-08T10:30:00+00:00",
@@ -149,25 +155,19 @@
       "related_sources": []
     },
     {
-      "id": "1724488cf34eb0",
+      "id": "76311fafacfa01",
       "title": "'Wat de Ajax-selectie ook uitspookt op zo'n dag, spelers missen fitheid...'",
       "category": "Selectie",
-      "published": "2026-09-08T05:30:00+00:00",
+      "published": "2026-09-08T07:51:06+00:00",
       "updated": "2026-09-08T07:51:06+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133040/spaan-looft-jorthy-mokio-maar-is-kritisch-op-fitheid-van-ajax-spelers.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUk4T1lRYmE4el9aTFY5allyOVBlekt5UFRXSjl2aUVFXzhqZTkyS2JHeFBEQk15SnNQSVMtR09JWDY2d1dpTlgzaUxucnpTSHhZcTdZcUNwS1NHQUZ0MXdBc0F5Y3lpcHROZ01LQXhuSVpzTlMxb0VLRVJfU2dvLU9iYU54ZzdQUDdsMEpzLURQQU05ZDQyMUZKSm8xVDFpZ0VPTmc5bHZfYW9TZzJpejk0MVEzLWRxU0VmQmJHQmRnejVfaUVNUUpn?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "26e80bfe588edc",
@@ -207,21 +207,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133026/ajax-haalt-deense-scout-carsten-abrahamsen-voor-jeugdopleiding-binnen.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "39a5c068e07c24",
-      "title": "'Ajax vindt in Denemarken met Abrahamsen nieuwe scout voor jeugdopleiding'",
-      "category": "Jeugd",
-      "published": "2026-09-08T06:40:00+00:00",
-      "updated": "2026-09-08T06:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbERxRElQZFhKdkRPczREN1JMb3E5VXZJSHEwR3dzSm1waFQ2Z2VhT09STTlfSkpRMHV1akRnWG1vSFd1Rm9SYUtUaTlrZVYycnBOQ296dTZ1WVFHRnRkMWVMTjVkSXlZWTNFQllRcnlxUlI2Yy1jLXRZdGJPRk5maTZMNzBkX2QyTTNROGw4WWFXd3BUR3pDNGhJbFltS3VzelMzNkdBc0NIS3hKR1hHMXFXRjB1aVVSVEx0cWtQeG8?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -267,8 +252,38 @@
       ]
     },
     {
+      "id": "b772bf6631f15c",
+      "title": "Geen toekomst bij Willem II voor Enoh - ajaxshowtime.com",
+      "category": "Transfers",
+      "published": "2026-09-08T02:25:50+00:00",
+      "updated": "2026-09-08T02:25:50+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmtRTjd1RDFNVm5CbWxxMG9MZTBNZ09RS19DbW5kVkJsOW9jVFNWTXc4ZTdTNng0OEYtTWNnZXdsMTQ1QTNZdHlFMk4xYms3Z1otTW9XbjRBM2VfdUJtREZsaUdDOE44RV9FWWdHNDVjcy03dGdPNUo4bEpYakI5OFEyMTdjRFRZSHNyU1ZuZ3d5b2h0OVFlUFpzek0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3e88d9b270df6e",
+      "title": "'Afwezigheid Götze, Gakpo, Madueke maakt strijd om titel moeilijker' - ajaxshowtime.com",
+      "category": "Transfers",
+      "published": "2026-09-08T01:10:30+00:00",
+      "updated": "2026-09-08T01:10:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVByXzlVWG5OX19IYUZRNFRZVDRiSGFuZ0M4WWVWc29ObmlJbGtqQ2h0aXIzSkRkYVRlUXhHZElIRzdqM0hFR2FIQ2F5UVhMMnlEcFpKdERObDNQcEFEVC15Vy16dWpmT3RDSklOdXI0X3NPdjNEdXNoZEV5ams0cG1tNkpsVF9HNFNlNXdnNU91blFBUXpZWkNKQldIOTc1NWp5UU12UEM0c2kyb1FLZDZKMTE4TVpRZS1FeHdHRUY?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "0851182429f40f",
-      "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!' - Voetbalzone.nl",
+      "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!'",
       "category": "Selectie",
       "published": "2026-09-07T21:17:00+00:00",
       "updated": "2026-09-07T21:17:00+00:00",
@@ -298,7 +313,7 @@
     },
     {
       "id": "6ff06eed9feb1a",
-      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax - Voetbalzone.nl",
+      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax",
       "category": "Transfers",
       "published": "2026-09-07T19:33:00+00:00",
       "updated": "2026-09-07T19:33:00+00:00",
@@ -343,7 +358,7 @@
     },
     {
       "id": "2c34cd33144ac0",
-      "title": "Kieft zag speler Ajax compleet veranderen tegen PSV: 'Slaat normaal nog geen vlieg dood!' - Voetbalzone.nl",
+      "title": "Kieft zag speler Ajax compleet veranderen tegen PSV: 'Slaat normaal nog geen vlieg dood!'",
       "category": "Overig",
       "published": "2026-09-07T18:14:00+00:00",
       "updated": "2026-09-07T18:14:00+00:00",
@@ -423,8 +438,23 @@
       "related_sources": []
     },
     {
+      "id": "4b6cadcd5fa58c",
+      "title": "Basisplaats Gaaei niet begrepen: 'Ik zou Rosa, die er heel weinig van kan, opstellen' - ajaxshowtime.com",
+      "category": "Selectie",
+      "published": "2026-09-07T15:45:00+00:00",
+      "updated": "2026-09-07T15:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDZCVktrd2F2SjJqNHJReUtMZUNMSDRWNGVjRWNxMktQejN2Y0VzRWhaTlJacXNsbllnU05tNXhaY1NpX0l4N2pSZm9JZnZMci0tOXNpNUo2NlZuZ29wOGdMYVMybWFIaGdVNUVtcTVnRXk0WEZjenNHOTllYlRPS0JBSFJmdkkyQW5ZaXF4V0xSU3BLcEJxbFdxc1RfMEI4em4tUG12clFfMjV2SUI5N2gwYkEzRHc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "b4e4b95be9d534",
-      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’ - Voetbalzone.nl",
+      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’",
       "category": "Overig",
       "published": "2026-09-07T15:02:00+00:00",
       "updated": "2026-09-07T15:25:53+00:00",
@@ -445,7 +475,7 @@
     },
     {
       "id": "eba8906b16e4af",
-      "title": "Míchel krijgt flinke kritiek na reserverol Ajacied: 'Een onbegrijpelijke beslissing'",
+      "title": "Míchel krijgt flinke kritiek na reserverol Ajacied: 'Een onbegrijpelijke beslissing' - ajaxshowtime.com",
       "category": "Selectie",
       "published": "2026-09-07T15:10:00+00:00",
       "updated": "2026-09-07T15:10:00+00:00",
@@ -460,7 +490,7 @@
     },
     {
       "id": "70241163892950",
-      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax' - Voetbalzone.nl",
+      "title": "Míchel keihard aangepakt na echec tegen PSV: 'Dat is de toekomst van Ajax'",
       "category": "Transfers",
       "published": "2026-09-07T15:10:00+00:00",
       "updated": "2026-09-07T15:10:00+00:00",
@@ -474,23 +504,8 @@
       "related_sources": []
     },
     {
-      "id": "0bcaf4bcc9b3bb",
-      "title": "KNVB hakt knoop door na veelbesproken Ajax - PSV: nieuwe klus voor Van der Eijk",
-      "category": "Wedstrijden",
-      "published": "2026-09-07T14:44:26+00:00",
-      "updated": "2026-09-07T14:44:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132825/knvb-maakt-scheidsrechters-bekend-voor-speelronde-zes-eredivisie.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "892778ec0b1105",
-      "title": "Rondom Ajax: Ajax kent scheidsrechter voor duel met Fortuna Sittard",
+      "title": "Rondom Ajax: Ajax kent scheidsrechter voor duel met Fortuna Sittard - ajaxshowtime.com",
       "category": "Wedstrijden",
       "published": "2026-09-07T14:25:00+00:00",
       "updated": "2026-09-07T14:25:00+00:00",
@@ -504,42 +519,12 @@
       "related_sources": []
     },
     {
-      "id": "f145734f9afa5f",
-      "title": "Ajax kiest voor de korte termijn: 'Jordi Cruijff denkt als een Spanjaard'",
-      "category": "Overig",
-      "published": "2026-09-07T14:15:00+00:00",
-      "updated": "2026-09-07T14:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE93TDVYOG1MR2tjdk0yX1lxa1NtbzdTWFhzTGJfanlyM2ZQVkdfN1p4X3FTLTVaOWNoa05FdGp0LTBGTXh6MHRCallCbGp6UmRwd0g3bXpLOHowTkxwd0gzYVdkV0tzckZLUVgwek5rRm5CUnFKTTJQVTE1LW5yR1JVZ0lkUGlSc2NPd1JlQUxCcnpTQmpKOWVSWk1yYm5pZFdJbnlyaWd1Zw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b172867ce6c336",
-      "title": "'Dat Ajax tactische truc uithaalde die werkte, vond ik heel hoopgevend'",
-      "category": "Overig",
-      "published": "2026-09-07T13:45:00+00:00",
-      "updated": "2026-09-07T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRPSm9NU2tfSFZLRjAzSk1JTDRQdDBLLUstcTZSZ2RSdHdSd1NGZS1mVk5rSzFNSVIwbkdHZ3ZhOUg0S3pfX0x6RWZkajJ4WV9WQ1Zsend3bnZLaUMwSzZ5bXlNTEFkVHhzTkRwTjk5V2xJczVBT3daQTNJU0RpaE50R0FYV1JrVkF0VzFnZEVpNGUwelppTHBhZ0J0YWpqaW11ZTlEcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "10c979180127a1",
+      "id": "b82de5ce5040d2",
       "title": "Bouwman voorlopig uitgeschakeld",
       "category": "Blessures",
       "published": "2026-09-06T17:48:35+00:00",
       "updated": "2026-09-07T13:41:03+00:00",
-      "source_count": 2,
+      "source_count": 4,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -551,12 +536,22 @@
           "name": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/ajax-is-bouwman-voorlopig-kwijt-na-botsing-met-psv-er-van-bommel",
           "via_google_news": false
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnp0XzZxOFZFYWttT2NiRGQtTGJKOUhETzNJUWJPRjM1UjFISWdDMTI5VFNGSVZaLVduU1Q1cTJudjBkTEtOV0pUTFVSb0g2bmdtbWM1bE5LeVQ3MHJNMGdkbDdZOVJQMVZYQzBadnhpd1RJaURwbERXTElaRmZFYnp0Qjdwd1BSUGNBc2hKai1PSHEycmhiSkJ4ZUtsMldWUlpWZlpueTNXR0kwZEpCX3djLWFLblE?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVg1NjVlYjg1LWpPMDBBVy1FQWV6UW9scFczVktYNGs4RS05LUxWb1NiQk1zWmc3X1Bqbm1uV1pVUDdFektwZ29LcHROZ1p3dW9qV3B4b0RsSHZheVdfN0tIdGFJc3RmdXB3TnNZWmxrME1GRGVfNlBjRHRfZWNmajNkcWpTYUNzQVZzVDh1X3JWVHJCOHJpTGYxeTlUQTE1WjZKb212TXRtcXBaVGczRmFkVE5VSFlXaEZqQXZnVUtDR3dOMXBrNTNpNF9LSlc5N2lYR2t6OHgxVFFPQ0M2QUk4NUtrUQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
     {
       "id": "d9fb8375d83afb",
-      "title": "'Ik vind dat Ruben van Bommel zelfs geen gele kaart had moeten krijgen tegen Ajax' - Voetbalzone.nl",
+      "title": "'Ik vind dat Ruben van Bommel zelfs geen gele kaart had moeten krijgen tegen Ajax'",
       "category": "Overig",
       "published": "2026-09-07T13:37:00+00:00",
       "updated": "2026-09-07T13:37:00+00:00",
@@ -570,25 +565,19 @@
       "related_sources": []
     },
     {
-      "id": "2bba272c0d17b3",
-      "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
+      "id": "e5d044d6874790",
+      "title": "Derksen zag geen overtreding in beuk Van Bommel: 'Alleen leken komen tot die conclusie' - ajaxshowtime.com",
       "category": "Overig",
-      "published": "2026-09-07T12:05:00+00:00",
-      "updated": "2026-09-07T13:31:59+00:00",
-      "source_count": 2,
+      "published": "2026-09-07T12:30:00+00:00",
+      "updated": "2026-09-07T12:30:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXRUdlRRLVdPbG4zMFhFR1hKREJjYjI0cHJQSC1JY1c0S25qQl80dnpTeTRTcVRSTVdrUGk4VFJLbXhobVVtSXRuRFhTWWlnMlA0cWRib1M4eVk5WkJwVkpXQW1MazNyVnU0cXR0S1FNcWNNcnZ4WS1HaEZ5WHhLbkZyYkpPbm5OVnpUSVpCZmE3RFVXSFJUeDRybjJfTlJqVHJVQVJBZGhvVFVCRWVTR2dBdFg5VWFnOGxRUG1GNDhDSGlkR2hSVzdCZnNuUDNSck9ydnNGYWdSSkF1dGJiMDVB?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObm1ia2Z5SFJid0tsTnI4YWI5Mi1ZTWVWTVFMeUlQZUFDR3l4MFI4OWZpWWpQanNXOEpYYWVpRkR2Z0NwVHRKaVZCaFdROHVjWGROc3hkM2d1Y3lxbTlvODB3TWhBclZTbEw2cEdKRFMzRnppQ3czX1l5dGpVMHFtSkFfVV83ODRLMWZMMkdTWXA4cm9ObUdEUkVZVkRLNmZmY2pKdUNBMGpKN2FLdEhNbjJzeVdvLXV1UnUxRA?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2132754/aad-de-mos-lyrisch-over-kodai-sano-en-kritisch-op-wisselbeleid-ajax.html",
-          "via_google_news": false
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "85ef5a7949b5e9",
@@ -606,34 +595,40 @@
       "related_sources": []
     },
     {
-      "id": "a2e42bdfc39e07",
-      "title": "Ajax kijkt reikhalzend uit naar Adingra: 'Kan duel met één actie openbreken'",
+      "id": "2bba272c0d17b3",
+      "title": "Aad de Mos over Ajax-PSV: Tolu van het veld halen was een mispeer én PSV moet oppassen voor Shakhtar",
       "category": "Overig",
-      "published": "2026-09-07T11:20:00+00:00",
-      "updated": "2026-09-07T11:20:00+00:00",
+      "published": "2026-09-07T12:05:00+00:00",
+      "updated": "2026-09-07T12:05:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGpXMFpJQlRsLXN4T0w5MTNKRDMyUUtjeVpmb0FmUnl0c1RCVDRCeFFYSjJhZnhyZ0VIODM1WGNkblJoVFlYak5odnVUSndkaXZkZG9FdU5JMko0Nllmb0IxbWlrUDFZbVZHOUFXbDZEUVA0UWhVUHo2Z2pMRzVia1ZRdGNtRmJ6VlNLREdiRGtFWGhTTkdua2drX3FSRnBFRkdQdXVlMnRuMVhSUFE?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQXRUdlRRLVdPbG4zMFhFR1hKREJjYjI0cHJQSC1JY1c0S25qQl80dnpTeTRTcVRSTVdrUGk4VFJLbXhobVVtSXRuRFhTWWlnMlA0cWRib1M4eVk5WkJwVkpXQW1MazNyVnU0cXR0S1FNcWNNcnZ4WS1HaEZ5WHhLbkZyYkpPbm5OVnpUSVpCZmE3RFVXSFJUeDRybjJfTlJqVHJVQVJBZGhvVFVCRWVTR2dBdFg5VWFnOGxRUG1GNDhDSGlkR2hSVzdCZnNuUDNSck9ydnNGYWdSSkF1dGJiMDVB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
     },
     {
-      "id": "54ca06ff7c255e",
-      "title": "KNVB start geen vooronderzoek naar Ruben van Bommel na Ajax - PSV: dit is de reden - Voetbalzone.nl",
+      "id": "b7958e0af1828d",
+      "title": "KNVB start geen vooronderzoek naar Van Bommel; situatie al verkeerd beoordeeld door arbitrage - ajaxshowtime.com",
       "category": "Wedstrijden",
-      "published": "2026-09-07T10:50:00+00:00",
+      "published": "2026-09-07T10:25:00+00:00",
       "updated": "2026-09-07T10:50:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3Z3VVFGdTQxVFdFS3FrUXR4bS1pc1JTbm1Hc2FJWkhJdGpqa2RJX3RDb1JrNXJXcWdkbmtHaGNLdFMzaWJxXy1BOHpCc0xyUzBycjUtQlZsUnhfLVEybERMYUJwdENyUDNYUWJiYXdicHNXbG5kUm9RMGFYUXVtdVBxd0FoSjFla0QwbFdZdl9lT0tkNVgxVGFFOVl3Q1dOZDQwaFdsSU4xWm8xZXhtWHJadjEzeXR5UGRpSzQ5ckptNGhtRmtVVmhVTGY2QQ?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmZTQVQ0Q2d4dWp2ckR0Z25SMWxaNXg2NUIyQUx4SElQWklpZFZaMHFNMTMwZ240QlhSOWRBVmNyYm1zNTg5Q0FFUTB0SXRCR0JiWHNoYkUtSk9lTjJSZjJqZVZBNkNqV2FQSzBDTXFJbEI1VnNmT3phdTRLRFhVX3pBVFpWM2xYNHdyQjQzei1jNXdvd1FORzFOdjk1ellDbzRqeEN1Wm9HeVpLaU5GOXdvNGtWZmw1MVlIVDZyYW9lTGxOcmQ1Ym5iSV9tQQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS3Z3VVFGdTQxVFdFS3FrUXR4bS1pc1JTbm1Hc2FJWkhJdGpqa2RJX3RDb1JrNXJXcWdkbmtHaGNLdFMzaWJxXy1BOHpCc0xyUzBycjUtQlZsUnhfLVEybERMYUJwdENyUDNYUWJiYXdicHNXbG5kUm9RMGFYUXVtdVBxd0FoSjFla0QwbFdZdl9lT0tkNVgxVGFFOVl3Q1dOZDQwaFdsSU4xWm8xZXhtWHJadjEzeXR5UGRpSzQ5ckptNGhtRmtVVmhVTGY2QQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "ecf47b2c9413df",
@@ -652,7 +647,7 @@
     },
     {
       "id": "81acd9d6bf4036",
-      "title": "Spaan sloopt Peter Bosz na Ajax-PSV: 'Rot een eind op, trainer'",
+      "title": "Spaan sloopt Peter Bosz na Ajax-PSV: 'Rot een eind op, trainer' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-07T07:45:00+00:00",
       "updated": "2026-09-07T09:31:00+00:00",
@@ -670,6 +665,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "a11bdf045b5ea0",
+      "title": "Beging de arbitrage fout op fout tijdens Ajax - PSV? 6 discutabele momenten op een rij",
+      "category": "Overig",
+      "published": "2026-09-07T08:37:00+00:00",
+      "updated": "2026-09-07T08:37:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVFvU3F3MmZPR0Z0ZTg3VklZZ0kwb3ZMNUlWejVNVk1UYzZtclVVRDlZUURlODdCbWx0UDBwOWNleG93NjVUYmZwMUFXT0IwcGJyRnpld1lJNWprZElCVGNJRW5vTV85a2M5M0Y3M05hZnhUMHpKdUJzU2pDLV9YTFFObU5Fa3N3eUI0LUJLeW91dDBORjY1VklfUk0zczdMWlRIZHpEbzE3UHZJTF93Y0p4VDY2ejlIM3NrVlZabjZHaXBabFJMeE0xcEI5cFhpWENJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     }
   ]
 }
