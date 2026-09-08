@@ -1,32 +1,53 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T08:57:45.401723+00:00",
+    "generated_at": "2026-09-08T09:32:13.698933+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 96,
+    "article_count": 93,
     "event_count": 40,
-    "discovered_event_count": 79,
+    "discovered_event_count": 76,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 64,
+    "excluded_video_only_count": 62,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "76311fafacfa01",
+      "id": "1c481a6ab25402",
+      "title": "Ajax-kleding voor 2027/28 lekt nu al uit: eerste beelden verschijnen online",
+      "category": "Overig",
+      "published": "2026-09-08T09:06:00+00:00",
+      "updated": "2026-09-08T09:06:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133055/ajax-jack-voor-seizoen-2027-2028-vroegtijdig-uitgelekt.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1724488cf34eb0",
       "title": "'Wat de Ajax-selectie ook uitspookt op zo'n dag, spelers missen fitheid...'",
       "category": "Selectie",
-      "published": "2026-09-08T07:51:06+00:00",
+      "published": "2026-09-08T05:30:00+00:00",
       "updated": "2026-09-08T07:51:06+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133040/spaan-looft-jorthy-mokio-maar-is-kritisch-op-fitheid-van-ajax-spelers.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUk4T1lRYmE4el9aTFY5allyOVBlekt5UFRXSjl2aUVFXzhqZTkyS2JHeFBEQk15SnNQSVMtR09JWDY2d1dpTlgzaUxucnpTSHhZcTdZcUNwS1NHQUZ0MXdBc0F5Y3lpcHROZ01LQXhuSVpzTlMxb0VLRVJfU2dvLU9iYU54ZzdQUDdsMEpzLURQQU05ZDQyMUZKSm8xVDFpZ0VPTmc5bHZfYW9TZzJpejk0MVEzLWRxU0VmQmJHQmRnejVfaUVNUUpn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "ded9586800efc2",
@@ -119,21 +140,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "35b1d7d6848a11",
-      "title": "Ex-Ajacied verovert harten van Italiaanse fans: 'Nu al een topaanwinst!'",
-      "category": "Transfers",
-      "published": "2026-09-07T21:27:00+00:00",
-      "updated": "2026-09-07T21:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXNMVEEwbWQzeVlBaDU2YzVSZUFYT0NLVWhpSUlyRUFVWE84SEw5RXY4QVZQOUZRTi1rR2NiS2ZYZi1lZXpUenNmV3N6cEoxQ3JKSlp2SFFGMGQ1Z2dwX2ZvWm5HYXVRRU1MeXpCQ1U4M0VlVzcxQ2xuYkNfbjhoOWtTSWJEaUhGbjZmUWR1QnlRSHRnamhKRy1RdUN2RFhoeWpDZnR2ck9nMXlzekR1aTZCZS1xcWozYzRGUnhVWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "0851182429f40f",
@@ -526,21 +532,6 @@
       "related_sources": []
     },
     {
-      "id": "9dc903f3eee137",
-      "title": "Kersverse Ajax-uitblinker was ook in beeld bij PSV: 'Wist dat ze in gesprek waren'",
-      "category": "Selectie",
-      "published": "2026-09-07T10:40:00+00:00",
-      "updated": "2026-09-07T10:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132685/stewart-gaat-in-op-psv-interesse-in-ajax-uitblinker-brandt.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "ecf47b2c9413df",
       "title": "Zo ontspoorde Ajax-PSV even na de beuk van Van Bommel",
       "category": "Overig",
@@ -662,6 +653,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONC1PVHQ0VU9WTjliVjc4Nmw1REVXZ3dqcnVsZkgybHBNWGdBXzAwSEFFX0MxMl9wS215Ynp1MU1EZGQwa256dkZzdE1YWWlwQ0txLWxlc3FoZnhJcjJfM25GVzFjYzlOUTA5Rm5iQVRzWWVXUlhoVWdYalE0VlVHOVd2WEI0MXRiczRtSmRQTWtiay1NamlGVmVLbzdnSVNMbE8yQzVpd2k1cTFLY1BXTlA5aUlHcXY4RDZ5UHNJdS1NUzRoX0J1TUZRaHNsRm1zX0tj?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d82201e85918f5",
+      "title": "Míchel gekraakt om wissel bij Ajax - PSV: ‘Hem altijd laten staan!’",
+      "category": "Overig",
+      "published": "2026-09-07T05:59:31+00:00",
+      "updated": "2026-09-07T05:59:31+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzBwemJ0M0wyRFdTN01kUFVnRXJYSWZWYk5tejk5VWJMUFNYMEFyUXBfQjlSMElHOExDT0hlNmZFU21fMWplTzZDdEJMV1ZmMzFpa0haUG1XNlY0cjY2VlJMSnR2NWFadUJObW9fc2s4ZkxHQ3VtZm5heS1pUk55TnJxWnByeENlMWctWGs3dWczeDM1UXZrd3poMzhmQ3RIaVRxdWJrRF9wWnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
