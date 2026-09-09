@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T21:29:36.382220+00:00",
+    "generated_at": "2026-09-09T21:55:02.639760+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 47,
+    "article_count": 48,
     "event_count": 40,
     "discovered_event_count": 41,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 96,
+    "excluded_paywall_count": 95,
     "excluded_video_only_count": 68,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "79328f538fc697",
+      "title": "Ajax 2-1 Burnley (26 jul., 2026) Uitslag",
+      "category": "Wedstrijden",
+      "published": "2026-09-08T09:41:34+00:00",
+      "updated": "2026-09-09T19:44:29+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UmlnTHk4T0RIUkNJVm93b2NUb3RTd0VCYlhmMFVBWjFJa0dHRW41SW9CamdVcVJncEk1V2tQczRMcHR4UmUwTmY0bTFFVzRUZlJTRlFlcGV5cHUxWkJUT1ZEdzVyUkpBcndMN1VYUnJXX0hsZ3RPbE4wTy1qX0k?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "f3be2ad962eba1",
       "title": "Perisic bespreekt niveau Ajax - PSV: 'Champions League-wedstrijd of duel in de Premier League'",
@@ -513,21 +528,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/nec-en-fc-twente-spelen-doordeweeks-hun-inhaalduels-ajax-nog-niet",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "631d36e6e4b681",
-      "title": "Ajax 2-2 Heerenveen (16 aug., 2026) Uitslag",
-      "category": "Wedstrijden",
-      "published": "2026-09-08T09:41:34+00:00",
-      "updated": "2026-09-08T09:41:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTndUdzk2LUU1eUFtX2lzMi02eno4cGNjMlB4UmhIaFRCN2Y5emczVldlZ2wyRXYxNnlKdEticzN3S2diNlJJSkZJSlR4RnZxRlF2ZEdJYUhiTGh5WGt6MWxTQUVZQVh1b3dMbzNHZ0FNWkpOa2RXQWxUMWhHWEZqTGhKUno3S0k?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
