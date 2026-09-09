@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T06:59:12.685481+00:00",
+    "generated_at": "2026-09-09T07:32:16.047824+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 64,
+    "article_count": 65,
     "event_count": 40,
-    "discovered_event_count": 52,
+    "discovered_event_count": 53,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 73,
+    "excluded_video_only_count": 71,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "226ec21b1b3e4a",
+      "title": "'Ajax moet Steven Berghuis doorselecteren en hem passende functie aanbieden'",
+      "category": "Overig",
+      "published": "2026-09-09T07:22:00+00:00",
+      "updated": "2026-09-09T07:22:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133482/ajax-moet-steven-berghuis-doorselecteren.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5042775b43fd88",
+      "title": "Riedewald scoorde twee keer en bezorgde Ajax last-minute zege - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T07:01:41+00:00",
+      "updated": "2026-09-09T07:01:41+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0pBYUN0Ui1ia3Vhd1VIeVpIZTRseUlWMG55MHNtbFotQ0VwOWZHLWdYak5aM01YZXpnRzB6NXVaUWpPZjVWeXVwUFM3VXFZcHlmaFpyNlh1TnhCdHgxWXZOYUFfXy1WYk56ZFJNWEFMWTJVU19TSzRvQ2N0d2owclUtYlR4Y3hDTTY1VEJKVUlDYnA4dWRJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "a7129323f66c42",
       "title": "Buitenland: drie spelers met Ajax-verleden kunnen elkaar treffen bij Napoli - Arsenal",
@@ -551,21 +581,6 @@
       ]
     },
     {
-      "id": "224bc584399da5",
-      "title": "Driessen ongenadig na Ajax - PSV: 'Weet niet of hij Ajax een hoop gaat brengen'",
-      "category": "Overig",
-      "published": "2026-09-07T16:25:00+00:00",
-      "updated": "2026-09-07T16:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132893/valentijn-driessen-over-wisselbeleid-michel-sanchez.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "4fd52049a0c50b",
       "title": "'Hij doet geen vlieg kwaad, maar wordt nu opeens helemaal wild bij Ajax'",
       "category": "Overig",
@@ -657,21 +672,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE93TDVYOG1MR2tjdk0yX1lxa1NtbzdTWFhzTGJfanlyM2ZQVkdfN1p4X3FTLTVaOWNoa05FdGp0LTBGTXh6MHRCallCbGp6UmRwd0g3bXpLOHowTkxwd0gzYVdkV0tzckZLUVgwek5rRm5CUnFKTTJQVTE1LW5yR1JVZ0lkUGlSc2NPd1JlQUxCcnpTQmpKOWVSWk1yYm5pZFdJbnlyaWd1Zw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b172867ce6c336",
-      "title": "'Dat Ajax tactische truc uithaalde die werkte, vond ik heel hoopgevend'",
-      "category": "Overig",
-      "published": "2026-09-07T13:45:00+00:00",
-      "updated": "2026-09-07T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXRPSm9NU2tfSFZLRjAzSk1JTDRQdDBLLUstcTZSZ2RSdHdSd1NGZS1mVk5rSzFNSVIwbkdHZ3ZhOUg0S3pfX0x6RWZkajJ4WV9WQ1Zsend3bnZLaUMwSzZ5bXlNTEFkVHhzTkRwTjk5V2xJczVBT3daQTNJU0RpaE50R0FYV1JrVkF0VzFnZEVpNGUwelppTHBhZ0J0YWpqaW11ZTlEcw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
