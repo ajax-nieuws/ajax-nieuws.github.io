@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T18:55:46.021069+00:00",
+    "generated_at": "2026-09-09T19:28:52.945150+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 53,
+    "article_count": 50,
     "event_count": 40,
-    "discovered_event_count": 46,
+    "discovered_event_count": 44,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 69,
+    "excluded_video_only_count": 68,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -365,21 +365,6 @@
       "related_sources": []
     },
     {
-      "id": "66bdbd8fac55f5",
-      "title": "Van Bronckhorst over Hadj Moussa: ‘Hij heeft keuzes gemaakt die niet konden, maar we kijken nu naar de toekomst’",
-      "category": "Transfers",
-      "published": "2026-09-08T17:45:00+00:00",
-      "updated": "2026-09-08T17:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdGlBSzlESFJpeXVwYUpnbzZDS1RSSDhKT0hpWHYxTlc2a1E4SU5DQlZ2ZHNmWFh4clVnTVpXdGdScWZwR3puVllBN1VPYkFHS0JlTTI2ajF1QnlKaHJhWHZ3RXRVdzFzUDc4UmxRZzV4djhSWlR4TnRXTGVrNEY5cWxFSUg2VGJJWE5iUnJpSmZDSWtraWYwWkZIbEtpbW1vVnd2ZUZ5cS1fbmdQcHBzalNaNzhvR3FsOFFpRkFrM2FvTG9EbGJTNFduNUF5dW9yeHB6bTVMYzRmQWxl?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "52fe1b0859b469",
       "title": "Ajax-middenvelder Amrabat stopt als Marokkaans international zolang Ouahbi bondscoach is",
       "category": "Selectie",
@@ -583,12 +568,12 @@
       ]
     },
     {
-      "id": "26e80bfe588edc",
+      "id": "ded9586800efc2",
       "title": "Van der Vaart: 'Hij is in potentie echt de allerbeste bij Ajax…'",
       "category": "Overig",
-      "published": "2026-09-07T19:23:00+00:00",
+      "published": "2026-09-08T06:49:42+00:00",
       "updated": "2026-09-08T07:25:55+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -596,11 +581,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBpQTdudUhTOHdXaWlTems4S1FnY3hDY0RyU1U2TEo4UWZwV180RDd1OUNNOXRWTUNSTjBqR1JoNFh3cTN4VjJvMHVPM1hWSlIzTDB5N1o1LVFmcXNCSENSdWNTUkJVMGRCVlNGVjVHVk5rU2JQdjJ6OWpUQk9jNTlMQUs2Z1QzSnpTU0JKZXN6X3ZCbHI5dWtTUUd1RkZqQllOWlBvUkw5MFdMUGVZdDh2MzQzMDFaWEozS1ZITTRKVFF3YVdIU2dqMWJQUDFJMkRIdm1uNkZEYnFQ?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0dINDdDU1N4MGpQXzdzSDhTQVYxMU9ZVUJ6Y1lES2MzVFRuajFRbUlIbmNoeTI1ZURLZzdXWURfV2NWQmFSR0VFd3plOWRCNTJPazNlRUhGNkN3SGhQdTVybEU3Y2pURm1OMXRQNUhYeXJYaWwyV0x4TUZLczYyTjU2WUpienJXWEViX0wxaVNMTk9IbnpheGZqZEt5enA1QmU4dXlPRHI?oc=5",
@@ -649,6 +629,21 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133010/mario-stroeykens-weigert-transfer-naar-ludogorets-na-interesse-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e05fdc820f33f0",
+      "title": "Perez: 'Na één helft bij Ajax-PSV denk je: die moet bij PSG of Bayern voetballen'",
+      "category": "Overig",
+      "published": "2026-09-08T06:22:15+00:00",
+      "updated": "2026-09-08T06:22:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2132926/kenneth-perez-lyrisch-over-mokio-maar-ziet-ook-groot-probleem.html",
         "via_google_news": false
       },
       "related_sources": []
