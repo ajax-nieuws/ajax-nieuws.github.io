@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T03:31:24.558448+00:00",
+    "generated_at": "2026-09-09T03:56:35.058605+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 66,
     "event_count": 40,
@@ -8,7 +8,7 @@
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 74,
+    "excluded_video_only_count": 73,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -135,14 +135,14 @@
       },
       "related_sources": [
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhUNUJvZTNvaDZmNDMwZUluZDk2Zkg0M1pZQk9ZUlNHc1NMRjFjLWRBVEdXc2VUb2xCRGotdVkwYzhwaFZDRVlkaFR3OE8xQzA5ZlM0QUxUR0N2MEZEcWIyVEs5aDh4YmhjSXp3RlFQdC16eU5kU1c0dV9KQlRQTW00Yk5ESl9zWkw1TDhyMDNlQWVCLVNtb3I0dmVKTXVmbkVqSGJKcnR1TEc0S3ZNNlhlNDNLQQ?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2133297/sofyan-amrabat-stopt-als-international-van-marokko.html",
           "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhUNUJvZTNvaDZmNDMwZUluZDk2Zkg0M1pZQk9ZUlNHc1NMRjFjLWRBVEdXc2VUb2xCRGotdVkwYzhwaFZDRVlkaFR3OE8xQzA5ZlM0QUxUR0N2MEZEcWIyVEs5aDh4YmhjSXp3RlFQdC16eU5kU1c0dV9KQlRQTW00Yk5ESl9zWkw1TDhyMDNlQWVCLVNtb3I0dmVKTXVmbkVqSGJKcnR1TEc0S3ZNNlhlNDNLQQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
