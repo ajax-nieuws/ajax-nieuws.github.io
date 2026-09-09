@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T13:33:21.646884+00:00",
+    "generated_at": "2026-09-09T13:56:54.476259+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 63,
+    "article_count": 60,
     "event_count": 40,
-    "discovered_event_count": 52,
+    "discovered_event_count": 50,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
@@ -13,6 +13,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "892778ec0b1105",
+      "title": "Rondom Ajax: BBC Sport zet gouden Ajax-generatie op plek twee bij meest dominante teams ooit",
+      "category": "Overig",
+      "published": "2026-09-09T13:25:00+00:00",
+      "updated": "2026-09-09T13:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzdpd21MWTZybENBbkpPeV9rSjBnRnhmNkw5dUZhTVl6a2hBMFBsa1d2YmVpS0p5S3lVM2NGSkhVR2xsM1IxdmtYSkwzMGJCRHF4dVdmQUc0aUhpcTVzWGFranJ2REE2NEM0d3RUNE1fOXh5N3pES0V5ZThHdnhRd0g3VVRaV0xNS0NoZFItbjRueUVSNTNVRWJpQkZ0dUlfT250UERzc1lwb1hXZ1R6SHJ3ZXUzTGtf?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "4f4451da389372",
       "title": "Duel in Sittard onder leiding van Manschot",
@@ -55,21 +70,6 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/55983/Weet-Ajax-uit-bij-verrassend-Fortuna-Sittard-te-winnen%3F",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "73103d75d70f43",
-      "title": "Bosz steunt Van Bommel: 'Blij dat het goed gaat met Bouwman en hij volgende week weer kan trainen' - ajaxshowtime.com",
-      "category": "Overig",
-      "published": "2026-09-09T11:50:00+00:00",
-      "updated": "2026-09-09T11:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbnRkZk1zd3VWLUR2dWdIX1hmZzNtY1BLS1UyRlN3OFBfZ3N1TlRBZmlJVTJrakh5NWM4c0RtRjM4bXBDblJkY1JEQUQ2TVFHdEV1QlJPWDVLeElsS2xrdG80Q0pGOXpkdFRWRGZkelplcVVJbUdpZjBWTnVHUFl3SDJ6SXU3X0FhT1pZWDdVSHRqZEF5NDcteGJwS2ttV19IckJLVEJEcUU1U2tWdG5ETXJvTXFpdms0N21Raml6LTFGUUR2dnhlUFpzcWw2bmI5aWdteQ?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -134,12 +134,12 @@
       "related_sources": []
     },
     {
-      "id": "3ad3496724b498",
+      "id": "dde2fd2d95f281",
       "title": "Spaan velt Ajax-oordeel: 'Ze moeten hem doorselecteren en functie aanbieden'",
       "category": "Overig",
-      "published": "2026-09-09T05:30:00+00:00",
+      "published": "2026-09-09T07:22:00+00:00",
       "updated": "2026-09-09T09:25:00+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -147,11 +147,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVdmTHJ6MVpnUzlrWFVlYkZZMVZ3VHNBVjMwQkF5VTFSSktablZMYlp0VnNyQmFacjUtUXY4UWw5enl6MFdoNWcxZWNEUHlwWDJDVWNDWGZaVjdIUTNrZ2xQZHV6R3JtajVzN3Z6ajJ1VkM5Y0RGeWFrVU9pakhMajR0T0dPdWxTdUc1dVFVdmN5aVh0MXB3UnhIODBNOF91eTM2RV9wNzRVWVhsSkNPQlo1MGE?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXYyR2pPa0Y5Vkhqcjg1Q2VBVk1zSmxMU2hoUVlKMC11VlhqZTlkU2F1Yl9YNmw2dWk2T0VYbGNXdmVMbk9ET1l5Mm1COVJXNVlVbWR0VjVZanBNZTY2OEx2VE00eUVKeWdQNUVKREJ5S0RhQkJRVGQ5M0xvSFFrRmZKR3ViR2FhdDlZYm1vZktCWE95YVdoSGtjOFd6WGFHNEloYmRPczc4TTNSMHRsUGdlTTlZcElFMjJFTTh3YjRwOVRCSFRtV2xwS0s?oc=5",
@@ -161,7 +156,7 @@
     },
     {
       "id": "4c2216b3e197ea",
-      "title": "Ajax zou nog kijken naar clubloze middenvelders: enkele opvallende opties op een rij - ajaxshowtime.com",
+      "title": "Ajax zou nog kijken naar clubloze middenvelders: enkele opvallende opties op een rij",
       "category": "Selectie",
       "published": "2026-09-09T09:00:00+00:00",
       "updated": "2026-09-09T09:00:00+00:00",
@@ -205,16 +200,16 @@
       "related_sources": []
     },
     {
-      "id": "2e21ed3c12013a",
-      "title": "Ziyech krijgt op vliegveld Rio de Janeiro warm welkom Botafogo-fans: 'Mijn eerste keer hier' - ajaxshowtime.com",
+      "id": "a7129323f66c42",
+      "title": "Buitenland: Drie spelers met Ajax-verleden kunnen elkaar treffen bij Napoli - Arsenal",
       "category": "Overig",
-      "published": "2026-09-09T06:05:00+00:00",
-      "updated": "2026-09-09T06:05:00+00:00",
+      "published": "2026-09-09T06:25:00+00:00",
+      "updated": "2026-09-09T06:25:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ0doWkRZYWVxSGllbVBEQUlEZnVjUEIwcUFpYlV5c2gzSDl5bDVTN2tfc3lzNWhZVXhOSl9GaFFENUlweURENlBXWVp2VzFCNzV4U3MtUnY5eVp2WmcwcXpFUENuOFNCbU5RX3J4T3ByVmQzZ2UxZURkNnpzUWFKRUM0UGg3V0dGcGVIOGMwT09QRHcxbzV6Ym9qaWwyQm1GdlhZbWFiV0l2X1IwSUtVb1BpRS1heWJaSUhUWkRDdEpwQ0JpemxoeGI4LUs?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHBPUXU2RjZsTGJVVzJCRFpzOXlmSnZPeGNHTWpWc3V3T3pJTEZ5bjFuY043N00wZmF3MTY3am1Bam1nVTVVd0RfMTVYaDBLbUl0U2pLMDZ2aGhqVEplbGllSGZkTGhVa2gyNHFqV0lmanlBOFRQOFctbUZZRlFhTVRwQkY4aVJWS2NPUEJybm0tZzVwcGRxQ1hDVkh4ZjBURnZHYzRZd1I2cE9VeEtxZlhZakNlYS1SSFA1dW5obVlkWjVpNzRpX3QybGtycExNTlE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -236,7 +231,7 @@
     },
     {
       "id": "2f9b7e904de0d7",
-      "title": "Ajax O16 bekert eenvoudig door na ruime zege op amateurs van Zeeburgia - ajaxshowtime.com",
+      "title": "Ajax O16 bekert eenvoudig door na ruime zege op amateurs van Zeeburgia",
       "category": "Wedstrijden",
       "published": "2026-09-08T20:50:00+00:00",
       "updated": "2026-09-08T20:50:00+00:00",
@@ -265,8 +260,23 @@
       "related_sources": []
     },
     {
+      "id": "a1e4a8b56cf348",
+      "title": "Yamal weet weinig van Feyenoord, maar: 'Frenkie de Jong vertelde me dat het de rivaal van Ajax is'",
+      "category": "Overig",
+      "published": "2026-09-08T20:00:00+00:00",
+      "updated": "2026-09-08T20:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR0FxeTdIVXBIYnBsN1JlcVFJQk9fM3FQRzdHVlZ6dlBRd1h4bVNLNXI1X092eEFCNU5aTE1abHVNa2VVbkRrcGQ1TmxXVHhPS0d1WENJNDVQdUdGX0FublhpLUptdkEyNzdxMmwwQkJXYnBUUXRQUXFZclVOSmcxUnZOWWVPTElZeFNyc2hXNW1TNVpkdTBRVEx2Ti1ZODltX0traW9JeVl3SUtLekU1bmlkVks3ejhtcWRvWk01eWdsRTdqS1ZaRGRzOTF2VFdhdTVV?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "9c055b9e24cb5e",
-      "title": "Ajax O17 toont herstel na eerste competitienederlaag en wint soeverein in Kralingen - ajaxshowtime.com",
+      "title": "Ajax O17 toont herstel na eerste competitienederlaag en wint soeverein in Kralingen",
       "category": "Wedstrijden",
       "published": "2026-09-08T19:40:00+00:00",
       "updated": "2026-09-08T19:40:00+00:00",
@@ -275,6 +285,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVNjbzdFYTFNNU9rTWVNOVExVHdtVklkUG82cjB4dHcwR2p0NU5FRHo3a2xUVFNGNXp1Y0o3dnhWVzV5UHl6SllzWF9hQU5mdFZDeThwLXFRelNpREduSjhaYXhfQzBFNTlQNVN0ZnBGYnlhZDdKUFJnT0J2UGF2MTBTRlZnLWQ5NlpHQXY4Y0p4NktRbWF0ZEpjYkNsSF91a1dTc2l1aTVtbGpwODBWUDBpVWg4dXgxVGlmdXNpYWhmUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "66bdbd8fac55f5",
+      "title": "Van Bronckhorst over Hadj Moussa: ‘Hij heeft keuzes gemaakt die niet konden, maar we kijken nu naar de toekomst’",
+      "category": "Transfers",
+      "published": "2026-09-08T17:45:00+00:00",
+      "updated": "2026-09-08T17:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdGlBSzlESFJpeXVwYUpnbzZDS1RSSDhKT0hpWHYxTlc2a1E4SU5DQlZ2ZHNmWFh4clVnTVpXdGdScWZwR3puVllBN1VPYkFHS0JlTTI2ajF1QnlKaHJhWHZ3RXRVdzFzUDc4UmxRZzV4djhSWlR4TnRXTGVrNEY5cWxFSUg2VGJJWE5iUnJpSmZDSWtraWYwWkZIbEtpbW1vVnd2ZUZ5cS1fbmdQcHBzalNaNzhvR3FsOFFpRkFrM2FvTG9EbGJTNFduNUF5dW9yeHB6bTVMYzRmQWxl?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -388,7 +413,7 @@
     },
     {
       "id": "22315e22669ec8",
-      "title": "KNVB maakt data en tijden Ajax tot en met speelronde 21 bekend - ajaxshowtime.com",
+      "title": "KNVB maakt data en tijden Ajax tot en met speelronde 21 bekend",
       "category": "Wedstrijden",
       "published": "2026-09-08T11:40:00+00:00",
       "updated": "2026-09-08T11:40:00+00:00",
@@ -403,7 +428,7 @@
     },
     {
       "id": "235035f2182af0",
-      "title": "Nijhuis neemt VAR in bescherming na Ajax-PSV, maar is duidelijk: 'Dit is een rode kaart' - ajaxshowtime.com",
+      "title": "Nijhuis neemt VAR in bescherming na Ajax-PSV, maar is duidelijk: 'Dit is een rode kaart'",
       "category": "Overig",
       "published": "2026-09-08T10:30:00+00:00",
       "updated": "2026-09-08T10:30:00+00:00",
@@ -418,7 +443,7 @@
     },
     {
       "id": "64ff053a1ea8d0",
-      "title": "Ajax TV | Jano Monserrate 🇪🇸 | Highlights Almere City FC - Jong Ajax | Keuken Kampioen Divisie - ajaxshowtime.com",
+      "title": "Ajax TV | Jano Monserrate 🇪🇸 | Highlights Almere City FC - Jong Ajax | Keuken Kampioen Divisie",
       "category": "Jong Ajax",
       "published": "2026-09-08T10:30:00+00:00",
       "updated": "2026-09-08T10:30:00+00:00",
@@ -477,19 +502,25 @@
       "related_sources": []
     },
     {
-      "id": "76311fafacfa01",
+      "id": "1724488cf34eb0",
       "title": "'Wat de Ajax-selectie ook uitspookt op zo'n dag, spelers missen fitheid...'",
       "category": "Selectie",
-      "published": "2026-09-08T07:51:06+00:00",
+      "published": "2026-09-08T05:30:00+00:00",
       "updated": "2026-09-08T07:51:06+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133040/spaan-looft-jorthy-mokio-maar-is-kritisch-op-fitheid-van-ajax-spelers.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUk4T1lRYmE4el9aTFY5allyOVBlekt5UFRXSjl2aUVFXzhqZTkyS2JHeFBEQk15SnNQSVMtR09JWDY2d1dpTlgzaUxucnpTSHhZcTdZcUNwS1NHQUZ0MXdBc0F5Y3lpcHROZ01LQXhuSVpzTlMxb0VLRVJfU2dvLU9iYU54ZzdQUDdsMEpzLURQQU05ZDQyMUZKSm8xVDFpZ0VPTmc5bHZfYW9TZzJpejk0MVEzLWRxU0VmQmJHQmRnejVfaUVNUUpn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "26e80bfe588edc",
@@ -497,7 +528,7 @@
       "category": "Overig",
       "published": "2026-09-07T19:23:00+00:00",
       "updated": "2026-09-08T07:25:55+00:00",
-      "source_count": 4,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -505,11 +536,6 @@
         "via_google_news": false
       },
       "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGozeXNGbGEwOHU0Y05VNHJQZlF4TWw0cHZpRy1xekYyVUNuRFVoazgzQVFOMUo3RVk4NDZTRHdBX0RoR0RRS19wTHdTSXVhZ2JKVFFlbTZXRy11WFRaX3B1ZXVzQlRhRW10bzhQcFcyYVBoNzVDSDZSV3otYzRyaERsdjFzXy1mYzRUTS1lVzk4a2lUaHV3QTc4ci1DeUN1X0hkbjI2czR6WTBoSFE?oc=5",
-          "via_google_news": true
-        },
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWnBpQTdudUhTOHdXaWlTems4S1FnY3hDY0RyU1U2TEo4UWZwV180RDd1OUNNOXRWTUNSTjBqR1JoNFh3cTN4VjJvMHVPM1hWSlIzTDB5N1o1LVFmcXNCSENSdWNTUkJVMGRCVlNGVjVHVk5rU2JQdjJ6OWpUQk9jNTlMQUs2Z1QzSnpTU0JKZXN6X3ZCbHI5dWtTUUd1RkZqQllOWlBvUkw5MFdMUGVZdDh2MzQzMDFaWEozS1ZITTRKVFF3YVdIU2dqMWJQUDFJMkRIdm1uNkZEYnFQ?oc=5",
@@ -539,7 +565,7 @@
     },
     {
       "id": "39a5c068e07c24",
-      "title": "'Ajax vindt in Denemarken met Abrahamsen nieuwe scout voor jeugdopleiding' - ajaxshowtime.com",
+      "title": "'Ajax vindt in Denemarken met Abrahamsen nieuwe scout voor jeugdopleiding'",
       "category": "Jeugd",
       "published": "2026-09-08T06:40:00+00:00",
       "updated": "2026-09-08T06:40:00+00:00",
@@ -594,16 +620,16 @@
       ]
     },
     {
-      "id": "b772bf6631f15c",
-      "title": "Geen toekomst bij Willem II voor Enoh - ajaxshowtime.com",
-      "category": "Transfers",
-      "published": "2026-09-08T02:25:50+00:00",
-      "updated": "2026-09-08T02:25:50+00:00",
+      "id": "8d2972db236624",
+      "title": "Buitenland: Veel oud-Ajacieden in actie tijdens Champions League-avond",
+      "category": "Wedstrijden",
+      "published": "2026-09-08T06:15:00+00:00",
+      "updated": "2026-09-08T06:15:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmtRTjd1RDFNVm5CbWxxMG9MZTBNZ09RS19DbW5kVkJsOW9jVFNWTXc4ZTdTNng0OEYtTWNnZXdsMTQ1QTNZdHlFMk4xYms3Z1otTW9XbjRBM2VfdUJtREZsaUdDOE44RV9FWWdHNDVjcy03dGdPNUo4bEpYakI5OFEyMTdjRFRZSHNyU1ZuZ3d5b2h0OVFlUFpzek0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAwc0pNbm1La0s3aHpGZ2doeVZtYzdldUNDQ1R3d0t3b3hWSnRuSl8wUE1fUkdrVWZnSjU3LUV6X2YyTFhJbkJQLWRRQzBjV2ZqODhWbHVDVnNxS2ZELWY0R0ZhYW5uVTNNcTlzRng0X2ozeExfbE44UjZlR0M2Qmp2YkFJRnlub0tjdVVZaWtOdUJzR1ZQRWJkcG85NWlsMGd1VUUtOF94VlN5a05BenRR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -634,36 +660,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2132957/wim-kieft-en-rafael-van-der-vaart-genoten-van-ajax-psv-geweldige-wedstrijd.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6ff06eed9feb1a",
-      "title": "Wim Kieft ziet speler volledig opbloeien na vertrek bij Ajax",
-      "category": "Transfers",
-      "published": "2026-09-07T19:33:00+00:00",
-      "updated": "2026-09-07T19:33:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNmx2SmR5cDdrYXRiVjhRTGs4MnF5MnN6ZlVrRm9hdXlPZE1yelNicnFmOVF5eU1lSVkzMC1SaG1UODdFVGhvVndrRHE5anJ4c0dGcGlPQUt5Z3o3bVF2M0ZsZG9IbzBlV3BzZ1c5R3RmbTI0VTFibmFFY1gwVE9Dc2pEUWZ0Q0pPWmsyUUI0bVlmc01pdDk4RWRGSzFzNFcwcVFOLWdVRUtjWlNVRHZuUzBuNTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0dffc1128883a8",
-      "title": "Perez verbaast zich: 'Hij bakte er helemaal niets van tegen Feyenoord'",
-      "category": "Overig",
-      "published": "2026-09-07T19:17:00+00:00",
-      "updated": "2026-09-07T19:17:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132932/kenneth-perez-over-tadic-en-tolu.html",
         "via_google_news": false
       },
       "related_sources": []
