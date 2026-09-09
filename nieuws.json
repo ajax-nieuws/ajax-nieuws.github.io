@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T09:32:41.388938+00:00",
+    "generated_at": "2026-09-09T09:57:23.802243+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 64,
+    "article_count": 65,
     "event_count": 40,
-    "discovered_event_count": 53,
+    "discovered_event_count": 54,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
@@ -13,6 +13,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "32bb9843793a96",
+      "title": "Hakim Ziyech als held onthaald door Braziliaanse fans: ex-Ajacied gaat aan de slag bij oude club Clarence Seedorf",
+      "category": "Overig",
+      "published": "2026-09-09T09:54:01+00:00",
+      "updated": "2026-09-09T09:54:01+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObVhxa28xbGNNRmhZMHV5a1M3OHpSNGNqSXB2YmUtb3hheHZVR3hZZGtQOWFSSDFnQUFQb2ltcFdJTzJtZ3cyMWJnOGdCVF9Cd294WVllOE9KS043azZLalF0dmhTd1VxQ3dsRzdpZTZjQ19iSTJOckFWcGRhbzlfcEpnQ09MVUs2YnRpZVpvMFVvZ0JfMU9GbHU5aEd2OUpuWExnLVlzb1hLZmJvMzNfb2RWYXdGTnNaOWF0enQ1dGlDamtLOE1oOFE5UjhkUzkwNk5tRzM0WDJYQ093Y21adk1n?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "3057b39ced6e90",
       "title": "Ajax-toptalent maakt werk van opvallende interlandkeuze en duikt op bij ambassade",
@@ -648,27 +663,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "b4e4b95be9d534",
-      "title": "‘Hoofdrolspeler bij Ajax - PSV staat op het punt om carrière te beëindigen’",
-      "category": "Overig",
-      "published": "2026-09-07T15:02:00+00:00",
-      "updated": "2026-09-07T15:25:53+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1ZDTmJYTFI4dmJQYzIyZHpxbU1UbFRfbmEyblZ0T2xiZUZ6VXltNkpDUzg3RVFQWnFzamZNeGk2RC1BNnFPRS1FY05RSTVEU0xGMDQ4LWZueEFzeTBOMjN3WmRrcHo4MjQ3RkVnR2JsdldKV0lwR0JVSTM2TVJOdldMajkweGxUSHJZRGJGeTNwVnBsM0VsQlFuaDZ3ZXNTLXdCOWZhQTZUNnpvWWJEamJBYTRNb2NsMGZRZHg5dlFiaEk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFVoME1YUnJGQzNpRDRFSmFQYkZfYjU3UGp6dWVoV3BmSDR0MlVnTjhfMy1ucS05VmgyblZUcXVKTFI1MWhEXzJiWEVBQ2Y1OGNpNkN3MzZQbFMxMFpPUFc4S3pMRlN6MUhHUDgwSG84NFB5OGdySXhxdno1QjRzUVVrMXNZa1gzcm1GLUJYbXJac2Uxc0hwR0J3?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
