@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T15:32:21.799605+00:00",
+    "generated_at": "2026-09-09T15:56:05.535999+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 56,
+    "article_count": 55,
     "event_count": 40,
-    "discovered_event_count": 47,
+    "discovered_event_count": 46,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
@@ -245,21 +245,6 @@
       "related_sources": []
     },
     {
-      "id": "765da33c39f6bc",
-      "title": "Dolblije De Boer wil geen Ajax-spelers",
-      "category": "Overig",
-      "published": "2026-09-09T06:15:19+00:00",
-      "updated": "2026-09-09T06:15:19+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdWpHUm9zWjF0QmxhbHdKYXJJenNLWlJYWE5xaVo3QXNXeU5hU1lFT1Q5M0lieEdrNHJEaVp0SFQyRUotcnlJUVhiaURfcldlcTR0LXY1aU80VXdIRFJRNlVwNU9MdHJFVTM1YlVLRTRkQWIyX2xhbUUxbUtuMzdWTWhKdVcyeW8xZFM2bVJMYnNiZDVXX091RVIzV1NqMlRJSEJhTkUyOXE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "e01393a7eff0f9",
       "title": "Na Ajax - PSV ligt Pol van Boekel ook in Champions League onder vuur",
       "category": "Wedstrijden",
@@ -385,14 +370,14 @@
       },
       "related_sources": [
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhUNUJvZTNvaDZmNDMwZUluZDk2Zkg0M1pZQk9ZUlNHc1NMRjFjLWRBVEdXc2VUb2xCRGotdVkwYzhwaFZDRVlkaFR3OE8xQzA5ZlM0QUxUR0N2MEZEcWIyVEs5aDh4YmhjSXp3RlFQdC16eU5kU1c0dV9KQlRQTW00Yk5ESl9zWkw1TDhyMDNlQWVCLVNtb3I0dmVKTXVmbkVqSGJKcnR1TEc0S3ZNNlhlNDNLQQ?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "VoetbalPrimeur",
           "url": "https://www.voetbalprimeur.nl/nieuws/2133297/sofyan-amrabat-stopt-als-international-van-marokko.html",
           "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhUNUJvZTNvaDZmNDMwZUluZDk2Zkg0M1pZQk9ZUlNHc1NMRjFjLWRBVEdXc2VUb2xCRGotdVkwYzhwaFZDRVlkaFR3OE8xQzA5ZlM0QUxUR0N2MEZEcWIyVEs5aDh4YmhjSXp3RlFQdC16eU5kU1c0dV9KQlRQTW00Yk5ESl9zWkw1TDhyMDNlQWVCLVNtb3I0dmVKTXVmbkVqSGJKcnR1TEc0S3ZNNlhlNDNLQQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -660,6 +645,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdzAwc0pNbm1La0s3aHpGZ2doeVZtYzdldUNDQ1R3d0t3b3hWSnRuSl8wUE1fUkdrVWZnSjU3LUV6X2YyTFhJbkJQLWRRQzBjV2ZqODhWbHVDVnNxS2ZELWY0R0ZhYW5uVTNNcTlzRng0X2ozeExfbE44UjZlR0M2Qmp2YkFJRnlub0tjdVVZaWtOdUJzR1ZQRWJkcG85NWlsMGd1VUUtOF94VlN5a05BenRR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0851182429f40f",
+      "title": "Van der Gijp diep teleurgesteld in aanvaller Ajax: 'Kom op, man!'",
+      "category": "Selectie",
+      "published": "2026-09-07T21:17:00+00:00",
+      "updated": "2026-09-07T21:17:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeHBvNWZFYjJDckVGYW4xYWtKbGVySm9nQV9NQlh0MFFwNVlTV0piNDBxUWhFbzhDSDhJMXprcUJTRDlaa3hsYVFzM3BESGhRdHV6SjE2NmZjYmNabWU1djdlNUlPLVFfQWNuMndxZmV0VFB5RXk3ajZFNXZPQ2QtRXB2ZnJrN3B2NU5kZ0RqRklUY1RBd1k0LUx3OG9Ob3lOd1Z1WnRyRFppYkJhRzlpemJYSDMyQ1NWUTRZ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
