@@ -1,29 +1,89 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T06:59:27.314179+00:00",
+    "generated_at": "2026-09-10T07:32:39.915135+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 42,
-    "event_count": 36,
-    "discovered_event_count": 36,
+    "article_count": 47,
+    "event_count": 39,
+    "discovered_event_count": 39,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 87,
-    "excluded_video_only_count": 58,
+    "excluded_paywall_count": 85,
+    "excluded_video_only_count": 55,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "c3afe9bf0ef55f",
+      "title": "BBC schaart Ajax bij succesvolste dynastieën ooit: 'Invloed gaat veel verder...'",
+      "category": "Overig",
+      "published": "2026-09-10T07:26:16+00:00",
+      "updated": "2026-09-10T07:26:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133903/bbc-zet-ajax-dynastie-op-plek-twee-van-beste-voetbalteams-ooit.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9ff02e30e55d4e",
+      "title": "Kieft verbaast zich over Ajax: 'Denk je dat je een nieuw wereldwonder haalt?'",
+      "category": "Transfers",
+      "published": "2026-09-10T07:04:00+00:00",
+      "updated": "2026-09-10T07:04:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133904/wim-kieft-ziet-tolu-arokodare-slagen-bij-ajax-en-vraagt-geduld-voor-leonardo.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c3609e70f152cc",
+      "title": "Ajax na een transferzomer vol veranderingen: dit zijn de mogelijkheden van Míchel",
+      "category": "Transfers",
+      "published": "2026-09-10T07:00:00+00:00",
+      "updated": "2026-09-10T07:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0RFc3l3bkVTVGpFWkNlZjJiWnFWREJOSnBfVkl1NWZVUVVKMGZSa2Y5OWRxS1VEMGN4cEdHSmw4Vk1IWHpTekVDU3ZfNzIxMEUzZjh3WTJLSC1mZEkxVkQ4Zk9yUk9zVlVkbHBnVG0wNXZtWHBONW5OYzNQalNoVGxfMldBSDctR0VpR1Nra0psQWNvUTNCbTQxVDhJOEdPQTVQVU54NE14TW5DZmtqN2d4bDY0Y0drRkhWNWlR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bebb457777586b",
+      "title": "Ajax-selectie grondig gerenoveerd: wat zijn nu de mogelijkheden voor Míchel?",
+      "category": "Selectie",
+      "published": "2026-09-10T07:00:00+00:00",
+      "updated": "2026-09-10T07:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2xKaUdtMFFyU1JzLXVuclVhT1ktRHZvRkdpb1JzbmtMSjUxVVYwN3kxZzV6OVYyWldQZUF3OWgtVmxSTWVoYVRlN0h0ZjBHX0FSSVEya2ljVEYzZi1zT1QyeHdWcXZxUWhZWlI1dE5wTEMzX0owdk94eGYxWnV5VjdGV24xbmRDdnd3ZnJjMnVJOXcxVkUzQlpvc2ZZendoX2c2aGx6clRwWncxQnFMdHAzdVpmZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "79328f538fc697",
-      "title": "Ajax 1-0 AEK Larnaca (10 jul., 2026) Uitslag",
+      "title": "Ajax 1-0 Olympiacos (18 jul., 2026) Uitslag",
       "category": "Wedstrijden",
       "published": "2026-09-08T09:41:34+00:00",
-      "updated": "2026-09-10T04:36:03+00:00",
+      "updated": "2026-09-10T04:54:03+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkxVZnlSdHBDSDRnTUVCQ2VNSGxWZjFWclozMVFwbFFWWUNMeXNwcjhSckpSN0twaFFqTzNKOEVmUGs1aF9iWjBINlJMTE9ELXVPdXczQzkyWk1VT00xcWdSQmczNlVicUZVaGRZT0FzUzMwYlJXLUROYWZWMWtVUTZwYzg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUVCeVhla1Z6cDJoajFjVEZOWTlSZmt3aTZqd2pDazhMaTc4RTRPdEozQVRPNHN1WEtlVHBFRlFFZmlCUjViM0V5d0llcXVvMkplbGRPbUxSRnhZRGpyWXQ0MHU2UXpNQkJWRkRMY256WTdYWXJmXzRrRkh2WUpkVGdhZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -225,22 +285,22 @@
     },
     {
       "id": "dde2fd2d95f281",
-      "title": "Spaan velt Ajax-oordeel: 'Ze moeten hem doorselecteren en functie aanbieden'",
+      "title": "‘Ajax moet deze speler doorselecteren en een passende functie aanbieden’",
       "category": "Overig",
       "published": "2026-09-09T07:22:00+00:00",
       "updated": "2026-09-09T09:25:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2133482/ajax-moet-steven-berghuis-doorselecteren.html",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXYyR2pPa0Y5Vkhqcjg1Q2VBVk1zSmxMU2hoUVlKMC11VlhqZTlkU2F1Yl9YNmw2dWk2T0VYbGNXdmVMbk9ET1l5Mm1COVJXNVlVbWR0VjVZanBNZTY2OEx2VE00eUVKeWdQNUVKREJ5S0RhQkJRVGQ5M0xvSFFrRmZKR3ViR2FhdDlZYm1vZktCWE95YVdoSGtjOFd6WGFHNEloYmRPczc4TTNSMHRsUGdlTTlZcElFMjJFTTh3YjRwOVRCSFRtV2xwS0s?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXYyR2pPa0Y5Vkhqcjg1Q2VBVk1zSmxMU2hoUVlKMC11VlhqZTlkU2F1Yl9YNmw2dWk2T0VYbGNXdmVMbk9ET1l5Mm1COVJXNVlVbWR0VjVZanBNZTY2OEx2VE00eUVKeWdQNUVKREJ5S0RhQkJRVGQ5M0xvSFFrRmZKR3ViR2FhdDlZYm1vZktCWE95YVdoSGtjOFd6WGFHNEloYmRPczc4TTNSMHRsUGdlTTlZcElFMjJFTTh3YjRwOVRCSFRtV2xwS0s?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2133482/ajax-moet-steven-berghuis-doorselecteren.html",
+          "via_google_news": false
         }
       ]
     },
@@ -557,21 +617,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133040/spaan-looft-jorthy-mokio-maar-is-kritisch-op-fitheid-van-ajax-spelers.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "06f672f88affb0",
-      "title": "Van der Vaart: 'Hij is in potentie echt de allerbeste bij Ajax…'",
-      "category": "Overig",
-      "published": "2026-09-08T07:25:55+00:00",
-      "updated": "2026-09-08T07:25:55+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132953/van-der-vaart-en-kieft-over-tolu-en-leonardo.html",
         "via_google_news": false
       },
       "related_sources": []
