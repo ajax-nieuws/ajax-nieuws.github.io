@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T19:26:29.605399+00:00",
+    "generated_at": "2026-09-10T19:55:14.222502+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 55,
+    "article_count": 49,
     "event_count": 40,
-    "discovered_event_count": 51,
+    "discovered_event_count": 47,
     "source_count": 9,
     "feed_error_count": 0,
-    "excluded_paywall_count": 62,
-    "excluded_video_only_count": 27,
+    "excluded_paywall_count": 77,
+    "excluded_video_only_count": 31,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -24,6 +24,36 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdXlmMmRMR2lDSkhSWGJMSmxXVko5NUNRSnVvTVFFM1ItTi1jRTNWUzk1U2RsbWxCVm5tNGlaV3BvSFdXMlRkSEo1U2k1QmlVZF9UUVZNWkx3NjdTTG9XLW90NVVOWFA1UkZXa0dJZ2Z4YndkcUE2amJlMHlQSmhJUzc2S3dHMjhWMzVSWEpKeFpDdmY0OVBZTFpmdGROVXI3UEtuOXVrTEFjeFdtVzk1RFExeWVGTWNqaS04TUVBcEMwclBqQlNEUy1kRy1lSlNsYWpGWUFiYkdMb1Y4WUE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "86e24fd4f992ba",
+      "title": "Ruben van Bommel reageert voor het eerst op beuk tijdens Ajax - PSV",
+      "category": "Overig",
+      "published": "2026-09-10T19:15:00+00:00",
+      "updated": "2026-09-10T19:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDFBclBPNU1SV21uVXhfQUZqcWNSZ0ZnYVpPSXp5Q2VfU2VEclZPbmxDQ0h3MDQ0VGxsTVZHV3dqcDAxQlFRN1dRYzFIOUpkOUo1MVNGNFZkRlRUa21lWVcxU2VaX2Nsa2NoNEI5NElza2NJb3hzb0dCSERncmwwRzZld0s0eEJ2b01OOGlQc25qNjViQTN0ZkgyMmtLU2g5cGJNMEtrRm16M2V1ZGdBdW9aWTd5ZG93c0dr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c3609e70f152cc",
+      "title": "Ajax na een transferzomer vol veranderingen: dit zijn de mogelijkheden van Míchel",
+      "category": "Transfers",
+      "published": "2026-09-10T19:00:00+00:00",
+      "updated": "2026-09-10T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0RFc3l3bkVTVGpFWkNlZjJiWnFWREJOSnBfVkl1NWZVUVVKMGZSa2Y5OWRxS1VEMGN4cEdHSmw4Vk1IWHpTekVDU3ZfNzIxMEUzZjh3WTJLSC1mZEkxVkQ4Zk9yUk9zVlVkbHBnVG0wNXZtWHBONW5OYzNQalNoVGxfMldBSDctR0VpR1Nra0psQWNvUTNCbTQxVDhJOEdPQTVQVU54NE14TW5DZmtqN2d4bDY0Y0drRkhWNWlR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -350,61 +380,16 @@
       "related_sources": []
     },
     {
-      "id": "c3609e70f152cc",
-      "title": "Ajax na een transferzomer vol veranderingen: dit zijn de mogelijkheden van Míchel",
-      "category": "Transfers",
-      "published": "2026-09-10T07:00:00+00:00",
-      "updated": "2026-09-10T07:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0RFc3l3bkVTVGpFWkNlZjJiWnFWREJOSnBfVkl1NWZVUVVKMGZSa2Y5OWRxS1VEMGN4cEdHSmw4Vk1IWHpTekVDU3ZfNzIxMEUzZjh3WTJLSC1mZEkxVkQ4Zk9yUk9zVlVkbHBnVG0wNXZtWHBONW5OYzNQalNoVGxfMldBSDctR0VpR1Nra0psQWNvUTNCbTQxVDhJOEdPQTVQVU54NE14TW5DZmtqN2d4bDY0Y0drRkhWNWlR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "eeb9dd4ee4d497",
-      "title": "Ajax 1-0 Olympiacos (18 jul., 2026) Uitslag",
+      "id": "79328f538fc697",
+      "title": "Ajax 2-1 Burnley (26 jul., 2026) Uitslag",
       "category": "Wedstrijden",
-      "published": "2026-09-10T04:35:50+00:00",
-      "updated": "2026-09-10T04:54:03+00:00",
+      "published": "2026-09-09T19:44:29+00:00",
+      "updated": "2026-09-09T19:44:29+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUVCeVhla1Z6cDJoajFjVEZOWTlSZmt3aTZqd2pDazhMaTc4RTRPdEozQVRPNHN1WEtlVHBFRlFFZmlCUjViM0V5d0llcXVvMkplbGRPbUxSRnhZRGpyWXQ0MHU2UXpNQkJWRkRMY256WTdYWXJmXzRrRkh2WUpkVGdhZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8b196c866235db",
-      "title": "[Update] Foto's Ajax A1 - NEC/Oss A1",
-      "category": "Overig",
-      "published": "2026-09-10T00:11:16+00:00",
-      "updated": "2026-09-10T00:11:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWENuVDhQT1NSTGhLNmI0aDhIaHlrVTBCSnFXVUM5dkxpMWNCZnZ5WGcyYmd1S2h1X2Z4MHNNXzN4ZnZURnFwZTQzRjBRUE9KMHR1OVROV3hWek1PSUJqOWhvTUhzSGFuaVFOTHZwbmU0ZWpEQkJmY1o3dXFxbWIwZUhIUWZnM091bjlhUFlKYnFZakpGc0QxUDBKbFI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c3e73a21d6cf25",
-      "title": "Ajax - Aktobe (23 sep., 2026) Live tussenstand",
-      "category": "Wedstrijden",
-      "published": "2026-09-09T18:35:16+00:00",
-      "updated": "2026-09-09T18:35:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUmZ1dlNfdVRKLVFQWTB1Mk1BQXdlRG1ZQUc1YXpUZE9FVnVqczJ2Skkxb0otU3JzNE15d3NNdGl6QWx0NFR3MGFjMWY4QnoyOWhvblFpbmlPaEVRa1BqM3lvQ2pxVWpZa3ZwcGFjQlR4emFMeDhjUFBneDhkQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UmlnTHk4T0RIUkNJVm93b2NUb3RTd0VCYlhmMFVBWjFJa0dHRW41SW9CamdVcVJncEk1V2tQczRMcHR4UmUwTmY0bTFFVzRUZlJTRlFlcGV5cHUxWkJUT1ZEdzVyUkpBcndMN1VYUnJXX0hsZ3RPbE4wTy1qX0k?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -425,21 +410,6 @@
       "related_sources": []
     },
     {
-      "id": "b34ad246b9fe10",
-      "title": "'Jeugdopleiding Ajax bijna allemaal import'",
-      "category": "Jeugd",
-      "published": "2026-09-09T17:48:34+00:00",
-      "updated": "2026-09-09T17:48:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0ZqMFZ2a3BuWlFmLVVSNVN3eEpGeV9sX29UTFp0UzNBaVc2aTUwN0lfQXdJZURJYzhjajhpOVYydDZlSWxWWUtsQUdydTNFTFFRVEFVVWZyMk9iRXFLVEhDSW9NSGhlQzY5NEo1MEl6NC13WWRrTFUzRTc5ckRPbWtLdkxkNlUtUzhValEzOFktRUdleTlGeTJhcVc4X1JGb3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "4c2216b3e197ea",
       "title": "Ajax zou nog kijken naar clubloze middenvelders: enkele opvallende opties op een rij",
       "category": "Selectie",
@@ -450,21 +420,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZEF3eDBRQjhlYjZ0bEkxc3laR25JLXJldEE5ODl2MlRySlVDVFViUnZ0dy1vZC10eU5QaE15cXpCNjNvUWZfYklmT1FWVVBmMEJsbWtfTVRTblNPQlpVUUxzRXFXaDEwOXRPaEdGX3I4dFhXdXNoN1g1cm5laDgtMFZhX3dLNnVhb2FYZlFvUG5FZmNVZ1V3TUdFZGtHR1hXanhCZ2NIdkdSQnlRSUZPQjE4OWpQLWFXaXh3Z2VQLUZUUFpCQU8wTzQ2Q2g5NnM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "013881201ee36b",
-      "title": "AD: 'Vluchten Stockholm vol door Ajax'",
-      "category": "Overig",
-      "published": "2026-09-09T15:44:16+00:00",
-      "updated": "2026-09-09T15:44:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGh4U1hzc0RCR0poeklQQjdkRjdmN1p1R2VQQzdlV2FyMUhkM09fRU9VTkYyanRaTjBoQ2o5WVJyN1psSWZ5MkFpa2l0eDEwYndmNmluaDBUVjQ5QzRTMmlrSFRaQTh1UW5ZWGFkZVFDOHI3TUFxcWhhNTVtVDlnNlVvanF3QlFCXzlfOVVDYjFTU3dFZjhfeWxXN3N4dzhmZGkyQQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -605,16 +560,67 @@
       "related_sources": []
     },
     {
-      "id": "e7acbf0134d67e",
-      "title": "Ajax wint overtuigend van Utrecht",
-      "category": "Wedstrijden",
-      "published": "2026-09-09T09:49:12+00:00",
-      "updated": "2026-09-09T09:49:12+00:00",
+      "id": "3057b39ced6e90",
+      "title": "Ajax-toptalent maakt werk van opvallende interlandkeuze en duikt op bij ambassade",
+      "category": "Selectie",
+      "published": "2026-09-09T09:27:57+00:00",
+      "updated": "2026-09-09T09:27:57+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZThRODJoRGc0d3E4TkQtaHpOb0Jib3FHb21oWUZMV3FHUjloUGZVbVhmSU1mZmwzOGc2U1lfWjZrTWJHYXRlT0ZGWVNHLXBmQnMxN1pxVUNWMlJTR2UzcVAxN0Y3RkdxQ043UGVZcXowVlBGTHNmUzNxNlFza3Q3eHRocG80b29sN3VXeF9BQnVuR3hFcUczWThBVQ?oc=5",
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133535/jorthy-mokio-en-ezechiel-banzuzi-gespot-bij-congolese-ambassade.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "dde2fd2d95f281",
+      "title": "Spaan velt Ajax-oordeel: 'Ze moeten hem doorselecteren en functie aanbieden'",
+      "category": "Overig",
+      "published": "2026-09-09T07:22:00+00:00",
+      "updated": "2026-09-09T09:25:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133482/ajax-moet-steven-berghuis-doorselecteren.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXYyR2pPa0Y5Vkhqcjg1Q2VBVk1zSmxMU2hoUVlKMC11VlhqZTlkU2F1Yl9YNmw2dWk2T0VYbGNXdmVMbk9ET1l5Mm1COVJXNVlVbWR0VjVZanBNZTY2OEx2VE00eUVKeWdQNUVKREJ5S0RhQkJRVGQ5M0xvSFFrRmZKR3ViR2FhdDlZYm1vZktCWE95YVdoSGtjOFd6WGFHNEloYmRPczc4TTNSMHRsUGdlTTlZcElFMjJFTTh3YjRwOVRCSFRtV2xwS0s?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "0c78ee2a421149",
+      "title": "Ajax-duo zorgt voor verbijstering: 'Werkelijk ongelooflijk'",
+      "category": "Overig",
+      "published": "2026-09-09T07:45:00+00:00",
+      "updated": "2026-09-09T07:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjc1V0ZheC1QOU53RThxcjFYWnBxUDZOdDZySU45aEpCSEc2R2Faa0w2NG9XbFZXNFY1SDBVZUpMbVducF9PVm5USGQ2UkRTM1B6R0xTSmZlb1AwLWZhZ3hqcUp6Z3BwOEk0LWZDSjZGV3oxQTN6RHdNemFWSUZfaXNSOEU3NTFvbWVxR0dRMXcyYjBUWUl2c015bjRuTXhGTFRVb3AxMkZkcHNVdWVlM1NBdlNwalF4UHAwQy1ULVp0ZUFMZXFtWA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5042775b43fd88",
+      "title": "Riedewald scoorde twee keer en bezorgde Ajax last-minute zege - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T07:01:41+00:00",
+      "updated": "2026-09-09T07:01:41+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0pBYUN0Ui1ia3Vhd1VIeVpIZTRseUlWMG55MHNtbFotQ0VwOWZHLWdYak5aM01YZXpnRzB6NXVaUWpPZjVWeXVwUFM3VXFZcHlmaFpyNlh1TnhCdHgxWXZOYUFfXy1WYk56ZFJNWEFMWTJVU19TSzRvQ2N0d2owclUtYlR4Y3hDTTY1VEJKVUlDYnA4dWRJ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
