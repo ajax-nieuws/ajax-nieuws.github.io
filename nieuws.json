@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T08:57:15.144246+00:00",
+    "generated_at": "2026-09-10T09:32:11.851833+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 48,
+    "article_count": 49,
     "event_count": 40,
-    "discovered_event_count": 41,
+    "discovered_event_count": 42,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 85,
+    "excluded_paywall_count": 80,
     "excluded_video_only_count": 55,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
@@ -129,6 +129,21 @@
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXlERml0TDI0Q1QtR0NSM2FIZTlGNGdRNVJ4TGN6bW91T1p5TDBXZlNSTWNhSjVST3FEVFItUnNfS0JBQ2loN3NiTWhYQnJCSmdtMkRIN1pjUkljZHpVck1RdHhzN3JwcHo3bm13MVY0SGVCY0hxdmJZOGw3MU5NUmZpRQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c3e73a21d6cf25",
+      "title": "Ajax - Aktobe (23 sep., 2026) Live tussenstand",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T18:35:16+00:00",
+      "updated": "2026-09-09T18:35:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUmZ1dlNfdVRKLVFQWTB1Mk1BQXdlRG1ZQUc1YXpUZE9FVnVqczJ2Skkxb0otU3JzNE15d3NNdGl6QWx0NFR3MGFjMWY4QnoyOWhvblFpbmlPaEVRa1BqM3lvQ2pxVWpZa3ZwcGFjQlR4emFMeDhjUFBneDhkQQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -314,6 +329,21 @@
       "related_sources": []
     },
     {
+      "id": "e7acbf0134d67e",
+      "title": "Ajax wint overtuigend van Utrecht",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T09:49:12+00:00",
+      "updated": "2026-09-09T09:49:12+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZThRODJoRGc0d3E4TkQtaHpOb0Jib3FHb21oWUZMV3FHUjloUGZVbVhmSU1mZmwzOGc2U1lfWjZrTWJHYXRlT0ZGWVNHLXBmQnMxN1pxVUNWMlJTR2UzcVAxN0Y3RkdxQ043UGVZcXowVlBGTHNmUzNxNlFza3Q3eHRocG80b29sN3VXeF9BQnVuR3hFcUczWThBVQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "3057b39ced6e90",
       "title": "Ajax-toptalent maakt werk van opvallende interlandkeuze en duikt op bij ambassade",
       "category": "Selectie",
@@ -330,22 +360,22 @@
     },
     {
       "id": "dde2fd2d95f281",
-      "title": "‘Ajax moet deze speler doorselecteren en een passende functie aanbieden’",
+      "title": "Spaan velt Ajax-oordeel: 'Ze moeten hem doorselecteren en functie aanbieden'",
       "category": "Overig",
       "published": "2026-09-09T07:22:00+00:00",
       "updated": "2026-09-09T09:25:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXYyR2pPa0Y5Vkhqcjg1Q2VBVk1zSmxMU2hoUVlKMC11VlhqZTlkU2F1Yl9YNmw2dWk2T0VYbGNXdmVMbk9ET1l5Mm1COVJXNVlVbWR0VjVZanBNZTY2OEx2VE00eUVKeWdQNUVKREJ5S0RhQkJRVGQ5M0xvSFFrRmZKR3ViR2FhdDlZYm1vZktCWE95YVdoSGtjOFd6WGFHNEloYmRPczc4TTNSMHRsUGdlTTlZcElFMjJFTTh3YjRwOVRCSFRtV2xwS0s?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133482/ajax-moet-steven-berghuis-doorselecteren.html",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2133482/ajax-moet-steven-berghuis-doorselecteren.html",
-          "via_google_news": false
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXYyR2pPa0Y5Vkhqcjg1Q2VBVk1zSmxMU2hoUVlKMC11VlhqZTlkU2F1Yl9YNmw2dWk2T0VYbGNXdmVMbk9ET1l5Mm1COVJXNVlVbWR0VjVZanBNZTY2OEx2VE00eUVKeWdQNUVKREJ5S0RhQkJRVGQ5M0xvSFFrRmZKR3ViR2FhdDlZYm1vZktCWE95YVdoSGtjOFd6WGFHNEloYmRPczc4TTNSMHRsUGdlTTlZcElFMjJFTTh3YjRwOVRCSFRtV2xwS0s?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -603,36 +633,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQk1rOFAwNGVyTndTSkJWS0RfazFleW1zNjh2LVJxQ2tZejBPaFBKQ3JYOHhOM2Q5VWVta1QwVFJIRFpQR2tHRlBDNW5GRGt3MHczS0tKQ2tkZUFGdU9RTEtyeEVqNGZScUk0WEdOS2l2REJJWlk0cFdoTnQwaFFPTlVuMUFSTGlDdURORFdXaW5ZcmJkMTdRZ2M0VmNLdDZSWnRrbGNOd0EteE4wQ0hpdkh2NGYzbG9Uemg0SA?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "64ff053a1ea8d0",
-      "title": "Ajax TV | Jano Monserrate 🇪🇸 | Highlights Almere City FC - Jong Ajax | Keuken Kampioen Divisie",
-      "category": "Jong Ajax",
-      "published": "2026-09-08T10:30:00+00:00",
-      "updated": "2026-09-08T10:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFg2OWo1djRSMzhPakxkRmtUREgzbDBhZEdfa1cyMWFJQWhNa1pxaDU3UnRmNEJkSmV5eTl6WmlhN2dQTHduUU92Y3ZiaGJKRE5kdUVtdzlGX3p2alI2RXNKdVMtTEszNWp5OGNabTRMR0dEVGUtWE1xSzdKam5ITUw4czdrX1lLV29CNGVhYktUMV9wVThmYzIxWVJ5a1RTeE1QZ2tUS0FobGs1aUo5OWxnaUwwNzlFNTFXclNLUy1Pb2ZlRUE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9936d6b86b201e",
-      "title": "NEC en FC Twente spelen doordeweeks hun inhaalduels, Ajax nog niet",
-      "category": "Overig",
-      "published": "2026-09-08T10:15:00+00:00",
-      "updated": "2026-09-08T10:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/nec-en-fc-twente-spelen-doordeweeks-hun-inhaalduels-ajax-nog-niet",
-        "via_google_news": false
       },
       "related_sources": []
     }
