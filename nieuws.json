@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T11:55:32.818077+00:00",
+    "generated_at": "2026-09-10T12:38:15.961723+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 47,
+    "article_count": 49,
     "event_count": 40,
-    "discovered_event_count": 40,
+    "discovered_event_count": 42,
     "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 75,
-    "excluded_video_only_count": 43,
+    "excluded_video_only_count": 36,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ba651e206d6e4d",
+      "title": "'Voor Bouwman heel vervelend, ik denk dat hij kandidaat was voor Oranje'",
+      "category": "Overig",
+      "published": "2026-09-10T11:58:57+00:00",
+      "updated": "2026-09-10T11:58:57+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134033/de-mos-leeft-mee-met-oranje-kandidaat-bouwman.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "5c4b9dcf4f9549",
       "title": "Opvallend gerucht: 'Europese topclub toont interesse in ex-Ajacied Bassey'",
@@ -194,6 +209,21 @@
       "related_sources": []
     },
     {
+      "id": "b34ad246b9fe10",
+      "title": "'Jeugdopleiding Ajax bijna allemaal import'",
+      "category": "Jeugd",
+      "published": "2026-09-09T17:48:34+00:00",
+      "updated": "2026-09-09T17:48:34+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0ZqMFZ2a3BuWlFmLVVSNVN3eEpGeV9sX29UTFp0UzNBaVc2aTUwN0lfQXdJZURJYzhjajhpOVYydDZlSWxWWUtsQUdydTNFTFFRVEFVVWZyMk9iRXFLVEhDSW9NSGhlQzY5NEo1MEl6NC13WWRrTFUzRTc5ckRPbWtLdkxkNlUtUzhValEzOFktRUdleTlGeTJhcVc4X1JGb3c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "4c2216b3e197ea",
       "title": "Ajax zou nog kijken naar clubloze middenvelders: enkele opvallende opties op een rij",
       "category": "Selectie",
@@ -235,6 +265,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133694/van-der-vaart-niet-onder-de-indruk-van-prestaties-mokio-bij-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ab55906d156d77",
+      "title": "Ajax O19 walst na rust over Hammarby heen",
+      "category": "Jeugd",
+      "published": "2026-09-09T14:09:49+00:00",
+      "updated": "2026-09-09T14:09:49+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVpzZ1NLdWEyZ1BkYzl0clJXeldRUm11VGtLQnZWejVZOUFadk5vN3VZLWpTVGJKVXJoTHlUejNRRmQyZUYzeGtzaFNETDhXSWR6Y3lCNFZkNWdsdWFmN04zLUc3YzJEbXZnTUNnTzFYNDJKdnA1cEJUR0RjSXZJTlRHQktZTHZjeG56eHdpMF9DV3NvYUs5anVmcnhLN00?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -579,62 +624,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "148177e524402e",
-      "title": "Amrabat bedankt voorlopig voor Marokko: 'Speel niet onder deze bondscoach'",
-      "category": "Overig",
-      "published": "2026-09-08T15:08:00+00:00",
-      "updated": "2026-09-08T15:41:38+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/amrabat-bedankt-voorlopig-voor-marokko-speel-niet-onder-deze-bondscoach",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2133297/sofyan-amrabat-stopt-als-international-van-marokko.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkhUNUJvZTNvaDZmNDMwZUluZDk2Zkg0M1pZQk9ZUlNHc1NMRjFjLWRBVEdXc2VUb2xCRGotdVkwYzhwaFZDRVlkaFR3OE8xQzA5ZlM0QUxUR0N2MEZEcWIyVEs5aDh4YmhjSXp3RlFQdC16eU5kU1c0dV9KQlRQTW00Yk5ESl9zWkw1TDhyMDNlQWVCLVNtb3I0dmVKTXVmbkVqSGJKcnR1TEc0S3ZNNlhlNDNLQQ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "f209d37f3e419f",
-      "title": "Amrabat neemt drastisch besluit en haalt uit: Ajax-middenvelder breekt met Marokko",
-      "category": "Transfers",
-      "published": "2026-09-08T15:15:00+00:00",
-      "updated": "2026-09-08T15:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR2hnQ0ZSdW80VWp4cXU3c1VGUlRSMXZjYWpGbEVPMnVBSWJQcG1IQmxtQmFXZ1ZPbzVMekI4WnFRSXFEdGNtRFNUcVlybkJHY1RTY2loQkd2bk93NUtWTzJMQkd5SzByN3VGUUlOaVprU2NTb2dJeFBxbE45dkhFNms3T3B4a0lFNGwzY3p3NXNFbVVjVE82eDBZS2pTelRDakI0bE5qOWRtc2hOaVg2a0hnejhpNWROaGkyb3ItQUQ1U24zWnA1NXlNMFNEOUU5STdGTWsyemlVMVFjaUh3UGdwUjBOTDNoZXNr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2b829eb999c814",
-      "title": "Kaartverkoop Q2 Women's Europa Cup: Ajax Vrouwen – WFC Aktobe - Ajax",
-      "category": "Ajax Vrouwen",
-      "published": "2026-09-08T12:05:58+00:00",
-      "updated": "2026-09-08T12:05:58+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjBOOGF2RFdKbGNfQlpMZm1IcFBJZ0c5Um9vaEhmNUwtM19OeUJCdGJPdS1Cdk1LSGpkMkNGTGwzdENLX1FDNzk0OE1JYm1jMndtaFkzbHhfeFlyellBRnBzMzJ1OVQzSC0wYW1kYXZocnREc0ZuZFVnUjRmRi16ajhwM1JUUXNoM1ZZdFdNaUtGQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
