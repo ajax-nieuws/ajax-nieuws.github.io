@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T01:29:29.177125+00:00",
+    "generated_at": "2026-09-10T01:57:11.052748+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 48,
+    "article_count": 49,
     "event_count": 40,
-    "discovered_event_count": 41,
+    "discovered_event_count": 42,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 92,
-    "excluded_video_only_count": 59,
+    "excluded_paywall_count": 91,
+    "excluded_video_only_count": 60,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -24,6 +24,21 @@
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15UmlnTHk4T0RIUkNJVm93b2NUb3RTd0VCYlhmMFVBWjFJa0dHRW41SW9CamdVcVJncEk1V2tQczRMcHR4UmUwTmY0bTFFVzRUZlJTRlFlcGV5cHUxWkJUT1ZEdzVyUkpBcndMN1VYUnJXX0hsZ3RPbE4wTy1qX0k?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c3e73a21d6cf25",
+      "title": "Ajax - Aktobe (23 sep., 2026) Live tussenstand",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T18:35:16+00:00",
+      "updated": "2026-09-09T18:35:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUmZ1dlNfdVRKLVFQWTB1Mk1BQXdlRG1ZQUc1YXpUZE9FVnVqczJ2Skkxb0otU3JzNE15d3NNdGl6QWx0NFR3MGFjMWY4QnoyOWhvblFpbmlPaEVRa1BqM3lvQ2pxVWpZa3ZwcGFjQlR4emFMeDhjUFBneDhkQQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -629,21 +644,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133010/mario-stroeykens-weigert-transfer-naar-ludogorets-na-interesse-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e05fdc820f33f0",
-      "title": "Perez: 'Na één helft bij Ajax-PSV denk je: die moet bij PSG of Bayern voetballen'",
-      "category": "Overig",
-      "published": "2026-09-08T06:22:15+00:00",
-      "updated": "2026-09-08T06:22:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2132926/kenneth-perez-lyrisch-over-mokio-maar-ziet-ook-groot-probleem.html",
         "via_google_news": false
       },
       "related_sources": []
