@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T11:30:38.362371+00:00",
+    "generated_at": "2026-09-10T11:55:32.818077+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 47,
     "event_count": 40,
-    "discovered_event_count": 41,
+    "discovered_event_count": 40,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 78,
+    "excluded_paywall_count": 75,
     "excluded_video_only_count": 43,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "5c4b9dcf4f9549",
+      "title": "Opvallend gerucht: 'Europese topclub toont interesse in ex-Ajacied Bassey'",
+      "category": "Transfers",
+      "published": "2026-09-10T11:28:45+00:00",
+      "updated": "2026-09-10T11:28:45+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134021/opvallend-inter-toont-interesse-in-ex-ajacied-bassey.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "a60e2fa9c9c0a4",
       "title": "Verbijstering om beslissing van Ajax: 'Dat je dit als trainer toelaat...'",
@@ -135,30 +150,30 @@
     },
     {
       "id": "79328f538fc697",
-      "title": "Ajax 1-1 Bochum (15 jul., 2026) Uitslag",
+      "title": "Ajax 1-0 Olympiacos (18 jul., 2026) Uitslag",
       "category": "Wedstrijden",
       "published": "2026-09-09T19:44:29+00:00",
-      "updated": "2026-09-10T04:36:03+00:00",
+      "updated": "2026-09-10T04:54:03+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXlERml0TDI0Q1QtR0NSM2FIZTlGNGdRNVJ4TGN6bW91T1p5TDBXZlNSTWNhSjVST3FEVFItUnNfS0JBQ2loN3NiTWhYQnJCSmdtMkRIN1pjUkljZHpVck1RdHhzN3JwcHo3bm13MVY0SGVCY0hxdmJZOGw3MU5NUmZpRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRUVCeVhla1Z6cDJoajFjVEZOWTlSZmt3aTZqd2pDazhMaTc4RTRPdEozQVRPNHN1WEtlVHBFRlFFZmlCUjViM0V5d0llcXVvMkplbGRPbUxSRnhZRGpyWXQ0MHU2UXpNQkJWRkRMY256WTdYWXJmXzRrRkh2WUpkVGdhZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
     },
     {
-      "id": "c3e73a21d6cf25",
-      "title": "Ajax - Aktobe (23 sep., 2026) Live tussenstand",
-      "category": "Wedstrijden",
-      "published": "2026-09-09T18:35:16+00:00",
-      "updated": "2026-09-09T18:35:16+00:00",
+      "id": "8b196c866235db",
+      "title": "[Update] Foto's Ajax A1 - NEC/Oss A1",
+      "category": "Overig",
+      "published": "2026-09-10T00:11:16+00:00",
+      "updated": "2026-09-10T00:11:16+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUmZ1dlNfdVRKLVFQWTB1Mk1BQXdlRG1ZQUc1YXpUZE9FVnVqczJ2Skkxb0otU3JzNE15d3NNdGl6QWx0NFR3MGFjMWY4QnoyOWhvblFpbmlPaEVRa1BqM3lvQ2pxVWpZa3ZwcGFjQlR4emFMeDhjUFBneDhkQQ?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWENuVDhQT1NSTGhLNmI0aDhIaHlrVTBCSnFXVUM5dkxpMWNCZnZ5WGcyYmd1S2h1X2Z4MHNNXzN4ZnZURnFwZTQzRjBRUE9KMHR1OVROV3hWek1PSUJqOWhvTUhzSGFuaVFOTHZwbmU0ZWpEQkJmY1o3dXFxbWIwZUhIUWZnM091bjlhUFlKYnFZakpGc0QxUDBKbFI?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -249,21 +264,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzdpd21MWTZybENBbkpPeV9rSjBnRnhmNkw5dUZhTVl6a2hBMFBsa1d2YmVpS0p5S3lVM2NGSkhVR2xsM1IxdmtYSkwzMGJCRHF4dVdmQUc0aUhpcTVzWGFranJ2REE2NEM0d3RUNE1fOXh5N3pES0V5ZThHdnhRd0g3VVRaV0xNS0NoZFItbjRueUVSNTNVRWJpQkZ0dUlfT250UERzc1lwb1hXZ1R6SHJ3ZXUzTGtf?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0ff0dcf5d01fa5",
-      "title": "Riedewald scoorde twee keer en bezorgde Ajax last-minute zege - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-09-09T13:22:28+00:00",
-      "updated": "2026-09-09T13:22:28+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkRHM1J0T3liNVI5MDROM2xpb0FSemZicnFOM056SU8wcnJ1Z3RTMFhGeHdveVl3T3BrbHk2Vk1iNG5kRHZqTUFVUjgya1BIczM1T3NqMUJwZzJGNXJiRGkxa05DMDFDUXdxMzByVW9YVGxPZHhYeUhtLUEtRzlFVERQa1ZVSjVvZXhfMXFEa1pmSGNxWmc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -420,6 +420,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjc1V0ZheC1QOU53RThxcjFYWnBxUDZOdDZySU45aEpCSEc2R2Faa0w2NG9XbFZXNFY1SDBVZUpMbVducF9PVm5USGQ2UkRTM1B6R0xTSmZlb1AwLWZhZ3hqcUp6Z3BwOEk0LWZDSjZGV3oxQTN6RHdNemFWSUZfaXNSOEU3NTFvbWVxR0dRMXcyYjBUWUl2c015bjRuTXhGTFRVb3AxMkZkcHNVdWVlM1NBdlNwalF4UHAwQy1ULVp0ZUFMZXFtWA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5042775b43fd88",
+      "title": "Riedewald scoorde twee keer en bezorgde Ajax last-minute zege - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T07:01:41+00:00",
+      "updated": "2026-09-09T07:01:41+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0pBYUN0Ui1ia3Vhd1VIeVpIZTRseUlWMG55MHNtbFotQ0VwOWZHLWdYak5aM01YZXpnRzB6NXVaUWpPZjVWeXVwUFM3VXFZcHlmaFpyNlh1TnhCdHgxWXZOYUFfXy1WYk56ZFJNWEFMWTJVU19TSzRvQ2N0d2owclUtYlR4Y3hDTTY1VEJKVUlDYnA4dWRJ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -617,21 +632,6 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjBOOGF2RFdKbGNfQlpMZm1IcFBJZ0c5Um9vaEhmNUwtM19OeUJCdGJPdS1Cdk1LSGpkMkNGTGwzdENLX1FDNzk0OE1JYm1jMndtaFkzbHhfeFlyellBRnBzMzJ1OVQzSC0wYW1kYXZocnREc0ZuZFVnUjRmRi16ajhwM1JUUXNoM1ZZdFdNaUtGQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2861a7ce46e849",
-      "title": "VriendenLoterij Eredivisie-duels tot en met januari 2027 vastgesteld - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-09-08T11:40:10+00:00",
-      "updated": "2026-09-08T11:40:10+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNm5RUWdGaDBUYy0zLXdpRy16b0pOTjBDaWJCc1pyWUgzLXFQeFJhSGpjY3VUaFhXcmR0WnNYNUZ1QlBYOXZ4SmVfYWQwR3k5WC1mamZIc1VaNGRKTE9ia1FvVTlGYmpHU3Y0bDBaMzRYN09WWUFSbkswb2dsdjgwRTFRMA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
