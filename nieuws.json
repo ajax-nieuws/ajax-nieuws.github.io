@@ -1,18 +1,69 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T16:56:12.621311+00:00",
+    "generated_at": "2026-09-10T17:28:53.232847+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 52,
+    "article_count": 55,
     "event_count": 40,
-    "discovered_event_count": 48,
+    "discovered_event_count": 50,
     "source_count": 9,
     "feed_error_count": 0,
     "excluded_paywall_count": 67,
-    "excluded_video_only_count": 31,
+    "excluded_video_only_count": 28,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "dfdd5c31c19418",
+      "title": "Kieft verbaast zich over Ajax: 'Denk je dat je een nieuw wereldwonder haalt?'",
+      "category": "Transfers",
+      "published": "2026-09-10T07:04:00+00:00",
+      "updated": "2026-09-10T17:22:27+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133904/wim-kieft-ziet-tolu-arokodare-slagen-bij-ajax-en-vraagt-geduld-voor-leonardo.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0kwaW5CY0V0SWxnRDhTV2lWSTlLb3ZOWDZpNkV2dkNOQnBaR1dQZjB1MDA4VFdUSEFOZDZkV2kzYmtDOU0ycWVhb1JiSmVFWmtZWVZ4NENUX1FhejlKdUkwcWUtRDZsN3VBVFNjZ1MxTzVjZm1hVXdaQkswZnBBZ05DS2NjTTFpZE1aV0VuVWp1OHVhcWg5aGhtZw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "ec22bf1b0b834c",
+      "title": "Kehrer kan dankzij bekende gezichten makkelijk 'integreren' bij Ajax: \"Je hebt al een connectie\"",
+      "category": "Overig",
+      "published": "2026-09-10T17:15:00+00:00",
+      "updated": "2026-09-10T17:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMVIwMGhvN1czbTBMWlExZWpIRl9QNzhJdy1nRHlwWjR1aHFEVHdkcHpFWUwtV2xUUGtMdDdSVEZKcWExTlhvS00zeDJTX3Z3X1I2c1ViNFJWVVdNZEszTjJvS1BKWGJPa2tLTEU1RmxyTktIMFV1ckdYMi1ob3FGRkg4R25LZDA0cmx1NlVmZVZnQ0JvdE11QkptTENlenhPYUNhRVFWUFVXZ0dxaDBoZm5KUmNHWVktbThDbXRyRFRseGxvckFmYWVib2lmT2VWcnYyTkdBQ3E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5279ea3abb0204",
+      "title": "Kraay over Ajax-aanwinst: 'Schrik elke keer dat hij op Nederlandse velden loopt'",
+      "category": "Transfers",
+      "published": "2026-09-10T17:06:34+00:00",
+      "updated": "2026-09-10T17:06:34+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134195/kraay-fileert-ajax-duo-wat-is-dat-dat-ze-dat-durven.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "de859ff8d30e44",
       "title": "Twee spelers van Ajax wekken grote ergernis: 'Werkelijk ongelooflijk'",
@@ -264,21 +315,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133903/bbc-zet-ajax-dynastie-op-plek-twee-van-beste-voetbalteams-ooit.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9ff02e30e55d4e",
-      "title": "Kieft verbaast zich over Ajax: 'Denk je dat je een nieuw wereldwonder haalt?'",
-      "category": "Transfers",
-      "published": "2026-09-10T07:04:00+00:00",
-      "updated": "2026-09-10T07:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2133904/wim-kieft-ziet-tolu-arokodare-slagen-bij-ajax-en-vraagt-geduld-voor-leonardo.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -588,36 +624,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "0c78ee2a421149",
-      "title": "Ajax-duo zorgt voor verbijstering: 'Werkelijk ongelooflijk'",
-      "category": "Overig",
-      "published": "2026-09-09T07:45:00+00:00",
-      "updated": "2026-09-09T07:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjc1V0ZheC1QOU53RThxcjFYWnBxUDZOdDZySU45aEpCSEc2R2Faa0w2NG9XbFZXNFY1SDBVZUpMbVducF9PVm5USGQ2UkRTM1B6R0xTSmZlb1AwLWZhZ3hqcUp6Z3BwOEk0LWZDSjZGV3oxQTN6RHdNemFWSUZfaXNSOEU3NTFvbWVxR0dRMXcyYjBUWUl2c015bjRuTXhGTFRVb3AxMkZkcHNVdWVlM1NBdlNwalF4UHAwQy1ULVp0ZUFMZXFtWA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5042775b43fd88",
-      "title": "Riedewald scoorde twee keer en bezorgde Ajax last-minute zege - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-09-09T07:01:41+00:00",
-      "updated": "2026-09-09T07:01:41+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0pBYUN0Ui1ia3Vhd1VIeVpIZTRseUlWMG55MHNtbFotQ0VwOWZHLWdYak5aM01YZXpnRzB6NXVaUWpPZjVWeXVwUFM3VXFZcHlmaFpyNlh1TnhCdHgxWXZOYUFfXy1WYk56ZFJNWEFMWTJVU19TSzRvQ2N0d2owclUtYlR4Y3hDTTY1VEJKVUlDYnA4dWRJ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
