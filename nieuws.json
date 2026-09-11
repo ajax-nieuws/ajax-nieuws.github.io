@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T15:56:00.536198+00:00",
+    "generated_at": "2026-09-11T16:31:25.062495+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 52,
     "event_count": 40,
-    "discovered_event_count": 49,
+    "discovered_event_count": 48,
     "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 100,
+    "excluded_paywall_count": 94,
     "excluded_video_only_count": 14,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "c8d8a051fe99db",
+      "title": "Ajax op bezoek bij Fortuna Sittard: Míchel Sánchez staat voor drie belangrijke keuzes in opstelling",
+      "category": "Wedstrijden",
+      "published": "2026-09-11T16:00:00+00:00",
+      "updated": "2026-09-11T16:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1heno1SV9jV3p5bW9tVjRXVjA1LXBHSEEyY25YLWNqMW55aDhOUndCOXBMMmJYVnRMUUpQdHlyd1RNdXFEXzdZOV9KWXhBUG96QnJHSzVPd29NTl9WWjRKYXJUTkczRTlVQy01Vm1kV0x6YmJmb2dZRTFyeEF3Z2VOUHRrcHY2clRVNjlYS0NzcXlObkQtOUI1bC1aX1hCVUx3OEdRcnhKUXZOS1pKSmR2eGVwellyWnRJN0dPVnQyWHpvZEJlbldPdFQ5UVloRVVmUXlwcE4wS1pXZk9XWDB1RQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "e8e233215e078b",
       "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
@@ -122,8 +137,8 @@
       "id": "453a2fff94a7bd",
       "title": "Rondom: Ajax te zien op het open kanaal van ESPN",
       "category": "Overig",
-      "published": "2026-09-11T12:25:00+00:00",
-      "updated": "2026-09-11T12:25:00+00:00",
+      "published": "2026-09-11T12:35:00+00:00",
+      "updated": "2026-09-11T12:35:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -159,21 +174,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbkZFanpGRGFWd3pnamlOR2FqXy12aGdYMzJma1gxWDJqOS1QTC1UblNsV2ZOUnpKUVEySzRmWnY0amhzZ3NXNUZpUzJZUTBaR1YtRmZqVDBPVlJfa29SUzdOU1lNX2l5Tm5kTlN5RG5EdHBkQ1FYem1hQ3pKLVFwc1BNdXZlMkRyN203U2JZWjljYWdTcnpXN2pPd0l5YUZsbGlGT3hERVkwMmVG?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c8d8a051fe99db",
-      "title": "Ajax op bezoek bij Fortuna Sittard: Míchel Sánchez staat voor drie belangrijke keuzes in opstelling",
-      "category": "Wedstrijden",
-      "published": "2026-09-11T10:05:00+00:00",
-      "updated": "2026-09-11T10:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1heno1SV9jV3p5bW9tVjRXVjA1LXBHSEEyY25YLWNqMW55aDhOUndCOXBMMmJYVnRMUUpQdHlyd1RNdXFEXzdZOV9KWXhBUG96QnJHSzVPd29NTl9WWjRKYXJUTkczRTlVQy01Vm1kV0x6YmJmb2dZRTFyeEF3Z2VOUHRrcHY2clRVNjlYS0NzcXlObkQtOUI1bC1aX1hCVUx3OEdRcnhKUXZOS1pKSmR2eGVwellyWnRJN0dPVnQyWHpvZEJlbldPdFQ5UVloRVVmUXlwcE4wS1pXZk9XWDB1RQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -224,36 +224,6 @@
       "related_sources": []
     },
     {
-      "id": "f5e9c0710c493f",
-      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
-      "category": "Overig",
-      "published": "2026-09-11T06:44:23+00:00",
-      "updated": "2026-09-11T06:44:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0RyUmtvT195NXNrNDdKWnNIOV9Xam5PdGg4Wl85dzhVY24xQUpBTjdLemcxUFgyaVY0S1ZVVE4tRlR0ZTZCUUtJUGk0eDdYcWRON2IyTEhkMVRSdnMyclJzLWpCYVNVal96QjJnTVJrZnN2dWVjYmxfR05wSFB5Mk9EeTEteWVyMjI1LWZWbFVTUmJkNHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "584388ea7dd7a7",
-      "title": "Iedereen tegen Ajax Feyenoord eist titel",
-      "category": "Overig",
-      "published": "2026-09-11T05:45:23+00:00",
-      "updated": "2026-09-11T05:45:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHBwVDVVN1JnOVduYWtxbC1Yb2ZfU09zcFE1U2dTZ1BNb0VZSUpqa0x1WnVSVjlnR2ctZG9NM2dFbGhuR0tUYkxGYkhvdnE4VnZTT3ZFc1RWRFdXVkpqSVJZNzRrUUdoZWlMS3lUV295T0ZKWGZPcl9zZE9zTjZLOGVHSHk1eWxiLWdMOUs4ZVBjQ3V1NWI5R2U3REtGRExFS0ZCMGRwNmg4cTVIZmpaU1R3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "5279ea3abb0204",
       "title": "Kraay over Ajax-aanwinst: 'Schrik elke keer dat hij op Nederlandse velden loopt'",
       "category": "Transfers",
@@ -265,21 +235,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134195/kraay-fileert-ajax-duo-wat-is-dat-dat-ze-dat-durven.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "314cfbc3359814",
-      "title": "Derksen: 'Kleuterklas Ajax redt het nooit'",
-      "category": "Overig",
-      "published": "2026-09-11T03:38:34+00:00",
-      "updated": "2026-09-11T03:38:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzgwMk5MeEJ4djhfSWplSXFFZ1dEUXlBdWhtTG9DeHdxY2VmVU5GbW5vMzFIZ3FTZFFlUm5pR0VnWmdQbVQ4bTljX1Q0ZlBKMk9nR3RxQlExcE1QYWJmMjh1Rm5fTFV5QU9fcE1ldTktUEU0bUFDNUR5MXJYWGZTd3RsTEZGQkY3QXI4blhYZnNaTGNheGc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -615,6 +570,51 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133976/henk-spaan-verbaasd-over-rol-van-mokio-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1cde33d64759f2",
+      "title": "Kieft tempert verwachtingen rond Ajax-spitsen: 'Wat denk je nou, een nieuw wereldwonder of zo?'",
+      "category": "Selectie",
+      "published": "2026-09-10T08:40:00+00:00",
+      "updated": "2026-09-10T09:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjN5VEdKeFUyQ2RDRVd3NEFMdHJJYXF3aDVoRGJ1c2xzVjFHeHFkMWRXVFRxR1FvVTRKdmNOdi15WHBPWWViS3NFdFF4eGJNZnN1U0NQNWM0NUsydE1kMHluc3dhd0pnNG5IRk5pRXNCWmV1U2s3d215SXZvYk1USWZIaFJ2SHVhRFNGLTdLb0k2QUVTQ3hZaTF3ZG1lVzluelVWS1NZQ1NtLW1EOXRQQjB5QXFzMXNGUnhvdmR5WHByUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4459c794f5a909",
+      "title": "Oekraïne heeft oud-Ajacied Traoré veranderd: 'Zie waarde van vrede en liefde meer in'",
+      "category": "Transfers",
+      "published": "2026-09-10T08:22:29+00:00",
+      "updated": "2026-09-10T08:22:29+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2630419",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c3afe9bf0ef55f",
+      "title": "BBC schaart Ajax bij succesvolste dynastieën ooit: 'Invloed gaat veel verder...'",
+      "category": "Overig",
+      "published": "2026-09-10T07:26:16+00:00",
+      "updated": "2026-09-10T07:26:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2133903/bbc-zet-ajax-dynastie-op-plek-twee-van-beste-voetbalteams-ooit.html",
         "via_google_news": false
       },
       "related_sources": []
