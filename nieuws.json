@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T18:33:51.440537+00:00",
+    "generated_at": "2026-09-11T18:55:28.576251+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 52,
+    "article_count": 54,
     "event_count": 40,
-    "discovered_event_count": 49,
+    "discovered_event_count": 50,
     "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 79,
+    "excluded_paywall_count": 72,
     "excluded_video_only_count": 12,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "2daa8289b2826f",
+      "title": "Gregory van der Wiel maakt statement over Ajax - PSV: 'Je bént die fout'",
+      "category": "Overig",
+      "published": "2026-09-11T18:39:00+00:00",
+      "updated": "2026-09-11T18:39:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXR0WmpLUjU4MEVXV1BHcFJIWkJISFRsSVY0LW9wVW84SGJPc0hMc1dVUGs2WVhRR1NsOUh5Z0Q4TXdSeVdNeGl6OG03N0pfSDBPZ3RQNjRZZ2NRTmRGTFdpb2kwMmFWb2F0VmUzNERfVVltdUJKSzVWRVpxempQVmJkYW5nbk0xNWJFc01uQ0xTbm91SXB2RjY1ZUludGMyRnhQeERWMzA0RnRKSXN1RXdfZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b2297013313218",
+      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken",
+      "category": "Overig",
+      "published": "2026-09-11T18:31:00+00:00",
+      "updated": "2026-09-11T18:31:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp0aGU4MzU0bDQ4XzZLNzJNSTNIVHg0SkFRcTRGTDFlZVZIaVZ1aEhJRnllWEN6ZHNEOVR2X1dEMkU3UkRtc0JTbUo0X1Vyci1VbGtaa2tVUUN3d1ZiS3hLc1BrS1FYbi05UzcxZHU3ZlVISmtIZEZWR09lMXdnWDQ3TWplZlk4bVNMYlU4aDZCTXVOWnVuZThvMFJHT3V1ZGtqMkF5YnZpUkZnTnc0LTlGVGplUWs?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "46521995b39797",
       "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt in elke linie, vervanger Bouwman bekend",
@@ -269,21 +299,6 @@
       "related_sources": []
     },
     {
-      "id": "f5e9c0710c493f",
-      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
-      "category": "Overig",
-      "published": "2026-09-11T06:44:23+00:00",
-      "updated": "2026-09-11T06:44:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0RyUmtvT195NXNrNDdKWnNIOV9Xam5PdGg4Wl85dzhVY24xQUpBTjdLemcxUFgyaVY0S1ZVVE4tRlR0ZTZCUUtJUGk0eDdYcWRON2IyTEhkMVRSdnMyclJzLWpCYVNVal96QjJnTVJrZnN2dWVjYmxfR05wSFB5Mk9EeTEteWVyMjI1LWZWbFVTUmJkNHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "584388ea7dd7a7",
       "title": "Iedereen tegen Ajax Feyenoord eist titel",
       "category": "Overig",
@@ -310,21 +325,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134195/kraay-fileert-ajax-duo-wat-is-dat-dat-ze-dat-durven.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "314cfbc3359814",
-      "title": "Derksen: 'Kleuterklas Ajax redt het nooit'",
-      "category": "Overig",
-      "published": "2026-09-11T03:38:34+00:00",
-      "updated": "2026-09-11T03:38:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzgwMk5MeEJ4djhfSWplSXFFZ1dEUXlBdWhtTG9DeHdxY2VmVU5GbW5vMzFIZ3FTZFFlUm5pR0VnWmdQbVQ4bTljX1Q0ZlBKMk9nR3RxQlExcE1QYWJmMjh1Rm5fTFV5QU9fcE1ldTktUEU0bUFDNUR5MXJYWGZTd3RsTEZGQkY3QXI4blhYZnNaTGNheGc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
