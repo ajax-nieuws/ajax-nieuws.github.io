@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T17:55:12.828934+00:00",
+    "generated_at": "2026-09-11T18:33:51.440537+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 55,
+    "article_count": 52,
     "event_count": 40,
-    "discovered_event_count": 51,
+    "discovered_event_count": 49,
     "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 84,
-    "excluded_video_only_count": 13,
+    "excluded_paywall_count": 79,
+    "excluded_video_only_count": 12,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "46521995b39797",
+      "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt in elke linie, vervanger Bouwman bekend",
+      "category": "Wedstrijden",
+      "published": "2026-09-11T18:18:43+00:00",
+      "updated": "2026-09-11T18:18:43+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134618/vermoedelijke-opstelling-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "1b4de3a92be370",
       "title": "Ajax-talent is terug van weggeweest en maakt kans op minuten namens Jong Ajax",
@@ -174,21 +189,6 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpqWm1sTENRMVEtTXlmNGF6dndXS000UEhvbktYVDZ1ME0zOEJFSzZIT1FEWlM5aFFLemZrY1d6S3dwNjVYUEhRZF81TlRCM3ZaczNKdV85bXhlX1RMZGh0dTBZeDV4T1hkbFlzejFUaHRoeHV1eko5VGVlRTZfRUo3SEd3YUpfZDZ2VEJ3WlNUTHJsSnpoM19sbw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "453a2fff94a7bd",
-      "title": "Rondom: Ajax te zien op het open kanaal van ESPN",
-      "category": "Overig",
-      "published": "2026-09-11T12:35:00+00:00",
-      "updated": "2026-09-11T12:35:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGc1aU84dVJUZTdIZ2xySXYxWFZCTy1KdDc0TzdrUFJJSE9MS2xkYXNURFpiRlR6YWhGWW80czQ5Ym1nbnp4RDJHaTRHWGlTX3EydW1BSDQxNnpwMTRUenF6bGtydXl6TGd2NXpiSmdZb1A0VjRjRjR0M3VwMGhpT2M2QmxYalRRQy02bVpsRk9NamZPSENVUUtuaHBsbGM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -374,6 +374,21 @@
       "related_sources": []
     },
     {
+      "id": "c3609e70f152cc",
+      "title": "Ajax na een transferzomer vol veranderingen: dit zijn de mogelijkheden van Míchel",
+      "category": "Transfers",
+      "published": "2026-09-10T19:00:00+00:00",
+      "updated": "2026-09-10T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0RFc3l3bkVTVGpFWkNlZjJiWnFWREJOSnBfVkl1NWZVUVVKMGZSa2Y5OWRxS1VEMGN4cEdHSmw4Vk1IWHpTekVDU3ZfNzIxMEUzZjh3WTJLSC1mZEkxVkQ4Zk9yUk9zVlVkbHBnVG0wNXZtWHBONW5OYzNQalNoVGxfMldBSDctR0VpR1Nra0psQWNvUTNCbTQxVDhJOEdPQTVQVU54NE14TW5DZmtqN2d4bDY0Y0drRkhWNWlR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "0e184be30771a0",
       "title": "Ajax aangekomen in Timisoara",
       "category": "Overig",
@@ -500,6 +515,21 @@
       "related_sources": []
     },
     {
+      "id": "0b2fdea3dbec0e",
+      "title": "Ajax winterkampioen na zege op De Graafschap",
+      "category": "Wedstrijden",
+      "published": "2026-09-10T14:25:24+00:00",
+      "updated": "2026-09-10T14:25:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTB2dXlOZVA4VFk0SV9yNFlRdmtJclBIaGxEa1hyTWJSVGNhTldHcTQ2eHdiSUJwSC1jY1FWUVl2LXZMb2FZWnpVbkZKaVBZNXZnUmozeGhtVEZLbXJWeTJxU1VHWEJxaVRCMHRxbGcwd2xLMmt1REFMa0oydExTaGlKd0FlZGJNOFVFcDk3RkJrdm1lWVNtVkZRUXBTdXNvYTVj?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "5028f8a2c99777",
       "title": "Hakim Ziyech vindt nieuwe club: oud-Ajacied vervolgt loopbaan in Brazilië",
       "category": "Overig",
@@ -586,36 +616,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134033/de-mos-leeft-mee-met-oranje-kandidaat-bouwman.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5c4b9dcf4f9549",
-      "title": "Opvallend gerucht: 'Europese topclub toont interesse in ex-Ajacied Bassey'",
-      "category": "Transfers",
-      "published": "2026-09-10T11:28:45+00:00",
-      "updated": "2026-09-10T11:28:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134021/opvallend-inter-toont-interesse-in-ex-ajacied-bassey.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a60e2fa9c9c0a4",
-      "title": "Verbijstering om beslissing van Ajax: 'Dat je dit als trainer toelaat...'",
-      "category": "Overig",
-      "published": "2026-09-10T09:53:00+00:00",
-      "updated": "2026-09-10T09:53:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXdESi1JSkhLdS1CSFBMQ01TU3dGS3I2TGpKbTVzdFRIRmhpMHNGNnQyYi04ajdxNVNKZkNBOUVXTnN3c0ZBd3kxQWNQbTJxR19ZWlNLdnlKLXU5OXgtblYzVk9CRUszY2c1OTlOZEQxUjZFUnN6aHEyNGV2eW11bWN4V3VUTWdYdFZlR1lkdVZDUjBlZFhjTDJUQmpZM1ZQdTBJ?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
