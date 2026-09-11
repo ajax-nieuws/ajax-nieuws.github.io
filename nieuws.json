@@ -1,18 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T22:55:08.142712+00:00",
+    "generated_at": "2026-09-11T23:27:38.980345+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 56,
+    "article_count": 57,
     "event_count": 40,
     "discovered_event_count": 52,
     "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 104,
+    "excluded_paywall_count": 108,
     "excluded_video_only_count": 11,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "36fd9ced1a7901",
+      "title": "Jong Ajax - RKC (11 sep., 2026) Live tussenstand",
+      "category": "Jong Ajax",
+      "published": "2026-09-11T18:07:21+00:00",
+      "updated": "2026-09-11T21:53:07+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GcWNiZnFFbVB3VHYzR3NkaEFVWnNQSlJ5OGhjeEEwSjZ3Z1dLTFRmVVlqUXVFb0ZvTHJfZHdHTWpOZjEtZVRBeXdYZEpzWmNEaTI3RzJmYUlLcGZXMmM1b3BNaTRKcGstUXp0YjJB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbGV5WHJyUWM5RXBRdFVuZERJTDdibHJHbG5Yc0s2TERRLW9xcEp2UlQ0TWNwa25SRWxTTHN4RDhkVmtQT1hKbGtzT3pCcXN5bk05RGx5UTd1UEhfbTFOZkctZi1ySmpBM0NLckRxYUc2OUZBc0VZMncwZVRPY25Gam9YdGI1Nl9Ob1R4dWpFbG45aThqQ0VkM2VrSC1ycnZlMmdIQVgtY0tBUGFKdlhEbVQxclhuOGRqcEl2OWFFLXpLcC1LMHgzU3ZwTDJsSTluUC1NOVBOY3NTbUZjV0h4dWdR?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "99514fb5beb1d9",
       "title": "Beslissing valt in laatste minuten | Samenvatting Jong Ajax - RKC Waalwijk",
@@ -100,21 +121,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134618/vermoedelijke-opstelling-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fce5c91580658c",
-      "title": "Jong Ajax - RKC (11 sep., 2026) Live tussenstand",
-      "category": "Jong Ajax",
-      "published": "2026-09-11T18:07:21+00:00",
-      "updated": "2026-09-11T18:07:21+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GcWNiZnFFbVB3VHYzR3NkaEFVWnNQSlJ5OGhjeEEwSjZ3Z1dLTFRmVVlqUXVFb0ZvTHJfZHdHTWpOZjEtZVRBeXdYZEpzWmNEaTI3RzJmYUlLcGZXMmM1b3BNaTRKcGstUXp0YjJB?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -224,7 +230,7 @@
       "related_sources": []
     },
     {
-      "id": "0351771d471952",
+      "id": "11d625ad878a94",
       "title": "Creatieve Brandt behoort tot groepje leiders bij Ajax: 'Geven gezamenlijk het goede voorbeeld'",
       "category": "Overig",
       "published": "2026-09-11T13:55:00+00:00",
@@ -284,6 +290,21 @@
       "related_sources": []
     },
     {
+      "id": "fdef8fc1cf7f72",
+      "title": "Ajax - PSV (samenvatting)",
+      "category": "Overig",
+      "published": "2026-09-11T10:33:00+00:00",
+      "updated": "2026-09-11T10:33:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1RBbnNFRlBhcG1GOEhuRmFSdlVHNV9TREdEdDhTV1VCd0NpRUlscGEtdUJCR1JZZnhaU3hnOHRYemt4TWltemo4WEx3OGpYZUZ4c0RJcHZ2NlVQNTRMU21BOXZYd1BWVE0tZUN4bFVMUnNLekk0V3loaTNWMU5TUTNoa1RhaVRfNHZ5YnZDaFh2UmstaExsUHktbHZSUGd2RnRv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "95d4e46d8763cf",
       "title": "Huurspeler zit op zijn plek bij Ajax: 'Ik sta zeker open voor een langer verblijf'",
       "category": "Transfers",
@@ -299,6 +320,21 @@
       "related_sources": []
     },
     {
+      "id": "252a02f08fcf18",
+      "title": "Ajax had Emanuelson moeten verkopen",
+      "category": "Transfers",
+      "published": "2026-09-11T08:15:16+00:00",
+      "updated": "2026-09-11T08:15:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1h4TnEwdUxOWHZwWkZxdDNsRmZWVzNEVVFaOU82YVNoSE41ZVMzb1JWWmVUZkg5SzJsaHJhMk1LZm9VN2FraFB2X3VBQ0dCZm5mRFYteTAwVnM0dmdCcE1meTJYM1M3SmpmY0pTV3R1d1dMODFNMnVYb0lpWnBsWDBmbnBFYmg2N2JhUl9jMFdZajlxV2JvN2E5bjRGd2s3Yi1VNkpCd3p5eFk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "7a107a1afc9e62",
       "title": "Ajax aast op revanche na tik tegen PSV!",
       "category": "Overig",
@@ -309,36 +345,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2MwUDhNMmtVQm14RktVekNVb1RoRm51WVFfWXFVZ3FwdzMyZGliZUJQc0pTa1dodEFRWUcyUE1SRkVFWHhrNjBycGlER0poaU51UXg4NXlFeTcyaFR5T1NmOHFBa2pYRUVaNWRHcUFRaVZJcXh4Zlh3OV9RSXlmTk8yRzhqYUdzM080d2pIY1JFZGFDTDAw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f5e9c0710c493f",
-      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
-      "category": "Overig",
-      "published": "2026-09-11T06:44:23+00:00",
-      "updated": "2026-09-11T06:44:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0RyUmtvT195NXNrNDdKWnNIOV9Xam5PdGg4Wl85dzhVY24xQUpBTjdLemcxUFgyaVY0S1ZVVE4tRlR0ZTZCUUtJUGk0eDdYcWRON2IyTEhkMVRSdnMyclJzLWpCYVNVal96QjJnTVJrZnN2dWVjYmxfR05wSFB5Mk9EeTEteWVyMjI1LWZWbFVTUmJkNHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "584388ea7dd7a7",
-      "title": "Iedereen tegen Ajax Feyenoord eist titel",
-      "category": "Overig",
-      "published": "2026-09-11T05:45:23+00:00",
-      "updated": "2026-09-11T05:45:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHBwVDVVN1JnOVduYWtxbC1Yb2ZfU09zcFE1U2dTZ1BNb0VZSUpqa0x1WnVSVjlnR2ctZG9NM2dFbGhuR0tUYkxGYkhvdnE4VnZTT3ZFc1RWRFdXVkpqSVJZNzRrUUdoZWlMS3lUV295T0ZKWGZPcl9zZE9zTjZLOGVHSHk1eWxiLWdMOUs4ZVBjQ3V1NWI5R2U3REtGRExFS0ZCMGRwNmg4cTVIZmpaU1R3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
