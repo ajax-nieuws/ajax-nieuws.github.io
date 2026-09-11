@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T03:31:12.500325+00:00",
+    "generated_at": "2026-09-11T03:56:32.365384+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 55,
+    "article_count": 53,
     "event_count": 40,
-    "discovered_event_count": 51,
+    "discovered_event_count": 49,
     "source_count": 9,
     "feed_error_count": 0,
-    "excluded_paywall_count": 90,
-    "excluded_video_only_count": 27,
+    "excluded_paywall_count": 91,
+    "excluded_video_only_count": 25,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -500,21 +500,6 @@
       "related_sources": []
     },
     {
-      "id": "b34ad246b9fe10",
-      "title": "'Jeugdopleiding Ajax bijna allemaal import'",
-      "category": "Jeugd",
-      "published": "2026-09-09T17:48:34+00:00",
-      "updated": "2026-09-09T17:48:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0ZqMFZ2a3BuWlFmLVVSNVN3eEpGeV9sX29UTFp0UzNBaVc2aTUwN0lfQXdJZURJYzhjajhpOVYydDZlSWxWWUtsQUdydTNFTFFRVEFVVWZyMk9iRXFLVEhDSW9NSGhlQzY5NEo1MEl6NC13WWRrTFUzRTc5ckRPbWtLdkxkNlUtUzhValEzOFktRUdleTlGeTJhcVc4X1JGb3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "4c2216b3e197ea",
       "title": "Ajax zou nog kijken naar clubloze middenvelders: enkele opvallende opties op een rij",
       "category": "Selectie",
@@ -615,6 +600,21 @@
       "primary_source": {
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/55984/Hoe-ziet-jouw-ideale-Ajax-eruit%3F",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2e32b2fb4f2d46",
+      "title": "Weet Ajax uit bij verrassend Fortuna Sittard te winnen?",
+      "category": "Wedstrijden",
+      "published": "2026-09-09T13:05:03+00:00",
+      "updated": "2026-09-09T13:05:03+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55983/Weet-Ajax-uit-bij-verrassend-Fortuna-Sittard-te-winnen%3F",
         "via_google_news": false
       },
       "related_sources": []
