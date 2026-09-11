@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T20:56:08.245443+00:00",
+    "generated_at": "2026-09-11T21:28:10.864025+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 58,
+    "article_count": 59,
     "event_count": 40,
-    "discovered_event_count": 52,
+    "discovered_event_count": 53,
     "source_count": 8,
     "feed_error_count": 0,
     "excluded_paywall_count": 70,
@@ -13,6 +13,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "99514fb5beb1d9",
+      "title": "Beslissing valt in laatste minuten | Samenvatting Jong Ajax - RKC Waalwijk",
+      "category": "Jong Ajax",
+      "published": "2026-09-11T20:33:21+00:00",
+      "updated": "2026-09-11T20:33:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaS1ZZVFvQ05GVUtJR1FrVHdPQzYxRW01Q2laNG5CNnoybmVkNktBVHRjanZNcVIwYjRCYVJTWVZJN2xBelNOMWhEbW1TVndLQ210d0g2R0I1eHZkMHk5YjdTSnZjQTJibW56aEdtZGdGaE5YV2tVMnk2Q1EyMXBlaWY1cDZ4YTRCa0ZXNzRsamtDRnl3ZFNRWUZQanJwRVFEeG1qTFpKblpBcU9rdmdCdzd2aWdLUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "0695f0506d7921",
       "title": "Jong Ajax en RKC houden elkaar in bedwang - Ajax",
@@ -618,21 +633,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWhEVHhvWEtlQlVQLW4zempZT3huYmRYTHI0WjUwa2NmeUVQRDFVeHp5Zl9MaDhUc3JnaEMydnU4eUROQkE3V0F2TERZQlFXT3BfSklWYW5HZjZrUWtBTXdGQlFsWHU3V2hKc0F0OVNES25MR3lSQ2otbUMzM08walNjTk9WbERCTkZ2OW50V1VhWndxR0h4U1ZUUEVuTHZ5VnF4NXctaTY5T2hs?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4b5cdf8d004417",
-      "title": "Endt: 'Geen rancuneuze gevoelens' - ajaxshowtime.com",
-      "category": "Overig",
-      "published": "2026-09-10T13:34:25+00:00",
-      "updated": "2026-09-10T13:34:25+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHRyMUJQd1ItcFNPUjUxS001NU5xbkktWnJReVVEV0RKZDZ3eG15ZHBVWXVkUXVwWVdHTzhYb2xuZllNQ195dHlWeWluYTJzSmNhY3RqeW54cXZaZVhrUmQ4Y2xsYmpYMU1kZTlWR09hQWoweVpBUlE1Y1BCbG9KLVhveWJFWjE5TlZBd1E1Qy1OTlcyV1cwbkZDUjN6MUFxdUxOXzB3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
