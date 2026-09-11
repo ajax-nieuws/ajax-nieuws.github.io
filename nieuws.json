@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T15:31:09.351210+00:00",
+    "generated_at": "2026-09-11T15:56:00.536198+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 49,
+    "article_count": 52,
     "event_count": 40,
-    "discovered_event_count": 45,
+    "discovered_event_count": 49,
     "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 101,
+    "excluded_paywall_count": 100,
     "excluded_video_only_count": 14,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e8e233215e078b",
+      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
+      "category": "Wedstrijden",
+      "published": "2026-09-11T15:40:00+00:00",
+      "updated": "2026-09-11T15:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTlsUDJyZU1zWHRBc2ZaWHlEaDJRaWZpaUhBWWJ0X1ZtTWVIeXpmQVh6VWd4VGd4M09lTW9rTVJZbkdLV3BJRGpHV05wbXRFUzc3SHIyTUxOM2NZRnNzZXk3MG5DT2FTbUhHVXpDTEhTa01McVNNRXZtOEkzTEtPVHE5bkVia0xFRHdGNG1oNGkwNDV4QkFSVkdxZEd5NUZ5ZTE1VEpfZ0dKOS03YTl0a1pUMGNhdU9RLXZtMQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "b0358bb9a0e877",
       "title": "Parool schetst: 'Deze zes spelers pakken de leiding in spelersgroep van Ajax'",
@@ -179,21 +194,6 @@
       "related_sources": []
     },
     {
-      "id": "e8e233215e078b",
-      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
-      "category": "Wedstrijden",
-      "published": "2026-09-11T09:35:00+00:00",
-      "updated": "2026-09-11T09:35:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTlsUDJyZU1zWHRBc2ZaWHlEaDJRaWZpaUhBWWJ0X1ZtTWVIeXpmQVh6VWd4VGd4M09lTW9rTVJZbkdLV3BJRGpHV05wbXRFUzc3SHIyTUxOM2NZRnNzZXk3MG5DT2FTbUhHVXpDTEhTa01McVNNRXZtOEkzTEtPVHE5bkVia0xFRHdGNG1oNGkwNDV4QkFSVkdxZEd5NUZ5ZTE1VEpfZ0dKOS03YTl0a1pUMGNhdU9RLXZtMQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "95d4e46d8763cf",
       "title": "Huurspeler zit op zijn plek bij Ajax: 'Ik sta zeker open voor een langer verblijf'",
       "category": "Transfers",
@@ -209,21 +209,6 @@
       "related_sources": []
     },
     {
-      "id": "252a02f08fcf18",
-      "title": "Ajax had Emanuelson moeten verkopen",
-      "category": "Transfers",
-      "published": "2026-09-11T08:15:16+00:00",
-      "updated": "2026-09-11T08:15:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1h4TnEwdUxOWHZwWkZxdDNsRmZWVzNEVVFaOU82YVNoSE41ZVMzb1JWWmVUZkg5SzJsaHJhMk1LZm9VN2FraFB2X3VBQ0dCZm5mRFYteTAwVnM0dmdCcE1meTJYM1M3SmpmY0pTV3R1d1dMODFNMnVYb0lpWnBsWDBmbnBFYmg2N2JhUl9jMFdZajlxV2JvN2E5bjRGd2s3Yi1VNkpCd3p5eFk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "7a107a1afc9e62",
       "title": "Ajax aast op revanche na tik tegen PSV!",
       "category": "Overig",
@@ -234,6 +219,36 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2MwUDhNMmtVQm14RktVekNVb1RoRm51WVFfWXFVZ3FwdzMyZGliZUJQc0pTa1dodEFRWUcyUE1SRkVFWHhrNjBycGlER0poaU51UXg4NXlFeTcyaFR5T1NmOHFBa2pYRUVaNWRHcUFRaVZJcXh4Zlh3OV9RSXlmTk8yRzhqYUdzM080d2pIY1JFZGFDTDAw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f5e9c0710c493f",
+      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
+      "category": "Overig",
+      "published": "2026-09-11T06:44:23+00:00",
+      "updated": "2026-09-11T06:44:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0RyUmtvT195NXNrNDdKWnNIOV9Xam5PdGg4Wl85dzhVY24xQUpBTjdLemcxUFgyaVY0S1ZVVE4tRlR0ZTZCUUtJUGk0eDdYcWRON2IyTEhkMVRSdnMyclJzLWpCYVNVal96QjJnTVJrZnN2dWVjYmxfR05wSFB5Mk9EeTEteWVyMjI1LWZWbFVTUmJkNHc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "584388ea7dd7a7",
+      "title": "Iedereen tegen Ajax Feyenoord eist titel",
+      "category": "Overig",
+      "published": "2026-09-11T05:45:23+00:00",
+      "updated": "2026-09-11T05:45:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNHBwVDVVN1JnOVduYWtxbC1Yb2ZfU09zcFE1U2dTZ1BNb0VZSUpqa0x1WnVSVjlnR2ctZG9NM2dFbGhuR0tUYkxGYkhvdnE4VnZTT3ZFc1RWRFdXVkpqSVJZNzRrUUdoZWlMS3lUV295T0ZKWGZPcl9zZE9zTjZLOGVHSHk1eWxiLWdMOUs4ZVBjQ3V1NWI5R2U3REtGRExFS0ZCMGRwNmg4cTVIZmpaU1R3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -329,6 +344,21 @@
       "related_sources": []
     },
     {
+      "id": "0e184be30771a0",
+      "title": "Ajax aangekomen in Timisoara",
+      "category": "Overig",
+      "published": "2026-09-10T18:05:40+00:00",
+      "updated": "2026-09-10T18:05:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnZuUEpiS0xraUdEVkd6QjNfSDZtdDZmd0ZuVU9UY3ozTGdVbHQwZk5Bc2ttOFUyVDlKYzlRb3d1d1VEOXJNcTB3cGNfdlI0TkNYeWNBbTZQSUN5WWNucVRFLUdHM19DNUdMaXphd1YzVFpyU3N1Zk5DMG41RzZnMVgyYWJ5N3FSY1Z2X2cxS0lEVmQxLU1oaEJkVElfVVpLN3c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "b413ce47f9edcc",
       "title": "Kehrer over Burundi en Ajax: ‘Ajax is ook altijd een soort referentiepunt voor voetballiefhebbers geweest'",
       "category": "Overig",
@@ -339,6 +369,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDE4ZndPWVRZeTUxaHd3RXZwTU9yZnBkLWZvVkQwRDZneG9JUFliNlBESnZlb0FJM05EUzFWX09YNDFIVEdPSWkxNjBXakNhZE5yOXJwX04za2drWG9Ub1lpNF9uOF9qeDBPdTdFcUIzVW4zZUo2MG9aSXlrQ2wyYTFiRDdCaklkREEtSW4xOFJlU3VuTWFCZFlTNjRXRUlzMmlOc3NBc0stUnpCelUxTHBYbkhwUVk3VC1BYVhGV2FsM1lxMGpaSXN2REM2Sk9qUVhtVzlmSkRZR1VP?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "144e791143133b",
+      "title": "Ajax zoekt steun voor cruciaal duel",
+      "category": "Overig",
+      "published": "2026-09-10T17:26:46+00:00",
+      "updated": "2026-09-10T17:26:46+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2llLTZHQlFiWE5NdTNHS1E2dDg4UWo5YXRvbXZPdUYzdHVrX0RHN004S0hPalh6RjdWQ0R5Skt5QnBzZUtuMWxmOVlEWGxXdXBmc1JhQWZEdTNoS2E1TVl4WlFDam9ieFFIOHdVdTN6Y2JiQV94RjdraHFMSUN3VWVpSDM2M3B2emhudlJpQ3g1ZEJ6RkRhcVA0TGVpamJpOUNhY0lEbVNVUnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -570,51 +615,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2133976/henk-spaan-verbaasd-over-rol-van-mokio-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1cde33d64759f2",
-      "title": "Kieft tempert verwachtingen rond Ajax-spitsen: 'Wat denk je nou, een nieuw wereldwonder of zo?'",
-      "category": "Selectie",
-      "published": "2026-09-10T08:40:00+00:00",
-      "updated": "2026-09-10T09:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNjN5VEdKeFUyQ2RDRVd3NEFMdHJJYXF3aDVoRGJ1c2xzVjFHeHFkMWRXVFRxR1FvVTRKdmNOdi15WHBPWWViS3NFdFF4eGJNZnN1U0NQNWM0NUsydE1kMHluc3dhd0pnNG5IRk5pRXNCWmV1U2s3d215SXZvYk1USWZIaFJ2SHVhRFNGLTdLb0k2QUVTQ3hZaTF3ZG1lVzluelVWS1NZQ1NtLW1EOXRQQjB5QXFzMXNGUnhvdmR5WHByUQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4459c794f5a909",
-      "title": "Oekraïne heeft oud-Ajacied Traoré veranderd: 'Zie waarde van vrede en liefde meer in'",
-      "category": "Transfers",
-      "published": "2026-09-10T08:22:29+00:00",
-      "updated": "2026-09-10T08:22:29+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2630419",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c3afe9bf0ef55f",
-      "title": "BBC schaart Ajax bij succesvolste dynastieën ooit: 'Invloed gaat veel verder...'",
-      "category": "Overig",
-      "published": "2026-09-10T07:26:16+00:00",
-      "updated": "2026-09-10T07:26:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2133903/bbc-zet-ajax-dynastie-op-plek-twee-van-beste-voetbalteams-ooit.html",
         "via_google_news": false
       },
       "related_sources": []
