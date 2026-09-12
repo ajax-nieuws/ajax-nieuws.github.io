@@ -1,18 +1,64 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T07:27:58.233885+00:00",
+    "generated_at": "2026-09-12T07:54:52.462581+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 66,
+    "article_count": 68,
     "event_count": 40,
     "discovered_event_count": 61,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 109,
-    "excluded_video_only_count": 17,
+    "excluded_paywall_count": 108,
+    "excluded_video_only_count": 23,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "da8da80bcb94d5",
+      "title": "Ajax en Indonesische voetbalbond gaan voetbalpartnership aan - Ajax",
+      "category": "Overig",
+      "published": "2026-09-12T07:02:53+00:00",
+      "updated": "2026-09-12T07:52:51+00:00",
+      "source_count": 4,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTdZWi1uMEdHSFkyczF4SEdUQjVkZUl2WmlTZmNUUGRDbUZVanlnU1N2dU80bFZaZ1R1dzJGUXZnZzFlVWpyNVA5akVjSDNibmRUQWZCQ1I0eC1DLWJuZk1COGs0OGFPRU50NGlFVFVZV2c0U09aV3BNQ0x2UGFUU0wyT21tMkE2VkhHanZsMzM0RDd5dlE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-kondigt-samenwerking-aan-met-indonesische-voetbalbond",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcVhmWHltVjhTT2ROOXhpdTlLaHBJRmx2Qkk1NHFrZEh2YkZSdjFURXN5ME1UUUhzTDRSZU5vVnV0NDU2eTNvVzhGdi1JUXRDQnlabTI3TTdmY1BEYmg4RjV0U0tSMHZhMW5aMTdjcG45X2tnZndZcko1VXp5cnVRNUVwb0NkeUlmTURoSEJROHh0U1VhbE1GcnowOVEyV3c1Yk54SA?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWVnX3Q2YjZqRVhib1A1TjJpQ1NubG5OUTFBSFRnMllpWk5HWDVXM0JERm9YZnA1cWtWTUpROXQ5dUxyblYwMmtKOUJTNVYzQWxpbzhMMlJLaEpXdkJEOVhMaERKUjVlOVh3OUpxX1BoVGgwMXFSbUZtcFRYSGhkQzh3dVhTcU02REItRTl1NkVGblgtNmNqaTJqYkZ0aHB3Ulg0T2VnQnRIUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "2c1066e985657a",
+      "title": "Verkuijl: 'Bij Ajax kan ik mijn hoofd leegmaken en mijn verstand even op nul zetten'",
+      "category": "Overig",
+      "published": "2026-09-12T07:30:00+00:00",
+      "updated": "2026-09-12T07:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2hJOVlWSFVEUUZDUjBJZjJEOU42RzJHWUgzRVZ0c1BXRmNwcDJNN2pmMWRmU0JWZ3lya3pZNUZjS3hyVnJHdFlnVGpiaFE0RnUzeVM4dUpvcUhOd2NoRDNzbzVfSGtCV3pSNlUwWDFodGNZV01wQzZIcnE0UzNUVFhudnU1U2F3US1XVzc1elR4d1FqWk9XUmFOR0dqQlh0Snc3eUtmb0RoZW9hXzNYa1R1WXRjN3UyM2V2ZGF6clExa2FRUW4yZTdBNlQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "e18e1b4df401cf",
       "title": "Ajax gaat bijzondere samenwerking aan: 'Geweldig potentieel en enorme liefde'",
@@ -27,27 +73,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "da8da80bcb94d5",
-      "title": "Ajax en Indonesische voetbalbond gaan voetbalpartnership aan - Ajax",
-      "category": "Overig",
-      "published": "2026-09-12T07:02:53+00:00",
-      "updated": "2026-09-12T07:10:00+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTdZWi1uMEdHSFkyczF4SEdUQjVkZUl2WmlTZmNUUGRDbUZVanlnU1N2dU80bFZaZ1R1dzJGUXZnZzFlVWpyNVA5akVjSDNibmRUQWZCQ1I0eC1DLWJuZk1COGs0OGFPRU50NGlFVFVZV2c0U09aV3BNQ0x2UGFUU0wyT21tMkE2VkhHanZsMzM0RDd5dlE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWVnX3Q2YjZqRVhib1A1TjJpQ1NubG5OUTFBSFRnMllpWk5HWDVXM0JERm9YZnA1cWtWTUpROXQ5dUxyblYwMmtKOUJTNVYzQWxpbzhMMlJLaEpXdkJEOVhMaERKUjVlOVh3OUpxX1BoVGgwMXFSbUZtcFRYSGhkQzh3dVhTcU02REItRTl1NkVGblgtNmNqaTJqYkZ0aHB3Ulg0T2VnQnRIUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "2c71a47ccaa6bf",
@@ -191,19 +216,25 @@
       "related_sources": []
     },
     {
-      "id": "8aaca5b06ac947",
-      "title": "Openhartige Jong Ajax-speler Mark Verkuijl geeft hartverscheurend interview over zijn overleden vriendin",
+      "id": "4d310dfc7f84a3",
+      "title": "Jong Ajax-speler Mark Verkuijl (20) breekt over dood van vriendin Elisa: ‘Het moet, maar je wilt eigenlijk niet verder’",
       "category": "Jong Ajax",
-      "published": "2026-09-12T00:11:00+00:00",
+      "published": "2026-09-11T21:00:00+00:00",
       "updated": "2026-09-12T00:11:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFN6SUR0TExuSk9WemNEcXVYR2Z5ZVJNUkZxOVRycHd4eXI3bDhOSVhPWlZnajFPZ25wSnpaWUFGLTV2eE42U2V5UUEzVXA5SVFNMnNXVFFFR2JKNVU5TzhYZG5tOUpnSE52UXZhOF96amhmYk1RRVpTekJMd0tSUWtfaGxLMElzZk9sUmxmUElyaFBNeTlqN3lYZV9RVGJhOC1jRVdQN3o5eVR4UVg5SzJxSzBEeUFfaWk1TEpXbm5sZFh5ajhBUzltZTdSX19NS3VTc0tpajFZeF9ZeFFlRHBhQ0k0eVhMUXd6N0lXcw?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDVkeC1oNmFqQ2pYMWlNUmViQ3ZITDduUzBUX2NlMHE3NnIxMXUzdnNGazg1a0o1SUVNbTN3bFlpUzNISzJ3VXVKVXRvOFd4MWd5MnpsM3QwT3VGR0ZoVjA5OUxyR0N0VjVSSHVuSnd6enB3eDF5SkJVdTlkZF9rVjF5QWlxNjA5ZmtGNzZ2Y2FKdmtuSlM0Y014bmpEWEZYQXBUTWNobEdlNlMzZ2FTUF8xYXQwR0FEd0pNNGc1NVJNY0xiZlhNb3Y5Y2xoTzRILUZKYk1zemNEcV9vMEpwQlJvTQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "36fd9ced1a7901",
@@ -225,21 +256,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "ff67d91414585d",
-      "title": "Jong Ajax-speler Mark Verkuijl (20) breekt over dood van vriendin Elisa: ‘Het moet, maar je wilt eigenlijk niet verder’",
-      "category": "Jong Ajax",
-      "published": "2026-09-11T21:00:00+00:00",
-      "updated": "2026-09-11T21:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDVkeC1oNmFqQ2pYMWlNUmViQ3ZITDduUzBUX2NlMHE3NnIxMXUzdnNGazg1a0o1SUVNbTN3bFlpUzNISzJ3VXVKVXRvOFd4MWd5MnpsM3QwT3VGR0ZoVjA5OUxyR0N0VjVSSHVuSnd6enB3eDF5SkJVdTlkZF9rVjF5QWlxNjA5ZmtGNzZ2Y2FKdmtuSlM0Y014bmpEWEZYQXBUTWNobEdlNlMzZ2FTUF8xYXQwR0FEd0pNNGc1NVJNY0xiZlhNb3Y5Y2xoTzRILUZKYk1zemNEcV9vMEpwQlJvTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "99514fb5beb1d9",
@@ -387,6 +403,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUEdRRkl5N1BNZ0lveDQwWVRWWWRBUWJTSzF4cVNvSFluR1VpZjFDRUhKWVVNOGlheUJEYVV0TXFMZFdtLVR5aHdjZzBIZ212ME9GeGc1emtoYlB5ZGtscU5oU3d1dV9ETGh1LV91amI1NXZDYUxjZ3hvT1BOSGxYQk1JMVI1TWJiOGsyc0VhckxnQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "91e5d8abc17403",
+      "title": "'Vervelend als Ajax druk zet op talenten'",
+      "category": "Overig",
+      "published": "2026-09-11T14:48:41+00:00",
+      "updated": "2026-09-11T14:48:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0M1eXBkdVdSS0xsdHdEOFdfTlFoVjVaQXR6d0FZeFdDaDRyVWswM3B1TTE1RW4tY1JWSjEzRHdMRmxFUDRadXFzbzhuc0psYmVRa1R3YVhJcE9Vb0l0OWpjQXF2TGtQbl9mTzB1Z3pUY2J3cmtnQ2FzY0VmcjhFUzcyTnZRVnlndXFNdEV1QjRMbVU0Ynh6UHRuZUQwdFhFbHQtdFR3MGxPT0ZYX3BpcVZfWG5KWTdtR3VPVm95SQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -612,21 +643,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdXlmMmRMR2lDSkhSWGJMSmxXVko5NUNRSnVvTVFFM1ItTi1jRTNWUzk1U2RsbWxCVm5tNGlaV3BvSFdXMlRkSEo1U2k1QmlVZF9UUVZNWkx3NjdTTG9XLW90NVVOWFA1UkZXa0dJZ2Z4YndkcUE2amJlMHlQSmhJUzc2S3dHMjhWMzVSWEpKeFpDdmY0OVBZTFpmdGROVXI3UEtuOXVrTEFjeFdtVzk1RFExeWVGTWNqaS04TUVBcEMwclBqQlNEUy1kRy1lSlNsYWpGWUFiYkdMb1Y4WUE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "86e24fd4f992ba",
-      "title": "Ruben van Bommel reageert voor het eerst op beuk tijdens Ajax - PSV",
-      "category": "Overig",
-      "published": "2026-09-10T19:15:00+00:00",
-      "updated": "2026-09-10T19:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDFBclBPNU1SV21uVXhfQUZqcWNSZ0ZnYVpPSXp5Q2VfU2VEclZPbmxDQ0h3MDQ0VGxsTVZHV3dqcDAxQlFRN1dRYzFIOUpkOUo1MVNGNFZkRlRUa21lWVcxU2VaX2Nsa2NoNEI5NElza2NJb3hzb0dCSERncmwwRzZld0s0eEJ2b01OOGlQc25qNjViQTN0ZkgyMmtLU2g5cGJNMEtrRm16M2V1ZGdBdW9aWTd5ZG93c0dr?oc=5",
         "via_google_news": true
       },
       "related_sources": []
