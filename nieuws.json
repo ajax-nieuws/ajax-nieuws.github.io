@@ -1,18 +1,60 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T07:54:52.462581+00:00",
+    "generated_at": "2026-09-12T08:29:40.494980+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 68,
+    "article_count": 70,
     "event_count": 40,
     "discovered_event_count": 61,
-    "source_count": 10,
+    "source_count": 9,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 23,
+    "excluded_video_only_count": 21,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d47d9caa04c067",
+      "title": "Ajax sluit deal met voetbalbond Indonesië om jeugd in Ajax-stijl op te leiden: ‘Geweldig potentieel’",
+      "category": "Transfers",
+      "published": "2026-09-12T07:53:00+00:00",
+      "updated": "2026-09-12T08:26:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbkJYQTRlTkZ0emFzSHQ3Q3JUd2ZJeFZsUHpGLVJfRHRRM1JKc0tycWpDQVJ1Vm9BY2F4SXM1QTJodDdMcXkxX3QxN0txb29sRDNpX19ZNHpJT1Q2MG84V3kyUDZ6R2s1LTFxd3Q2SGdZRjVUVi1LaWFxM0JHUThXT2NCOXdHWE04WnI4UlZYS2lyaTlaXzJEYU0xQng3ZXY0UlJNTTI0Y1BtRzNUcVpMNjRRR19saDA4X1Y3azF0Rldha2VCZU5ic3lXQ2JzUFk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2134724/deal-met-indonesie-kan-ajax-miljoenen-opleveren.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "94922f77eeae4e",
+      "title": "Ajax gaat bijzondere samenwerking aan: 'Geweldig potentieel en enorme liefde'",
+      "category": "Overig",
+      "published": "2026-09-12T07:13:00+00:00",
+      "updated": "2026-09-12T07:53:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134701/ajax-gaat-samenwerking-met-pssi.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWU3dUdWMzRRRUlZaTNJM3lIU1lDQnlpREQ5aktVLUxydzc0MDBXVTJlLWY3YWNZZ3JyRjFfeUEzbTRUSmN4RmlhbzhVakQ4cTFLc1NVYzE4ZlllamVRRlMxck9SSVdkbHJnSEpXaHM1MnpkQlQ2RGZ6QkNhRXNKcUhYTmxpLXBqY1l5TFpuTUs2Y1hwdXltMDQwTlduTTVSZGVtM2RicDM3ZXh5ZjhCY1VJMjgtOFAtc0VsdnB4MXZ2WS1BdWZHVElmSE5KSTlvSWdyZg?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "da8da80bcb94d5",
       "title": "Ajax en Indonesische voetbalbond gaan voetbalpartnership aan - Ajax",
@@ -56,21 +98,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2hJOVlWSFVEUUZDUjBJZjJEOU42RzJHWUgzRVZ0c1BXRmNwcDJNN2pmMWRmU0JWZ3lya3pZNUZjS3hyVnJHdFlnVGpiaFE0RnUzeVM4dUpvcUhOd2NoRDNzbzVfSGtCV3pSNlUwWDFodGNZV01wQzZIcnE0UzNUVFhudnU1U2F3US1XVzc1elR4d1FqWk9XUmFOR0dqQlh0Snc3eUtmb0RoZW9hXzNYa1R1WXRjN3UyM2V2ZGF6clExa2FRUW4yZTdBNlQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e18e1b4df401cf",
-      "title": "Ajax gaat bijzondere samenwerking aan: 'Geweldig potentieel en enorme liefde'",
-      "category": "Overig",
-      "published": "2026-09-12T07:13:00+00:00",
-      "updated": "2026-09-12T07:13:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134701/ajax-gaat-samenwerking-met-pssi.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -187,7 +214,7 @@
     },
     {
       "id": "e8e233215e078b",
-      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
+      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV - voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-09-12T05:03:00+00:00",
       "updated": "2026-09-12T05:03:00+00:00",
@@ -334,7 +361,7 @@
     },
     {
       "id": "b2297013313218",
-      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken",
+      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-11T18:31:00+00:00",
       "updated": "2026-09-11T18:31:00+00:00",
@@ -403,21 +430,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUEdRRkl5N1BNZ0lveDQwWVRWWWRBUWJTSzF4cVNvSFluR1VpZjFDRUhKWVVNOGlheUJEYVV0TXFMZFdtLVR5aHdjZzBIZ212ME9GeGc1emtoYlB5ZGtscU5oU3d1dV9ETGh1LV91amI1NXZDYUxjZ3hvT1BOSGxYQk1JMVI1TWJiOGsyc0VhckxnQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "91e5d8abc17403",
-      "title": "'Vervelend als Ajax druk zet op talenten'",
-      "category": "Overig",
-      "published": "2026-09-11T14:48:41+00:00",
-      "updated": "2026-09-11T14:48:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0M1eXBkdVdSS0xsdHdEOFdfTlFoVjVaQXR6d0FZeFdDaDRyVWswM3B1TTE1RW4tY1JWSjEzRHdMRmxFUDRadXFzbzhuc0psYmVRa1R3YVhJcE9Vb0l0OWpjQXF2TGtQbl9mTzB1Z3pUY2J3cmtnQ2FzY0VmcjhFUzcyTnZRVnlndXFNdEV1QjRMbVU0Ynh6UHRuZUQwdFhFbHQtdFR3MGxPT0ZYX3BpcVZfWG5KWTdtR3VPVm95SQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -499,7 +511,7 @@
     },
     {
       "id": "bcbf157a62e6a2",
-      "title": "Kehrer: 'Daar sta ik zeker voor open bij Ajax'",
+      "title": "Kehrer: 'Daar sta ik zeker voor open bij Ajax' - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-11T12:17:00+00:00",
       "updated": "2026-09-11T12:17:00+00:00",
@@ -544,7 +556,7 @@
     },
     {
       "id": "7a107a1afc9e62",
-      "title": "Ajax aast op revanche na tik tegen PSV!",
+      "title": "Ajax aast op revanche na tik tegen PSV! - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-11T08:00:00+00:00",
       "updated": "2026-09-11T08:00:00+00:00",
