@@ -1,23 +1,53 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T06:34:34.445640+00:00",
+    "generated_at": "2026-09-12T06:56:52.027413+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 63,
+    "article_count": 65,
     "event_count": 40,
-    "discovered_event_count": 57,
-    "source_count": 9,
+    "discovered_event_count": 60,
+    "source_count": 10,
     "feed_error_count": 0,
     "excluded_paywall_count": 109,
-    "excluded_video_only_count": 14,
+    "excluded_video_only_count": 15,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "9a07abd89a7bd5",
+      "title": "Verkuijl (Jong Ajax) over overlijden vriendin: 'Naast het veld gaat het niet zo goed' - NU",
+      "category": "Jong Ajax",
+      "published": "2026-09-12T06:44:55+00:00",
+      "updated": "2026-09-12T06:44:55+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3hDZS1jOFZwbjczNktjcXZUTzJwdTBwNHpsRGhvd1NMUUdmenNSa0lLZDFUUTI5TXlodVdvWjFKMzZxWWc5N0c2MVdiQmxtSVpEMlJ2c2t2aGQtUkVxTjFqWHNGQjdvNG4tZXdEdGpfODdXRU1TNkhIZFhWSlR4djBfZzQ3SGo0b2V6SkZFNlBYSGgwaFIyOEo1NEExVnpGaHR0YmpMUk5jd2ViZzdSQ2pFOGRJLTNXZVVR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "38301b93d33238",
+      "title": "Zo zorgt Klaassen in nieuwe rol voor betrouwbaarheid op Ajax-middenveld",
+      "category": "Overig",
+      "published": "2026-09-12T06:38:23+00:00",
+      "updated": "2026-09-12T06:38:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUpaWjB6ZTI3TE83dS1oeUZWTERkSHo0OFVLTktPZ1U5ekx2WEFKYlZTVUF5aXBfdGRMUWpWNVJSc1YteFotVVZBaElkUnItYnhncGJxVnMzS0ZaUlRmRUZSZEtpWFBnOURtSVphSHg4OUtMa1ZVVHVpWnVqTkUycDMxRnpabmR6X29nZTE1eG9rQ1ZyLWQ4ZjRDRFdWdHpuRERFaXB6Q3NZMDlGWkctbDJkV0JkTDNwMmRzaS1B?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "14f4f57ed055ea",
       "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt in elke linie, vervanger Bouwman bekend",
       "category": "Wedstrijden",
-      "published": "2026-09-12T05:48:45+00:00",
+      "published": "2026-09-12T05:55:15+00:00",
       "updated": "2026-09-12T06:30:45+00:00",
       "source_count": 2,
       "official_confirmation": false,
@@ -36,7 +66,7 @@
     },
     {
       "id": "e7fccaf4f8e99f",
-      "title": "Heerkens leeft droom bij Ajax: 'Van video's kijken naar samen in de kleedkamer zitten'",
+      "title": "Heerkens leeft droom bij Ajax: 'Van video's kijken naar samen in de kleedkamer zitten' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-12T06:00:00+00:00",
       "updated": "2026-09-12T06:00:00+00:00",
@@ -65,6 +95,21 @@
       "related_sources": []
     },
     {
+      "id": "e8e233215e078b",
+      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T05:03:00+00:00",
+      "updated": "2026-09-12T05:03:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTlsUDJyZU1zWHRBc2ZaWHlEaDJRaWZpaUhBWWJ0X1ZtTWVIeXpmQVh6VWd4VGd4M09lTW9rTVJZbkdLV3BJRGpHV05wbXRFUzc3SHIyTUxOM2NZRnNzZXk3MG5DT2FTbUhHVXpDTEhTa01McVNNRXZtOEkzTEtPVHE5bkVia0xFRHdGNG1oNGkwNDV4QkFSVkdxZEd5NUZ5ZTE1VEpfZ0dKOS03YTl0a1pUMGNhdU9RLXZtMQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "2644d6f4660a33",
       "title": "Tolu jaagt op Suárez, Brobbey en Kluivert na voortvarende start bij Ajax",
       "category": "Overig",
@@ -80,37 +125,16 @@
       "related_sources": []
     },
     {
-      "id": "4d310dfc7f84a3",
-      "title": "Jong Ajax-speler reageert voor het eerst op overlijden van zijn vriendin: ‘Heel veel moeite om verder te gaan met het leven’",
+      "id": "8aaca5b06ac947",
+      "title": "Openhartige Jong Ajax-speler Mark Verkuijl geeft hartverscheurend interview over zijn overleden vriendin",
       "category": "Jong Ajax",
-      "published": "2026-09-11T21:00:00+00:00",
+      "published": "2026-09-12T00:11:00+00:00",
       "updated": "2026-09-12T00:11:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS2NtY0pkYjNHcGdrNmxfbkEwaWhBekw4Wjc1YVJIUmNiRjNYV2h0YWx1S0dzamtZaHJvVGV6SDNHaDRqeWZ0eUFKNl9vbzRVdW13Z1pTU3FUMFJ0NHNCcU5BQTlkMlByTFF1MTdoWDVyYkNZWE52RzNwdGYwRDhDZnJKck96RGJHeFBiaGQydUdMT19KQTF6RDNJUnBBLU94V29kN0ZMZ1R5MXlKQ3M3MmN0dEp2eTFtMm8xR2p0MGFUaWlOejc3V3hTVlkzeDZ5NnBDbG1KeXlZOW9hdllxSmltTlJaWm9RaGw4eld3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "e8e233215e078b",
-      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV - voetbalzone.nl",
-      "category": "Wedstrijden",
-      "published": "2026-09-11T23:16:00+00:00",
-      "updated": "2026-09-11T23:16:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTlsUDJyZU1zWHRBc2ZaWHlEaDJRaWZpaUhBWWJ0X1ZtTWVIeXpmQVh6VWd4VGd4M09lTW9rTVJZbkdLV3BJRGpHV05wbXRFUzc3SHIyTUxOM2NZRnNzZXk3MG5DT2FTbUhHVXpDTEhTa01McVNNRXZtOEkzTEtPVHE5bkVia0xFRHdGNG1oNGkwNDV4QkFSVkdxZEd5NUZ5ZTE1VEpfZ0dKOS03YTl0a1pUMGNhdU9RLXZtMQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVFN6SUR0TExuSk9WemNEcXVYR2Z5ZVJNUkZxOVRycHd4eXI3bDhOSVhPWlZnajFPZ25wSnpaWUFGLTV2eE42U2V5UUEzVXA5SVFNMnNXVFFFR2JKNVU5TzhYZG5tOUpnSE52UXZhOF96amhmYk1RRVpTekJMd0tSUWtfaGxLMElzZk9sUmxmUElyaFBNeTlqN3lYZV9RVGJhOC1jRVdQN3o5eVR4UVg5SzJxSzBEeUFfaWk1TEpXbm5sZFh5ajhBUzltZTdSX19NS3VTc0tpajFZeF9ZeFFlRHBhQ0k0eVhMUXd6N0lXcw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -137,6 +161,36 @@
       ]
     },
     {
+      "id": "29f524efc2a7c8",
+      "title": "Verkuijl heeft het nog altijd zwaar: 'Heel veel moeite om verder te gaan met het leven' - ajaxshowtime.com",
+      "category": "Overig",
+      "published": "2026-09-11T21:45:00+00:00",
+      "updated": "2026-09-11T21:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSlpvbmppV25QaGpGNFhzQld4Ti1JRThHZW1tWlV5Z3NOWkZoTkVQUjgwcnRlRk9fdjhDX05zZGNWVWFaQkhYaU5VcXdxZkw1VEp2MmQ3Ykw5LWxmN2t2YWhVcGVtMWhDbjFOdXppYTFlUnROSW5UTlJBcUFhcTRibTAzNk9PaGpiSnRRQ3g5aHhhMXAyVkYtdzNzUlhaRGlLRTNlSzZHX1Q2aXRDZVRUaXhrSjJxZ1plZTJTU3BfQkcwcW8?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ff67d91414585d",
+      "title": "Jong Ajax-speler Mark Verkuijl (20) breekt over dood van vriendin Elisa: ‘Het moet, maar je wilt eigenlijk niet verder’",
+      "category": "Jong Ajax",
+      "published": "2026-09-11T21:00:00+00:00",
+      "updated": "2026-09-11T21:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDVkeC1oNmFqQ2pYMWlNUmViQ3ZITDduUzBUX2NlMHE3NnIxMXUzdnNGazg1a0o1SUVNbTN3bFlpUzNISzJ3VXVKVXRvOFd4MWd5MnpsM3QwT3VGR0ZoVjA5OUxyR0N0VjVSSHVuSnd6enB3eDF5SkJVdTlkZF9rVjF5QWlxNjA5ZmtGNzZ2Y2FKdmtuSlM0Y014bmpEWEZYQXBUTWNobEdlNlMzZ2FTUF8xYXQwR0FEd0pNNGc1NVJNY0xiZlhNb3Y5Y2xoTzRILUZKYk1zemNEcV9vMEpwQlJvTQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "99514fb5beb1d9",
       "title": "Beslissing valt in laatste minuten | Samenvatting Jong Ajax - RKC Waalwijk",
       "category": "Jong Ajax",
@@ -153,7 +207,7 @@
     },
     {
       "id": "c8d8a051fe99db",
-      "title": "Ajax op bezoek bij Fortuna Sittard: Míchel Sánchez staat voor drie belangrijke keuzes in opstelling",
+      "title": "Ajax op bezoek bij Fortuna Sittard: Míchel Sánchez staat voor drie belangrijke keuzes in opstelling - ajaxshowtime.com",
       "category": "Wedstrijden",
       "published": "2026-09-11T20:00:00+00:00",
       "updated": "2026-09-11T20:00:00+00:00",
@@ -182,6 +236,27 @@
       "related_sources": []
     },
     {
+      "id": "b2297013313218",
+      "title": "Rondom: Bounida maakt rentree en komt voor eerst sinds mei in actie - ajaxshowtime.com",
+      "category": "Overig",
+      "published": "2026-09-11T18:31:00+00:00",
+      "updated": "2026-09-11T19:40:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZkVrZEUwTjlreElEekxWakcxaWdFMUJ5UkNXZkxoRFN5UTVkT0s5M3lCUXFfaVRoWWZ3dVZ6TWkycm1YMDdfLVE4aEVmbmJfNm5JblJrVkdZSkYwS2ZDSGNfOGVrdmRXZkhXbU52SEZoWXUtMXF1VFhqVUVmMWJsRk8tYUVUclU4NGNwSGJtc1YwdHl4SkJCcm9RQU5yS29aZGJSM0U0RFFpN1ZNX0JtandIR3RfRGVy?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp0aGU4MzU0bDQ4XzZLNzJNSTNIVHg0SkFRcTRGTDFlZVZIaVZ1aEhJRnllWEN6ZHNEOVR2X1dEMkU3UkRtc0JTbUo0X1Vyci1VbGtaa2tVUUN3d1ZiS3hLc1BrS1FYbi05UzcxZHU3ZlVISmtIZEZWR09lMXdnWDQ3TWplZlk4bVNMYlU4aDZCTXVOWnVuZThvMFJHT3V1ZGtqMkF5YnZpUkZnTnc0LTlGVGplUWs?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "9a44829336c312",
       "title": "LIVE eredivisie | Ajax op bezoek bij sterk gestart Fortuna Sittard",
       "category": "Wedstrijden",
@@ -207,21 +282,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXR0WmpLUjU4MEVXV1BHcFJIWkJISFRsSVY0LW9wVW84SGJPc0hMc1dVUGs2WVhRR1NsOUh5Z0Q4TXdSeVdNeGl6OG03N0pfSDBPZ3RQNjRZZ2NRTmRGTFdpb2kwMmFWb2F0VmUzNERfVVltdUJKSzVWRVpxempQVmJkYW5nbk0xNWJFc01uQ0xTbm91SXB2RjY1ZUludGMyRnhQeERWMzA0RnRKSXN1RXdfZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b2297013313218",
-      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken - voetbalzone.nl",
-      "category": "Overig",
-      "published": "2026-09-11T18:31:00+00:00",
-      "updated": "2026-09-11T18:31:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp0aGU4MzU0bDQ4XzZLNzJNSTNIVHg0SkFRcTRGTDFlZVZIaVZ1aEhJRnllWEN6ZHNEOVR2X1dEMkU3UkRtc0JTbUo0X1Vyci1VbGtaa2tVUUN3d1ZiS3hLc1BrS1FYbi05UzcxZHU3ZlVISmtIZEZWR09lMXdnWDQ3TWplZlk4bVNMYlU4aDZCTXVOWnVuZThvMFJHT3V1ZGtqMkF5YnZpUkZnTnc0LTlGVGplUWs?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -287,16 +347,16 @@
       "related_sources": []
     },
     {
-      "id": "91e5d8abc17403",
-      "title": "'Vervelend als Ajax druk zet op talenten'",
+      "id": "55d8d6cc576423",
+      "title": "'Jonk doet puur wat met Cruijff is afgesproken' - ajaxshowtime.com",
       "category": "Overig",
-      "published": "2026-09-11T14:48:41+00:00",
-      "updated": "2026-09-11T14:48:41+00:00",
+      "published": "2026-09-11T14:46:08+00:00",
+      "updated": "2026-09-11T14:46:08+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0M1eXBkdVdSS0xsdHdEOFdfTlFoVjVaQXR6d0FZeFdDaDRyVWswM3B1TTE1RW4tY1JWSjEzRHdMRmxFUDRadXFzbzhuc0psYmVRa1R3YVhJcE9Vb0l0OWpjQXF2TGtQbl9mTzB1Z3pUY2J3cmtnQ2FzY0VmcjhFUzcyTnZRVnlndXFNdEV1QjRMbVU0Ynh6UHRuZUQwdFhFbHQtdFR3MGxPT0ZYX3BpcVZfWG5KWTdtR3VPVm95SQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0l4X1l3X0Vjb2U3cjlSWjhKVDZXZFc1YXYtMW1mSkM1cURxVWJlcWs2WFY5alhiNVVEeGhPNHVpMGpEYkpUTnhOY2NneWlRSGxNMGZQalh1Z2tNb3gzdFNXOFcwNFEydUZKcnJlSlc3SEJJSWdYekNMbmV5MWtxZ2t3MUVkeDhPbTRnYzJhMnJ6eFVEWlUxRDJoQVZCeWNTOHRoVFBwdw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -332,8 +392,8 @@
       "related_sources": []
     },
     {
-      "id": "0351771d471952",
-      "title": "Creatieve Brandt behoort tot groepje leiders bij Ajax: 'Geven gezamenlijk het goede voorbeeld'",
+      "id": "11d625ad878a94",
+      "title": "Creatieve Brandt behoort tot groepje leiders bij Ajax: 'Geven gezamenlijk het goede voorbeeld' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-11T13:55:00+00:00",
       "updated": "2026-09-11T13:55:00+00:00",
@@ -342,6 +402,36 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnAtRmlWYmhOSEVvZmdTd25PNkNYVVBNbExtN1pqLTJyU0pUS09vZzRHLUNzZHFKNWV2RXpDU05RbjNOck5WdUhwOXg2el9xb2JzbWVPRC1nNW5vbmFiSGFaUjlWQlBzUnZ4V1RoQ29UbVAyR0REcVBuVjRxWUlxX1hSSFEzMnVXeC1uVUoyMHdzeVdOS25qallVMDI4N1ZiU3QzbDB3V2lQdjRjSWNFVzB0VXF3QVNrSHNqczN0aEtNd19tY0E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7fb43030c58e35",
+      "title": "Colin heeft zin in volgend seizoen - ajaxshowtime.com",
+      "category": "Overig",
+      "published": "2026-09-11T13:26:20+00:00",
+      "updated": "2026-09-11T13:26:20+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUtfZHhFTC04eTAtUjlEZUhicDZlQjhLZFVRZldBQkpGNHZqdUxycUI5Rko0WXdzUE1JN0pQbTlfdUdjaUxtMk5lMGx2UXZROExYUjlxOXdBR3A4dU13RzN3RmNDZlNXei1xcG1vQWhGXy1LZnByNk1vY0VRdnBobm9BVjVJVXZxU1ZaRWw5RlFEVnNsdTJIeDRvdmFBdFMzZkFMcTRSbHVQZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f5f0e0360a6b21",
+      "title": "Voetbalduels voortaan direct definitief gestaakt bij gooien of schieten met vuurwerk - ajaxshowtime.com",
+      "category": "Overig",
+      "published": "2026-09-11T13:20:00+00:00",
+      "updated": "2026-09-11T13:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3poQnJlUTdQVGVzRElfVWhKeFpQejBkTklZRkowTEx0MzI2VUJheUNoczUxT0p4VFVPdGVTRzNqdXB0Q3MwdU8wYUdjR3RBSnQ4Vkw1TUZVeF81RnlRMU5NM2lrb09kM3NTSVkzNC1qN2ZaaGRrbnBTeklodWdOdTBNMk8xY3NPSkNRQVZzWXBycEdFcjNwSE96SDFoQzg0X0loekY3NjZ1cFJFQ0J0b2VveDB4dGlkMDNkRW52aTRJaTA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -378,7 +468,7 @@
     },
     {
       "id": "bcbf157a62e6a2",
-      "title": "Kehrer: 'Daar sta ik zeker voor open bij Ajax' - voetbalzone.nl",
+      "title": "Kehrer: 'Daar sta ik zeker voor open bij Ajax'",
       "category": "Overig",
       "published": "2026-09-11T12:17:00+00:00",
       "updated": "2026-09-11T12:17:00+00:00",
@@ -422,23 +512,8 @@
       "related_sources": []
     },
     {
-      "id": "252a02f08fcf18",
-      "title": "Ajax had Emanuelson moeten verkopen",
-      "category": "Transfers",
-      "published": "2026-09-11T08:15:16+00:00",
-      "updated": "2026-09-11T08:15:16+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1h4TnEwdUxOWHZwWkZxdDNsRmZWVzNEVVFaOU82YVNoSE41ZVMzb1JWWmVUZkg5SzJsaHJhMk1LZm9VN2FraFB2X3VBQ0dCZm5mRFYteTAwVnM0dmdCcE1meTJYM1M3SmpmY0pTV3R1d1dMODFNMnVYb0lpWnBsWDBmbnBFYmg2N2JhUl9jMFdZajlxV2JvN2E5bjRGd2s3Yi1VNkpCd3p5eFk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "7a107a1afc9e62",
-      "title": "Ajax aast op revanche na tik tegen PSV! - voetbalzone.nl",
+      "title": "Ajax aast op revanche na tik tegen PSV!",
       "category": "Overig",
       "published": "2026-09-11T08:00:00+00:00",
       "updated": "2026-09-11T08:00:00+00:00",
@@ -453,7 +528,7 @@
     },
     {
       "id": "f5e9c0710c493f",
-      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
+      "title": "'Vilhena zou buitenkansje voor Ajax zijn' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-11T06:44:23+00:00",
       "updated": "2026-09-11T06:44:23+00:00",
@@ -468,7 +543,7 @@
     },
     {
       "id": "584388ea7dd7a7",
-      "title": "Iedereen tegen Ajax Feyenoord eist titel",
+      "title": "Iedereen tegen Ajax Feyenoord eist titel - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-11T05:45:23+00:00",
       "updated": "2026-09-11T05:45:23+00:00",
@@ -482,23 +557,29 @@
       "related_sources": []
     },
     {
-      "id": "5279ea3abb0204",
+      "id": "b434fea2f86c98",
       "title": "Kraay over Ajax-aanwinst: 'Schrik elke keer dat hij op Nederlandse velden loopt'",
       "category": "Transfers",
-      "published": "2026-09-11T04:35:01+00:00",
+      "published": "2026-09-10T19:35:00+00:00",
       "updated": "2026-09-11T04:35:01+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134195/kraay-fileert-ajax-duo-wat-is-dat-dat-ze-dat-durven.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPejZ1cFcxanZZdGtkblVTU3V0STNnYmpkM3lMQTR0WmFISlB2bXlmVm4xWHdPeXgxd0dEVndQN0p4Z2o5Mk9QdWZFWTFKM3B4dUp6VTJJeE9uR1hXQm9CTS1FS2xCYWdHODV4c1BoUXZXWThYYWgwVl9md0c4a21BYUxFcU9qT2Q4YmJiVlJNbVlXTHIxUEgtclI1YzdaaExTWW1GblpCeG5UZWhqYzhJY3lBUVpydUZVa3BUd1o3NHdRSExuMlpiUWJYTW91SWtWXzRCeWtB?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "314cfbc3359814",
-      "title": "Derksen: 'Kleuterklas Ajax redt het nooit'",
+      "title": "Derksen: 'Kleuterklas Ajax redt het nooit' - ajaxshowtime.com",
       "category": "Overig",
       "published": "2026-09-11T03:38:34+00:00",
       "updated": "2026-09-11T03:38:34+00:00",
@@ -512,16 +593,16 @@
       "related_sources": []
     },
     {
-      "id": "c3ad68003849d3",
-      "title": "ESPN-analisten zien plotseling luxeprobleem bij Ajax en denken dat Mokio kind van de rekening wordt",
-      "category": "Overig",
-      "published": "2026-09-10T21:25:00+00:00",
-      "updated": "2026-09-10T21:25:00+00:00",
+      "id": "2ca521b2f19312",
+      "title": "Como debuteert met ruime Champions League-zege, PSV komt niet verder dan gelijkspel en Martínez scoort - ajaxshowtime.com",
+      "category": "Wedstrijden",
+      "published": "2026-09-10T21:00:00+00:00",
+      "updated": "2026-09-10T21:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSHZZUjlmR3lYNmNEcGVFX01Ld2JBYklGN3ExX2VDblVmVlZnODgydHVURzNuODFyVFlWb1lDejBfWlNHeUYwQ2RfY2Fwbk9ETVpqLXU4M25uS3VjLUx2UjNsb1h6WEtKbkdYV1ZoelJVdzVNdFRHNnVleW1qUnJCWXFEVUg2djJVN1BlSlp0bjBKeFFSYWZicEZ6VHktVmFuU2E2TjI2cEtVeEozLVVfVkxsU193QTRWN0dTZVFoQjVzX3lGLWd5U0tMZ09DcW9Y?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa0ZLMFUzVU15V0ZsRWhYY2taYkFxc1lQNU5YNkhmdkpObGRtOU5OZzNoYV9WOTVFbFZ6MkJzQnJRRl9ING81SXZ3cjZBcjFWanpuUDdjU1NGY2xOR2F5eDBzbkxLT2pxSm5oeWdCLVl6R0xlaURMWHllV0NPRm9yM1F6eWFNd19FZTZwY1NTRFlwSUw1Zl80X0xCYVpxT3VkM2Fsc3RQR3VUTHpZRFJSRVBUU2FKQjdLWXFudl9uUGZCYkZqZkxLN1dHUnVQRTVFVEhoaGJWcHFUZ3Zm?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -543,7 +624,7 @@
     },
     {
       "id": "86e24fd4f992ba",
-      "title": "Ruben van Bommel reageert voor het eerst op beuk tijdens Ajax - PSV - voetbalzone.nl",
+      "title": "Ruben van Bommel reageert voor het eerst op beuk tijdens Ajax - PSV",
       "category": "Overig",
       "published": "2026-09-10T19:15:00+00:00",
       "updated": "2026-09-10T19:15:00+00:00",
@@ -555,87 +636,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "c3609e70f152cc",
-      "title": "Ajax na een transferzomer vol veranderingen: dit zijn de mogelijkheden van Míchel",
-      "category": "Transfers",
-      "published": "2026-09-10T19:00:00+00:00",
-      "updated": "2026-09-10T19:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0RFc3l3bkVTVGpFWkNlZjJiWnFWREJOSnBfVkl1NWZVUVVKMGZSa2Y5OWRxS1VEMGN4cEdHSmw4Vk1IWHpTekVDU3ZfNzIxMEUzZjh3WTJLSC1mZEkxVkQ4Zk9yUk9zVlVkbHBnVG0wNXZtWHBONW5OYzNQalNoVGxfMldBSDctR0VpR1Nra0psQWNvUTNCbTQxVDhJOEdPQTVQVU54NE14TW5DZmtqN2d4bDY0Y0drRkhWNWlR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0e184be30771a0",
-      "title": "Ajax aangekomen in Timisoara",
-      "category": "Overig",
-      "published": "2026-09-10T18:05:40+00:00",
-      "updated": "2026-09-10T18:05:40+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnZuUEpiS0xraUdEVkd6QjNfSDZtdDZmd0ZuVU9UY3ozTGdVbHQwZk5Bc2ttOFUyVDlKYzlRb3d1d1VEOXJNcTB3cGNfdlI0TkNYeWNBbTZQSUN5WWNucVRFLUdHM19DNUdMaXphd1YzVFpyU3N1Zk5DMG41RzZnMVgyYWJ5N3FSY1Z2X2cxS0lEVmQxLU1oaEJkVElfVVpLN3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b413ce47f9edcc",
-      "title": "Kehrer over Burundi en Ajax: ‘Ajax is ook altijd een soort referentiepunt voor voetballiefhebbers geweest'",
-      "category": "Overig",
-      "published": "2026-09-10T18:05:00+00:00",
-      "updated": "2026-09-10T18:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDE4ZndPWVRZeTUxaHd3RXZwTU9yZnBkLWZvVkQwRDZneG9JUFliNlBESnZlb0FJM05EUzFWX09YNDFIVEdPSWkxNjBXakNhZE5yOXJwX04za2drWG9Ub1lpNF9uOF9qeDBPdTdFcUIzVW4zZUo2MG9aSXlrQ2wyYTFiRDdCaklkREEtSW4xOFJlU3VuTWFCZFlTNjRXRUlzMmlOc3NBc0stUnpCelUxTHBYbkhwUVk3VC1BYVhGV2FsM1lxMGpaSXN2REM2Sk9qUVhtVzlmSkRZR1VP?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "144e791143133b",
-      "title": "Ajax zoekt steun voor cruciaal duel",
-      "category": "Overig",
-      "published": "2026-09-10T17:26:46+00:00",
-      "updated": "2026-09-10T17:26:46+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2llLTZHQlFiWE5NdTNHS1E2dDg4UWo5YXRvbXZPdUYzdHVrX0RHN004S0hPalh6RjdWQ0R5Skt5QnBzZUtuMWxmOVlEWGxXdXBmc1JhQWZEdTNoS2E1TVl4WlFDam9ieFFIOHdVdTN6Y2JiQV94RjdraHFMSUN3VWVpSDM2M3B2emhudlJpQ3g1ZEJ6RkRhcVA0TGVpamJpOUNhY0lEbVNVUnc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "dfdd5c31c19418",
-      "title": "Kieft verbaast zich over Ajax: 'Denk je dat je een nieuw wereldwonder haalt?'",
-      "category": "Transfers",
-      "published": "2026-09-10T07:04:00+00:00",
-      "updated": "2026-09-10T17:22:27+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2133904/wim-kieft-ziet-tolu-arokodare-slagen-bij-ajax-en-vraagt-geduld-voor-leonardo.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0kwaW5CY0V0SWxnRDhTV2lWSTlLb3ZOWDZpNkV2dkNOQnBaR1dQZjB1MDA4VFdUSEFOZDZkV2kzYmtDOU0ycWVhb1JiSmVFWmtZWVZ4NENUX1FhejlKdUkwcWUtRDZsN3VBVFNjZ1MxTzVjZm1hVXdaQkswZnBBZ05DS2NjTTFpZE1aV0VuVWp1OHVhcWg5aGhtZw?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
