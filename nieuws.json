@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T01:55:25.745012+00:00",
+    "generated_at": "2026-09-12T02:30:27.389814+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 58,
     "event_count": 40,
-    "discovered_event_count": 53,
+    "discovered_event_count": 51,
     "source_count": 8,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
@@ -45,18 +45,23 @@
     },
     {
       "id": "36fd9ced1a7901",
-      "title": "Jong Ajax 0-2 RKC (11 sep., 2026) Uitslag",
+      "title": "Jong Ajax ongelukkig onderuit tegen RKC - Ajax",
       "category": "Jong Ajax",
       "published": "2026-09-11T18:07:21+00:00",
       "updated": "2026-09-11T21:53:07+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
+      "source_count": 3,
+      "official_confirmation": true,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GcWNiZnFFbVB3VHYzR3NkaEFVWnNQSlJ5OGhjeEEwSjZ3Z1dLTFRmVVlqUXVFb0ZvTHJfZHdHTWpOZjEtZVRBeXdYZEpzWmNEaTI3RzJmYUlLcGZXMmM1b3BNaTRKcGstUXp0YjJB?oc=5",
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12d1RjV1NTaW9mOGdGOXhneElBeE9DajN4ZDZGalowMDhDcmdJN1hZb1dEaVBudkQ0VlNmZFJXM21NT2ZjQkM2bkZPT1JmMDgtaFNJRmxUb0cxRmp0U0pQRUZWVlVIcU5aQTZvbVlfaVdrUF92NlRiMlpB?oc=5",
         "via_google_news": true
       },
       "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GcWNiZnFFbVB3VHYzR3NkaEFVWnNQSlJ5OGhjeEEwSjZ3Z1dLTFRmVVlqUXVFb0ZvTHJfZHdHTWpOZjEtZVRBeXdYZEpzWmNEaTI3RzJmYUlLcGZXMmM1b3BNaTRKcGstUXp0YjJB?oc=5",
+          "via_google_news": true
+        },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbGV5WHJyUWM5RXBRdFVuZERJTDdibHJHbG5Yc0s2TERRLW9xcEp2UlQ0TWNwa25SRWxTTHN4RDhkVmtQT1hKbGtzT3pCcXN5bk05RGx5UTd1UEhfbTFOZkctZi1ySmpBM0NLckRxYUc2OUZBc0VZMncwZVRPY25Gam9YdGI1Nl9Ob1R4dWpFbG45aThqQ0VkM2VrSC1ycnZlMmdIQVgtY0tBUGFKdlhEbVQxclhuOGRqcEl2OWFFLXpLcC1LMHgzU3ZwTDJsSTluUC1NOVBOY3NTbUZjV0h4dWdR?oc=5",
@@ -90,21 +95,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1heno1SV9jV3p5bW9tVjRXVjA1LXBHSEEyY25YLWNqMW55aDhOUndCOXBMMmJYVnRMUUpQdHlyd1RNdXFEXzdZOV9KWXhBUG96QnJHSzVPd29NTl9WWjRKYXJUTkczRTlVQy01Vm1kV0x6YmJmb2dZRTFyeEF3Z2VOUHRrcHY2clRVNjlYS0NzcXlObkQtOUI1bC1aX1hCVUx3OEdRcnhKUXZOS1pKSmR2eGVwellyWnRJN0dPVnQyWHpvZEJlbldPdFQ5UVloRVVmUXlwcE4wS1pXZk9XWDB1RQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0695f0506d7921",
-      "title": "Jong Ajax en RKC houden elkaar in bedwang - Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-09-11T19:59:35+00:00",
-      "updated": "2026-09-11T19:59:35+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12d1RjV1NTaW9mOGdGOXhneElBeE9DajN4ZDZGalowMDhDcmdJN1hZb1dEaVBudkQ0VlNmZFJXM21NT2ZjQkM2bkZPT1JmMDgtaFNJRmxUb0cxRmp0U0pQRUZWVlVIcU5aQTZvbVlfaVdrUF92NlRiMlpB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -210,6 +200,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUEdRRkl5N1BNZ0lveDQwWVRWWWRBUWJTSzF4cVNvSFluR1VpZjFDRUhKWVVNOGlheUJEYVV0TXFMZFdtLVR5aHdjZzBIZ212ME9GeGc1emtoYlB5ZGtscU5oU3d1dV9ETGh1LV91amI1NXZDYUxjZ3hvT1BOSGxYQk1JMVI1TWJiOGsyc0VhckxnQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "91e5d8abc17403",
+      "title": "'Vervelend als Ajax druk zet op talenten'",
+      "category": "Overig",
+      "published": "2026-09-11T14:48:41+00:00",
+      "updated": "2026-09-11T14:48:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0M1eXBkdVdSS0xsdHdEOFdfTlFoVjVaQXR6d0FZeFdDaDRyVWswM3B1TTE1RW4tY1JWSjEzRHdMRmxFUDRadXFzbzhuc0psYmVRa1R3YVhJcE9Vb0l0OWpjQXF2TGtQbl9mTzB1Z3pUY2J3cmtnQ2FzY0VmcjhFUzcyTnZRVnlndXFNdEV1QjRMbVU0Ynh6UHRuZUQwdFhFbHQtdFR3MGxPT0ZYX3BpcVZfWG5KWTdtR3VPVm95SQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -350,21 +355,6 @@
       "related_sources": []
     },
     {
-      "id": "f5e9c0710c493f",
-      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
-      "category": "Overig",
-      "published": "2026-09-11T06:44:23+00:00",
-      "updated": "2026-09-11T06:44:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0RyUmtvT195NXNrNDdKWnNIOV9Xam5PdGg4Wl85dzhVY24xQUpBTjdLemcxUFgyaVY0S1ZVVE4tRlR0ZTZCUUtJUGk0eDdYcWRON2IyTEhkMVRSdnMyclJzLWpCYVNVal96QjJnTVJrZnN2dWVjYmxfR05wSFB5Mk9EeTEteWVyMjI1LWZWbFVTUmJkNHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "584388ea7dd7a7",
       "title": "Iedereen tegen Ajax Feyenoord eist titel",
       "category": "Overig",
@@ -391,21 +381,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134195/kraay-fileert-ajax-duo-wat-is-dat-dat-ze-dat-durven.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "314cfbc3359814",
-      "title": "Derksen: 'Kleuterklas Ajax redt het nooit'",
-      "category": "Overig",
-      "published": "2026-09-11T03:38:34+00:00",
-      "updated": "2026-09-11T03:38:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzgwMk5MeEJ4djhfSWplSXFFZ1dEUXlBdWhtTG9DeHdxY2VmVU5GbW5vMzFIZ3FTZFFlUm5pR0VnWmdQbVQ4bTljX1Q0ZlBKMk9nR3RxQlExcE1QYWJmMjh1Rm5fTFV5QU9fcE1ldTktUEU0bUFDNUR5MXJYWGZTd3RsTEZGQkY3QXI4blhYZnNaTGNheGc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -621,6 +596,36 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWhEVHhvWEtlQlVQLW4zempZT3huYmRYTHI0WjUwa2NmeUVQRDFVeHp5Zl9MaDhUc3JnaEMydnU4eUROQkE3V0F2TERZQlFXT3BfSklWYW5HZjZrUWtBTXdGQlFsWHU3V2hKc0F0OVNES25MR3lSQ2otbUMzM08walNjTk9WbERCTkZ2OW50V1VhWndxR0h4U1ZUUEVuTHZ5VnF4NXctaTY5T2hs?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "65945e53d7df9f",
+      "title": "Jansen over eerste Ajax-dagen van Traoré: 'Dan staat daar ineens Shrek naast je'",
+      "category": "Overig",
+      "published": "2026-09-10T13:30:00+00:00",
+      "updated": "2026-09-10T13:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWmotQnlpenJUOVlIeDlLWEpXZC03bjFiNjg3bXJrQk8wWVdPTVlzX1FJTWxQV3dYd3E4Tk43eGhENU5mOXhISkhQTmdWaXExckU4REVsaDhQcmJubFFwOVMxOTBUbm5vcFBlZEo1MzhhZE9LZ2RlVXJlZmphNFllMkNhSnBmTHh3RGNPZ1ptWVY4U2dpVHVtUFp6V0c0SDJhd3dPblpCb2JfSHJRQ3lHdERxTXRNalJ6LS13eUtpNTZGTE0zLTJF?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7af10897f1d659",
+      "title": "Debuut bij Oranje? 'Die Ajax-speler speelde uitstekend tegen PSV. Dat zal Xavi ook gezien hebben'",
+      "category": "Selectie",
+      "published": "2026-09-10T13:17:00+00:00",
+      "updated": "2026-09-10T13:17:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0hKUmNPYU9ITzROM3dzTGk0cWlLQ19GYmhUSzE4UGxxY0Jyc3FnYVd4MFptaFlfeVhXUzA1S093cmNIb09xdlZCVDZXN0RFZGJwTjNtb0ZSV3F0RTZpQk5aTXBtbk9IRXowajdINmRod2kxenpzbVdOZ3lvVTRuVnc3dFphbkpxR1ZjNHd6Q3V4NXdzQy1PNFg5LVVud2c1eVlHYUNNYWt5MXZCZG81YUxPQnhMNEdURFN2WlItYTBpRkdGMDFlamZtY054TnI4TUhwYTBWQ0RNX0swZHEyZA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
