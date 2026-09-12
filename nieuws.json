@@ -1,22 +1,22 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T21:28:47.814187+00:00",
+    "generated_at": "2026-09-12T21:55:04.604730+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 91,
+    "article_count": 95,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 76,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 37,
+    "excluded_video_only_count": 39,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
       "id": "3d398124b46caa",
-      "title": "Buijs: 'Stonden zo laag tegen Ajax, was bang dat we op de tribune gingen zitten'",
-      "category": "Overig",
+      "title": "Buijs kritisch op Fortuna-uitblinker: 'Hij zat met zijn kop niet in de wedstrijd'",
+      "category": "Selectie",
       "published": "2026-09-12T21:27:03+00:00",
       "updated": "2026-09-12T21:27:03+00:00",
       "source_count": 1,
@@ -83,7 +83,7 @@
       "id": "bce45634b3bbab",
       "title": "Fortuna Sittard - Ajax: Opstellingen | 12 september 2026",
       "category": "Wedstrijden",
-      "published": "2026-09-12T20:47:17+00:00",
+      "published": "2026-09-12T20:25:35+00:00",
       "updated": "2026-09-12T20:47:17+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -121,6 +121,21 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDItbnMwWUlQTEdQNEdJdmJwM0VXaHBmNmVWMnRMSmQ3N21aNElMa0lONko5QTNDYnpQWTVCMnBlcWVxT1FVWmx3Z2tqMU93ZHhLX1FYRFJicUtuQ0tpaWNKR21qa2V6Ql9QbWxrWDVMaFp2MzUtcW9WRTAyM3VyZ29yNEphRE1GRlBvc2g1MTU0c281YVlZeEtwZ2pLR2VwS0NGUDJTYzZLdw?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8a977f5fbd224d",
+      "title": "Berghuis: \"Stap verder in onze reis\"",
+      "category": "Overig",
+      "published": "2026-09-12T20:30:50+00:00",
+      "updated": "2026-09-12T20:30:50+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/55990/Berghuis-%22Stap-verder-in-onze-reis%22",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -293,6 +308,27 @@
       ]
     },
     {
+      "id": "2ecfcb23b66d13",
+      "title": "Ajax boekt in Sittard comfortabele 1-5 overwinning op Fortuna",
+      "category": "Selectie",
+      "published": "2026-09-12T19:50:00+00:00",
+      "updated": "2026-09-12T19:58:31+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/239892/ajax-boekt-in-sittard-comfortabele-1-5-overwinning-op-fortuna",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55989/Ajax-boekt-mede-dankzij-basisdebutanten-ruime-overwinning-in-Sittard",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "cf0da385524463",
       "title": "Ajax scoort vijf keer en rekent overtuigend af met Fortuna Sittard",
       "category": "Overig",
@@ -318,21 +354,6 @@
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/basisdebutant-kehrer-helpt-ajax-op-weg-na-schrikmoment-tegen-fortuna",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9016e35857e628",
-      "title": "Ajax boekt in Sittard comfortabele 1-5 overwinning op Fortuna",
-      "category": "Selectie",
-      "published": "2026-09-12T19:50:00+00:00",
-      "updated": "2026-09-12T19:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/239892/ajax-boekt-in-sittard-comfortabele-1-5-overwinning-op-fortuna",
         "via_google_news": false
       },
       "related_sources": []
@@ -619,14 +640,14 @@
       },
       "related_sources": [
         {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk5kWU1hcE85RDV5V0wyU1dEdS13emZ5ZkE1NmF6VkJMZ2lOeGZYRlc4X1FvZ1EzUkxGUTdfblRpY1Z3Q3FiZjB0aGJUZGFJYXZ6bkxpMGlvN1ZjcGo1M0JISDYwV2FZN3VHMWhlcmRmSWRCSjBWLWltTVhoVmp5d09yaUJJN1RVMjR5R3g1XzdGZC1xaFBJQWQwbG44a1hldnc?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "Voetbal International",
           "url": "https://www.vi.nl/nieuws/ajax-kondigt-samenwerking-aan-met-indonesische-voetbalbond",
           "via_google_news": false
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk5kWU1hcE85RDV5V0wyU1dEdS13emZ5ZkE1NmF6VkJMZ2lOeGZYRlc4X1FvZ1EzUkxGUTdfblRpY1Z3Q3FiZjB0aGJUZGFJYXZ6bkxpMGlvN1ZjcGo1M0JISDYwV2FZN3VHMWhlcmRmSWRCSjBWLWltTVhoVmp5d09yaUJJN1RVMjR5R3g1XzdGZC1xaFBJQWQwbG44a1hldnc?oc=5",
+          "via_google_news": true
         },
         {
           "name": "Ajax Showtime",
@@ -651,21 +672,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44V2pLZlo1NmhCUVNWQ3N1Vm5OdUF1ZXR2Qkx1bGI0Q1lzYnVEVTh3TmFlNWJBY0swYVF4UHZfSHN5NTA0OThzeGJjTWgxZWpCc1ZSM0RTeDdjRTBCRnd1VmVIMVpnX3d5NmxtRVRoMF9vd3FNb2pvZzNR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1ea3e856c95f37",
-      "title": "LIVE 12.00 uur | Ajax O15 - NAC Breda O15",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T09:00:00+00:00",
-      "updated": "2026-09-12T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1Frc2R5bzhaQjVNUjFZcVVoMFNFbGJFaVo4RXVieXpaaEFzQUdLajlpRHNhbVhERXVucDBoNmtmcXJJakVxTGpuRjZWZDZPbGNVZXdHZlVNSlRjczhTUXZ6S2VnUFVTZ2M3YUVJMDVZeV96NHRxVHF1OGM0WjkybVFSZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
