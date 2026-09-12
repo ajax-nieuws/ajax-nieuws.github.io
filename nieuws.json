@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T19:27:03.198177+00:00",
+    "generated_at": "2026-09-12T19:55:14.880394+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 70,
+    "article_count": 71,
     "event_count": 40,
-    "discovered_event_count": 58,
+    "discovered_event_count": 60,
     "source_count": 10,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
@@ -14,17 +14,47 @@
   },
   "events": [
     {
+      "id": "0023a90665a7e2",
+      "title": "Ajax-fans zetten vraagtekens bij duel met Fortuna: 'Waarom wordt dit niet getoond op tv?'",
+      "category": "Overig",
+      "published": "2026-09-12T19:46:40+00:00",
+      "updated": "2026-09-12T19:46:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWxtUllTNXBZSFNIcDR3Z3kzR1RUZXprY1B5Q1VfS0dUWUhNdE00UjFCZVIwQzZvR1pPc3NHOTFidktkbnRab1ZpTko4THJ0UEQ5WVQwSmhTZDRjTGN5QnpZdzBpSFBlM2tMWV91ckdTbG94V3dRNFV4WnRQMzZseUp4ZVduSTZKdVMyR0tDNXpocXhkamhCNkxwa2xsUk9FMURJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "8267f3b3d40a13",
-      "title": "VI Live: basisdebutant Kehrer zorgt voor opluchting bij Ajax",
+      "title": "VI Live: Ajax loopt verder uit bij Fortuna, Dolberg pikt doelpunt mee",
       "category": "Wedstrijden",
-      "published": "2026-09-12T19:24:00+00:00",
-      "updated": "2026-09-12T19:24:00+00:00",
+      "published": "2026-09-12T19:41:00+00:00",
+      "updated": "2026-09-12T19:41:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/vi-live-ajax-moet-winnen-van-fortuna-om-niet-te-ver-achterop-te-raken",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "709822478c113d",
+      "title": "Ajax-fans hebben genoeg gezien en vellen oordeel over Sofyan Amrabat",
+      "category": "Overig",
+      "published": "2026-09-12T19:28:21+00:00",
+      "updated": "2026-09-12T19:28:21+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmlhbDlzNk5PTmMwMl9fZjJCVHh3WlF0ZV9yRGNMeFk0d2NPTnpHNTd0SXR4c0Y4cG1lNnJtY3lNSFVIOWN6UzVabktLWUdWc1g4N204dlh6aEVGQmo1ZFB0QlhaWVZtd29FRFpYUTB3RElQY3ZxYVUyMkdIdU43UEFTa0RyMVBFbGVnRWdhN0FCanZFRVdJb1hxOG5Lb1BWRHpOY2xLeExVZw?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -310,14 +340,14 @@
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-kondigt-samenwerking-aan-met-indonesische-voetbalbond",
-          "via_google_news": false
-        },
-        {
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk5kWU1hcE85RDV5V0wyU1dEdS13emZ5ZkE1NmF6VkJMZ2lOeGZYRlc4X1FvZ1EzUkxGUTdfblRpY1Z3Q3FiZjB0aGJUZGFJYXZ6bkxpMGlvN1ZjcGo1M0JISDYwV2FZN3VHMWhlcmRmSWRCSjBWLWltTVhoVmp5d09yaUJJN1RVMjR5R3g1XzdGZC1xaFBJQWQwbG44a1hldnc?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-kondigt-samenwerking-aan-met-indonesische-voetbalbond",
+          "via_google_news": false
         },
         {
           "name": "Ajax Showtime",
@@ -413,8 +443,8 @@
       "related_sources": []
     },
     {
-      "id": "f80f24067f0428",
-      "title": "Ajax sluit deal met voetbalbond Indonesië om jeugd in Ajax-stijl op te leiden",
+      "id": "d47d9caa04c067",
+      "title": "Ajax sluit deal met voetbalbond Indonesië om jeugd in Ajax-stijl op te leiden: ‘Geweldig potentieel’",
       "category": "Transfers",
       "published": "2026-09-12T07:53:00+00:00",
       "updated": "2026-09-12T08:26:00+00:00",
@@ -422,7 +452,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWdBSW5CY040SVZtVi1zT3BHT2ZMblg5bkRtRTVoWXYydFpZdkJOakFGeEZXYmR3WkVHaERFVl80Mk1CWUpZUUxiY0ZralAxS19sWGJaUFcxcEVoQnQwQmhJX0g3SVpKMHUzTnFwbnBINGVZc0V2SHFodjk4Q1Z3d19GWDhmel9McTZ0LXdvMGx1emJpWXoza0YzeWlpMlRIeFRVcmMwelpkMjVNelVPUlZlN0E?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbkJYQTRlTkZ0emFzSHQ3Q3JUd2ZJeFZsUHpGLVJfRHRRM1JKc0tycWpDQVJ1Vm9BY2F4SXM1QTJodDdMcXkxX3QxN0txb29sRDNpX19ZNHpJT1Q2MG84V3kyUDZ6R2s1LTFxd3Q2SGdZRjVUVi1LaWFxM0JHUThXT2NCOXdHWE04WnI4UlZYS2lyaTlaXzJEYU0xQng3ZXY0UlJNTTI0Y1BtRzNUcVpMNjRRR19saDA4X1Y3azF0Rldha2VCZU5ic3lXQ2JzUFk?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -645,36 +675,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "2daa8289b2826f",
-      "title": "Gregory van der Wiel maakt statement over Ajax - PSV: 'Je bént die fout'",
-      "category": "Overig",
-      "published": "2026-09-11T18:39:00+00:00",
-      "updated": "2026-09-11T18:39:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXR0WmpLUjU4MEVXV1BHcFJIWkJISFRsSVY0LW9wVW84SGJPc0hMc1dVUGs2WVhRR1NsOUh5Z0Q4TXdSeVdNeGl6OG03N0pfSDBPZ3RQNjRZZ2NRTmRGTFdpb2kwMmFWb2F0VmUzNERfVVltdUJKSzVWRVpxempQVmJkYW5nbk0xNWJFc01uQ0xTbm91SXB2RjY1ZUludGMyRnhQeERWMzA0RnRKSXN1RXdfZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b2297013313218",
-      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken",
-      "category": "Overig",
-      "published": "2026-09-11T18:31:00+00:00",
-      "updated": "2026-09-11T18:31:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp0aGU4MzU0bDQ4XzZLNzJNSTNIVHg0SkFRcTRGTDFlZVZIaVZ1aEhJRnllWEN6ZHNEOVR2X1dEMkU3UkRtc0JTbUo0X1Vyci1VbGtaa2tVUUN3d1ZiS3hLc1BrS1FYbi05UzcxZHU3ZlVISmtIZEZWR09lMXdnWDQ3TWplZlk4bVNMYlU4aDZCTXVOWnVuZThvMFJHT3V1ZGtqMkF5YnZpUkZnTnc0LTlGVGplUWs?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
