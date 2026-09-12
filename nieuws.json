@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T16:29:29.963610+00:00",
+    "generated_at": "2026-09-12T16:55:01.474074+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 64,
+    "article_count": 68,
     "event_count": 40,
-    "discovered_event_count": 55,
-    "source_count": 9,
+    "discovered_event_count": 57,
+    "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 108,
+    "excluded_paywall_count": 107,
     "excluded_video_only_count": 36,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "2c0b6742dcaa9f",
+      "title": "Ajax met Kehrer en Amrabat tegen Fortuna Sittard",
+      "category": "Overig",
+      "published": "2026-09-12T16:44:00+00:00",
+      "updated": "2026-09-12T16:44:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-met-kehrer-en-amrabat-tegen-fortuna-sittard",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ee20b55d5461e4",
+      "title": "Klaassen vecht voor basisplaats bij Ajax: 'Nog altijd van waarde voor Míchel'",
+      "category": "Selectie",
+      "published": "2026-09-12T16:35:52+00:00",
+      "updated": "2026-09-12T16:35:52+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134866/belang-van-klaassen-voor-ajax-uitgelicht-het-cement.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "5dab5bb9261fbd",
       "title": "Veto van Cruijff voorkomt vertrek Ajax-keeper: 'Hij wilde me er graag bij houden'",
@@ -27,6 +57,27 @@
         "via_google_news": false
       },
       "related_sources": []
+    },
+    {
+      "id": "4d310dfc7f84a3",
+      "title": "Jong Ajax-speler Mark Verkuijl (20) breekt over dood van vriendin Elisa: ‘Het moet, maar je wilt eigenlijk niet verder’",
+      "category": "Jong Ajax",
+      "published": "2026-09-12T00:11:00+00:00",
+      "updated": "2026-09-12T16:03:56+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDVkeC1oNmFqQ2pYMWlNUmViQ3ZITDduUzBUX2NlMHE3NnIxMXUzdnNGazg1a0o1SUVNbTN3bFlpUzNISzJ3VXVKVXRvOFd4MWd5MnpsM3QwT3VGR0ZoVjA5OUxyR0N0VjVSSHVuSnd6enB3eDF5SkJVdTlkZF9rVjF5QWlxNjA5ZmtGNzZ2Y2FKdmtuSlM0Y014bmpEWEZYQXBUTWNobEdlNlMzZ2FTUF8xYXQwR0FEd0pNNGc1NVJNY0xiZlhNb3Y5Y2xoTzRILUZKYk1zemNEcV9vMEpwQlJvTQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "ba20aaeeadc559",
@@ -125,12 +176,12 @@
       "related_sources": []
     },
     {
-      "id": "3f75f9f21e5c7a",
+      "id": "f625337f9130ac",
       "title": "Ajax en Indonesische voetbalbond gaan voetbalpartnership aan - Ajax",
       "category": "Overig",
       "published": "2026-09-12T07:04:36+00:00",
       "updated": "2026-09-12T09:41:09+00:00",
-      "source_count": 4,
+      "source_count": 5,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
@@ -152,6 +203,11 @@
           "name": "Ajax Showtime",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWVnX3Q2YjZqRVhib1A1TjJpQ1NubG5OUTFBSFRnMllpWk5HWDVXM0JERm9YZnA1cWtWTUpROXQ5dUxyblYwMmtKOUJTNVYzQWxpbzhMMlJLaEpXdkJEOVhMaERKUjVlOVh3OUpxX1BoVGgwMXFSbUZtcFRYSGhkQzh3dVhTcU02REItRTl1NkVGblgtNmNqaTJqYkZ0aHB3Ulg0T2VnQnRIUQ?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55988/Ajax-kondigt-bijzondere-samenwerking-aan",
+          "via_google_news": false
         }
       ]
     },
@@ -399,27 +455,6 @@
       "related_sources": []
     },
     {
-      "id": "4d310dfc7f84a3",
-      "title": "Jong Ajax-speler Mark Verkuijl (20) breekt over dood van vriendin Elisa: ‘Het moet, maar je wilt eigenlijk niet verder’",
-      "category": "Jong Ajax",
-      "published": "2026-09-11T21:00:00+00:00",
-      "updated": "2026-09-12T00:11:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDVkeC1oNmFqQ2pYMWlNUmViQ3ZITDduUzBUX2NlMHE3NnIxMXUzdnNGazg1a0o1SUVNbTN3bFlpUzNISzJ3VXVKVXRvOFd4MWd5MnpsM3QwT3VGR0ZoVjA5OUxyR0N0VjVSSHVuSnd6enB3eDF5SkJVdTlkZF9rVjF5QWlxNjA5ZmtGNzZ2Y2FKdmtuSlM0Y014bmpEWEZYQXBUTWNobEdlNlMzZ2FTUF8xYXQwR0FEd0pNNGc1NVJNY0xiZlhNb3Y5Y2xoTzRILUZKYk1zemNEcV9vMEpwQlJvTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "36fd9ced1a7901",
       "title": "Jong Ajax 0-2 RKC (11 sep., 2026) Uitslag",
       "category": "Jong Ajax",
@@ -471,19 +506,25 @@
       "related_sources": []
     },
     {
-      "id": "1b230204188840",
+      "id": "42c27375902581",
       "title": "Jong Ajax ongelukkig onderuit tegen RKC - Ajax",
       "category": "Jong Ajax",
-      "published": "2026-09-11T19:59:35+00:00",
+      "published": "2026-09-11T19:55:00+00:00",
       "updated": "2026-09-11T19:59:35+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzbHc5ck1Zam9IQzBSZnZONG5vUU1PYXhWUGhqbTcyOVY1N0IwQWZVSVR6MnJkZjNOVWg0OGFWVGlUNFdwUzRmdk5wcUhNal9sOXpxUENvUjR0VDl2TU5CQ3MtbFpnSkFISF9DRTloZ1R2S0xHTzZZRQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/55987/Jong-Ajax-in-eigen-huis-onderuit-tegen-RKC-Waalwijk",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "9a44829336c312",
@@ -631,36 +672,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU1rQjhIS05iQ19hZ3ZRZHNOenZXN1hFdEpUTWV3VzRmdEsyWUtYUk5RbHE2RGg5d0g4aTFBWW1rdExYb0VzVmRfeUZrZlBJWEx3a2JYeW1xRWMyajBfSG4wSkZhOURtYmpRaWpXLWZJbEhRZDFONmgwUjJpc0tOTmtGVDdXZXRRTXIwbWFvRjl5YTFZQkhUd2JKckdFN1hnZnc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "11d625ad878a94",
-      "title": "Creatieve Brandt behoort tot groepje leiders bij Ajax: 'Geven gezamenlijk het goede voorbeeld'",
-      "category": "Overig",
-      "published": "2026-09-11T13:55:00+00:00",
-      "updated": "2026-09-11T13:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcnAtRmlWYmhOSEVvZmdTd25PNkNYVVBNbExtN1pqLTJyU0pUS09vZzRHLUNzZHFKNWV2RXpDU05RbjNOck5WdUhwOXg2el9xb2JzbWVPRC1nNW5vbmFiSGFaUjlWQlBzUnZ4V1RoQ29UbVAyR0REcVBuVjRxWUlxX1hSSFEzMnVXeC1uVUoyMHdzeVdOS25qallVMDI4N1ZiU3QzbDB3V2lQdjRjSWNFVzB0VXF3QVNrSHNqczN0aEtNd19tY0E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2a957b1d005808",
-      "title": "Goal of the Month | Welk doelpunt vind jij de mooiste van augustus? - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-09-11T13:07:54+00:00",
-      "updated": "2026-09-11T13:07:54+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpqWm1sTENRMVEtTXlmNGF6dndXS000UEhvbktYVDZ1ME0zOEJFSzZIT1FEWlM5aFFLemZrY1d6S3dwNjVYUEhRZF81TlRCM3ZaczNKdV85bXhlX1RMZGh0dTBZeDV4T1hkbFlzejFUaHRoeHV1eko5VGVlRTZfRUo3SEd3YUpfZDZ2VEJ3WlNUTHJsSnpoM19sbw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
