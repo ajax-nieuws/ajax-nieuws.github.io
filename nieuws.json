@@ -1,18 +1,49 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T09:28:58.022364+00:00",
+    "generated_at": "2026-09-12T09:55:00.735266+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 71,
+    "article_count": 69,
     "event_count": 40,
-    "discovered_event_count": 62,
+    "discovered_event_count": 61,
     "source_count": 9,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 30,
+    "excluded_video_only_count": 31,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "da8da80bcb94d5",
+      "title": "Ajax en Indonesische voetbalbond gaan voetbalpartnership aan - Ajax",
+      "category": "Overig",
+      "published": "2026-09-12T07:02:53+00:00",
+      "updated": "2026-09-12T09:41:09+00:00",
+      "source_count": 4,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTdZWi1uMEdHSFkyczF4SEdUQjVkZUl2WmlTZmNUUGRDbUZVanlnU1N2dU80bFZaZ1R1dzJGUXZnZzFlVWpyNVA5akVjSDNibmRUQWZCQ1I0eC1DLWJuZk1COGs0OGFPRU50NGlFVFVZV2c0U09aV3BNQ0x2UGFUU0wyT21tMkE2VkhHanZsMzM0RDd5dlE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-kondigt-samenwerking-aan-met-indonesische-voetbalbond",
+          "via_google_news": false
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk5kWU1hcE85RDV5V0wyU1dEdS13emZ5ZkE1NmF6VkJMZ2lOeGZYRlc4X1FvZ1EzUkxGUTdfblRpY1Z3Q3FiZjB0aGJUZGFJYXZ6bkxpMGlvN1ZjcGo1M0JISDYwV2FZN3VHMWhlcmRmSWRCSjBWLWltTVhoVmp5d09yaUJJN1RVMjR5R3g1XzdGZC1xaFBJQWQwbG44a1hldnc?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWVnX3Q2YjZqRVhib1A1TjJpQ1NubG5OUTFBSFRnMllpWk5HWDVXM0JERm9YZnA1cWtWTUpROXQ5dUxyblYwMmtKOUJTNVYzQWxpbzhMMlJLaEpXdkJEOVhMaERKUjVlOVh3OUpxX1BoVGgwMXFSbUZtcFRYSGhkQzh3dVhTcU02REItRTl1NkVGblgtNmNqaTJqYkZ0aHB3Ulg0T2VnQnRIUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "38582531914953",
       "title": "Ajax gaat samenwerken met Indonesische bond: 'Willen onze positie behouden' - NU",
@@ -59,35 +90,19 @@
       "related_sources": []
     },
     {
-      "id": "da8da80bcb94d5",
-      "title": "Ajax en Indonesische voetbalbond gaan voetbalpartnership aan - Ajax",
-      "category": "Overig",
-      "published": "2026-09-12T07:02:53+00:00",
-      "updated": "2026-09-12T08:51:43+00:00",
-      "source_count": 4,
-      "official_confirmation": true,
+      "id": "1ea3e856c95f37",
+      "title": "LIVE 12.00 uur | Ajax O15 - NAC Breda O15",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T09:00:00+00:00",
+      "updated": "2026-09-12T09:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTdZWi1uMEdHSFkyczF4SEdUQjVkZUl2WmlTZmNUUGRDbUZVanlnU1N2dU80bFZaZ1R1dzJGUXZnZzFlVWpyNVA5akVjSDNibmRUQWZCQ1I0eC1DLWJuZk1COGs0OGFPRU50NGlFVFVZV2c0U09aV3BNQ0x2UGFUU0wyT21tMkE2VkhHanZsMzM0RDd5dlE?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1Frc2R5bzhaQjVNUjFZcVVoMFNFbGJFaVo4RXVieXpaaEFzQUdLajlpRHNhbVhERXVucDBoNmtmcXJJakVxTGpuRjZWZDZPbGNVZXdHZlVNSlRjczhTUXZ6S2VnUFVTZ2M3YUVJMDVZeV96NHRxVHF1OGM0WjkybVFSZw?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-kondigt-samenwerking-aan-met-indonesische-voetbalbond",
-          "via_google_news": false
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk5kWU1hcE85RDV5V0wyU1dEdS13emZ5ZkE1NmF6VkJMZ2lOeGZYRlc4X1FvZ1EzUkxGUTdfblRpY1Z3Q3FiZjB0aGJUZGFJYXZ6bkxpMGlvN1ZjcGo1M0JISDYwV2FZN3VHMWhlcmRmSWRCSjBWLWltTVhoVmp5d09yaUJJN1RVMjR5R3g1XzdGZC1xaFBJQWQwbG44a1hldnc?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWVnX3Q2YjZqRVhib1A1TjJpQ1NubG5OUTFBSFRnMllpWk5HWDVXM0JERm9YZnA1cWtWTUpROXQ5dUxyblYwMmtKOUJTNVYzQWxpbzhMMlJLaEpXdkJEOVhMaERKUjVlOVh3OUpxX1BoVGgwMXFSbUZtcFRYSGhkQzh3dVhTcU02REItRTl1NkVGblgtNmNqaTJqYkZ0aHB3Ulg0T2VnQnRIUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "3bbffae78d5c82",
@@ -540,7 +555,7 @@
       "related_sources": []
     },
     {
-      "id": "0351771d471952",
+      "id": "11d625ad878a94",
       "title": "Creatieve Brandt behoort tot groepje leiders bij Ajax: 'Geven gezamenlijk het goede voorbeeld'",
       "category": "Overig",
       "published": "2026-09-11T13:55:00+00:00",
@@ -640,21 +655,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2MwUDhNMmtVQm14RktVekNVb1RoRm51WVFfWXFVZ3FwdzMyZGliZUJQc0pTa1dodEFRWUcyUE1SRkVFWHhrNjBycGlER0poaU51UXg4NXlFeTcyaFR5T1NmOHFBa2pYRUVaNWRHcUFRaVZJcXh4Zlh3OV9RSXlmTk8yRzhqYUdzM080d2pIY1JFZGFDTDAw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f5e9c0710c493f",
-      "title": "'Vilhena zou buitenkansje voor Ajax zijn'",
-      "category": "Overig",
-      "published": "2026-09-11T06:44:23+00:00",
-      "updated": "2026-09-11T06:44:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0RyUmtvT195NXNrNDdKWnNIOV9Xam5PdGg4Wl85dzhVY24xQUpBTjdLemcxUFgyaVY0S1ZVVE4tRlR0ZTZCUUtJUGk0eDdYcWRON2IyTEhkMVRSdnMyclJzLWpCYVNVal96QjJnTVJrZnN2dWVjYmxfR05wSFB5Mk9EeTEteWVyMjI1LWZWbFVTUmJkNHc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
