@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T03:55:14.467497+00:00",
+    "generated_at": "2026-09-12T04:30:05.175597+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 58,
+    "article_count": 61,
     "event_count": 40,
-    "discovered_event_count": 52,
+    "discovered_event_count": 54,
     "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 108,
-    "excluded_video_only_count": 11,
+    "excluded_paywall_count": 109,
+    "excluded_video_only_count": 10,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -86,18 +86,24 @@
     },
     {
       "id": "c8d8a051fe99db",
-      "title": "Ajax op bezoek bij Fortuna Sittard: Míchel Sánchez staat voor drie belangrijke keuzes in opstelling",
+      "title": "LIVE eredivisie | Ajax op bezoek bij sterk gestart Fortuna Sittard",
       "category": "Wedstrijden",
-      "published": "2026-09-11T20:00:00+00:00",
+      "published": "2026-09-11T19:00:00+00:00",
       "updated": "2026-09-11T20:00:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1heno1SV9jV3p5bW9tVjRXVjA1LXBHSEEyY25YLWNqMW55aDhOUndCOXBMMmJYVnRMUUpQdHlyd1RNdXFEXzdZOV9KWXhBUG96QnJHSzVPd29NTl9WWjRKYXJUTkczRTlVQy01Vm1kV0x6YmJmb2dZRTFyeEF3Z2VOUHRrcHY2clRVNjlYS0NzcXlObkQtOUI1bC1aX1hCVUx3OEdRcnhKUXZOS1pKSmR2eGVwellyWnRJN0dPVnQyWHpvZEJlbldPdFQ5UVloRVVmUXlwcE4wS1pXZk9XWDB1RQ?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXdlRWF5NlViZlFmanQtWUJwbjR2VGV3V3JsVEttQWVBaTdra1UxM2ZZT0ZJUURyaDNmYVhVNGJXSHYzdTNvSVI5MVByYW5hbE5Wa3B0b1FKa0x1QWJSRHpkdTNQVjRWM0RkeUhkOUdyX09kUHloMjRRWXZ1ZDQxd05OSV9JdE9mWjl6c2wwY0I1d3VsSlpqYksxRWVhZnhIX3c?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeS1heno1SV9jV3p5bW9tVjRXVjA1LXBHSEEyY25YLWNqMW55aDhOUndCOXBMMmJYVnRMUUpQdHlyd1RNdXFEXzdZOV9KWXhBUG96QnJHSzVPd29NTl9WWjRKYXJUTkczRTlVQy01Vm1kV0x6YmJmb2dZRTFyeEF3Z2VOUHRrcHY2clRVNjlYS0NzcXlObkQtOUI1bC1aX1hCVUx3OEdRcnhKUXZOS1pKSmR2eGVwellyWnRJN0dPVnQyWHpvZEJlbldPdFQ5UVloRVVmUXlwcE4wS1pXZk9XWDB1RQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "2daa8289b2826f",
@@ -200,21 +206,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUEdRRkl5N1BNZ0lveDQwWVRWWWRBUWJTSzF4cVNvSFluR1VpZjFDRUhKWVVNOGlheUJEYVV0TXFMZFdtLVR5aHdjZzBIZ212ME9GeGc1emtoYlB5ZGtscU5oU3d1dV9ETGh1LV91amI1NXZDYUxjZ3hvT1BOSGxYQk1JMVI1TWJiOGsyc0VhckxnQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "91e5d8abc17403",
-      "title": "'Vervelend als Ajax druk zet op talenten'",
-      "category": "Overig",
-      "published": "2026-09-11T14:48:41+00:00",
-      "updated": "2026-09-11T14:48:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0M1eXBkdVdSS0xsdHdEOFdfTlFoVjVaQXR6d0FZeFdDaDRyVWswM3B1TTE1RW4tY1JWSjEzRHdMRmxFUDRadXFzbzhuc0psYmVRa1R3YVhJcE9Vb0l0OWpjQXF2TGtQbl9mTzB1Z3pUY2J3cmtnQ2FzY0VmcjhFUzcyTnZRVnlndXFNdEV1QjRMbVU0Ynh6UHRuZUQwdFhFbHQtdFR3MGxPT0ZYX3BpcVZfWG5KWTdtR3VPVm95SQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -340,6 +331,21 @@
       "related_sources": []
     },
     {
+      "id": "252a02f08fcf18",
+      "title": "Ajax had Emanuelson moeten verkopen",
+      "category": "Transfers",
+      "published": "2026-09-11T08:15:16+00:00",
+      "updated": "2026-09-11T08:15:16+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1h4TnEwdUxOWHZwWkZxdDNsRmZWVzNEVVFaOU82YVNoSE41ZVMzb1JWWmVUZkg5SzJsaHJhMk1LZm9VN2FraFB2X3VBQ0dCZm5mRFYteTAwVnM0dmdCcE1meTJYM1M3SmpmY0pTV3R1d1dMODFNMnVYb0lpWnBsWDBmbnBFYmg2N2JhUl9jMFdZajlxV2JvN2E5bjRGd2s3Yi1VNkpCd3p5eFk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "7a107a1afc9e62",
       "title": "Ajax aast op revanche na tik tegen PSV!",
       "category": "Overig",
@@ -396,6 +402,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134195/kraay-fileert-ajax-duo-wat-is-dat-dat-ze-dat-durven.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "314cfbc3359814",
+      "title": "Derksen: 'Kleuterklas Ajax redt het nooit'",
+      "category": "Overig",
+      "published": "2026-09-11T03:38:34+00:00",
+      "updated": "2026-09-11T03:38:34+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzgwMk5MeEJ4djhfSWplSXFFZ1dEUXlBdWhtTG9DeHdxY2VmVU5GbW5vMzFIZ3FTZFFlUm5pR0VnWmdQbVQ4bTljX1Q0ZlBKMk9nR3RxQlExcE1QYWJmMjh1Rm5fTFV5QU9fcE1ldTktUEU0bUFDNUR5MXJYWGZTd3RsTEZGQkY3QXI4blhYZnNaTGNheGc?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -611,21 +632,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWhEVHhvWEtlQlVQLW4zempZT3huYmRYTHI0WjUwa2NmeUVQRDFVeHp5Zl9MaDhUc3JnaEMydnU4eUROQkE3V0F2TERZQlFXT3BfSklWYW5HZjZrUWtBTXdGQlFsWHU3V2hKc0F0OVNES25MR3lSQ2otbUMzM08walNjTk9WbERCTkZ2OW50V1VhWndxR0h4U1ZUUEVuTHZ5VnF4NXctaTY5T2hs?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "65945e53d7df9f",
-      "title": "Jansen over eerste Ajax-dagen van Traoré: 'Dan staat daar ineens Shrek naast je'",
-      "category": "Overig",
-      "published": "2026-09-10T13:30:00+00:00",
-      "updated": "2026-09-10T13:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWmotQnlpenJUOVlIeDlLWEpXZC03bjFiNjg3bXJrQk8wWVdPTVlzX1FJTWxQV3dYd3E4Tk43eGhENU5mOXhISkhQTmdWaXExckU4REVsaDhQcmJubFFwOVMxOTBUbm5vcFBlZEo1MzhhZE9LZ2RlVXJlZmphNFllMkNhSnBmTHh3RGNPZ1ptWVY4U2dpVHVtUFp6V0c0SDJhd3dPblpCb2JfSHJRQ3lHdERxTXRNalJ6LS13eUtpNTZGTE0zLTJF?oc=5",
         "via_google_news": true
       },
       "related_sources": []
