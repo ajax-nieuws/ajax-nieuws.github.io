@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T15:55:00.755643+00:00",
+    "generated_at": "2026-09-12T16:29:29.963610+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 64,
     "event_count": 40,
@@ -8,11 +8,26 @@
     "source_count": 9,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 34,
+    "excluded_video_only_count": 36,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "5dab5bb9261fbd",
+      "title": "Veto van Cruijff voorkomt vertrek Ajax-keeper: 'Hij wilde me er graag bij houden'",
+      "category": "Transfers",
+      "published": "2026-09-12T16:13:00+00:00",
+      "updated": "2026-09-12T16:13:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134863/cruijff-hield-vertrek-heerkens-tegen-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "ba20aaeeadc559",
       "title": "Ajax O19 boekt teleurstellend resultaat en komt niet langs De Graafschap O19",
@@ -647,21 +662,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpqWm1sTENRMVEtTXlmNGF6dndXS000UEhvbktYVDZ1ME0zOEJFSzZIT1FEWlM5aFFLemZrY1d6S3dwNjVYUEhRZF81TlRCM3ZaczNKdV85bXhlX1RMZGh0dTBZeDV4T1hkbFlzejFUaHRoeHV1eko5VGVlRTZfRUo3SEd3YUpfZDZ2VEJ3WlNUTHJsSnpoM19sbw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bcc713452f5df3",
-      "title": "Ajacied droomt van kans bij nationale ploeg: 'Is een privilege, we zullen zien'",
-      "category": "Overig",
-      "published": "2026-09-11T12:18:00+00:00",
-      "updated": "2026-09-11T12:18:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134484/ajax-verdediger-kehrer-hoopt-op-kans-bij-nationale-ploeg-van-duitsland.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
