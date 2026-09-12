@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T16:55:01.474074+00:00",
+    "generated_at": "2026-09-12T17:27:38.812465+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 68,
+    "article_count": 69,
     "event_count": 40,
     "discovered_event_count": 57,
     "source_count": 10,
@@ -13,6 +13,66 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8267f3b3d40a13",
+      "title": "VI Live: Romeny terug bij Fortuna na schorsing, Ihattaren ook tegen Ajax",
+      "category": "Blessures",
+      "published": "2026-09-12T17:24:00+00:00",
+      "updated": "2026-09-12T17:24:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-moet-winnen-van-fortuna-om-niet-te-ver-achterop-te-raken",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7de5b6c12cfc66",
+      "title": "Opstelling Ajax: Edvardsen vervangt Gloukh, basisplaatsen voor Amrabat en Kehrer",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T16:56:40+00:00",
+      "updated": "2026-09-12T16:56:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkxkSUMyOWpual9YZnRSampTdEpPS3lmZ1lMaHVhS3Nxa04yd3BDUVIwb2xwaXQ2ZHJiZ01OQUYxVVhENy1PUC1rTGo5cVYzR1g2Q0NpSVppUFFNMjExSVA3aUFoTU9MY3hsTldJak9fLTgtUk5qcHN3MU1rb3VjaHc2VTBHdFIyNzAyM3Q0MWVhckpid1FObkxvYVVDVTU0cDRoakFRWURzTk1MdE9tOTh6VjhWSEF0X2pJN1Z0a0pWOXVDZU80?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a45d4e04703f98",
+      "title": "Míchel heeft plaats voor twee basisdebutanten bij Ajax tegen Fortuna Sittard",
+      "category": "Selectie",
+      "published": "2026-09-12T16:49:00+00:00",
+      "updated": "2026-09-12T16:49:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmJfMGxCd2dZLXRzUTZHSXVFRzY4bk5kYzZlZnBYWUNzZ254dTNLUWs5c1ZBV0NyRWxGSGFmT0FUNTRSNF9NeURVb0ZoS05pd1JUVnlHQ3pjNEd6akVKZmxZaXE1NWtLcUpDOHR4SkJTb2d5V3J0dGxkVVFGTWJlRGJHR0pKeDR2cVhHcXl2aFlpdGwyT2hpMGpvaVJpcE02UXhxMmZLakNXM2ZmYnZSRWNwaWh2X254WG1Gb2ZGYzUwWFVuOVMxQkxn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e9540395ee89a5",
+      "title": "Kehrer, Amrabat en Edvardsen in de basis bij Ajax tegen Fortuna Sittard; Klaassen op de bank",
+      "category": "Selectie",
+      "published": "2026-09-12T16:45:00+00:00",
+      "updated": "2026-09-12T16:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjZOa1E0YmlTdXFPR2VyVTZkS3BXMUhodzcyTF9VRktIREpMaUxNQnhUZjl6WmlwRklIRW4wUUV6WGV0bEIxUjVUVVRoMmN3ZlVTTjVZNlBGQXFlZ3NpUDRJUk1GUFdjM0ZRTE00MmxBMFVHV1V3N1ZvcVkxNDFicThHVmwxamwzWEZxY0JXeGU1UjNtQjd2Zkk2SFp1TWxWTy1wS2ZaMVNLUFJwMVRueDdiNVR3T3pBTFVTaEpCdDFMMjFWcWVRQWlJOA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "2c0b6742dcaa9f",
       "title": "Ajax met Kehrer en Amrabat tegen Fortuna Sittard",
@@ -106,21 +166,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXNvbk1zaEhkcVhyXzAzdFI2XzB3cl95SWNxUDhEbmtSSWtaNTF5Q1RJQll1eGM3RG1adGRQNXdnX1Y0VDZjVFBGTXZ5V0Z4VXJ0a0RoWVhnTzBvMUhPaFdaN2dZUkRRQWFKUGZ2X2M3NDYyb2p6UE1jV19MWkp0dVpMb2hFc1dqRHRZcTVFWGhBRmJkRkFSdnVtVGozZmdBaVRsR1JrOUhlZVJYWGVfcF9WQ1FXOFF3THBfZWNCZw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8267f3b3d40a13",
-      "title": "VI Live: Ajax moet winnen van Fortuna om niet te ver achterop te raken",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T13:30:00+00:00",
-      "updated": "2026-09-12T13:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/vi-live-ajax-moet-winnen-van-fortuna-om-niet-te-ver-achterop-te-raken",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -278,22 +323,7 @@
       ]
     },
     {
-      "id": "10207203e65f93",
-      "title": "Buitenland: Gravenberch en heel veel meer oud-Ajacieden jagen op drie punten",
-      "category": "Overig",
-      "published": "2026-09-12T08:55:00+00:00",
-      "updated": "2026-09-12T08:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjRWLVpkUWFEcVA5QWpIcHBDVTVNMWdFN1dZVXdGYS1OU2E4b3JlVW05eERfckJRWVExY2pQdW9aclUyYTkxR2Z4WnJOdG1jN0tYeWdEWnpsZ0FtUGdqNm9mVWxzWF9iMGJNZjJERFU5M0ZIVjhhNmFxdzBMUGV5ZVBDaWl2bkgyUGRhZmsxV1hsQWVEcFJuMEZJWTloeU8yclpDQm9nTkQzcXNFRUdFOUdzWTdDcHpwUFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d47d9caa04c067",
+      "id": "f80f24067f0428",
       "title": "Ajax sluit deal met voetbalbond Indonesië om jeugd in Ajax-stijl op te leiden: ‘Geweldig potentieel’",
       "category": "Transfers",
       "published": "2026-09-12T07:53:00+00:00",
@@ -336,7 +366,7 @@
     },
     {
       "id": "38582531914953",
-      "title": "Ajax gaat samenwerken met Indonesische bond: 'Willen onze positie behouden' - NU",
+      "title": "Ajax gaat samenwerken met Indonesische bond: 'Willen onze positie behouden'",
       "category": "Selectie",
       "published": "2026-09-12T07:52:51+00:00",
       "updated": "2026-09-12T07:52:51+00:00",
@@ -396,7 +426,7 @@
     },
     {
       "id": "9a07abd89a7bd5",
-      "title": "Verkuijl (Jong Ajax) over overlijden vriendin: 'Naast het veld gaat het niet zo goed' - NU",
+      "title": "Verkuijl (Jong Ajax) over overlijden vriendin: 'Naast het veld gaat het niet zo goed'",
       "category": "Jong Ajax",
       "published": "2026-09-12T06:44:55+00:00",
       "updated": "2026-09-12T06:44:55+00:00",
@@ -642,36 +672,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY1UxNnNEWE92aVFoUUNxT0RrR0RfRGtYNEdPcE9JelNmRnFwTlktdTB3MEFuNndGX250TWtzbWRXcVlPOXBlSDkzemRlN3ZrOVJFVE5fZUFaSUtyYnV0RTNNRWMwUzd1UzR2TVNZZzJWaVlzc1FHQzlLdUNZelpvbU1LamhFR0pJMndEMVdpemk0b3o2ZEpIMHhJOEZEODdQV3BZN1Y2VDRNd3JmU3UtSWpPVkFSWkY5MlFDSHdVVTVtenFpSGVVcHl0UE9EX1Bza0lYelNBeWo1NVE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a67cfd9b68c250",
-      "title": "Thilo Kehrer is nooit vies van een beetje risico in zijn spel: dit krijgt Ajax erbij met de huurling van AS Monaco",
-      "category": "Transfers",
-      "published": "2026-09-11T14:00:51+00:00",
-      "updated": "2026-09-11T14:00:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMEFmR2ZfQWRHWE1fenRfZEJGTENIWG1oQUtHc1FTRC1NQWI4dHRhcVp1VVFEQlgwTFR4Q1ZPMzZEa2pyUEEtbzdzUXN2ZFlzWVBsNHoxZHozOURLS1o5MjFjQ01ibmNLbWJMNVVaYlBQVWpUa2txSWRJbWtCVllyS1lCZFRrc19maC1DcEhJNC1wYURHUDVVN3FGTnlmVkJkaUtJN3hLM2VYVFBRUl90UWtBZmJtbGJrMXE1S3JpRjdiSmdENFZjcWVEcUtaYUtvbko3eDJXRjFRZ3Rkb2VHeG9hTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "30183358cd07b9",
-      "title": "Dick Advocaat op ramkoers met Sontje Hansen: ex-Ajacied weigert",
-      "category": "Overig",
-      "published": "2026-09-11T13:56:41+00:00",
-      "updated": "2026-09-11T13:56:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU1rQjhIS05iQ19hZ3ZRZHNOenZXN1hFdEpUTWV3VzRmdEsyWUtYUk5RbHE2RGg5d0g4aTFBWW1rdExYb0VzVmRfeUZrZlBJWEx3a2JYeW1xRWMyajBfSG4wSkZhOURtYmpRaWpXLWZJbEhRZDFONmgwUjJpc0tOTmtGVDdXZXRRTXIwbWFvRjl5YTFZQkhUd2JKckdFN1hnZnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
