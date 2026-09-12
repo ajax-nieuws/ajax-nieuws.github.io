@@ -1,18 +1,54 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T05:55:00.066709+00:00",
+    "generated_at": "2026-09-12T06:34:34.445640+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 59,
+    "article_count": 63,
     "event_count": 40,
-    "discovered_event_count": 56,
+    "discovered_event_count": 57,
     "source_count": 9,
     "feed_error_count": 0,
     "excluded_paywall_count": 109,
-    "excluded_video_only_count": 13,
+    "excluded_video_only_count": 14,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "14f4f57ed055ea",
+      "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt in elke linie, vervanger Bouwman bekend",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T05:48:45+00:00",
+      "updated": "2026-09-12T06:30:45+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134618/vermoedelijke-opstelling-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDI3US1tTDFqNnZqb3V2eTFmUXBIOTVHOHYwSFAzME9USUdzR0lHS2lNNmRYM1ctZUZFbVJTS1VzcFBxaEpfNFBDbENia1YyRER4c2FheVdYdTg0TTVJcFdqSXlvTkZyVU90YWkxRFcyVFJTSi1kZEhCakdVZDJTZ0VYT0xrQ1dJVDdvRHVfUFFHZmdMWHZjZnNhaVEzTUNuM2FzeVd2Umo?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "e7fccaf4f8e99f",
+      "title": "Heerkens leeft droom bij Ajax: 'Van video's kijken naar samen in de kleedkamer zitten'",
+      "category": "Overig",
+      "published": "2026-09-12T06:00:00+00:00",
+      "updated": "2026-09-12T06:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWFybHc1SnA0cF9ic2lMMXRNeGdOMW85SWNscDVWWDZGZDZub2pUdVRPdlMteU9kcVVMS0hCWVJ1OEJ5cnhiZC1WNUl4LVBLX1hITTlETGNwMDNTU21Hc2VTZkpmeUVZWnFDajgzQTJ0WUFGdDRZeFF3OXhIaXBnVHh4dVhmRWplampzM0dzWDNtcEhwZFo5T19HblVJdkRtZjNfN1I2VnI0dG1ZbG14aGpGakY0SU1kN1pwUVczSkY?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "8267f3b3d40a13",
       "title": "VI Live: Ajax moet winnen van Fortuna om niet te ver achterop te raken",
@@ -45,22 +81,28 @@
     },
     {
       "id": "4d310dfc7f84a3",
-      "title": "Jong Ajax-speler Mark Verkuijl 'wil eigenlijk niet verder met het leven' na overlijden vriendin",
+      "title": "Jong Ajax-speler reageert voor het eerst op overlijden van zijn vriendin: ‘Heel veel moeite om verder te gaan met het leven’",
       "category": "Jong Ajax",
-      "published": "2026-09-12T00:11:00+00:00",
+      "published": "2026-09-11T21:00:00+00:00",
       "updated": "2026-09-12T00:11:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOS2NtY0pkYjNHcGdrNmxfbkEwaWhBekw4Wjc1YVJIUmNiRjNYV2h0YWx1S0dzamtZaHJvVGV6SDNHaDRqeWZ0eUFKNl9vbzRVdW13Z1pTU3FUMFJ0NHNCcU5BQTlkMlByTFF1MTdoWDVyYkNZWE52RzNwdGYwRDhDZnJKck96RGJHeFBiaGQydUdMT19KQTF6RDNJUnBBLU94V29kN0ZMZ1R5MXlKQ3M3MmN0dEp2eTFtMm8xR2p0MGFUaWlOejc3V3hTVlkzeDZ5NnBDbG1KeXlZOW9hdllxSmltTlJaWm9RaGw4eld3?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "e8e233215e078b",
-      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
+      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV - voetbalzone.nl",
       "category": "Wedstrijden",
       "published": "2026-09-11T23:16:00+00:00",
       "updated": "2026-09-11T23:16:00+00:00",
@@ -171,7 +213,7 @@
     },
     {
       "id": "b2297013313218",
-      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken",
+      "title": "Ajax-speler staat voor rentree: eerste minuten sinds mei lonken - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-11T18:31:00+00:00",
       "updated": "2026-09-11T18:31:00+00:00",
@@ -181,21 +223,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp0aGU4MzU0bDQ4XzZLNzJNSTNIVHg0SkFRcTRGTDFlZVZIaVZ1aEhJRnllWEN6ZHNEOVR2X1dEMkU3UkRtc0JTbUo0X1Vyci1VbGtaa2tVUUN3d1ZiS3hLc1BrS1FYbi05UzcxZHU3ZlVISmtIZEZWR09lMXdnWDQ3TWplZlk4bVNMYlU4aDZCTXVOWnVuZThvMFJHT3V1ZGtqMkF5YnZpUkZnTnc0LTlGVGplUWs?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "46521995b39797",
-      "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt in elke linie, vervanger Bouwman bekend",
-      "category": "Wedstrijden",
-      "published": "2026-09-11T18:18:43+00:00",
-      "updated": "2026-09-11T18:18:43+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134618/vermoedelijke-opstelling-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -260,6 +287,21 @@
       "related_sources": []
     },
     {
+      "id": "91e5d8abc17403",
+      "title": "'Vervelend als Ajax druk zet op talenten'",
+      "category": "Overig",
+      "published": "2026-09-11T14:48:41+00:00",
+      "updated": "2026-09-11T14:48:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0M1eXBkdVdSS0xsdHdEOFdfTlFoVjVaQXR6d0FZeFdDaDRyVWswM3B1TTE1RW4tY1JWSjEzRHdMRmxFUDRadXFzbzhuc0psYmVRa1R3YVhJcE9Vb0l0OWpjQXF2TGtQbl9mTzB1Z3pUY2J3cmtnQ2FzY0VmcjhFUzcyTnZRVnlndXFNdEV1QjRMbVU0Ynh6UHRuZUQwdFhFbHQtdFR3MGxPT0ZYX3BpcVZfWG5KWTdtR3VPVm95SQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "a67cfd9b68c250",
       "title": "Thilo Kehrer is nooit vies van een beetje risico in zijn spel: dit krijgt Ajax erbij met de huurling van AS Monaco",
       "category": "Transfers",
@@ -290,7 +332,7 @@
       "related_sources": []
     },
     {
-      "id": "11d625ad878a94",
+      "id": "0351771d471952",
       "title": "Creatieve Brandt behoort tot groepje leiders bij Ajax: 'Geven gezamenlijk het goede voorbeeld'",
       "category": "Overig",
       "published": "2026-09-11T13:55:00+00:00",
@@ -336,7 +378,7 @@
     },
     {
       "id": "bcbf157a62e6a2",
-      "title": "Kehrer: 'Daar sta ik zeker voor open bij Ajax'",
+      "title": "Kehrer: 'Daar sta ik zeker voor open bij Ajax' - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-11T12:17:00+00:00",
       "updated": "2026-09-11T12:17:00+00:00",
@@ -396,7 +438,7 @@
     },
     {
       "id": "7a107a1afc9e62",
-      "title": "Ajax aast op revanche na tik tegen PSV!",
+      "title": "Ajax aast op revanche na tik tegen PSV! - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-11T08:00:00+00:00",
       "updated": "2026-09-11T08:00:00+00:00",
@@ -501,7 +543,7 @@
     },
     {
       "id": "86e24fd4f992ba",
-      "title": "Ruben van Bommel reageert voor het eerst op beuk tijdens Ajax - PSV",
+      "title": "Ruben van Bommel reageert voor het eerst op beuk tijdens Ajax - PSV - voetbalzone.nl",
       "category": "Overig",
       "published": "2026-09-10T19:15:00+00:00",
       "updated": "2026-09-10T19:15:00+00:00",
@@ -594,36 +636,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "ec22bf1b0b834c",
-      "title": "Kehrer kan dankzij bekende gezichten makkelijk 'integreren' bij Ajax: \"Je hebt al een connectie\"",
-      "category": "Overig",
-      "published": "2026-09-10T17:17:28+00:00",
-      "updated": "2026-09-10T17:17:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMVIwMGhvN1czbTBMWlExZWpIRl9QNzhJdy1nRHlwWjR1aHFEVHdkcHpFWUwtV2xUUGtMdDdSVEZKcWExTlhvS00zeDJTX3Z3X1I2c1ViNFJWVVdNZEszTjJvS1BKWGJPa2tLTEU1RmxyTktIMFV1ckdYMi1ob3FGRkg4R25LZDA0cmx1NlVmZVZnQ0JvdE11QkptTENlenhPYUNhRVFWUFVXZ0dxaDBoZm5KUmNHWVktbThDbXRyRFRseGxvckFmYWVib2lmT2VWcnYyTkdBQ3E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "de859ff8d30e44",
-      "title": "Twee spelers van Ajax wekken grote ergernis: 'Werkelijk ongelooflijk'",
-      "category": "Overig",
-      "published": "2026-09-10T16:09:00+00:00",
-      "updated": "2026-09-10T16:09:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONnhqa1NlSkM3bk1ibko4REpqMmI5RFlrTV9lc1dEQWJFbUtmRC1nN05VdXM0bG54QkxWVDNObHNkR2pzYUdXLW5TdWl1MTdQR1FYX1h2Ykg2VGtUTDZSRE1TNkVnN0hzcGN5MS1acTVtR0xaZkNsR3RYZ0VlQ01rT3RGeUVQUi1Vbk1KVjB1dWQzSmZWODF3elUxb2t1VW1YS2l1VEh1Tms1ZEFmaWI4d3BoLUJ4QW1GQzVHWTMxcFVtczNjVnlKWVRhRQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
