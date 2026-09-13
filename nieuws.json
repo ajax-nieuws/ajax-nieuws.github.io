@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T11:28:30.519035+00:00",
+    "generated_at": "2026-09-13T11:55:01.875061+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 103,
     "event_count": 40,
-    "discovered_event_count": 78,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
@@ -13,6 +13,21 @@
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "911ba4fa08d529",
+      "title": "'Bij een uittrap in de Arena ging ik op m'n plaat, 50.000 man lachen natuurlijk'",
+      "category": "Club",
+      "published": "2026-09-13T11:31:00+00:00",
+      "updated": "2026-09-13T11:31:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2135085/oud-doelman-jeroen-verhoeven-blikt-terug-op-pizza.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "ff5dccdc0a56a7",
       "title": "Ajax heeft aantal gouden wissels van vorig seizoen al bijna geëvenaard: ‘Het is niet moeilijk spelers teleur te stellen’",
@@ -99,21 +114,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkI0SUJfS0RWcDFMTFBoUkM5MFFpTE9fSnZRcEtOM29obDdOS1U2LW9GZk1wY1ZGclp3QktCdzlwM2RmNHF5OThGd0REazlFNVprZlRyNVdncUh5dlFGcHhDWmw5aW9RU2ZOek9pWTRTSW9QcmI5dGpMVUtPZGp1emthQUVFX1dmY2F1T3dwOXJyMC1NZnRKbmV3TENETUxmUmVKMzFSVGU5clQxZVRoNWJPTDE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3d5f4af2723e7b",
-      "title": "Kraay is lyrisch en belt redactie laat voor beelden van uitblinker Ajax",
-      "category": "Selectie",
-      "published": "2026-09-13T09:43:00+00:00",
-      "updated": "2026-09-13T09:43:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazhldy1FUXFZRjFGTm1yQTZtOEhRZUxDc2MtbndwWGE1SEV5LXh3VXR1cktlSEliMmktQWo2WWZBNU05TjI2WTVvS3A2bzJ6bWcycnV3bjZZM0JoaUhjN0RiMl9ZaDFFaTNNbUN4SC1IZFlrUVA2LTN2b0cwbS1WQmlTNXRmS21LWTNNUVZ4V296V0VoM0g4dF9ldGxCc3RxWTQ4Tkc1bFl2M0lxN1c5LTM3UzJyTWljbUMwWDNLWGlVSm8?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -326,6 +326,27 @@
       "related_sources": []
     },
     {
+      "id": "0291e6e7e32131",
+      "title": "Danny Buijs trekt genadeloze conclusie over eigen spelers na Fortuna Sittard - Ajax: ‘Die jongens zullen nooit…’",
+      "category": "Overig",
+      "published": "2026-09-12T21:08:57+00:00",
+      "updated": "2026-09-12T21:32:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVXhWMldaZ080RkVvVGpFa19CdEgyNTI0NXJxc3NmSGpFLUlaUjZRdkhTQlVkNHpHNUlpeXVfMHNwRHItYWZmaDhWX2duS0otdHNTdTN4RzdVa3ZXUDN5cm1OWWFkZGNHMDlMU09YaU45WmdkQlRJVVdnN0xOUkthUWdxMmlUeXNnZS1aakltdWdySXE1eFVPTDJYdEM1N3J0R3Y1cHFLcDlDUWswME9aTEtVZDdURGtEeXlRX2xac0pRajdJT2tScVF6SnF1WVVaU3Rsc1FMVllYajR4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFJHbklMLUUzdVF1aUFSOHQ1WVk5SGFiX2RfSHU0eGFycmRtQjBCLUIxUDlTbTFJc19zVTVKUVpHLWFvczRXN25iZzdXWDd0WXJzUEp2VGJqRndOaG9wdU9oOXFtRk5JVy1RVkdhNHZZUEJ5bHZGVmFuY0hUc09MZzFLR2FNMXJxQmd2eXZ2ckZJamFwd2VvXzctRnd4REVBLUpN?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "3d398124b46caa",
       "title": "Buijs kritisch op Fortuna-uitblinker: 'Hij zat met zijn kop niet in de wedstrijd'",
       "category": "Selectie",
@@ -337,21 +358,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134951/buijs-kritisch-op-fortuna-uitblinker-zeefuik.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "404f2133144f93",
-      "title": "Danny Buijs genadeloos voor eigen spelers: 'Die komen nooit bij Ajax terecht'",
-      "category": "Overig",
-      "published": "2026-09-12T21:08:57+00:00",
-      "updated": "2026-09-12T21:08:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFJHbklMLUUzdVF1aUFSOHQ1WVk5SGFiX2RfSHU0eGFycmRtQjBCLUIxUDlTbTFJc19zVTVKUVpHLWFvczRXN25iZzdXWDd0WXJzUEp2VGJqRndOaG9wdU9oOXFtRk5JVy1RVkdhNHZZUEJ5bHZGVmFuY0hUc09MZzFLR2FNMXJxQmd2eXZ2ckZJamFwd2VvXzctRnd4REVBLUpN?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -554,6 +560,21 @@
       "related_sources": []
     },
     {
+      "id": "27f98149f7c4ca",
+      "title": "Wie was de beste Ajacied tijdens de met 1-5 gewonnen wedstrijd tegen Fortuna Sittard?",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T20:05:00+00:00",
+      "updated": "2026-09-12T20:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNjdid0RjdnZDamFZZlVwdkV6VjhXaGpRbFNLWWVtMXBiSGFndTgxRGJRdnJyNTQtUnZTaE1Zb0JqVTl0a3paeUI0OFBYY1VSSVBJQVRZbkJlTXZVd01ZdXE5ZXYxZjVlTVRaajA5aGprUWtUWHV6c3lYX0lGSlNQbjdhem5CUW5iS0tuckgzbV9yQXNNQWFfVG5lUzlfY3BnSmdvRGtnZUpoVWNjVmx4bkp3V3VDTk9zYWgySWliWHlvQ1dwMkV2TVN0VVlEc0hi?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "188ac8a6dc6aee",
       "title": "Ajax scoort vijf keer en herstelt zich van nederlaag tegen PSV",
       "category": "Blessures",
@@ -636,21 +657,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmlhbDlzNk5PTmMwMl9fZjJCVHh3WlF0ZV9yRGNMeFk0d2NPTnpHNTd0SXR4c0Y4cG1lNnJtY3lNSFVIOWN6UzVabktLWUdWc1g4N204dlh6aEVGQmo1ZFB0QlhaWVZtd29FRFpYUTB3RElQY3ZxYVUyMkdIdU43UEFTa0RyMVBFbGVnRWdhN0FCanZFRVdJb1hxOG5Lb1BWRHpOY2xLeExVZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7de5b6c12cfc66",
-      "title": "Opstelling Ajax: Edvardsen vervangt Gloukh, basisplaatsen voor Amrabat en Kehrer",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T19:15:52+00:00",
-      "updated": "2026-09-12T19:15:52+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkxkSUMyOWpual9YZnRSampTdEpPS3lmZ1lMaHVhS3Nxa04yd3BDUVIwb2xwaXQ2ZHJiZ01OQUYxVVhENy1PUC1rTGo5cVYzR1g2Q0NpSVppUFFNMjExSVA3aUFoTU9MY3hsTldJak9fLTgtUk5qcHN3MU1rb3VjaHc2VTBHdFIyNzAyM3Q0MWVhckpid1FObkxvYVVDVTU0cDRoakFRWURzTk1MdE9tOTh6VjhWSEF0X2pJN1Z0a0pWOXVDZU80?oc=5",
         "via_google_news": true
       },
       "related_sources": []
