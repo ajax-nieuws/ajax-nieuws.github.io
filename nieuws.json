@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T06:38:20.732474+00:00",
+    "generated_at": "2026-09-13T06:57:54.312121+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 99,
+    "article_count": 100,
     "event_count": 40,
     "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 49,
+    "excluded_video_only_count": 48,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b7cef9ab502acf",
+      "title": "Míchel verkiest Dolberg bij Ajax boven Leonardo: 'Heeft daar niets mee te maken'",
+      "category": "Overig",
+      "published": "2026-09-13T06:36:00+00:00",
+      "updated": "2026-09-13T06:36:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLTJPM1FjU2RxaEFkenVfTWY3RUp6MmlITFV5Sk1SaTB5TjNWVmZQMmp6aDB6Y2NXbWNpQW85T1JrRDFOR1BIRXNaM0tFTnIwRDVlZE5ucEVaSWRQT2xqcXFmbU5iRkdrQ01XYWJ6bThpOGF5czFCNWg2NkV1cndER3hvdjBjU00ySDVhVjM3M0RUNDlWNVJJYmRxM2VzcFZaOWVRZjFrcWJrMFJ3UFRNZ1kyRFVuRndfd0hHSlU1TlAxdkk5VGM1MV9tSQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9fc61068fa0695",
+      "title": "Ajacied Verkuijl over dood van vriendin: 'Het moet, maar eigenlijk wil je niet verder' - NU",
+      "category": "Overig",
+      "published": "2026-09-13T06:15:07+00:00",
+      "updated": "2026-09-13T06:15:07+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0lwcWJoaVh4V3lETzNiWVVub1pGbEotZ3loTlZZZDVLMmlIWkQ0eEdLTE0tZGI2MlYzME80LS1zWC03aXZiWC1KUTRKUF9uU3JYMzQ0eXBXZ0pOVmsxYlQ0WkZnLUJwMmZHbkZGdHFQMzA1VkxfcXZuM2dUcWh4MGp1YXp1TGdGclZobzBLd3BYR3VweTc3VS1nXzhQcFVpWERycDkyX2tQaFNIS3VuS2dsZG9NN2FIc3dRdzVB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "cbce870602cea2",
       "title": "Ajax wint in Eredivisie ruim bij Fortuna met hoofdrol Kehrer en prachtgoal Brandt - NU",
@@ -618,42 +648,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "e8e233215e078b",
-      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T16:04:00+00:00",
-      "updated": "2026-09-12T16:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTlsUDJyZU1zWHRBc2ZaWHlEaDJRaWZpaUhBWWJ0X1ZtTWVIeXpmQVh6VWd4VGd4M09lTW9rTVJZbkdLV3BJRGpHV05wbXRFUzc3SHIyTUxOM2NZRnNzZXk3MG5DT2FTbUhHVXpDTEhTa01McVNNRXZtOEkzTEtPVHE5bkVia0xFRHdGNG1oNGkwNDV4QkFSVkdxZEd5NUZ5ZTE1VEpfZ0dKOS03YTl0a1pUMGNhdU9RLXZtMQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4d310dfc7f84a3",
-      "title": "Jong Ajax-speler Mark Verkuijl (20) breekt over dood van vriendin Elisa: ‘Het moet, maar je wilt eigenlijk niet verder’",
-      "category": "Jong Ajax",
-      "published": "2026-09-12T00:11:00+00:00",
-      "updated": "2026-09-12T16:03:56+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNDVkeC1oNmFqQ2pYMWlNUmViQ3ZITDduUzBUX2NlMHE3NnIxMXUzdnNGazg1a0o1SUVNbTN3bFlpUzNISzJ3VXVKVXRvOFd4MWd5MnpsM3QwT3VGR0ZoVjA5OUxyR0N0VjVSSHVuSnd6enB3eDF5SkJVdTlkZF9rVjF5QWlxNjA5ZmtGNzZ2Y2FKdmtuSlM0Y014bmpEWEZYQXBUTWNobEdlNlMzZ2FTUF8xYXQwR0FEd0pNNGc1NVJNY0xiZlhNb3Y5Y2xoTzRILUZKYk1zemNEcV9vMEpwQlJvTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWE1WdkFtejdlNVpTX3p0LXhBVkRhY0ZWWlh6YWdObUJhRUQ4bHR1dWFUTU81bk9PSGRtUWtyM0xicGN0V0dLbmlqY0UyMm1Hal83bUlRNzNjWHZabDdxRUlhY3R2eHZicE4wbkhsU0wwRUZjZk1UYUZmVVZ5ekxNSDFGWmpxTlIxNmQ1dmlhZXEtMHJUNVE2LVgyaUJNblVGWE4zcFd1Vi1uNTBFdmc4U3dvclZPVWs4YXBOd1ZfV2p5ZGJTSElpekZ0WDJTOFdIaURzVmZn?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
