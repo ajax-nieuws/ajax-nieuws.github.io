@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T09:59:26.321594+00:00",
+    "generated_at": "2026-09-13T10:32:10.624989+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 100,
+    "article_count": 101,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 76,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 61,
+    "excluded_video_only_count": 63,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "cea9b77dfbbb32",
+      "title": "Begrip voor Míchel, die Edvardsen bij Ajax verkiest boven Ouazane",
+      "category": "Overig",
+      "published": "2026-09-13T10:08:24+00:00",
+      "updated": "2026-09-13T10:08:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOXdBYmZyV0FGSEdZdEk4RXVjUHU3d0lpZ01HODdMOXZIb05rRmhWXzZZVHJvRk01ODFhckg0eUNKcmI0M2hhRGRCMGFBUFd5M1NjUWJUNGRTWmpNNzhhZENtV09za2FkVkl4aHM5NTRLRk9POGRiTm14UGp1VXVZLVQwRnM4SWF1eEZZYjlnYXh1UlpSTFhjUWJvLUlhMDVUcXR3b0R0VWVicU5NeEIzTkxCZFRUNzg1eUE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "7c99698717d9b7",
       "title": "Daan Rots snapt heel goed waarom Abdellah Ouazane geen basisspeler is bij Ajax",
@@ -90,22 +105,22 @@
     },
     {
       "id": "93b06e05545d12",
-      "title": "Brandt juicht ingetogen na fraaie goal bij zege Ajax: 'Ik was niet blij met mijn spel' - NU",
+      "title": "Ajax-doelpuntenmaker vol vertrouwen na zege: 'Ik denk dat er veel mogelijk is'",
       "category": "Wedstrijden",
       "published": "2026-09-13T05:23:10+00:00",
       "updated": "2026-09-13T07:22:07+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzNIcTVqV2h0LXNFZVlveU45MVdRZFRQU0ZWMkZSeS1aQzNnOGtNVlhZMVh4dUVYUmQxUzdLYmRhX2FxS1pyWXBlU1F6UmprMzhkV2t0cEN4MmgtUlpFckRqc1VVNTlmZTFERmF5Y2tuXzIxb2tHLXlRS0xibmRGNHJmOTMxT2QtNUdxSFY3TWZ1ZXd3WFVycnUtMHI3dVVmaEdvQkZLSDd5OGliYjZ4YXF0Yi1JRGZoUEVfZUpyWQ?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134974/kehrer-na-zege-ajax-op-fortuna-vol-vertrouwen.html",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2134974/kehrer-na-zege-ajax-op-fortuna-vol-vertrouwen.html",
-          "via_google_news": false
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzNIcTVqV2h0LXNFZVlveU45MVdRZFRQU0ZWMkZSeS1aQzNnOGtNVlhZMVh4dUVYUmQxUzdLYmRhX2FxS1pyWXBlU1F6UmprMzhkV2t0cEN4MmgtUlpFckRqc1VVNTlmZTFERmF5Y2tuXzIxb2tHLXlRS0xibmRGNHJmOTMxT2QtNUdxSFY3TWZ1ZXd3WFVycnUtMHI3dVVmaEdvQkZLSDd5OGliYjZ4YXF0Yi1JRGZoUEVfZUpyWQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -201,7 +216,7 @@
     },
     {
       "id": "51dac43567863d",
-      "title": "Highlights Fortuna Sittard - Ajax | Big win in Sittard - AFC Ajax Amsterdam",
+      "title": "Highlights Fortuna Sittard - Ajax | Vijf keer raak - Ajax",
       "category": "Overig",
       "published": "2026-09-12T19:58:17+00:00",
       "updated": "2026-09-12T22:04:43+00:00",
@@ -209,7 +224,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnlXTXQtWkpOYXllY0drdmIyMHk4dlU1VlUycWdzcXgxTnZxZzFnQzJRQnRJY25TUWFENTdRRkVzUXdlNHVOckhBWTNSS1lRT2p6aV9vbXM5OUtKZlBFSnVQWkFPTFVLeE13bV81RFFqbFFGMk1HS1N2REI5SVNLbGRyd0w5UzVNZ1ZqaQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9sTlB5czkxbXZkM3ZXWTl5RlJXbm1OendxNS1XQ3B0VFBEZ25SaWRBRWpvN19COUFveUFhTlloTHo0SzJTNzlCYXNROURFS1pmLUUxdWFuSk00eGtfNlBYTk5KT3NuTFFweld4ZHV2YVZxQ3NPTUE4RjJMUThRYVdMdw?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -637,21 +652,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjZOa1E0YmlTdXFPR2VyVTZkS3BXMUhodzcyTF9VRktIREpMaUxNQnhUZjl6WmlwRklIRW4wUUV6WGV0bEIxUjVUVVRoMmN3ZlVTTjVZNlBGQXFlZ3NpUDRJUk1GUFdjM0ZRTE00MmxBMFVHV1V3N1ZvcVkxNDFicThHVmwxamwzWEZxY0JXeGU1UjNtQjd2Zkk2SFp1TWxWTy1wS2ZaMVNLUFJwMVRueDdiNVR3T3pBTFVTaEpCdDFMMjFWcWVRQWlJOA?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ee20b55d5461e4",
-      "title": "Klaassen vecht voor basisplaats bij Ajax: 'Nog altijd van waarde voor Míchel'",
-      "category": "Selectie",
-      "published": "2026-09-12T16:35:52+00:00",
-      "updated": "2026-09-12T16:35:52+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134866/belang-van-klaassen-voor-ajax-uitgelicht-het-cement.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
