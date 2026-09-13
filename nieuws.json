@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T05:55:06.061418+00:00",
+    "generated_at": "2026-09-13T06:38:20.732474+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 100,
+    "article_count": 99,
     "event_count": 40,
     "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 47,
+    "excluded_video_only_count": 49,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "cbce870602cea2",
+      "title": "Ajax wint in Eredivisie ruim bij Fortuna met hoofdrol Kehrer en prachtgoal Brandt - NU",
+      "category": "Wedstrijden",
+      "published": "2026-09-13T06:10:03+00:00",
+      "updated": "2026-09-13T06:10:03+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVRwcHZ6cXo3bEJzYjk5X0FDT0R2aElHTVhDM3Z4R2hmYW4zUEdodGdoREE0QUc0MVlhaVdjMTY2OEFrSGhPUTJRWWhhdnlGM1pQY013bkdQa0EtMzctcVlQd0NOaEhabzVIR0RUdmtKc0I0MEw5VWNGS19jdDRFblpqQzI2Q0s3cXV5X1BUd3NHYlJnS3lzcWNpaVlFMlU2eHkwMW4tWUxaWmVQU3hBcWlxUzRqX1h4STNpZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "d2e12241be5ba3",
       "title": "Ajax-doelpuntenmaker vol vertrouwen na zege: 'Ik denk dat er veel mogelijk is'",
@@ -42,27 +57,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "d5fbc53b53581f",
-      "title": "Ajax pakt draad op met ruime zege in Sittard, Kehrer scoort en geeft assist",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T20:06:39+00:00",
-      "updated": "2026-09-12T22:59:30+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2630756",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkNwTmRrdGVGdndZWGFWckdTNXY3Sm5jZlp6UEY2ZElzcmdJV1hHblZWSHY4eDc4dkJ0TTY1SUM4NVcwWl9ZbjNqVmxFaHJkOWowdE1vTHh3VE5SbHNPaGF2T1FiRjRZWHpIdUFHS09ua3UxS1BsWjhnX3FPUy1TdzMzUjNEbGJqWUZBVHhNd0tjVGZDSkxXX29MTGY1N3NMNFBwYlRKR29hWVMzcVU3Zg?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "4fc3d509b78a0d",
@@ -96,7 +90,7 @@
     },
     {
       "id": "51dac43567863d",
-      "title": "Highlights Fortuna Sittard - Ajax | Big win in Sittard - AFC Ajax Amsterdam",
+      "title": "Highlights Fortuna Sittard - Ajax | Vijf keer raak - Ajax",
       "category": "Overig",
       "published": "2026-09-12T19:58:17+00:00",
       "updated": "2026-09-12T22:04:43+00:00",
@@ -104,7 +98,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnlXTXQtWkpOYXllY0drdmIyMHk4dlU1VlUycWdzcXgxTnZxZzFnQzJRQnRJY25TUWFENTdRRkVzUXdlNHVOckhBWTNSS1lRT2p6aV9vbXM5OUtKZlBFSnVQWkFPTFVLeE13bV81RFFqbFFGMk1HS1N2REI5SVNLbGRyd0w5UzVNZ1ZqaQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9sTlB5czkxbXZkM3ZXWTl5RlJXbm1OendxNS1XQ3B0VFBEZ25SaWRBRWpvN19COUFveUFhTlloTHo0SzJTNzlCYXNROURFS1pmLUUxdWFuSk00eGtfNlBYTk5KT3NuTFFweld4ZHV2YVZxQ3NPTUE4RjJMUThRYVdMdw?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -355,6 +349,21 @@
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcUF2bmNoWFljZXNOdm52OEItZE1qMEx2WDdWNTRMWGh4RDhNODJUb0xkaW1NNFRlTF8tNlJoNGlJTXMyamRib254WHE3WmVOMUhncDgxZVYtMmZVeXo1d0l1aFBnSFA5by1JVGpXNlc4VXF4eF93T1BhOEwzN0RZeHgwa0RTU1l5SkUxM05BNGJKT2ZlSUNweXpzTUREMUNMQnVZaTNlNFYzajVBRGhCemVPdHhEZ042VFQ3dXd6eG5wWi1MeVl2U1ZveTJwMWxsZXh2MWhLeXlVaGhMeEFjNHRnT0ZWaG81alp4Z092M2dleDhfLUVGUy1rcWdNdkNKbUxxTnZBT3c?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "897a6dd145f435",
+      "title": "Ajax pakt draad op met ruime zege in Sittard, Kehrer scoort en geeft assist",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T20:06:39+00:00",
+      "updated": "2026-09-12T20:06:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2630756",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -645,21 +654,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "ba20aaeeadc559",
-      "title": "Ajax O19 boekt teleurstellend resultaat en komt niet langs De Graafschap O19",
-      "category": "Jeugd",
-      "published": "2026-09-12T15:25:00+00:00",
-      "updated": "2026-09-12T15:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVVLRnctSHNrQzgwWUpEcUw1QzN1YVNnbmRMeXFReGlJWlZlR0hvNFZ1OWliWU1ER211YnlBT2tNaGVVM05HSXlrZzJ0VE5zQ3lraVhKUTk3OW93dnNyNjdGY1VqVHhVY29IeGpGSUpCRVZzdnZLXzZIX3hNWUE3Q2JlbGtoY3VtNENpV1RWaFRCMDEzMlBpNUt2OXliR3ZaU0hDZGROOW1BaHZXNEJjUlhLUlotc2t5?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
