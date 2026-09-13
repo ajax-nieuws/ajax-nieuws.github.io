@@ -1,22 +1,58 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T07:56:03.344441+00:00",
+    "generated_at": "2026-09-13T08:30:44.273810+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 102,
+    "article_count": 100,
     "event_count": 40,
-    "discovered_event_count": 76,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "55a9f72db98d1c",
+      "title": "Ajax wint ruim bij Fortuna Sittard met hoofdrol Kehrer en prachtgoal Brandt",
+      "category": "Wedstrijden",
+      "published": "2026-09-13T05:23:10+00:00",
+      "updated": "2026-09-13T07:47:08+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlhLcXdaN1hpbENhUWZhNzMzV09GWUVqN1RUWEdXNTZGbERUeldKT29XWkNaQ1pTVlVSc196Q1VsSEQybVZ0SW0xYmJnY0FlZ1B5OEhlcC1qbUFnbDhDUnlmTnVjZW1hakNpRFZzWDNoNlJGQk5WSmFLTTY5U2swTXFQV2VLRTJWUDdFUHlScnB4NjhNN25Od3VGMTl5WmJRN1ZFT1VZQlRxbE5uSDFybGs5RXo?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2134974/kehrer-na-zege-ajax-op-fortuna-vol-vertrouwen.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "9fa4b82360ee1b",
+      "title": "Nuchtere Kehrer denkt dat Ajax dit seizoen veel kan bereiken: 'Ik denk dat er veel mogelijk is'",
+      "category": "Overig",
+      "published": "2026-09-13T07:45:00+00:00",
+      "updated": "2026-09-13T07:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYS1KSXplZmtJQVR5ZUpJbTlpSFpQU1J4ZjBQT2lKQU8zb3VaMFh5MGhURFpKdHRtYWV4MHUwNHhSNTJ2d1VSOWN0LUtRdjVGZkZzNWxwa082V1kxcmZIQlVnTDJwaklaXzQ0dnZ0ZV9ZZC1VcWtHUlMzZF9TUXlsQlFPSTR0R29tZHh0Nl9Zemkyc1lFOVlfRC1GZHItVzN0WG90QnBpQ3JTT1R5Tm1qRnZzYzI4N0V4dmRxdmNxODZxZWp0RHJGWjlXYXk5dw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "5ad96935c27f60",
-      "title": "Kijkers storen zich aan wisselbeleid van Míchel bij Ajax tegen Fortuna Sittard",
-      "category": "Club",
+      "title": "Kijkers storen zich aan Míchel bij Ajax tegen Fortuna Sittard",
+      "category": "Overig",
       "published": "2026-09-13T07:43:11+00:00",
       "updated": "2026-09-13T07:43:11+00:00",
       "source_count": 1,
@@ -27,27 +63,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "93b06e05545d12",
-      "title": "Ajax-doelpuntenmaker vol vertrouwen na zege: 'Ik denk dat er veel mogelijk is'",
-      "category": "Wedstrijden",
-      "published": "2026-09-13T05:23:10+00:00",
-      "updated": "2026-09-13T07:22:07+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134974/kehrer-na-zege-ajax-op-fortuna-vol-vertrouwen.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzNIcTVqV2h0LXNFZVlveU45MVdRZFRQU0ZWMkZSeS1aQzNnOGtNVlhZMVh4dUVYUmQxUzdLYmRhX2FxS1pyWXBlU1F6UmprMzhkV2t0cEN4MmgtUlpFckRqc1VVNTlmZTFERmF5Y2tuXzIxb2tHLXlRS0xibmRGNHJmOTMxT2QtNUdxSFY3TWZ1ZXd3WFVycnUtMHI3dVVmaEdvQkZLSDd5OGliYjZ4YXF0Yi1JRGZoUEVfZUpyWQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "70c157dd9167dc",
@@ -141,7 +156,7 @@
     },
     {
       "id": "51dac43567863d",
-      "title": "Highlights Fortuna Sittard - Ajax | Vijf keer raak - Ajax",
+      "title": "Highlights Fortuna Sittard - Ajax | Big win in Sittard - AFC Ajax Amsterdam",
       "category": "Overig",
       "published": "2026-09-12T19:58:17+00:00",
       "updated": "2026-09-12T22:04:43+00:00",
@@ -149,7 +164,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9sTlB5czkxbXZkM3ZXWTl5RlJXbm1OendxNS1XQ3B0VFBEZ25SaWRBRWpvN19COUFveUFhTlloTHo0SzJTNzlCYXNROURFS1pmLUUxdWFuSk00eGtfNlBYTk5KT3NuTFFweld4ZHV2YVZxQ3NPTUE4RjJMUThRYVdMdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnlXTXQtWkpOYXllY0drdmIyMHk4dlU1VlUycWdzcXgxTnZxZzFnQzJRQnRJY25TUWFENTdRRkVzUXdlNHVOckhBWTNSS1lRT2p6aV9vbXM5OUtKZlBFSnVQWkFPTFVLeE13bV81RFFqbFFGMk1HS1N2REI5SVNLbGRyd0w5UzVNZ1ZqaQ?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -206,27 +221,6 @@
       "related_sources": []
     },
     {
-      "id": "0291e6e7e32131",
-      "title": "Danny Buijs trekt genadeloze conclusie over eigen spelers na Fortuna Sittard - Ajax: ‘Die jongens zullen nooit…’",
-      "category": "Overig",
-      "published": "2026-09-12T21:08:57+00:00",
-      "updated": "2026-09-12T21:32:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVXhWMldaZ080RkVvVGpFa19CdEgyNTI0NXJxc3NmSGpFLUlaUjZRdkhTQlVkNHpHNUlpeXVfMHNwRHItYWZmaDhWX2duS0otdHNTdTN4RzdVa3ZXUDN5cm1OWWFkZGNHMDlMU09YaU45WmdkQlRJVVdnN0xOUkthUWdxMmlUeXNnZS1aakltdWdySXE1eFVPTDJYdEM1N3J0R3Y1cHFLcDlDUWswME9aTEtVZDdURGtEeXlRX2xac0pRajdJT2tScVF6SnF1WVVaU3Rsc1FMVllYajR4?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFJHbklMLUUzdVF1aUFSOHQ1WVk5SGFiX2RfSHU0eGFycmRtQjBCLUIxUDlTbTFJc19zVTVKUVpHLWFvczRXN25iZzdXWDd0WXJzUEp2VGJqRndOaG9wdU9oOXFtRk5JVy1RVkdhNHZZUEJ5bHZGVmFuY0hUc09MZzFLR2FNMXJxQmd2eXZ2ckZJamFwd2VvXzctRnd4REVBLUpN?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "3d398124b46caa",
       "title": "Buijs kritisch op Fortuna-uitblinker: 'Hij zat met zijn kop niet in de wedstrijd'",
       "category": "Selectie",
@@ -238,6 +232,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134951/buijs-kritisch-op-fortuna-uitblinker-zeefuik.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "404f2133144f93",
+      "title": "Danny Buijs genadeloos voor eigen spelers: 'Die komen nooit bij Ajax terecht'",
+      "category": "Overig",
+      "published": "2026-09-12T21:08:57+00:00",
+      "updated": "2026-09-12T21:08:57+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFJHbklMLUUzdVF1aUFSOHQ1WVk5SGFiX2RfSHU0eGFycmRtQjBCLUIxUDlTbTFJc19zVTVKUVpHLWFvczRXN25iZzdXWDd0WXJzUEp2VGJqRndOaG9wdU9oOXFtRk5JVy1RVkdhNHZZUEJ5bHZGVmFuY0hUc09MZzFLR2FNMXJxQmd2eXZ2ckZJamFwd2VvXzctRnd4REVBLUpN?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -354,22 +363,22 @@
     },
     {
       "id": "20302c3d0a8226",
-      "title": "Samenvatting Fortuna Sittard - Ajax",
+      "title": "Ajax met Kehrer en Amrabat tegen Fortuna Sittard",
       "category": "Overig",
       "published": "2026-09-12T16:44:00+00:00",
       "updated": "2026-09-12T20:20:27+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLV9qVGczV0FVaVI3V0pscW9rVjR0ZDZhUFRtZFdHYVlfckJfZVZ0VUdMWHpidm5fNEtUWF9UNFZvdUVtWUlNS2FlSElzY0Q3QzlERlRNOVRxRWJXZGR1c3ZRWURzc3Mzalc1ZmhzWHlabWs4OWdleG9MTkY3VFZuVVBVVVc?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-met-kehrer-en-amrabat-tegen-fortuna-sittard",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-met-kehrer-en-amrabat-tegen-fortuna-sittard",
-          "via_google_news": false
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLV9qVGczV0FVaVI3V0pscW9rVjR0ZDZhUFRtZFdHYVlfckJfZVZ0VUdMWHpidm5fNEtUWF9UNFZvdUVtWUlNS2FlSElzY0Q3QzlERlRNOVRxRWJXZGR1c3ZRWURzc3Mzalc1ZmhzWHlabWs4OWdleG9MTkY3VFZuVVBVVVc?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -389,25 +398,19 @@
       "related_sources": []
     },
     {
-      "id": "cbce870602cea2",
+      "id": "897a6dd145f435",
       "title": "Ajax pakt draad op met ruime zege in Sittard, Kehrer scoort en geeft assist",
       "category": "Wedstrijden",
-      "published": "2026-09-12T19:58:38+00:00",
+      "published": "2026-09-12T20:06:39+00:00",
       "updated": "2026-09-12T20:06:39+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2630756",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVRwcHZ6cXo3bEJzYjk5X0FDT0R2aElHTVhDM3Z4R2hmYW4zUEdodGdoREE0QUc0MVlhaVdjMTY2OEFrSGhPUTJRWWhhdnlGM1pQY013bkdQa0EtMzctcVlQd0NOaEhabzVIR0RUdmtKc0I0MEw5VWNGS19jdDRFblpqQzI2Q0s3cXV5X1BUd3NHYlJnS3lzcWNpaVlFMlU2eHkwMW4tWUxaWmVQU3hBcWlxUzRqX1h4STNpZw?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "fceddfb11dfe7a",
@@ -426,7 +429,7 @@
     },
     {
       "id": "f3149ccfda6b3e",
-      "title": "Ihattaren maakt misbaar na wissel bij Fortuna - Ajax en wordt aangesproken door Ajacied",
+      "title": "Ihattaren maakt misbaar na wissel en wordt aangesproken door Ajacied",
       "category": "Overig",
       "published": "2026-09-12T20:06:00+00:00",
       "updated": "2026-09-12T20:06:00+00:00",
@@ -486,21 +489,21 @@
     },
     {
       "id": "a67cfd9b68c250",
-      "title": "Ajax haalt hard uit tegen Fortuna Sittard; Thilo Kehrer van grote waarde",
+      "title": "Thilo Kehrer is nooit vies van een beetje risico in zijn spel: dit krijgt Ajax erbij met de huurling van AS Monaco",
       "category": "Transfers",
       "published": "2026-09-11T14:00:51+00:00",
       "updated": "2026-09-12T19:59:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWw2dkctQjRabUlGbzVJazBjc21aWDY3Tjd1TnJfTFpNNjJqcFZVN0k0VXFYVXJON0l2UmtHLUpLbzFDR3BodzdtRG44N2lmWlc3XzM5ZlVGRlpLVjNUREdTcmVoMkZIZ3BoTHY5dThUdzl1STZoUnRqZDR4Q3p6THFlVl9vVHlQYU8tZmpQbFkwYVhaVDRFUVR2ZHpNZHh5VkFpdlpzV0tOOVNkajF5ZDBCMWZvbV9tSzRVV1pjZXBhaWs?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMEFmR2ZfQWRHWE1fenRfZEJGTENIWG1oQUtHc1FTRC1NQWI4dHRhcVp1VVFEQlgwTFR4Q1ZPMzZEa2pyUEEtbzdzUXN2ZFlzWVBsNHoxZHozOURLS1o5MjFjQ01ibmNLbWJMNVVaYlBQVWpUa2txSWRJbWtCVllyS1lCZFRrc19maC1DcEhJNC1wYURHUDVVN3FGTnlmVkJkaUtJN3hLM2VYVFBRUl90UWtBZmJtbGJrMXE1S3JpRjdiSmdENFZjcWVEcUtaYUtvbko3eDJXRjFRZ3Rkb2VHeG9hTQ?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMEFmR2ZfQWRHWE1fenRfZEJGTENIWG1oQUtHc1FTRC1NQWI4dHRhcVp1VVFEQlgwTFR4Q1ZPMzZEa2pyUEEtbzdzUXN2ZFlzWVBsNHoxZHozOURLS1o5MjFjQ01ibmNLbWJMNVVaYlBQVWpUa2txSWRJbWtCVllyS1lCZFRrc19maC1DcEhJNC1wYURHUDVVN3FGTnlmVkJkaUtJN3hLM2VYVFBRUl90UWtBZmJtbGJrMXE1S3JpRjdiSmdENFZjcWVEcUtaYUtvbko3eDJXRjFRZ3Rkb2VHeG9hTQ?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWw2dkctQjRabUlGbzVJazBjc21aWDY3Tjd1TnJfTFpNNjJqcFZVN0k0VXFYVXJON0l2UmtHLUpLbzFDR3BodzdtRG44N2lmWlc3XzM5ZlVGRlpLVjNUREdTcmVoMkZIZ3BoTHY5dThUdzl1STZoUnRqZDR4Q3p6THFlVl9vVHlQYU8tZmpQbFkwYVhaVDRFUVR2ZHpNZHh5VkFpdlpzV0tOOVNkajF5ZDBCMWZvbV9tSzRVV1pjZXBhaWs?oc=5",
           "via_google_news": true
         }
       ]
@@ -643,21 +646,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2134863/cruijff-hield-vertrek-heerkens-tegen-bij-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e8e233215e078b",
-      "title": "Vermoedelijke opstelling Ajax: drie nieuwe namen na echec tegen PSV",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T16:04:00+00:00",
-      "updated": "2026-09-12T16:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTlsUDJyZU1zWHRBc2ZaWHlEaDJRaWZpaUhBWWJ0X1ZtTWVIeXpmQVh6VWd4VGd4M09lTW9rTVJZbkdLV3BJRGpHV05wbXRFUzc3SHIyTUxOM2NZRnNzZXk3MG5DT2FTbUhHVXpDTEhTa01McVNNRXZtOEkzTEtPVHE5bkVia0xFRHdGNG1oNGkwNDV4QkFSVkdxZEd5NUZ5ZTE1VEpfZ0dKOS03YTl0a1pUMGNhdU9RLXZtMQ?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
