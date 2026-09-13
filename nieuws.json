@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T07:28:55.879710+00:00",
+    "generated_at": "2026-09-13T07:56:03.344441+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 102,
     "event_count": 40,
@@ -8,13 +8,28 @@
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 50,
+    "excluded_video_only_count": 54,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "cbce870602cea2",
+      "id": "5ad96935c27f60",
+      "title": "Kijkers storen zich aan wisselbeleid van Míchel bij Ajax tegen Fortuna Sittard",
+      "category": "Club",
+      "published": "2026-09-13T07:43:11+00:00",
+      "updated": "2026-09-13T07:43:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkQxZ1F3VlUzU2gybXpUa21zdHk3eGlGdnFjV2tSVmlUM3lLNGJnUjlfMVNqOUdXQzhGZEJNd19TYTlvWElSV0hnR0lCeUozcTRQZW1oM28zb2UtUnpDVHdxZEhzeTN5MldrbUdQbW9ZMlVTalFTNFYyNmkyNV9HZnAwallkd0FYOFlIYjVmRW54OThOSzNiZzlGZHNPengtWlY4Rnl1SjJRUDA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "93b06e05545d12",
       "title": "Ajax-doelpuntenmaker vol vertrouwen na zege: 'Ik denk dat er veel mogelijk is'",
       "category": "Wedstrijden",
       "published": "2026-09-13T05:23:10+00:00",
@@ -95,21 +110,6 @@
       "related_sources": []
     },
     {
-      "id": "bc5c595274dd64",
-      "title": "PEC 0-2 Ajax (9 aug., 2026) Commentaar",
-      "category": "Overig",
-      "published": "2026-09-13T00:57:41+00:00",
-      "updated": "2026-09-13T00:57:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmMUN6MGM3MmNGSHV0bG5lOEh4dzZqVTRVNW9BcjZkdGYtU295TnltTzdvcFhCWVRPa2swU0VTQTZwT0RxcV9ERVluaW9LMmt3aUFFLVRIQVhjLVNCX1d3N3JhVS1ZNTVwMHVIXzFCdnhhNjJKeVE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "4fc3d509b78a0d",
       "title": "Míchel ziet dat Leonardo het lastig heeft bij Ajax: 'Moeten hem elke dag beschermen'",
       "category": "Overig",
@@ -141,7 +141,7 @@
     },
     {
       "id": "51dac43567863d",
-      "title": "Highlights Fortuna Sittard - Ajax | Big win in Sittard - AFC Ajax Amsterdam",
+      "title": "Highlights Fortuna Sittard - Ajax | Vijf keer raak - Ajax",
       "category": "Overig",
       "published": "2026-09-12T19:58:17+00:00",
       "updated": "2026-09-12T22:04:43+00:00",
@@ -149,7 +149,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnlXTXQtWkpOYXllY0drdmIyMHk4dlU1VlUycWdzcXgxTnZxZzFnQzJRQnRJY25TUWFENTdRRkVzUXdlNHVOckhBWTNSS1lRT2p6aV9vbXM5OUtKZlBFSnVQWkFPTFVLeE13bV81RFFqbFFGMk1HS1N2REI5SVNLbGRyd0w5UzVNZ1ZqaQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW9sTlB5czkxbXZkM3ZXWTl5RlJXbm1OendxNS1XQ3B0VFBEZ25SaWRBRWpvN19COUFveUFhTlloTHo0SzJTNzlCYXNROURFS1pmLUUxdWFuSk00eGtfNlBYTk5KT3NuTFFweld4ZHV2YVZxQ3NPTUE4RjJMUThRYVdMdw?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -389,19 +389,25 @@
       "related_sources": []
     },
     {
-      "id": "897a6dd145f435",
+      "id": "cbce870602cea2",
       "title": "Ajax pakt draad op met ruime zege in Sittard, Kehrer scoort en geeft assist",
       "category": "Wedstrijden",
-      "published": "2026-09-12T20:06:39+00:00",
+      "published": "2026-09-12T19:58:38+00:00",
       "updated": "2026-09-12T20:06:39+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
         "url": "https://nos.nl/l/2630756",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLVRwcHZ6cXo3bEJzYjk5X0FDT0R2aElHTVhDM3Z4R2hmYW4zUEdodGdoREE0QUc0MVlhaVdjMTY2OEFrSGhPUTJRWWhhdnlGM1pQY013bkdQa0EtMzctcVlQd0NOaEhabzVIR0RUdmtKc0I0MEw5VWNGS19jdDRFblpqQzI2Q0s3cXV5X1BUd3NHYlJnS3lzcWNpaVlFMlU2eHkwMW4tWUxaWmVQU3hBcWlxUzRqX1h4STNpZw?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "fceddfb11dfe7a",
