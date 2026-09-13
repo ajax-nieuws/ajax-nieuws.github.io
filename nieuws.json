@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T04:54:57.987800+00:00",
+    "generated_at": "2026-09-13T05:28:31.288834+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 97,
+    "article_count": 99,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 108,
-    "excluded_video_only_count": 44,
+    "excluded_video_only_count": 46,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "d2e12241be5ba3",
+      "title": "Ajax-doelpuntenmaker vol vertrouwen na zege: 'Ik denk dat er veel mogelijk is'",
+      "category": "Wedstrijden",
+      "published": "2026-09-13T05:23:10+00:00",
+      "updated": "2026-09-13T05:23:10+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2134974/kehrer-na-zege-ajax-op-fortuna-vol-vertrouwen.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "38f83152e66499",
       "title": "Ajax 1-3 PSV (5 sep., 2026) team statistieken",
@@ -27,6 +42,27 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "d5fbc53b53581f",
+      "title": "Ajax pakt draad op met ruime zege in Sittard, Kehrer scoort en geeft assist",
+      "category": "Wedstrijden",
+      "published": "2026-09-12T20:06:39+00:00",
+      "updated": "2026-09-12T22:59:30+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2630756",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkNwTmRrdGVGdndZWGFWckdTNXY3Sm5jZlp6UEY2ZElzcmdJV1hHblZWSHY4eDc4dkJ0TTY1SUM4NVcwWl9ZbjNqVmxFaHJkOWowdE1vTHh3VE5SbHNPaGF2T1FiRjRZWHpIdUFHS09ua3UxS1BsWjhnX3FPUy1TdzMzUjNEbGJqWUZBVHhNd0tjVGZDSkxXX29MTGY1N3NMNFBwYlRKR29hWVMzcVU3Zg?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "4fc3d509b78a0d",
@@ -317,27 +353,6 @@
       "related_sources": []
     },
     {
-      "id": "4de839add9b6ef",
-      "title": "Ajax pakt draad op met ruime zege in Sittard, Kehrer scoort en geeft assist",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T19:58:38+00:00",
-      "updated": "2026-09-12T20:06:39+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2630756",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUlJhRnpYeHRLYUpPMlNjdVBaenJNdmd4RWxTYlFMZHZUWWJVM096Y29Dc3NmZzRSMHkzajNjMWdxeVdrbnUzMjVjQU9BVk9lN05kaGlYakFDanBwdnp0WlhVRnBiTmpzVmlNbFFCMDRTS3BPc2FaVUJwWkRBUkl5TGpoN2tIV0hTTFJ4UFk5ckpfdXdjZ2pkWjhZS2JXRFVYQWxvc25laXVsdmZ0ZFNxQlZ6aV9rZzYxWFRfd2dn?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "fceddfb11dfe7a",
       "title": "Duitsers wijzen Ajax de weg bij stug Fortuna Sittard",
       "category": "Overig",
@@ -363,6 +378,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXJGS3hNLUdUSEQyTWtYaXc2bXp6WjZ1UW1GZ3RmZlNXd045SXR5cXhnNVRKbGNjbmNhN2UtRTFSUnh4Q1dOTVRub0JlSnY1c3o4eGxGQk13M2dRdHZ0VTltb1gzdXRyMEI3c2djYmF4WDBzTWZ4dGswdlZSSnhtQzJOVWo5WTEyNDYzbkdPNGtsODVfTDlCNXZwbW9ZQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4eb0f7f98a64ba",
+      "title": "Thilo Kehrer na fraaie entree voor Ajax: ‘Ik denk dat mijn stijl heel goed bij de filosofie van Ajax en van de trainer past’",
+      "category": "Overig",
+      "published": "2026-09-12T20:05:00+00:00",
+      "updated": "2026-09-12T20:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcjhZSWNqUUR1OWhybWFNYWhBaWYyYWlWMHQ0V2Y2QlhRSDdId0hqNE0td3R2cTB3X0ZlT1VkVnBUS0tyYzlKU2Z2OV9VbFljTDJ0c0ZiaW43SEQxVnp3blB2eU53a3c0a0V4cXkxU2xZSDBSclk5RW1aREtQYm9zY01FSEVPOThuNDNKUThyeG13U2VCQnBEYWdnRXhNSG1acjBIVEQwTnpWMnJUd0hNRFNGZW5nN3g1anRjS2N4U19UVkZva2hmYmdhLWpWNEVaQ01fVV9tRUdiTW5XdlpjNlloUmhvNUx4V20tbXhB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -624,42 +654,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "993586f8392af6",
-      "title": "Driessen kritisch op Ajax: 'Bijzonder armoedig ondanks jongens die zijn gekomen'",
-      "category": "Overig",
-      "published": "2026-09-12T12:20:00+00:00",
-      "updated": "2026-09-12T12:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOF9pUXFqVVBfUWc1Wms2TDc1N1hHS0pIbkh4VlR2aThHNFRUblozUFlvVVNMa0N6V0VRZ29pUXNOWHdJVHJIeDhZUXpNWkZDYkdGb2Zucjdjal9yV0JrejltZmlEZkltOFRGcW5EMHJIQnpOcDNjQmg3dEpuM3hWblhSMS1jZWNrbTdBSHJiYV9IekZPYlpqLWxWUV9LSm9CeElpMDlkb3RlbzFvb1ZsOWF1TQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "14f4f57ed055ea",
-      "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt in elke linie, vervanger Bouwman bekend",
-      "category": "Wedstrijden",
-      "published": "2026-09-12T05:55:15+00:00",
-      "updated": "2026-09-12T10:46:50+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2134618/vermoedelijke-opstelling-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDI3US1tTDFqNnZqb3V2eTFmUXBIOTVHOHYwSFAzME9USUdzR0lHS2lNNmRYM1ctZUZFbVJTS1VzcFBxaEpfNFBDbENia1YyRER4c2FheVdYdTg0TTVJcFdqSXlvTkZyVU90YWkxRFcyVFJTSi1kZEhCakdVZDJTZ0VYT0xrQ1dJVDdvRHVfUFFHZmdMWHZjZnNhaVEzTUNuM2FzeVd2Umo?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
