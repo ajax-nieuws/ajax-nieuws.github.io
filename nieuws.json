@@ -1,18 +1,119 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T10:46:34.326786+00:00",
+    "generated_at": "2026-10-01T14:38:42.104548+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 58,
+    "article_count": 65,
     "event_count": 40,
-    "discovered_event_count": 43,
+    "discovered_event_count": 46,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 92,
-    "excluded_video_only_count": 7,
+    "excluded_paywall_count": 104,
+    "excluded_video_only_count": 8,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "5e6fde928bd245",
+      "title": "Juggling and finishing during the international break - Ajax",
+      "category": "Overig",
+      "published": "2026-10-01T14:29:11+00:00",
+      "updated": "2026-10-01T14:29:11+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGFFRjJ5ckV3eW9JdkFTZFJlQjF2RGttSmk2T0ZJZ0ZHUnJsajVpQy1YVGZMdmJJV2w4SkhtVDlubTNzR0tsT1k3NGZNODdVaklPNktIVG5NNUxQc19SODVhX2tXRFBlVnE0VThRUXNZS183bzBSVnVoOHVPazVPWWtzX192eFBISDNmVGljaEk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "577a72e7a6e709",
+      "title": "Hooghouden en afronden tijdens interlandbreak - Ajax",
+      "category": "Overig",
+      "published": "2026-10-01T14:21:29+00:00",
+      "updated": "2026-10-01T14:21:29+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPREVMeUdRWW52T3ItWVJ3a0NWRTdTSm53SC1jQXQ4VC0wRFRMTjZobC1YekY4TGJnMVg3X2RhSmItVkU5eTFIa3p3MzNsX2lYY1lCV2JfS1ZNRWdITi1pMEV3dk83cUVsa1RwWWN5VG1VcnZrMlVvVjNGMHMzNXhTZ0pB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "08a13ea75103ff",
+      "title": "'Ajax vreest voor ernstige knieblessure Dolberg; aanvaller moet nog onderzocht worden'",
+      "category": "Blessures",
+      "published": "2026-10-01T13:25:00+00:00",
+      "updated": "2026-10-01T13:51:45+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnNGOG5uUEQ3djh6MWFPMjhQTTNUSUdMUWlBbnp4d0syNVBlcG4tc1NpUF9aMHRsTUpsR2lodzFHMFh6V1RXYk45Tm9oY2gxY2NLa3hpZnAzcUl1QUc3Z0FZMXYtNHMtMHNTZlUwWHhWcVJGU3AzWWV3ZjFDVTYxS0JuNFNxQndFMlNJQzFiTGhlcUxocnBkWnUwbUxHWWNIYVc4UFpRX3hHci11cmlEOWdvQ09BV09XeVdGMGtyTEp5Zw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVo0end5NXhBcDBWaTl1S3NTd0pfbV80VkNUU28wNU5Mbllka21UbllScHVjaTU3UXlhN2Nlb0FaX01uQXp5d0RRZ294T3N2dHdvNHVFYzZITnVzaDhuNlJPV0dQUGZpem9YdW9XTlpGYUxoRk8xT3o4TkxVZ19nY2ZMbEZTQWV4d2NiaHVzdG05YjNqLVdWV0F4VWFpSWE5ZWE0ZDBGYmZqalEwcnk2cUhFUnU?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2dld1RTX0U3SnVOdDBoc0FaSGg4S2ZOd3NKQl9JM2hhek15TVAyN1RtOElkTGpTU2JFa1pVcnFLSVEzbDFQSVBYZklib2hlQzFmR21Xa1VFNk5GdEV4X0JuSlZBOGFJQ2VIOVRqaUlGbEtjZndsM3hoclRldlh1M1ZVeTZRblN6anBRck9ZSzhjWmdGWVZoUVRn?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "a100df29389808",
+      "title": "Telegraaf komt met slecht Ajax-nieuws: vrees om zware blessure en lange absentie",
+      "category": "Blessures",
+      "published": "2026-10-01T13:42:20+00:00",
+      "updated": "2026-10-01T13:42:20+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2141989/ajax-vreest-voor-langdurige-blessure-van-dolberg.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ebca1ded46d280",
+      "title": "Amerikaanse ambassadeur ziet NFL in Johan Cruijff ArenA wel zitten: 'Wat een stadion!'",
+      "category": "Club",
+      "published": "2026-10-01T12:00:00+00:00",
+      "updated": "2026-10-01T12:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFVNdEZiV1BsanVhWWlLU19ITzlpUDlGRGpmVTZDS1lZall6Qmx0OEgwbmktUHVkeVF6djZ3S0Fid0tuRXdoNzVfU2htMjBJNWV2V1RHeTJYU2FkbXZzRUpIYVJadTFBQnJ6eWhhWGpnY09WZ2M4ekRleE9wZldWUjFwTEo4eGNORW9pUDZhblZVa3BoclpSbWwzNEQzQWxFZUpleE1BdnM2T1ZjUWhpZng2TlpxTWo5QzVfMDdSM19oZFpXcXdyUlBkYzdTQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a60bfd1b5c3328",
+      "title": "Huntelaar trots op ex-Ajacied: 'Maar hij had meer kunnen laten zien bij Ajax'",
+      "category": "Overig",
+      "published": "2026-10-01T11:06:00+00:00",
+      "updated": "2026-10-01T11:06:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2141907/huntelaar-spreekt-zich-uit-over-ajax-en-brobbey.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "b095da7148629b",
       "title": "Huntelaar geniet van transfer: 'Dat ik hem naar Ajax haalde, gaf echt een kick'",
@@ -32,8 +133,8 @@
       "id": "662f2f460cf40d",
       "title": "Feyenoord Vrouwen tegen Ajax en Smitshoek-trainer naar oude liefde: bekijk het het voetbalprogramma in Rotterdam en omstreken",
       "category": "Overig",
-      "published": "2026-10-01T09:15:07+00:00",
-      "updated": "2026-10-01T09:15:07+00:00",
+      "published": "2026-10-01T09:15:00+00:00",
+      "updated": "2026-10-01T09:15:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -62,8 +163,8 @@
       "id": "00e9f9f46d0658",
       "title": "Klaas-Jan Huntelaar haalde cashcow naar Ajax toe: 'Dat is kicken'",
       "category": "Overig",
-      "published": "2026-10-01T08:50:00+00:00",
-      "updated": "2026-10-01T08:50:00+00:00",
+      "published": "2026-10-01T08:58:00+00:00",
+      "updated": "2026-10-01T08:58:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -428,21 +529,6 @@
       "related_sources": []
     },
     {
-      "id": "2a23c64b0a9d6e",
-      "title": "Interlands: Ajacieden komen met Oranje O19 in actie tegen leeftijdsgenoten Portugal",
-      "category": "Jeugd",
-      "published": "2026-09-30T06:45:00+00:00",
-      "updated": "2026-09-30T06:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGh3YU0zZm5DSk44R3pGN0N4U2JkMnBQczhFMWhFMUNFTWliNldfc3pIN2lYcHlWWmZobWNBbVN6TGNONkcwMDJObWd5eWFaSFNkdkJUQmkxb2NObmxjYTRyU1pvM2k1UEhUdzNCUmx4Ukdyb3MwYTFxVFpVN1QtRVpLTlRpTnAwWEphMjdMd1RpTEZicGRHYzZ4NjNyQXkxQThkejN1bG5NQUZvNC1NZV9yd2syTjVpT3czVmFGbC0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "a3c333f7c6e145",
       "title": "Menno Geelen benoemd in EFC Board - Ajax",
       "category": "Overig",
@@ -579,104 +665,6 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUd2MDFSRWZudlJzbVJUMWVwN3ZIaWtoaERKNUliM0RqeERndlJLd2xaeTk2cGFVX0VvU0ZBVXJ3X3NNcmZfQ2JYaGZfaWNvTWJHOUl5cmFQS1ZpbFNKc3VTY09IRTNCbkZVeUF4dDAzNndrMjY1a2NjamdFS0JLTldsWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "008e8597215f16",
-      "title": "Ajax ontvangt middenin interlandperiode uitstekend nieuws",
-      "category": "Overig",
-      "published": "2026-09-29T17:52:00+00:00",
-      "updated": "2026-09-29T17:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODM5b2p1WmF1eFZfMUlWTHNweG1vN3E1R25oSUpOVVBiMTkyRlFtZTJESFJBNlNUVG5ISDQ5aVZVU2djMFJLVXFCcUp6UFM5cFR2dm4zeklNeDZTN1FRTHpSQlVQZWZIbG1DVG1raklDbHBVVG9peDloYi1pMGQyNnNfOFE5NU94VVdiQ243T05pRWh1U1BFLXJPTEstQlQzd0ZGTlAwX21ES3g5dk5HNw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "12667e8a75e3ca",
-      "title": "'Van Gaal zei bij Ajax: Weet je aan wie we die dikke boterham te danken hebben?'",
-      "category": "Overig",
-      "published": "2026-09-29T15:40:00+00:00",
-      "updated": "2026-09-29T17:02:27+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2141321/jonker-vertelt-heerlijke-anekdote-over-van-gaal-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWNDQW5GNmNDczNEemdkQzVwZDR2a3o1cjVWZDM5VU9WcnVxbHNGemsycFZCYWtYQjFOZWFyVXZYT3ZnQWVNUVh4WnpjV1JLSXJhWUNWX204bERLRm1qRGY2UDVYazdGQXIya1hMY29HNkdqVnlPeVNqc09fTUFIVXA5ZkM2RnVXUzd5N0o1YlJOcXN4NjlYeWxiTnZoSjZwYU4xSExpUjZTNTNpYk9IT29ESUQ3OFpLUTBQaHlzdUd4dUxibXB2dEF0dzFRSnM?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "1ccbd9b4ca3cc9",
-      "title": "Ajax-directeur Geelen treedt toe tot EFC-bestuur met unanieme steun uit Nederland",
-      "category": "Club",
-      "published": "2026-09-29T15:15:00+00:00",
-      "updated": "2026-09-29T16:05:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2141299/ajax-directeur-geelen-benoemd-in-invloedrijk-bestuur-van-efc.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFpnM0xCemFKUmJkTDJaWG5pMURrbkRTcW00Y0pGbklJcDNNcnpnUnpaNF9LZDhJNmhEeG8wSFB6VW5sWHczU1Fod2hVUm95WjFSSzNibGJubG5sMnRkQ0tHR2lHZmgwZ0RkenFqYWg0b3kwMXR2RllTR3NScUJBNURfbzlEeFQzWG9MYlhlNVVKUVFzdExwSGFEejNRUHNzclBnYTZLTC1aai1P?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/56038/Geelen-treedt-toe-tot-bestuur-EFC-met-unanieme-steun",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "ef426a896655d3",
-      "title": "Geelen volgt Te Kloese op in bestuur van de EFC",
-      "category": "Club",
-      "published": "2026-09-29T15:26:04+00:00",
-      "updated": "2026-09-29T15:46:14+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/geelen-volgt-te-kloese-op-in-bestuur-van-de-efc",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkxsTFVrY3JXaUVFNUYyM2JMaDgtekV5ZFNyekh3SUQyd2tjV29RbThxbjdGNWpfczFBdVhxRHVhRjI3aWZITEVFRmdLYTlvbWRQT0hQZ0pXNExidndrWm8zVjRPWDB5Uk52QW53clI5bTZ0M3RwZ1dCTmVXMi04Zl9tMmpRM1BIMG1FbnFOc3BxMUVLajJ4cFlnYmJ3d2JXcXFBMkNRZkcxSkh0SUZiMDFETG9Odw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "b395b405546698",
-      "title": "Te Kloese krijgt met Ajax-directeur Nederlandse opvolger binnen EFC",
-      "category": "Transfers",
-      "published": "2026-09-29T15:38:00+00:00",
-      "updated": "2026-09-29T15:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUtqelZLdVRKbVZQLTVZT20zVmY5bHN1Qks1cDNLN3Q1TndRUHA2NGZxMWJZd2RhQU1MazBHUkdpQ0hRWFhlUG1xRmJ6Wkk5aTBFckFscEw3OXFyVjVCQURWbHF2TmxkdmdHQVhYTFh2c0M4NUZ6ODJabkNKWm5teEU5eVREdjFVUDNOTmItNDFMaExXMTJiZ1VsSGtDaXhGLU91cE1FVk8zRldDSFhzeHRJUWtJbDl6SEphSnZR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
