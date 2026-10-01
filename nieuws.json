@@ -1,18 +1,84 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T14:38:42.104548+00:00",
+    "generated_at": "2026-10-01T16:30:45.305429+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 65,
+    "article_count": 60,
     "event_count": 40,
-    "discovered_event_count": 46,
-    "source_count": 12,
+    "discovered_event_count": 45,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 104,
+    "excluded_paywall_count": 99,
     "excluded_video_only_count": 8,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "0c7268d9f9f36a",
+      "title": "'Club Brugge is maat groter dan de rest, de echte concurrent is Ajax'",
+      "category": "Overig",
+      "published": "2026-10-01T16:10:02+00:00",
+      "updated": "2026-10-01T16:10:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2142052/peeters-concurrent-club-brugge-is-ajax-niet-kv-kortrijk.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e60e839c0eb9d6",
+      "title": "Adingra traint weer mee bij Ajax: verliest Ouazane of Gloukh tegen NEC zijn plek op links?",
+      "category": "Wedstrijden",
+      "published": "2026-10-01T16:00:00+00:00",
+      "updated": "2026-10-01T16:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlNHdzJhUllQVTJ4R2tuamxPUmh5bTBIYjNhd1dpdjRMcHJOLXJJMGpqXzRJUVNjNEQ1YW1wSUM5QUYyNXpYSnN5bkxGalphcVRDVmpGM0VpbUhiVUs5N2Fxbkt6ZERyZTdxNTdxZUF0OV9CR2ZmSUtTbnNjM0lwOXdMaldJR19PSGlIa0NkN1p1OGhtZXJFa3g5WFdrdS10?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fb9bc898183258",
+      "title": "Huntelaar overweegt terugkeer in voetballerij: 'In de rebound scoren'",
+      "category": "Wedstrijden",
+      "published": "2026-10-01T15:24:43+00:00",
+      "updated": "2026-10-01T15:24:43+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2142026/huntelaar-sluit-terugkeer-in-rol-zoals-bij-ajax-niet-uit.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d19e5d57ea540d",
+      "title": "Huntelaar geniet van transfer: 'Dat ik hem naar Ajax haalde, gaf echt een kick'",
+      "category": "Transfers",
+      "published": "2026-10-01T09:32:00+00:00",
+      "updated": "2026-10-01T14:45:57+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2141865/huntelaar-geniet-van-binnenhalen-mika-godts-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGpDVWZqRmVibVlZQmNpVVhfZ2x2OEQtdm85RXFNNlNwQnk3OXBQbWZ1V21fTTZYNG85dGgyME1LMjAycTY2clZ4YXg2aF9YUGltaFlGOWNlMnI5ZUt0bVFGWGgtR0VKQTVyODlEYlQyMlRPNDh4Z2I5aElERkRvQnFkZE9RSEYyNnZ2OTViV2Voc3Z5NGpvZ3FR?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "5e6fde928bd245",
       "title": "Juggling and finishing during the international break - Ajax",
@@ -45,21 +111,21 @@
     },
     {
       "id": "08a13ea75103ff",
-      "title": "'Ajax vreest voor ernstige knieblessure Dolberg; aanvaller moet nog onderzocht worden'",
+      "title": "Ajax houdt rekening met ernstige blessure van Kasper Dolberg",
       "category": "Blessures",
       "published": "2026-10-01T13:25:00+00:00",
       "updated": "2026-10-01T13:51:45+00:00",
       "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnNGOG5uUEQ3djh6MWFPMjhQTTNUSUdMUWlBbnp4d0syNVBlcG4tc1NpUF9aMHRsTUpsR2lodzFHMFh6V1RXYk45Tm9oY2gxY2NLa3hpZnAzcUl1QUc3Z0FZMXYtNHMtMHNTZlUwWHhWcVJGU3AzWWV3ZjFDVTYxS0JuNFNxQndFMlNJQzFiTGhlcUxocnBkWnUwbUxHWWNIYVc4UFpRX3hHci11cmlEOWdvQ09BV09XeVdGMGtyTEp5Zw?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVo0end5NXhBcDBWaTl1S3NTd0pfbV80VkNUU28wNU5Mbllka21UbllScHVjaTU3UXlhN2Nlb0FaX01uQXp5d0RRZ294T3N2dHdvNHVFYzZITnVzaDhuNlJPV0dQUGZpem9YdW9XTlpGYUxoRk8xT3o4TkxVZ19nY2ZMbEZTQWV4d2NiaHVzdG05YjNqLVdWV0F4VWFpSWE5ZWE0ZDBGYmZqalEwcnk2cUhFUnU?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWVo0end5NXhBcDBWaTl1S3NTd0pfbV80VkNUU28wNU5Mbllka21UbllScHVjaTU3UXlhN2Nlb0FaX01uQXp5d0RRZ294T3N2dHdvNHVFYzZITnVzaDhuNlJPV0dQUGZpem9YdW9XTlpGYUxoRk8xT3o4TkxVZ19nY2ZMbEZTQWV4d2NiaHVzdG05YjNqLVdWV0F4VWFpSWE5ZWE0ZDBGYmZqalEwcnk2cUhFUnU?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnNGOG5uUEQ3djh6MWFPMjhQTTNUSUdMUWlBbnp4d0syNVBlcG4tc1NpUF9aMHRsTUpsR2lodzFHMFh6V1RXYk45Tm9oY2gxY2NLa3hpZnAzcUl1QUc3Z0FZMXYtNHMtMHNTZlUwWHhWcVJGU3AzWWV3ZjFDVTYxS0JuNFNxQndFMlNJQzFiTGhlcUxocnBkWnUwbUxHWWNIYVc4UFpRX3hHci11cmlEOWdvQ09BV09XeVdGMGtyTEp5Zw?oc=5",
           "via_google_news": true
         },
         {
@@ -110,21 +176,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2141907/huntelaar-spreekt-zich-uit-over-ajax-en-brobbey.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b095da7148629b",
-      "title": "Huntelaar geniet van transfer: 'Dat ik hem naar Ajax haalde, gaf echt een kick'",
-      "category": "Transfers",
-      "published": "2026-10-01T09:32:00+00:00",
-      "updated": "2026-10-01T09:32:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2141865/huntelaar-geniet-van-binnenhalen-mika-godts-bij-ajax.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -620,51 +671,6 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5RWhXdEllLW1LVXUwTVBEcTh3SE5ibFhHcXdyanlBZXRMajJLUDYtbEVIaXRMZzdqUFVCc1FPTTFJdUZmNThNY3l4VlNZOFo1OXk2Y2J2bnRCbFQ1eF91NVd5bnJjemRiOW5LdGhreXBVdXdXTVhRUHlmQW5MbXc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bdab3be3d23533",
-      "title": "Opmerkelijk: vader Milos Kerkez deelt foto na ruzie van zoon met Ajacied Tsygankov",
-      "category": "Overig",
-      "published": "2026-09-29T19:06:00+00:00",
-      "updated": "2026-09-29T19:06:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2141322/vader-van-milos-kerkez-deelt-foto-met-russisch-muziekje-na-ruzie-met-tsygankov.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0d3f9c7a448882",
-      "title": "Paes onder de indruk van Indonesische fans, media lyrisch over Ajax-doelman",
-      "category": "Overig",
-      "published": "2026-09-29T18:00:00+00:00",
-      "updated": "2026-09-29T18:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa09TYXBQeTJfQTlyM3F2QmpUVEZhNnpLNTBPaHRIZlRFWERURFZjSTQxOVhTcjR5c01vaEpzQy0xckptVnhqLWszX0gzVTBEZ1BYRnpueTN6VjhOU0pYaHJFeTdhR2RXdkxlczhULWgtUGR1WnRkZ2JHaDIwMk9tZFBoQ2lOa2UwYTNFYUJkVUhjWV9IQWV1ZHRBZC1GVWNMVHhMaVBKaC01N29TOE8xSFpmYkJDRkxidF8zeGdpMXdTdWM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "10cdf730fbc8ea",
-      "title": "COORDINATOR AJAX VOOROPLEIDING - Ajax",
-      "category": "Overig",
-      "published": "2026-09-29T17:53:55+00:00",
-      "updated": "2026-09-29T17:53:55+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUd2MDFSRWZudlJzbVJUMWVwN3ZIaWtoaERKNUliM0RqeERndlJLd2xaeTk2cGFVX0VvU0ZBVXJ3X3NNcmZfQ2JYaGZfaWNvTWJHOUl5cmFQS1ZpbFNKc3VTY09IRTNCbkZVeUF4dDAzNndrMjY1a2NjamdFS0JLTldsWQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
