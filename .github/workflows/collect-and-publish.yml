@@ -8,10 +8,10 @@ on:
       timezone: 'Europe/Amsterdam'
 
 # Nooit twee publicatieruns tegelijk laten schrijven.
-# Een handmatige run wacht dus netjes op een geplande run, en andersom.
+# Een nieuwe run mag een oudere, nog lopende run vervangen.
 concurrency:
   group: ajax-news-publish
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -20,7 +20,9 @@ permissions:
 
 jobs:
   collect-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,7 +43,7 @@ jobs:
           git reset --hard origin/main
 
       - name: Python instellen
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.13'
 
@@ -83,7 +85,7 @@ jobs:
           fi
 
       - name: GitHub Pages instellen
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Publicatiemap bouwen
         shell: bash
@@ -99,4 +101,4 @@ jobs:
 
       - name: Publiceren naar GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
