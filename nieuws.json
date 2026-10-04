@@ -1,59 +1,161 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T17:05:05.309877+00:00",
+    "generated_at": "2026-10-04T20:14:50.783974+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 40,
-    "event_count": 38,
-    "discovered_event_count": 38,
-    "source_count": 10,
+    "article_count": 47,
+    "event_count": 40,
+    "discovered_event_count": 42,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 27,
-    "excluded_video_only_count": 25,
+    "excluded_paywall_count": 55,
+    "excluded_video_only_count": 22,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "e5fc01d0de9ebd",
+      "title": "Ajax Vrouwen droomt van Europa Cup: \"Ik denk dat het kan\"",
+      "category": "Ajax Vrouwen",
+      "published": "2026-10-04T19:14:27+00:00",
+      "updated": "2026-10-04T19:14:27+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMEoxMk1uSTVFUlNtSXpCUjBoWGd2azlWdkJqTlBVenRxYVRjbUVBSktzQzBvNjZwX1cwdnNudjNSWFdxNkNxYzlsRm5HZHBZN3drT3JqV3JGN3hHbW9YaXItVGpJTGVEUWt3SEF2ZWprSGtFaU5VeGdNYU02eHdrVlEyVEdDQWszRUt0ek43YTNxSk1HRHB0Z0h0cnBMMHkwQUdOMmlTVQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9445cad646b8b0",
+      "title": "Feyenoord 1-4 Ajax (4 okt., 2026) team statistieken",
+      "category": "Overig",
+      "published": "2026-10-04T14:50:41+00:00",
+      "updated": "2026-10-04T18:37:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MX3J2S2lPRFc4SktiSk1hSll3eVBpWXNsMG55bUtlWk96Vl9aR2FKcTVMNjl0ZnVQSDJFTTNtYjg5TzRvMUtVdkhfX1BGNS03Zk0xZ0lpYWI1X0M3V01FVW9nTmNEOEUta1RjTW91RGw4QnRIV3BSUA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "27bbd2dd5a1835",
       "title": "Standaardsituaties cruciaal bij winst in Klassieker - Ajax",
       "category": "Wedstrijden",
       "published": "2026-10-04T16:51:41+00:00",
-      "updated": "2026-10-04T16:51:41+00:00",
-      "source_count": 1,
+      "updated": "2026-10-04T18:00:00+00:00",
+      "source_count": 2,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlREQ1V6RFdwbmN3VHg5NGFsYk5iM0I5SXhkdWJKWUE4NEh2ck03cjVpM3VsYzVFVU9pUW93VHBPVTlwSEc4amNfdGpQdDQ3eGtIVGVILTN2S19ra1NOVzBKSW5CeTlEaWI5WF9IalA1cVUyWDRsOFJuREdCUGdmenFzQWtCWGozLWc?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMURtd0FKLU9XNHgyTklrX0Q5RXdRdGtFVTcyeURZZGlaemUwVGpEVDkwbWktNTR4Zk5wdFk2UnI0X3RtdWJSal84WGVEaUg3Wmo2R2JVMVFpZjZLbjVxSkxLZFhxM0REWmlxcXRtVEVieldrajZTeW1BOWRCX00tNmk0SVVGNTNDenoyZ25sdGdKajFyaDRld3J3bDM2c3NNbGlWcnNlLWdON1JtQXN3VlNDZXhzb09tNXY1Zmg0YUVFOW8?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
-      "id": "ff75e52e6ae08d",
-      "title": "Ajax Vrouwen boekt klinkende zege in Klassieker en vergroot zorgen Feyenoord - NU",
-      "category": "Ajax Vrouwen",
-      "published": "2026-10-04T16:45:22+00:00",
-      "updated": "2026-10-04T16:45:22+00:00",
+      "id": "85519282afa021",
+      "title": "Interviews na de wedstrijd Feyenoord (V) - Ajax (V)",
+      "category": "Wedstrijden",
+      "published": "2026-10-04T17:47:01+00:00",
+      "updated": "2026-10-04T17:47:01+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkF0Q3NOZDRDLVJqYkhzTzlTaUxFNXViTzJoenJoOFBXSjdnREZoWkhDWWZqRFlVUWVscDE3Zk1WUUpRUlNMT3hBQnhFV2tqWjlZOWYxdFh0NmFBaEJSSDlFWHN1ZmdGUTFzVmZIX1RnYWY3N3ItNVQyS09YNVRld2J3VHdseWViMWUzU0prRF93SlVzTHhfMnV6RDdJdENyNWdSU01MLXdUejZOY0xqeVhGWDg1Zw?oc=5",
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdnFWYnEwakNQazhpYTVEVWZ4MEROV1pBUUI5MDQ1MDFjZjZ6a25DYklaalhFN1VRTk5ESjNEYkFRMVFMS25aampKcnFTdFZSY1lDZldINFFQRWJXSWpJLVI1b0xJeGtHc0F0MFF6U2REbDU4SWZ4NndQMWUtRnk0ajVmM000bmxPMkNRMHI1YmVGV0Fp?oc=5",
         "via_google_news": true
       },
       "related_sources": []
     },
     {
-      "id": "5329949f08b516",
-      "title": "Feyenoord - Ajax (4 okt., 2026) team statistieken",
-      "category": "Overig",
-      "published": "2026-10-04T14:50:41+00:00",
-      "updated": "2026-10-04T14:50:41+00:00",
+      "id": "7e4f4a2b238bb7",
+      "title": "Ajax Vrouwen slaan toe vanuit spelhervattingen en boekende klinkende zege in Klassieker",
+      "category": "Ajax Vrouwen",
+      "published": "2026-10-04T16:45:22+00:00",
+      "updated": "2026-10-04T17:15:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbUdOYXFLSV9DTUFEa0F4aWZNWFp1Mks0R2pXRnRPSEpxOER0c1YwQmxrTlJVM1UtUFBIX21STjk2V3lGOVFnNDJSVVIwN2pQdEwzNHN6YUl4M2pEQldKRUxKc01yMHplcHZFdFBFaEVCUkVDaXJpMnRzZGg4OWI4UDk5c2puTndmWnNjNkZqWEg4aW8zVlZYMWtlNmYyU1F4cGFtdGtUMGJGeUdGNFFXT1lrMHo1TVFRSk4tYnNvTlhRRlVROG04ZkdUSVFBUFVDTDNRQg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkF0Q3NOZDRDLVJqYkhzTzlTaUxFNXViTzJoenJoOFBXSjdnREZoWkhDWWZqRFlVUWVscDE3Zk1WUUpRUlNMT3hBQnhFV2tqWjlZOWYxdFh0NmFBaEJSSDlFWHN1ZmdGUTFzVmZIX1RnYWY3N3ItNVQyS09YNVRld2J3VHdseWViMWUzU0prRF93SlVzTHhfMnV6RDdJdENyNWdSU01MLXdUejZOY0xqeVhGWDg1Zw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "5a4cb63dd4b7fd",
+      "title": "De Klassieker op Varkenoord is een prooi voor Ajax Vrouwen",
+      "category": "Ajax Vrouwen",
+      "published": "2026-10-04T17:08:47+00:00",
+      "updated": "2026-10-04T17:08:47+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbS1nZGhUbjlPdnpUOFNhZVNTaFFldUI4MTFRLWNWQUQ1SFJ5YW5ic2hkRmlBNjdoQXIwWkNZdU13alZ1QXE2MW9sbDZWYmhhSDRpMDFfZWxSY3VvTVF1ZjF4VXhMV0dJRng4OWQtZTNYRWY3Sy1UX1pFSEp4T2ROdUJsWUh3LWp1bDVGbGRiUzVBQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHhxTGRScTVVREtNMjVtaGRwcDRnV2RXTGljWHdua1MzVlg0TThFR2hVbGxxSm5aRHZnT2xWdzRyY3I2UHI4SW5hM2JyaldDQzhPc0UyQVhnY0l5MEdGU0Z1blY3d0RRdjI4Wk1BU3U1eVNUX0xTa2Z3UUE1ellYZ0tSTnhSSk5PQ3cwVnVtellUNHpxNXhTaG03a3JZRjZVMENwaElXeWMwZllJ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c9e6a6d2c7d3c6",
+      "title": "Ajax Vrouwen kennen geen problemen met Feyenoord",
+      "category": "Ajax Vrouwen",
+      "published": "2026-10-04T17:06:00+00:00",
+      "updated": "2026-10-04T17:06:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56045/Ajax-Vrouwen-kennen-geen-problemen-met-Feyenoord",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "99e75c8345e3ab",
+      "title": "Set-pieces key as Ajax Women win Klassieker - Ajax",
+      "category": "Overig",
+      "published": "2026-10-04T17:04:27+00:00",
+      "updated": "2026-10-04T17:04:27+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmJ0R2JLU19CN2RLeGh4UmV6SVV1S08teXB2YzcxU2pCaXMzOVZ2QjA2MURJXzNqT3lYZF9LM1M3cTAyVVN2ak5CT3F1VFI4cDgtV2x6VDBocEhkMXdQb19HMGdETGdja0prWjl3WWRrX1Zjd2d3ZzJnS2pKUXpIYXVzRQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1de20083701d56",
+      "title": "Mark van Rijswijk uit keiharde kritiek op Ajax-keeper Femke Liefting",
+      "category": "Selectie",
+      "published": "2026-10-04T16:15:11+00:00",
+      "updated": "2026-10-04T16:15:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXZZSmRrQWdodXUwMVJiSFEzNFg0Xy1hZFkxMTE5dTJmN2NIOXBQendQSHRrR3lzQ0E1Y2ZKZHhWWjBoZENLMTM2SGNPeEpCakJtTGlrOXNXRTV0NXZKOXc4Y2U5NFpfbmhPVUh0RW44SkxRWWgwSzltazJyWC1lWTVfRnh5dXBkWVk4c3hfTUprR1J3UGRsRFdCQkFlTW9weHdQOUpMemtROEluNmNtdEpuYWc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -74,7 +176,7 @@
       "related_sources": []
     },
     {
-      "id": "bafd0d448c79c0",
+      "id": "51c0e8581a2490",
       "title": "L'Equipe hard voor ex-Ajacied Godts na overstap naar PSG: 'Momenteel hebben we nog niets gezien'",
       "category": "Overig",
       "published": "2026-10-04T12:15:00+00:00",
@@ -83,8 +185,23 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGlMSzBkWm0yQWVwWFNmYTdsR2laaWNkcVdmN3RMNHdGTGJKLTc2WXpCVmx5U2Fjd3h0SEJOVDZXTElQMzF5MTRUYUZpSjBSeEJ3bmtKNDhhcVQySU9fNHpZeU1mZnRhX3dFMGFmY2QyYmtua2ZON2hBd2ZnclVyY0ZNb2ljZmI2TzJGZ0F0SmpjMWdsWm16bGdhYS1YNHk4d0FSaDI5N1FISnNUcWZIZmVYRm5Pb1QxOWhqbm5GbXBqX1NJWDFB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDN5SnNQLWhJQlpHMGdCTm95RjBxSVdoYk1SMFc2MjlQNWNpakR2bmYwZFlnUGlWMzJHQ2dRVm11R25KTlZBZDhad1kxZTdjQ3JsWjg4bHRhRzl3TGhhTUtBMTB0Skx2Rk5XeVIxcmR1Y2ZaVGduNUdtal9RbGFCUTNmeXJPZjVJM2pLdmJfMXRhQzRpNDVaOExCTks1b29UZndxMkdUcTB2TnlfM0ZweVlDQUNWSUlManpSYmx3YndzN2RJQ1VIb05lRUY1N0JK?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d8ce0bb250755c",
+      "title": "Vrouwen FC Twente blijven ongeslagen in eredivisie, Ajax klopt Feyenoord",
+      "category": "Wedstrijden",
+      "published": "2026-10-04T12:08:33+00:00",
+      "updated": "2026-10-04T12:08:33+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2633612",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -441,7 +558,7 @@
     },
     {
       "id": "da64f9061213fc",
-      "title": "Peter Bosz onder de indruk van twee spelers van Ajax: 'Gemaakt voor de Eredivisie' - voetbalzone.nl",
+      "title": "Peter Bosz onder de indruk van twee spelers van Ajax: 'Gemaakt voor de Eredivisie'",
       "category": "Wedstrijden",
       "published": "2026-10-03T07:44:00+00:00",
       "updated": "2026-10-03T07:44:00+00:00",
@@ -516,81 +633,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ1dXME9RNXp3bFlPYS1BSUJJM2U1d0FlVk0xdHpYY1BydWFCSnJwN19nM2JFTUk5MnJ2V2hLblRwZnl2VkdRN0c2ejNiXy0yVjJoeTFXN0plQURZUlc3YUotaUxJS1RFSjdlLTllNmFSeHVJOUxNNDhTaGNJb2ViYXhUZGhtTnI0QWluNC0xX1hac2RnMzh4ODdZZU5iYlBzNmlGaWhUaVJidWlLZVVzWU9SS1pkWU5NR2xDbjJZYWlSVEsxZDM1Z2hWMTRIekJ1Yk00WA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "851f5451d19ff1",
-      "title": "Ajax Vrouwen tegen Malmö FF in laatste zestien UEFA Women's Europa Cup - Ajax",
-      "category": "Ajax Vrouwen",
-      "published": "2026-10-03T00:30:02+00:00",
-      "updated": "2026-10-03T00:30:02+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVFkVXdpRURNV2Rkc0x5b2lYcmlTdzhKSXZ2ZVVGTTFvYTF4eTJNOHpiWVVHY1VydkNPNEVZUDdROHRIT0xvNHlOVW1EbnRUelF1VHZEQ3Bqd3Iwbm9NZXJsSkk5UzhDTWtPVGNNZFZmSmVJNmZ6V2Y1bjMyZFN3UHpvSEkzRTk2NGhha1V4TWFVQW1MX1hUbVJWQWtqa0dtWFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9990590a1ea0a0",
-      "title": "Ajax - Malmo (28 okt., 2026) Live tussenstand - ESPN (NL)",
-      "category": "Wedstrijden",
-      "published": "2026-10-02T20:45:08+00:00",
-      "updated": "2026-10-02T20:45:08+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWJ0VzhRdW5UVnRnU0hJb29QNVNFb01zSkpoTDRjLXM1cHJ1Zmx5RHdzV1lWci1oU1ZVTlJkNl9OcTduQkFiM2ZLMkctdmItTWZUU01ZYS1McnA5Z0kyc2p4M2VOMWdVX3R2VGFvcjRSOGZua29KMlZtYm51NzBFaEdpdUZURUVYNXpYMWZ3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b47306f99bd13c",
-      "title": "Jong Ajax-uitblinker deelt persoonlijk doel: 'Zou een grote droom zijn'",
-      "category": "Jong Ajax",
-      "published": "2026-10-02T18:44:00+00:00",
-      "updated": "2026-10-02T18:44:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2142487/jong-ajax-uitblinker-pugno-geniet-in-amsterdam.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0246d1bf3a5fc2",
-      "title": "Ajax speelt gelijk met Jong Ajax in besloten oefenduel: Leonardo trefzeker",
-      "category": "Jong Ajax",
-      "published": "2026-10-02T17:29:36+00:00",
-      "updated": "2026-10-02T17:29:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2142464/ajax-speelt-gelijk-met-jong-ajax-in-oefenduel-leonardo-trefzeker.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d87e5b37c1a7ab",
-      "title": "Ajax middelpunt van opmerkelijke rel door veelbesproken deal - voetbalzone.nl",
-      "category": "Transfers",
-      "published": "2026-10-02T17:21:00+00:00",
-      "updated": "2026-10-02T17:21:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmhDa0Vzd2d2dE9hTktGekp2YXZ2VjhCUjltb0pQaHMwRjlkczJJc0g2U2o1c1Y5TXN6Ni03SUlTdEFEejB5ejNSX3RQU0tzUEU4ZXdqREowZldlYXdqWkpJQ2JzdkZoaF95M1pXZG1lN2EzOVc3ajlBYmM4WHg1MzlsV0tZaVdEVnZfSUdJLTZ4Rk83OXZXUHV4aE9zQkI4VVJJMl9kS2hMNExQSnR5TFV4STNPb3Y1SVhwVG1ldkU1R00?oc=5",
         "via_google_news": true
       },
       "related_sources": []
