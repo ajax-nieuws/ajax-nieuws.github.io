@@ -1,24 +1,135 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T09:38:00.556264+00:00",
+    "generated_at": "2026-10-05T18:52:14.054625+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 47,
-    "event_count": 39,
-    "discovered_event_count": 39,
+    "article_count": 51,
+    "event_count": 40,
+    "discovered_event_count": 43,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 31,
-    "excluded_video_only_count": 26,
+    "excluded_paywall_count": 27,
+    "excluded_video_only_count": 30,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "d5617f5bdc3aec",
+      "title": "Paes wint FIFA ASEAN Cup met Indonesië - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-10-05T16:31:51+00:00",
+      "updated": "2026-10-05T16:31:51+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GRTRsaWR6NndxcWVVZTJVamd0U0dBbm9tdEZGT1lkOHk2NlRkN3lySUhQQjN4Zk1iQ013NWhaTVFReG5OWHYwWXYzNG1MSUJ3eG5JQkdIenk3X0V4X3hmZnpTczF0bENPdm81NXo3OHdmRkE5Yk1BTw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b3d3cb24e97db2",
+      "title": "Ajax-talent Mokio valt voor tweede keer in bij Congo, dat zege verspeelt",
+      "category": "Wedstrijden",
+      "published": "2026-10-05T15:26:20+00:00",
+      "updated": "2026-10-05T15:26:20+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2143397/mokio-speelt-gelijk-tijdens-tweede-officieuze-interland-namens-congo.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e74e6841604811",
+      "title": "Duel met NEC onder leiding van Gözübüyük",
+      "category": "Wedstrijden",
+      "published": "2026-10-05T14:21:55+00:00",
+      "updated": "2026-10-05T14:21:55+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56052/Duel-met-NEC-onder-leiding-van-G%C3%B6z%C3%BCb%C3%BCy%C3%BCk",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6a2ad31fe84e98",
+      "title": "Rondom Ajax: Ajax hoort scheidsrechter voor thuiswedstrijd tegen NEC",
+      "category": "Wedstrijden",
+      "published": "2026-10-05T14:15:00+00:00",
+      "updated": "2026-10-05T14:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRlZiNjRDUWJRaFhTWTVuTUh2Yjk3bmsyQVpXcUhvTFdhcWw5VGY5Z0RVSFltZXRFeUMwckQzUTczZjIwNHEwZXVtcmd4NEEzOG9Ob2RjWGdWdnpselpzSTJhd2hIamdzc3N0aUlnY1MwM24xWVI3M3Q0d1dSUmFEQnU0NkVJLTE4M2xjTUlkaUlQdjhwREJ4T1hnNk5jNEpGTC1DSlRLcmd0Vmwycnl3dlNFR250NHp5Wmc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "46891db35a6e87",
+      "title": "Deze spelers van de Ajax Vrouwen melden zich bij hun nationale ploeg - Ajax",
+      "category": "Ajax Vrouwen",
+      "published": "2026-10-05T13:51:45+00:00",
+      "updated": "2026-10-05T13:51:45+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUlMS0ZicVV4VjdRY295NjNKaDgxaWxfazFWUWdkU2EtNGU1M3lXM05pYWVIeTlvWHJBUUk1NVl3VkoxWGxnVGtuMFdseEV1ZW1kcjhxVEpRVm5rMGFNX19pUGx4OUpoOWxrSmc2eVdIay0ySDNjYnowUFZFekRoTVBpZHlMc2UtQlB5QTBuWUZ4cng5Sy16UTdVTHpfS01R?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0ac0ad692151d5",
+      "title": "Weet Ajax weer te winnen van NEC?",
+      "category": "Wedstrijden",
+      "published": "2026-10-05T13:45:59+00:00",
+      "updated": "2026-10-05T13:45:59+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56051/Weet-Ajax-weer-te-winnen-van-NEC%3F",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "de2ef11ebbd7e2",
+      "title": "'Maar eerlijk: dit was echt het beste Ajax dat ik in al die jaren heb gezien'",
+      "category": "Overig",
+      "published": "2026-10-05T10:05:00+00:00",
+      "updated": "2026-10-05T13:06:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMi02LWM1OGRqNnNOU1A0alIxT1dEc3JMYUliWGJZNzdVZWRobkY4eWhrOGJJVFU1TWNDbHhMSnE5eTE0cDBYTXZkVEhaY0NZNEJENjAweWxtRk1HZWRjbVoxazgzUWxodWlrdkZGQWhBVnFlREVnT1oycGtyeHA2R05BNzZzRjg1eG1UVmJFZWxZd0NyQ29aNUM5d2NsSDdsZTZyWlJXdGU4bzFGWjExeEJjTll1aXlG?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWZOYkpKR3FobW1UQ1JJX3RrN19Razg5dGRXV2M4Z0dZSXdOUFFHZkNqNmZsSVBzdTZYamQ0aW8tYThSUTR3cS1tS3RTZEk2UVZDRXBOQUUzcURSREVjaGIwOEw0ajZsa2sxMlFCOE14VEZpNXoySDVabzJhQjU3TVViMXpubms0MVFVamhob1NoNkxMZ0RVZml6UWYwTzFFRFZya3dGM1NpQWl1X0U3WUVn?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "67f7f2db5fa530",
       "title": "Ajax maakt grote indruk op tegenstander: ‘Het beste team in jaren’",
       "category": "Overig",
-      "published": "2026-10-05T08:47:22+00:00",
-      "updated": "2026-10-05T08:47:22+00:00",
+      "published": "2026-10-05T13:03:46+00:00",
+      "updated": "2026-10-05T13:03:46+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -32,13 +143,43 @@
       "id": "a02211076dc823",
       "title": "'De derde landstitel met Ajax heeft voor mij de minste waarde'",
       "category": "Overig",
-      "published": "2026-10-05T08:02:19+00:00",
-      "updated": "2026-10-05T08:02:19+00:00",
+      "published": "2026-10-05T12:21:04+00:00",
+      "updated": "2026-10-05T12:21:04+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckt3Q2lFUTh1R0xzdURja2MyOGw3SDA5a0ZwMmFWdnIxTkRHRUxYcFBhclUzSVUyN0pXR1RrNENqX2VOc2V0bzAwR09xdFVGTFBDTUFLa3hLaXlJWE80a0FfclpJSC14Wkx1LWE1bDl0MTJEbXIzZXRCdVQzYVJtRzhqMi11T1VXeExHcHZZUTFhc3pfUkE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a9384bddf3121c",
+      "title": "Lang dacht na over terugkeer bij Ajax",
+      "category": "Overig",
+      "published": "2026-10-05T09:51:00+00:00",
+      "updated": "2026-10-05T09:51:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56047/Lang-dacht-na-over-terugkeer-bij-Ajax-",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c5dae94bef1966",
+      "title": "\"Iets voor de toekomst: Van de Ven en Van Dijk\"",
+      "category": "Transfers",
+      "published": "2026-10-05T08:58:48+00:00",
+      "updated": "2026-10-05T08:58:48+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakRtRzFxQ2JleElacm9aVkplNWxnYUVyQ3NTV1lBOGY2OURvRm11b190bTctNEU3SDZsaXZKNThHVWx2bzhsQlEwYjNqVVd6MnAtd1VZSWs4ZW83RnpqbGVhTnUxdTMzRGV6empKOTJUR3ZMMGdfRm5ud1NhdmJVbjczRUNHakF4X1UwblJvakdySTdyMHFFOFhR?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -80,6 +221,21 @@
       "related_sources": []
     },
     {
+      "id": "2413ba21ff27f9",
+      "title": "Gaaei maakt eerste minuten voor Denemarken",
+      "category": "Overig",
+      "published": "2026-10-05T07:00:00+00:00",
+      "updated": "2026-10-05T07:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56048/Gaaei-maakt-eerste-minuten-voor-Denemarken",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "5569da51b86a62",
       "title": "De Klassieker op Varkenoord is een prooi voor Ajax Vrouwen: spektakel op andere velden",
       "category": "Ajax Vrouwen",
@@ -91,6 +247,21 @@
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHRTNU4yb0J2SnVQYXBpdDhFUzJBbGx6Q2FfYVVQUldMZ0FnNnA5WXgwdGZXb3c4QUNYUmJEUnlaaWNkRlVHNkFiUHVDTmM4eDJnaUNHenZLZmVza3hrZ2x6SzdudmMzLUJqOTNpb3VkM3ZTNTU4a0ZmVFFQSHdLa2VBZzZiYWZSbTRYblg2eEU4aURMeWtIUWZ3RDhzVjZnUVBKVU5sY2tzUGRVY0hiZ2xHbVJ5d3VYZDE1QVpxSTA4UjZ0Z3ZlclRQNzQwa1gy?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ef4f490989ca4a",
+      "title": "Gloukh en Israël pakken tweede punt",
+      "category": "Wedstrijden",
+      "published": "2026-10-05T06:27:00+00:00",
+      "updated": "2026-10-05T06:27:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56046/Gloukh-en-Isra%C3%ABl-pakken-tweede-punt",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -129,21 +300,6 @@
           "via_google_news": false
         }
       ]
-    },
-    {
-      "id": "c5dae94bef1966",
-      "title": "\"Iets voor de toekomst: Van de Ven en Van Dijk\"",
-      "category": "Transfers",
-      "published": "2026-10-05T03:03:48+00:00",
-      "updated": "2026-10-05T03:03:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakRtRzFxQ2JleElacm9aVkplNWxnYUVyQ3NTV1lBOGY2OURvRm11b190bTctNEU3SDZsaXZKNThHVWx2bzhsQlEwYjNqVVd6MnAtd1VZSWs4ZW83RnpqbGVhTnUxdTMzRGV6empKOTJUR3ZMMGdfRm5ud1NhdmJVbjczRUNHakF4X1UwblJvakdySTdyMHFFOFhR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     },
     {
       "id": "6a323d534a344b",
@@ -383,25 +539,19 @@
       "related_sources": []
     },
     {
-      "id": "5febe80febc16d",
+      "id": "039e9fcef41ee8",
       "title": "Bosz ziet unieke speler bij Ajax: 'Dat kennen we niet echt in Nederland'",
       "category": "Overig",
-      "published": "2026-10-03T10:11:53+00:00",
+      "published": "2026-10-04T08:47:14+00:00",
       "updated": "2026-10-04T08:47:14+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2142644/bosz-kijkt-op-van-tolu-arokodare-bij-ajax-kennen-we-niet-in-nederland.html",
         "via_google_news": false
       },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmhfa29jRnotOG1NMEMxUWY0SGVJdmNIdFJZc1NRSHlxQWNsSlo1MnV4Q3RJQUFFRWhma051ZEVzUG83b3B1M1ppTWMzNDZvTERjYWhpWmh0SFlVOUoydGU3azFoaG9XMjdiWlRzZVhzS0lscTRWVmdLQko4N2ZQeUxnWnVpWVJBazBLT1lHVzBlMEhzanBaNlJVQl80ekZPM0k2Wk9iZXZ4QVZZem9Bb1psUVVQRTdtMGg4ajR4QQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "900514738c631c",
@@ -489,141 +639,6 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTW9sX0ZPU2l5X1BrOU5YcjcwZ1hCbm5HYUFvZVpubUl4SGZ6Sjk1QVh5ZTZseFF0VFdkdUJpdUFQdVlySmNBVmRqczQ4bE12OU5VRzNranU1bjBTQTdqYUVuN2dMTnFtcEVqdURrbnRVcU5hWHZPTGJUS3FKWFVQQUNib2ZUZVItYy1YSDJwNFd5cHZNU1o2OGNxMkpGUkVhNDJLS2tpNml1WkU4VTNuV0NLNm4tQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cffdcf0a0f36ea",
-      "title": "Oranje O18 wint van Ierland O18 met een hoop Ajacieden; Nas geeft belangrijke assist",
-      "category": "Wedstrijden",
-      "published": "2026-10-03T19:30:00+00:00",
-      "updated": "2026-10-03T19:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc2RDNUt2Tm56bVh4bTFyMlVvck9RUzY1bzVBRV9SNEMzdGd4TVMxTUdEWV9JZFJSdXVrZElIVUlqUnVwMmlRT1M3Z3RsWVZUTmxXTGM0WlFrSV9rV2FFTXNFRUxIVlZ5NXNRX1hKcEl3ajN1a1RqVVRDSVVmZUtLckJqNWx0MDgtcExHS0dOUnBsMWJsWWJ2dlo5aUpiLVpUaFV1RUo3aWVvMExMRzVGY0pvRm0xZ3pZb0M1d2twMHdGUGpiakRuVE5LeS1wZ1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7cb16d66d91074",
-      "title": "Harde kern Ajax steekt op drie plekken massaal vuurwerk af vanwege 50-jarig bestaan",
-      "category": "Club",
-      "published": "2026-10-03T19:25:00+00:00",
-      "updated": "2026-10-03T19:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/240241/harde-kern-ajax-steekt-op-drie-plekken-massaal-vuurwerk-af-vanwege-50-jarig-bestaan",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b2a2e7693be85a",
-      "title": "Ajax O15 en Ajax O16 winnen competitiewedstrijden met minimale verschillen",
-      "category": "Wedstrijden",
-      "published": "2026-10-03T17:00:00+00:00",
-      "updated": "2026-10-03T17:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWIwZzc2VGVXWHoxMVYza0sxOVA1S3dLUW01RDdfRDAyNGJBSEhPd3Y5dzZ5MXI0WDc4Qlhobnloc2tXZjNhTVhkVG40RGxaWktSN052MWFQMU1wYlFOQXh6eFlWaW5XOVBVS0pPMmk0YnJxZk5CdjZBS0dhQUlGSHlOdDJhalZSTzFQSllxemtlMkdLVkdmRlg1ekR2V0JRTWFpUW1UbVBZN0pjUjc1TUhQVldwZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "07f0d44af78302",
-      "title": "- Ajax Showtime",
-      "category": "Overig",
-      "published": "2026-10-03T15:54:05+00:00",
-      "updated": "2026-10-03T15:54:05+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSEU4VER5SVAxWVJjNkhRQkduVkNPWi1vTWpBUzM4cTBrWWRkOFlYd21GNFVuQUNhR1ZhWllqU1Z3clF2WGVFOEdmeDJZbTZ6N0ZhU0dfWGVjajh5aDJ3aG45dmN4cGk1aDZrVzF2cUVVRlpodzBhRF80YVlNM2dJdmpUb0VQYTF5cENXeFRTTEJvWnppUWlNUTFlZVZZX3hXX0hSMkdYdnppMHNNQXBpbHFYU2p2ajZYeUxUTFhZN0tMT2djSXFKQXEtblB4M29WelNHSEk1UQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bf9e7e4032d2e8",
-      "title": "Meerdere Ajacieden bij Oranje O17 verliezen dik van België O17 en scorende Ajacied Koné",
-      "category": "Wedstrijden",
-      "published": "2026-10-03T15:45:00+00:00",
-      "updated": "2026-10-03T15:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT0JKbVlFR2NQQmU3V3VfdVUzSHdoRzF3eUtSMU4yVUs3QVVBUzZSd1hKZFNDaWhmYVBiSzZHWmNBVlp1cnZZZGhibTUtdWNOb0dVdVFsQ253YzBZSFJHbWI3d21yUS1Cd2J4Y2hjQVp6LUlYSk9fS0tCLUxYdWpxNjhvMGhTeTBLVXZDUEhkNUt2bERsTi1ma2NLUzdWa1V1TDFCSVhILW1tYjV5WGVIVzlmVThiMFBFZ2EzUzJuYWpPV1ZyU2wyNHBqYXVCQm1vY3gtOA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "79fbff9855b0c0",
-      "title": "Ajax krijgt Kwakzalverprijs 2026: 'Vanwege recent gesloten sponsorovereenkomst'",
-      "category": "Club",
-      "published": "2026-10-03T13:00:00+00:00",
-      "updated": "2026-10-03T13:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVVOMmNmQ29aTjN2SDFHWWFHRFVqUEExeW9RN2ZDUk9QWVIyN3FHWXdPMkJUel9KbmtZNXJYX3V5YnBtcXJFdXNIc1paWUJvRFVFZTVSNHlGZkViYjlVZVNZcmNyNUktSkdDTklBdlo0MVZ2WWk1ak4wTHM3QjhVcnU1Tmx0Q0ZuYktoZS1HYW9PM3ByVE9faTRrWnR4X3ozWVhNVTluZ2VqQnlvVEFUWGJsMkF5YmNyODAwTkdVd0V2WDNRNkE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "81ab26ca20641a",
-      "title": "Spina: \"Een eer voor mij om hier te spelen\"",
-      "category": "Overig",
-      "published": "2026-10-03T12:30:00+00:00",
-      "updated": "2026-10-03T12:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56044/Spina-%22Een-eer-voor-mij-om-hier-te-spelen%22",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1f0b0be9ce140f",
-      "title": "Na glansrol tegen Ajax en transfer naar Dortmund, scoort hij nu voor Curaçao: dit is Jordi Paulina uit Odijk",
-      "category": "Transfers",
-      "published": "2026-10-03T10:00:40+00:00",
-      "updated": "2026-10-03T10:00:40+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVU9sY3dWc3ZKcmt3T0Rwa1VPa1B4SkVtaU0wN3RvTjdkbWZVYlcxSGFER192RFMxa1o0aXFiVldDT0p4MHVUV3RSUHFJa2YxR1lJcHVrQ2ExWXlvOGd6eVFsc1NwcnZMdE9McUJWU3RXRkJ0b1BDUTJoQlRTcWRUZTJHd185dlhYUi05VlhfUi00LUlCbkV1SDdjakduVVc3WUcySG1vdTBpZTY4MUpLRkpLWW9ob2sySDJCLTIyaHpYOXBKMklXbzhTdTZvbG1BRVBES2dfcWE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a0008bca4b3cd1",
-      "title": "Ajax krijgt over Jorthy Mokio opvallend nieuws tijdens interlandperiode",
-      "category": "Overig",
-      "published": "2026-10-03T09:48:35+00:00",
-      "updated": "2026-10-03T09:48:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTI0aFpkN1lzMmxvQ1UyR05PVGxPOEFSbXU0UExIMzU0cU4tcl9oZFpscVF1Qkp1azBlaGpMTlQ4VUlIRlFnVXhDUE1FS3NvcnUyMWtPanVpVHR6ZG1xYU1tM1BXdWl4MFZPWjk0bVZPT3JKLUpuS2xXMHpiR0tLOWNrYzhjV0g0UXU5VV9kckhvWGlqd0dudExhQTFvOUE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
