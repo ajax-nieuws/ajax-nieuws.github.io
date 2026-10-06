@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T14:30:17.447753+00:00",
+    "generated_at": "2026-10-06T19:52:01.403072+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 60,
+    "article_count": 52,
     "event_count": 40,
-    "discovered_event_count": 49,
-    "source_count": 10,
+    "discovered_event_count": 44,
+    "source_count": 9,
     "feed_error_count": 0,
-    "excluded_paywall_count": 19,
-    "excluded_video_only_count": 28,
+    "excluded_paywall_count": 16,
+    "excluded_video_only_count": 30,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "e5017cb08d4a30",
+      "id": "05f91083df57e5",
       "title": "Ajax-aanwinst onthult: 'Toen ik ging tekenen, heeft Juventus interesse getoond'",
       "category": "Transfers",
       "published": "2026-10-06T05:28:00+00:00",
       "updated": "2026-10-06T14:05:00+00:00",
-      "source_count": 3,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -36,6 +36,11 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGM2OGpiUXBHTWk0MS1CaDZOTDdLZnd3OGplWWRxQU9rUHdJRHFZUWZvU3kyZFRwTi1PeTk3cXNZTG12c0J6djUybG9oc29FdmFnbmcyR2ZLa2pxWHpRZkZRUm5mUXE3WEFYT1BhWU04STZXcldVd0hyaXluZ3Y0X1RZVExVODBrdHN6bVFJV2M3MjhjRnJCWHFQdVZUMFM3cEd3YXpIZWx0cm1zNEpEeXdNUTc?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56053/Juventus-trachtte-deal-Amrabat-te-kapen",
+          "via_google_news": false
         }
       ]
     },
@@ -50,6 +55,21 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2143752/fortuna-sittard-wil-daley-sinkgraven-nieuw-contract-geven-na-blessureleed.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e218eb3f6d02ef",
+      "title": "Newcastle wil na Steur opnieuw toeslaan bij Ajax",
+      "category": "Overig",
+      "published": "2026-10-06T13:37:00+00:00",
+      "updated": "2026-10-06T13:37:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56054/Newcastle-wil-na-Steur-opnieuw-toeslaan-bij-Ajax",
         "via_google_news": false
       },
       "related_sources": []
@@ -140,21 +160,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1hPV3FrT2FkRW1jSl94bHRYZEdEcGNsQTNCeW93R3hMVTFHdGFWSV9rLVM1MXk0VVNaVFBuVXFMY1R4dkUwT3ltOEpRLWdlSlAzWk5Qc05QM1NmRWFWMDF1ZVpadjF0TWtqalZvRGx4S0pXaTZMbTAxVl9tY3JYT2tkdzlMYXU2djBneUktSXd1NTVlRlJnc09UTlE2ZzlTVTluVDhDRDZJWFJT?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9d4ae9afa10fd3",
-      "title": "Amrabat duidelijk over zijn rol bij Ajax: 'Je moet als nummer 6 het spel begrijpen'",
-      "category": "Selectie",
-      "published": "2026-10-06T11:30:00+00:00",
-      "updated": "2026-10-06T11:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa00tbTdMZC0waGNtMVcxa2ZCU3oyZUctTUZtdkJZVnBJOXA4SHVJaDFpQm1wMVJuM0FiSU9jUnFrRFRwZzZ5UXk5N1NNaDVTMHZYdUo4ZDN3ZTlsaEI0N1RJZ1BtZmMwU09YVFJNR2pKN29SVl9WUnlMOGxBTHFhNUR3czd1a201ZTZHMUVvcTFqNXd1MjJUczBYSmpCQjZIU1Z6Q3c3SUZ6RHZBdXA2UkxXUDhnR0prRm5Tc0Fn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -634,25 +639,19 @@
       ]
     },
     {
-      "id": "6a323d534a344b",
+      "id": "f1a05c4d2a7b2b",
       "title": "Standaardsituaties cruciaal bij winst in Klassieker - Ajax",
       "category": "Wedstrijden",
-      "published": "2026-10-04T18:00:00+00:00",
+      "published": "2026-10-05T00:51:43+00:00",
       "updated": "2026-10-05T00:51:43+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNThhQ1VPWG85VzNBaGdMdDAyZHpVQjdBM1ZkSW96Ri02VTFCbTFQdm1RMjRVU2kzUVdhLXBzeG43VHQ1eWtSSTctZmJaQzRlVHc1ZGs5RVVoNjVxcEZLVG1GdXVsNjdfTFB2RkIwN1ZNZzUyZ1RQOFBISFR6UThSNW1CaW9qYlN1?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMURtd0FKLU9XNHgyTklrX0Q5RXdRdGtFVTcyeURZZGlaemUwVGpEVDkwbWktNTR4Zk5wdFk2UnI0X3RtdWJSal84WGVEaUg3Wmo2R2JVMVFpZjZLbjVxSkxLZFhxM0REWmlxcXRtVEVieldrajZTeW1BOWRCX00tNmk0SVVGNTNDenoyZ25sdGdKajFyaDRld3J3bDM2c3NNbGlWcnNlLWdON1JtQXN3VlNDZXhzb09tNXY1Zmg0YUVFOW8?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     }
   ]
 }
