@@ -1,18 +1,275 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T07:37:32.620947+00:00",
+    "generated_at": "2026-10-06T14:30:17.447753+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 48,
+    "article_count": 60,
     "event_count": 40,
-    "discovered_event_count": 42,
+    "discovered_event_count": 49,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 20,
-    "excluded_video_only_count": 26,
+    "excluded_paywall_count": 19,
+    "excluded_video_only_count": 28,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e5017cb08d4a30",
+      "title": "Ajax-aanwinst onthult: 'Toen ik ging tekenen, heeft Juventus interesse getoond'",
+      "category": "Transfers",
+      "published": "2026-10-06T05:28:00+00:00",
+      "updated": "2026-10-06T14:05:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2143676/sofyan-amrabat-onthult-boodschap-van-ajax-directeur-jordi-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDhsRmFZQnlmTVBZTVBYWTFMMWRRdzNRdmFiMGl2Y1pvcy1meXlXeVgxdnh4UkN6V2lkcUhhX3g4NVo3Zm54SmJ5Y1JacjFpbHJWVF85bGZVcUJtTV9QTHZLQ2hkc0NQYXBibGh6Q0FiUVpfeFYxSEZIeDY5X0FCR0pMME9Odk4xdnBaUDRqb1V5dWpHVVRCX3hQQ3hYN3Ffc0RpVmNHckFtelAxOTZ5UGN3WUIzUGpFTTMtMGJDaXloMnQ5N1E?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGM2OGpiUXBHTWk0MS1CaDZOTDdLZnd3OGplWWRxQU9rUHdJRHFZUWZvU3kyZFRwTi1PeTk3cXNZTG12c0J6djUybG9oc29FdmFnbmcyR2ZLa2pxWHpRZkZRUm5mUXE3WEFYT1BhWU04STZXcldVd0hyaXluZ3Y0X1RZVExVODBrdHN6bVFJV2M3MjhjRnJCWHFQdVZUMFM3cEd3YXpIZWx0cm1zNEpEeXdNUTc?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "46be7b121849fb",
+      "title": "'Oud-Ajacied (31) lijkt dichtbij nieuw avontuur bij Fortuna en bespreekt contract'",
+      "category": "Transfers",
+      "published": "2026-10-06T13:59:00+00:00",
+      "updated": "2026-10-06T13:59:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2143752/fortuna-sittard-wil-daley-sinkgraven-nieuw-contract-geven-na-blessureleed.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ce5b70aca1cbad",
+      "title": "Olivier Kahn eist meer nationale minuten voor Ajax-speler en haalt hard uit naar bondscoach",
+      "category": "Transfers",
+      "published": "2026-10-06T13:27:00+00:00",
+      "updated": "2026-10-06T13:27:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVi1ZMWtwekFhSHNBMnFjb2d2bzZIbElNclhmTUtfTVRwYjlzSFNLcDZwYmpvaC1VelhJYUlGSWxWQU9Nb3BXOWlfUF9XdmFQTlJDMXRqc0pYYnhKTWJab3JQLWVPWHU1a1l1NTN4QVlldGdQd3J1UTdxaU5ob1FRSjhSM0J2dWlLOGluZXlaVzJsUmNqTEp4OUlVN3dYSmpQd3lGMXdZMVFPVUdYenozNmdqaF9KZ3YzeEc2WXBTMzQ0cjlsdFpRWmRhRjlFcVZKWmNpa3ZzTEJxRk5ObEE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "66ebc12385fa72",
+      "title": "'Ajax-opponent Getafe slaat slag en bereikt akkoord met clubicoon van Real Madrid'",
+      "category": "Transfers",
+      "published": "2026-10-06T12:23:00+00:00",
+      "updated": "2026-10-06T12:23:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2143705/ajax-opponent-getafe-bereikt-akkoord-met-dani-carvajal.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b62eb964426eb0",
+      "title": "'Ajax-opponent wil stunten met komst Dani Carvajal'",
+      "category": "Transfers",
+      "published": "2026-10-06T12:03:00+00:00",
+      "updated": "2026-10-06T12:03:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYV85Z19jclBSUHF4clBuOUlHbXdsT1ZzR2FVRDY5RTFsOFlpYzNyTVZGMzcwdGViczYyU3RrZXFlb3BlYlRIenVOUFVCOUhERGtSX2FvNnphRmhaeVlIbE02ZFUwdURwX1pWT3hud25tZlBtdjR5aUw5a3M3czdsUU10NFI4R3FBakxaNDQwUkZqXzZVZ1VaUHFEelZCWHJxQVNjOWNzVGg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "afcf9c59073fda",
+      "title": "Newcastle United wil groeibriljant van Ajax herenigen met Sean Steur",
+      "category": "Overig",
+      "published": "2026-10-06T12:03:00+00:00",
+      "updated": "2026-10-06T12:03:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckNua0RNdXdpVy1pd0UyNzZXUzdaNVF5UWh3cFNlSko2d2dHaEpmdlhaTWgwT0ptWjQ5bGdzbkVCWGJFS1pSZEh1dlpDZjR4SlNWZ0NBRWh4YzdvSVA0cTkyeVJvSldfcVQ3ejhLYm1PeU1CTUQxeGVTNWhxY3Q1aFQ2VVpZZVp6WnJoaXY3SjdrZGJEaDZRUXhJTV9QZnEwX0dNSEF2LWlqdUo4bDFlQ3d1VWQtRmpJd1JtanRnaw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "16a2ad5898f9ff",
+      "title": "Ajax-tegenstander Getafe gaat zich versterken met zesvoudig Champions League-winnaar",
+      "category": "Wedstrijden",
+      "published": "2026-10-06T11:35:00+00:00",
+      "updated": "2026-10-06T11:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNEY2Y19WLXY5TklmVTBiSTZYdlVVQWhyLXV0eEItcjJhdGNUWm5USktjUllfbzRjVzUwU3RTLThOVWs0UmYwR2swel9zSkdNZktXdkxhYzFjcm1HSmZOTm85MXJzZUVyeW1oMk5HQ3RsQ0lDc0t3aFJYWmVzc3ZnNUZSOU1udWJmZzhvazRfZndXZ0lOX2E5WVRxQlpNem5CUF8yMjRlakMwajlRazRNVkM0eUhTMmd1RDhlSXY5SGJxOHUzVmlhd3ZUalptY0R1d1J1YQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bc0323c74ba48c",
+      "title": "Wordt Red Bull de nieuwe hoofdsponsor van Ajax? 'Het is allemaal...'",
+      "category": "Club",
+      "published": "2026-10-06T11:33:00+00:00",
+      "updated": "2026-10-06T11:33:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS1hPV3FrT2FkRW1jSl94bHRYZEdEcGNsQTNCeW93R3hMVTFHdGFWSV9rLVM1MXk0VVNaVFBuVXFMY1R4dkUwT3ltOEpRLWdlSlAzWk5Qc05QM1NmRWFWMDF1ZVpadjF0TWtqalZvRGx4S0pXaTZMbTAxVl9tY3JYT2tkdzlMYXU2djBneUktSXd1NTVlRlJnc09UTlE2ZzlTVTluVDhDRDZJWFJT?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9d4ae9afa10fd3",
+      "title": "Amrabat duidelijk over zijn rol bij Ajax: 'Je moet als nummer 6 het spel begrijpen'",
+      "category": "Selectie",
+      "published": "2026-10-06T11:30:00+00:00",
+      "updated": "2026-10-06T11:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa00tbTdMZC0waGNtMVcxa2ZCU3oyZUctTUZtdkJZVnBJOXA4SHVJaDFpQm1wMVJuM0FiSU9jUnFrRFRwZzZ5UXk5N1NNaDVTMHZYdUo4ZDN3ZTlsaEI0N1RJZ1BtZmMwU09YVFJNR2pKN29SVl9WUnlMOGxBTHFhNUR3czd1a201ZTZHMUVvcTFqNXd1MjJUczBYSmpCQjZIU1Z6Q3c3SUZ6RHZBdXA2UkxXUDhnR0prRm5Tc0Fn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ba79f093df4d00",
+      "title": "Rondom Ajax: Ajax kan ook in Denemarken rekenen op een vol uitvak",
+      "category": "Overig",
+      "published": "2026-10-06T11:26:04+00:00",
+      "updated": "2026-10-06T11:26:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON25uT1Z3d1AtMWR5TURJb0wtRkVuT1VJdFdHSGI1UzZvRUoxektTN00wOUtRZ05QSDIzZXpMYjZpeFhURXdWV3NKeUVtVExILVFQMHdiOGtxMUJ1eVlTUUcxd2hzRGlnempxc0tVNURQTzBHZkNWYzZ6OVlISFlTYmZJRkxiNksyQ1lENEhudlVlMWdOZUV2bmVONTI5OEJ5Rm1GalZOeEQxOGN1OFI1by1pTmVwdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c6bec1b99e7a07",
+      "title": "Amrabat over de boodschap van Cruijff: 'Dat heeft me echt getriggerd'",
+      "category": "Overig",
+      "published": "2026-10-06T10:30:00+00:00",
+      "updated": "2026-10-06T10:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/amrabat-over-de-boodschap-van-cruijff-dat-heeft-me-echt-getriggerd",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "93e4da3ea5f2e6",
+      "title": "Goodijk ziet duidelijke ontwikkeling Ajax: 'Nu is het echt tijd om te laten zien hoe sterk ze zijn'",
+      "category": "Overig",
+      "published": "2026-10-06T10:30:00+00:00",
+      "updated": "2026-10-06T10:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcTlseWw0cnR3Wl9DUWszbWpSR2hqMS1zLXFHSDlSUzd5OUJtcU5OcnZLWnpLUXFVOWV6QzNXVmtySEdhSTJseFlzR1FTWEZ3dzVfWElJWk5xeU9rQy1TV0FvSmU1bEJyVDhLVkJlempGZ3FPOVRVZll0OUoyajJadHFtNW92ZVktbnQySW9zRkZGLUsyY2haUExBd3VTdHNKQ1A4QV9CbFZkeGx1V0pxZ0oyZWp1QmdESnFMRGZmYU0zYW95YWFnLWdPYWo0YmpoN3lHRkc2OFQ2YlNucm5hVg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "53ba75d777220e",
+      "title": "'Newcastle United wil opnieuw zaken doen met Ajax en mikt nu op komst Bouwman'",
+      "category": "Transfers",
+      "published": "2026-10-06T10:05:00+00:00",
+      "updated": "2026-10-06T10:29:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZzFsZjhaOWhnZDlDWlpuM05hM19TVTZUeS1FUHdDT0o2a1FjT2dmRkFlZUpjU2tjRnROWmhqQmlZUGY0ZzlRQWhpRE9RQnZKWkZEZkE1bFpzall1SVNUN05RcHJVRHpGWk5QbFZhSlNKQlVYLU14OWdOUVVVV1RhSVdnVndMNU1GLV9ZRFRqRUxudnBvanpKSXNJQVdiQ0ZtYzgwVXdMVDRMU2YxOWgtcTY5VkZxX0xPWlF2MEVmTGtXQUl5Y0E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkdIN0ZqYXZjd0I5QTZVMmI0dmtwZXJtQVdlSGJjaGVtcXFWT2FrbDE2REVYTUpPbnJNVGxpSHNuZ0N6ZmtQVHhSRXJaU1NkZkE3RGxYM3VzOGxhb09HdTdVTmNYRlRsc0hETWstSE80NzZDdHZEUk1RWUpKM2dLaHRtTFUzTXlNMEc0ZEJLbnhKQmJqRlRQLVl0N2Q1Vk5EdU4zMkFB?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "45902e8c193d2f",
+      "title": "'Ajax moet opnieuw vrezen voor Newcastle: club kijkt na Steur ook naar verdediger'",
+      "category": "Selectie",
+      "published": "2026-10-06T10:28:00+00:00",
+      "updated": "2026-10-06T10:28:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2143643/newcastle-united-houdt-ajax-talent-aaron-bouwman-in-de-gaten.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8c9b5584a10768",
+      "title": "Amrabat vertelt over nachtelijk avontuur na duel met Ajax: 'Uiteindelijk zaten we er met z'n vieren in'",
+      "category": "Overig",
+      "published": "2026-10-06T08:45:00+00:00",
+      "updated": "2026-10-06T08:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSUxaMkF2eHQtTFd5akRrTUFzbWJoT0U2RGp0Z3NHNDJBbUF0UFJUdmZtbk5IcUZBdVM0RlJIaVpFcHJSd3dMQ255djVqMFR2azFyR25oek5kNno5V0YzZXJzT2RtYm1hUjE4WXJOM1FlMkxuVlN5V2k2eVNpajJjRGtjaGtrNGMtVWN5eDFIYVN6YzBidlhsVW1HOUFKb2JZR1ZvS1Izb1pwSzRNYjVNei1IRlpsT1lNWkFuZXdjdnNNZGo0Z29RU3BGM0k4N25PRTZqOUFfVQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "438b59194b6c1d",
+      "title": "Sofyan Amrabat prijst Ajax-ploeggenoot: 'Hij heeft alles om in de top te spelen'",
+      "category": "Overig",
+      "published": "2026-10-06T07:53:14+00:00",
+      "updated": "2026-10-06T07:53:14+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSzlTUDBkdUIwdnVqV1BZdXY5Z09QcVhhVlZXUGZWNWhhUWl0T1V0WmROSEx4ZVI4WmhaWEVYSWVZUlR1ZEtqZWN3NUs4VTIxVzlwUkFCQVZKY0ZSLVMyN29YQ3RzQ2l5Uml6d0JyU3pFdlVLQkFwaDE3a1VpcmYzTlowTUlpRW9rWTdtd2xyQmwwYm05OHJyTUVtSjkwTzNsTEtvalZ6RkVMZ3JUZjE5N0xUbXIzWDV3WWhzNGJEb1VIdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "90e802de635311",
       "title": "Woerts ontkracht opvallend Ajax-gerucht: 'Is allemaal geroddel, niets van waar'",
@@ -55,21 +312,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUxEaHllT05qTWE2dXZPVmhEcU94Zi1FVjVvOFhoRzZSWjhJdVZvamJiNndFWVp4cUdZS2JsVVJfb04zRDgxZnlXekswRnIwTllHRmxjOV9ndTV6WkEtTXFpYlEzSFZDSGx0TDhaZzRSWWhXd2dWT09Nd0xWZk16cnFld0FZdlFoZmVCQXJYZ25KUmtIc25vRWJRUFRyUTlxN09XY3QxNjZBMExzZXBXRHFaS2l2bEFnSTEzbnRTa1pSNzRzSWMyT3BGNEs?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e5b69f05ecb999",
-      "title": "Ajax-aanwinst verklaart overstap: 'Met andere td waren deze spelers niet gekomen'",
-      "category": "Transfers",
-      "published": "2026-10-06T05:28:00+00:00",
-      "updated": "2026-10-06T05:28:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2143523/sofyan-amrabat-over-gesprekken-met-jordi-cruijff-en-verklaart-stap-naar-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -119,8 +361,23 @@
       "related_sources": []
     },
     {
+      "id": "c41cc7141c365a",
+      "title": "- Ajax Showtime",
+      "category": "Overig",
+      "published": "2026-10-05T16:43:36+00:00",
+      "updated": "2026-10-05T16:43:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOEFXSmo2YnUzRl9LT3paLTZDYUdPX2M2MW8ydFNobkNpNUNESGx0VVYwMFhkQUFxNmNwd3B6N3FHQXZqcC1Jb0FBSTBEaXlZcllBb2dZMURVd3BtdXR2MmFnSk5LOWkwakxrVV9nT1llV3VwVXNjYnZpRG02dkV5M3kxcHh2bXhaQXJONHZYMnlaYk00eU1odXloVlZzRlZoUG9Cd0lRME1ybmJyQ2EwOHdnek42Z0l0UnU5R3I1NFhKZVlzaUF6MU9wODJEU25kNWtiSHZkcw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "1bdf87c2932cfe",
-      "title": "Paes wint FIFA ASEAN Cup met Indonesië",
+      "title": "Paes wint FIFA ASEAN Cup met Indonesië - Ajax",
       "category": "Wedstrijden",
       "published": "2026-10-05T16:31:51+00:00",
       "updated": "2026-10-05T16:31:51+00:00",
@@ -180,7 +437,7 @@
     },
     {
       "id": "be04d6c76eb462",
-      "title": "Deze spelers van de Ajax Vrouwen melden zich bij hun nationale ploeg",
+      "title": "Deze spelers van de Ajax Vrouwen melden zich bij hun nationale ploeg - Ajax",
       "category": "Ajax Vrouwen",
       "published": "2026-10-05T13:51:45+00:00",
       "updated": "2026-10-05T13:51:45+00:00",
@@ -271,21 +528,6 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/56047/Lang-dacht-na-over-terugkeer-bij-Ajax-",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c5dae94bef1966",
-      "title": "\"Iets voor de toekomst: Van de Ven en Van Dijk\"",
-      "category": "Transfers",
-      "published": "2026-10-05T08:58:48+00:00",
-      "updated": "2026-10-05T08:58:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakRtRzFxQ2JleElacm9aVkplNWxnYUVyQ3NTV1lBOGY2OURvRm11b190bTctNEU3SDZsaXZKNThHVWx2bzhsQlEwYjNqVVd6MnAtd1VZSWs4ZW83RnpqbGVhTnUxdTMzRGV6empKOTJUR3ZMMGdfRm5ud1NhdmJVbjczRUNHakF4X1UwblJvakdySTdyMHFFOFhR?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -392,8 +634,8 @@
       ]
     },
     {
-      "id": "f1a05c4d2a7b2b",
-      "title": "Standaardsituaties cruciaal bij winst in Klassieker",
+      "id": "6a323d534a344b",
+      "title": "Standaardsituaties cruciaal bij winst in Klassieker - Ajax",
       "category": "Wedstrijden",
       "published": "2026-10-04T18:00:00+00:00",
       "updated": "2026-10-05T00:51:43+00:00",
@@ -411,237 +653,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "5569da51b86a62",
-      "title": "De Klassieker op Varkenoord is een prooi voor Ajax Vrouwen: spektakel op andere velden",
-      "category": "Ajax Vrouwen",
-      "published": "2026-10-04T23:08:49+00:00",
-      "updated": "2026-10-04T23:08:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVHRTNU4yb0J2SnVQYXBpdDhFUzJBbGx6Q2FfYVVQUldMZ0FnNnA5WXgwdGZXb3c4QUNYUmJEUnlaaWNkRlVHNkFiUHVDTmM4eDJnaUNHenZLZmVza3hrZ2x6SzdudmMzLUJqOTNpb3VkM3ZTNTU4a0ZmVFFQSHdLa2VBZzZiYWZSbTRYblg2eEU4aURMeWtIUWZ3RDhzVjZnUVBKVU5sY2tzUGRVY0hiZ2xHbVJ5d3VYZDE1QVpxSTA4UjZ0Z3ZlclRQNzQwa1gy?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "21a5747790907c",
-      "title": "Noa Lang bevestigt concrete interesse Ajax: 'Dan kom je tot de conclusie dat...'",
-      "category": "Transfers",
-      "published": "2026-10-04T22:29:00+00:00",
-      "updated": "2026-10-04T22:29:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EM2ZsYS1fbzNZcndSMzZEc29oLVpTcWkyYXNlZTVMcVB1V0MwQVppd2JUbkV3cTg3R1BNWl9pY25pbzJUMk5RS2l4MUtRNHRjUUV1eTZZM09NVGtvc0ZPbWFXcXRYSTdEYjROUXMzUQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "99e75c8345e3ab",
-      "title": "Set-pieces key as Ajax Women win Klassieker - Ajax",
-      "category": "Overig",
-      "published": "2026-10-04T22:13:57+00:00",
-      "updated": "2026-10-04T22:13:57+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmJ0R2JLU19CN2RLeGh4UmV6SVV1S08teXB2YzcxU2pCaXMzOVZ2QjA2MURJXzNqT3lYZF9LM1M3cTAyVVN2ak5CT3F1VFI4cDgtV2x6VDBocEhkMXdQb19HMGdETGdja0prWjl3WWRrX1Zjd2d3ZzJnS2pKUXpIYXVzRQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "85519282afa021",
-      "title": "Interviews na de wedstrijd Feyenoord (V) - Ajax (V)",
-      "category": "Wedstrijden",
-      "published": "2026-10-04T17:47:01+00:00",
-      "updated": "2026-10-04T17:47:01+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdnFWYnEwakNQazhpYTVEVWZ4MEROV1pBUUI5MDQ1MDFjZjZ6a25DYklaalhFN1VRTk5ESjNEYkFRMVFMS25aampKcnFTdFZSY1lDZldINFFQRWJXSWpJLVI1b0xJeGtHc0F0MFF6U2REbDU4SWZ4NndQMWUtRnk0ajVmM000bmxPMkNRMHI1YmVGV0Fp?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7e4f4a2b238bb7",
-      "title": "Ajax Vrouwen slaan toe vanuit spelhervattingen en boekende klinkende zege in Klassieker",
-      "category": "Ajax Vrouwen",
-      "published": "2026-10-04T16:45:22+00:00",
-      "updated": "2026-10-04T17:15:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbUdOYXFLSV9DTUFEa0F4aWZNWFp1Mks0R2pXRnRPSEpxOER0c1YwQmxrTlJVM1UtUFBIX21STjk2V3lGOVFnNDJSVVIwN2pQdEwzNHN6YUl4M2pEQldKRUxKc01yMHplcHZFdFBFaEVCUkVDaXJpMnRzZGg4OWI4UDk5c2puTndmWnNjNkZqWEg4aW8zVlZYMWtlNmYyU1F4cGFtdGtUMGJGeUdGNFFXT1lrMHo1TVFRSk4tYnNvTlhRRlVROG04ZkdUSVFBUFVDTDNRQg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVkF0Q3NOZDRDLVJqYkhzTzlTaUxFNXViTzJoenJoOFBXSjdnREZoWkhDWWZqRFlVUWVscDE3Zk1WUUpRUlNMT3hBQnhFV2tqWjlZOWYxdFh0NmFBaEJSSDlFWHN1ZmdGUTFzVmZIX1RnYWY3N3ItNVQyS09YNVRld2J3VHdseWViMWUzU0prRF93SlVzTHhfMnV6RDdJdENyNWdSU01MLXdUejZOY0xqeVhGWDg1Zw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "c9e6a6d2c7d3c6",
-      "title": "Ajax Vrouwen kennen geen problemen met Feyenoord",
-      "category": "Ajax Vrouwen",
-      "published": "2026-10-04T17:06:00+00:00",
-      "updated": "2026-10-04T17:06:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56045/Ajax-Vrouwen-kennen-geen-problemen-met-Feyenoord",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1de20083701d56",
-      "title": "Mark van Rijswijk uit keiharde kritiek op Ajax-keeper Femke Liefting",
-      "category": "Selectie",
-      "published": "2026-10-04T16:15:11+00:00",
-      "updated": "2026-10-04T16:15:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXZZSmRrQWdodXUwMVJiSFEzNFg0Xy1hZFkxMTE5dTJmN2NIOXBQendQSHRrR3lzQ0E1Y2ZKZHhWWjBoZENLMTM2SGNPeEpCakJtTGlrOXNXRTV0NXZKOXc4Y2U5NFpfbmhPVUh0RW44SkxRWWgwSzltazJyWC1lWTVfRnh5dXBkWVk4c3hfTUprR1J3UGRsRFdCQkFlTW9weHdQOUpMemtROEluNmNtdEpuYWc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f7fee6b16ee401",
-      "title": "Feyenoord - Ajax (4 okt., 2026) Live tussenstand",
-      "category": "Wedstrijden",
-      "published": "2026-10-04T14:50:41+00:00",
-      "updated": "2026-10-04T14:50:41+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wcGtJYXlIT0xVdUZwQzJXamVsZ21MWW5zTUtqdEtnUHBQLVQ1SjNqdnd5VVp0ZVkyeEtoRFQtbDdJZHpGV1dmMkhJUTFSZW9YUFVXVmhBdWhVMmhvdDY2bWZ5X0gzTTE2Sm9nbERR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6feeda73b1a5aa",
-      "title": "Ajax ontevreden? Reverson speelde nog geen minuut als huurling van De Graafschap",
-      "category": "Transfers",
-      "published": "2026-10-04T13:10:00+00:00",
-      "updated": "2026-10-04T13:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnVOY1ZPaFdwNElwNlJOYlVIWmpUUmk2MDI5Tm9Bc0NuREVfNjE2NlVNNDZWOEpaQU9vN3FYbXhnTHpLdFZXMDlCUnVBRHY4Rk5rUVc4MkhwOEFDb3Y2UGZkaEkzRlBoUzZrXzc3cEVUT2EzdERKZzBSQU5PUm5MWXRoUWh5VGZUX3VveDNCaDM1d3FYMHltQXpmR01wTnlMMmU4WGhydGhwaHBIZnVlS2xGWXVvMlFKVmJwYmRQQlI4OC0xRzZKOWRn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "51c0e8581a2490",
-      "title": "L'Equipe hard voor ex-Ajacied Godts na overstap naar PSG: 'Momenteel hebben we nog niets gezien'",
-      "category": "Overig",
-      "published": "2026-10-04T12:15:00+00:00",
-      "updated": "2026-10-04T12:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcDN5SnNQLWhJQlpHMGdCTm95RjBxSVdoYk1SMFc2MjlQNWNpakR2bmYwZFlnUGlWMzJHQ2dRVm11R25KTlZBZDhad1kxZTdjQ3JsWjg4bHRhRzl3TGhhTUtBMTB0Skx2Rk5XeVIxcmR1Y2ZaVGduNUdtal9RbGFCUTNmeXJPZjVJM2pLdmJfMXRhQzRpNDVaOExCTks1b29UZndxMkdUcTB2TnlfM0ZweVlDQUNWSUlManpSYmx3YndzN2RJQ1VIb05lRUY1N0JK?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d8ce0bb250755c",
-      "title": "Vrouwen FC Twente blijven ongeslagen in eredivisie, Ajax klopt Feyenoord",
-      "category": "Wedstrijden",
-      "published": "2026-10-04T12:08:33+00:00",
-      "updated": "2026-10-04T12:08:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2633612",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "512891f68f9ff3",
-      "title": "Kille avond bij Ajax in 2021: 'Plotseling moest ik vrienden bestrijden, dat viel zwaar'",
-      "category": "Overig",
-      "published": "2026-10-04T11:37:00+00:00",
-      "updated": "2026-10-04T11:37:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY19DbTRfRnpwcUdIZ1JkT3RYb2hxU1pudWNvUElDUTEyZ1Z0UmZnMlczVkNGUzJjdDJlNmx6Q3gxZDVFZGFRQjd0VmhvY09wZDl0RVZ6aWhyR1RJbTBrQjhFOElMOXdZcVpIUHNfZzdQT19JNW1qXzcyZFp5WDFiUDUxbUZHWWpPdGNMWXlYM3UwQ04zU05NblFsZ2xwNFZoNnpZ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0074d024e3c5d4",
-      "title": "Maduro noemt vier Ajacieden in zijn beste samengestelde elftal ooit",
-      "category": "Overig",
-      "published": "2026-10-04T11:35:00+00:00",
-      "updated": "2026-10-04T11:35:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdEd2aFNKYUFZZ2M1amt4YmMxQkd1bjIxU2M0Q1YteE1rb0UzX0xhS3hSMm1wdFFwdDNVa1hHWW9fdmMwWHZsd0JyRXEzdFZkZlJmN0VHYWhTRzVVVzhnV3JFUzFkMlpkSWtqWGdSamZ0eTBSS2g4Yl9YTnNmNGRUUmoxZnNabGhpRzN1TFpwSWxRVGI4VE14OUhreWl6VnIwZGp0a3Y4bmNtUGxyOFN2WFNKbklqZGtKcHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b29aa73509c325",
-      "title": "Sulejmani blikt terug op Ajax-transfer: 'Na het gesprek met Van Basten was ik om'",
-      "category": "Transfers",
-      "published": "2026-10-04T10:45:00+00:00",
-      "updated": "2026-10-04T10:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnhfa0w0X1VSWTNOQnpkb2dSQ2M1V1N1dV83QktyS1lYNV9uSTgxeURGeG55eVZkVVhVdlQ1VVdWNGZDOVlUcnBVeEpSSlZnYUlmTnRQbEstb3A5VWZBZUozdFhLSklJSUZjU1F3WXh5RUd0WmVwWEUyNk9uTEN6NjZTZVFQbVdDUHgtcGhUbml1V1JGYkRnanEyTjIyZG5DalZlemZuRzZQOGI1eFVYeUFXVkRFY0FWcUVPR2NsVlVSbzhFWUhzNw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "03917dd8198508",
-      "title": "Ajax zonder Dolberg tegen NEC: Leonardo scoort in oefenduel, maar wie krijgt de voorkeur van Míchel?",
-      "category": "Overig",
-      "published": "2026-10-04T10:00:00+00:00",
-      "updated": "2026-10-04T10:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeG5FU3E1bnVLMk4tWlFFY3dTRkNjaktqZDloc19rUEJyeGw3Rm1aUDlydzF0RjZITndUUm93ZkxsQkdqcWlfTnRicDNiRkhCbnhtS09ZU19xOVBmZ3RWNWdfY0FOUS1xT3czOVJTMTBNM3BkSjlNNmlDbTV1S2VrdVE4V3ZOZFk5MThXRW9sbllLOEdRVm5URmRpeG9IR2JLUWN5VFY4Z0J6V3p4NG1aUUdicHRpeDZoc3pXQ2lMV29kTXJCNmJEWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
     }
   ]
 }
