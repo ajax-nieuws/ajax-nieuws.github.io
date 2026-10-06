@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T19:52:01.403072+00:00",
+    "generated_at": "2026-10-06T23:52:26.803506+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 52,
+    "article_count": 50,
     "event_count": 40,
-    "discovered_event_count": 44,
-    "source_count": 9,
+    "discovered_event_count": 43,
+    "source_count": 8,
     "feed_error_count": 0,
-    "excluded_paywall_count": 16,
-    "excluded_video_only_count": 30,
+    "excluded_paywall_count": 17,
+    "excluded_video_only_count": 29,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "7bffc211a7f415",
+      "title": "Jeugdinterlands: volop Ajax-talenten in actie bij Nederlandse jeugdteams",
+      "category": "Jeugd",
+      "published": "2026-10-06T20:20:00+00:00",
+      "updated": "2026-10-06T20:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzZWZUxGREtMT09odTN2TmNtdEZXbF96cWpJMzd0SVphOWZfcDBzVWphVHMyZGMyUUQyaWUyRGp2RUJpZGpIc1NfR1E0cUdlUXBSbFhrSGpmMlJWYm5CdlE3OHBidWhFSGxJNnhDVnlDa3ZOTExmUV9GcXRhazJxMGxWS0dNX2FOVWZvbjJWTDYwYkY1VnFqU05GSmdaZXZnZnp3dHJxbEs5amE2NF96enZURGhETGF3N2JqWUVOcw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "05f91083df57e5",
       "title": "Ajax-aanwinst onthult: 'Toen ik ging tekenen, heeft Juventus interesse getoond'",
@@ -165,6 +180,21 @@
       "related_sources": []
     },
     {
+      "id": "b64798848e2b85",
+      "title": "Amrabat over rol bij Ajax: 'Je moet als nummer 6 zorgen dat je team beter speelt'",
+      "category": "Selectie",
+      "published": "2026-10-06T11:30:00+00:00",
+      "updated": "2026-10-06T11:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0J6bU5EX0tvOUVGdUpBZG5fdEx1VU42V1MtVlJiUWFRSWtvaGp3SHFLR0k0REhESmtjMzR1TWU0dDFWcllTaGF5OXZiQmVtOElFUlZ5NGZJcDl6QUswcl8zV0tDVVFQc01DM3VyMmtub2RBSE5WazVhOUMzRkg0OHVqLW91MnBFYWxZVnRERi1BZlliWmlnUGhPNmZwVEhXZWVvRG13bzJsTkthUHcxQUQwRkRpY1E1dzZv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "ba79f093df4d00",
       "title": "Rondom Ajax: Ajax kan ook in Denemarken rekenen op een vol uitvak",
       "category": "Overig",
@@ -242,6 +272,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2143643/newcastle-united-houdt-ajax-talent-aaron-bouwman-in-de-gaten.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fff811dc242cc0",
+      "title": "Rondom Ajax: Speeldata voor duels met Malmö FF in UEFA Women's Europa Cup bekend",
+      "category": "Wedstrijden",
+      "published": "2026-10-06T09:10:00+00:00",
+      "updated": "2026-10-06T09:10:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQlVkV3FVWDhtYUV6bXVILXBlWTZXS2UzdGpKSDVtSDRCblZpTXNtZlh0WUUzdmUtU3Y0VW5xbE9qb0E5YlVKa3FqZ01TOTlqOVJhekdnTGdWNDlwdmtYTDA1bmhDNmVVLTNCWlMwS1NHcDl3bEZyUm11R2x1amlPelY0X3NTVjQwM21YV0llLVRGTFpyN1hrZ1E5enFCekwya3N0b1R0YTMwaVBVYktQTS1jRThKNW1wcW5hdXBodEo4VUhKTVlmTQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -599,57 +644,6 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/56046/Gloukh-en-Isra%C3%ABl-pakken-tweede-punt",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "02aea9a41e947e",
-      "title": "Noa Lang doet onthulling over Ajax: 'Ik zou liegen als ik zeg dat het niet zo is'",
-      "category": "Overig",
-      "published": "2026-10-05T06:24:02+00:00",
-      "updated": "2026-10-05T06:24:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzhwSVowZkItU3llSFZpSGJlWGxWRmV4RVhhcVVvMk1JMl91S0tnT3JjckNzRnNxbFNkd2oyUXhGTTFORnQ4QTBBYlh1N1dHZWtOVWplRE14NXpGTzZIeE5IVnJ1SXBGUDhBVjlFZnhkVC1aWUswYk9XN0Q5UzZ1a2ZpeTJLRDdQbjFEWkZVaWI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6d746f0d0d3255",
-      "title": "Incidenten en opstootjes rond Ierland - Israël, Ajacied Gloukh moet in bedwang worden gehouden",
-      "category": "Overig",
-      "published": "2026-10-04T21:40:00+00:00",
-      "updated": "2026-10-05T05:39:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTFVDb3MzRk1mckdJNFl5N1JvYzJoSEdDUWtTLWQwQW05Z0dCYzdnZklOY3FMbTZudGdZR01vWnJvU3BLdzRRRGdTQmIwazJuZVI2SUd5cHNTS2JZdEo1QlZ1cGVQeWZzZ2J1dU5QVWlvZmQ4Zk5faEh0ZVIxazRMVW1fdWI2a2pnZXM2eld1UHJkNXZCY0tyZWhWc2lobkxRNWZvTXh6bmZpQnpXMmVYLTJzWi1JN0pKNHltNmhiV3Rua0ZDd2c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2143115/ajax-middenvelder-oscar-gloukh-moet-in-bedwang-worden-gehouden.html",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "f1a05c4d2a7b2b",
-      "title": "Standaardsituaties cruciaal bij winst in Klassieker - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-10-05T00:51:43+00:00",
-      "updated": "2026-10-05T00:51:43+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNThhQ1VPWG85VzNBaGdMdDAyZHpVQjdBM1ZkSW96Ri02VTFCbTFQdm1RMjRVU2kzUVdhLXBzeG43VHQ1eWtSSTctZmJaQzRlVHc1ZGs5RVVoNjVxcEZLVG1GdXVsNjdfTFB2RkIwN1ZNZzUyZ1RQOFBISFR6UThSNW1CaW9qYlN1?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
