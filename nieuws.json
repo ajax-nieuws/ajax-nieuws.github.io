@@ -1,20 +1,125 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T19:30:27.035350+00:00",
+    "generated_at": "2026-10-08T23:58:38.958668+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 68,
+    "article_count": 69,
     "event_count": 40,
-    "discovered_event_count": 58,
+    "discovered_event_count": 60,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 22,
-    "excluded_video_only_count": 20,
+    "excluded_paywall_count": 20,
+    "excluded_video_only_count": 17,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "c49ace6473adf5",
+      "id": "f1cdb4bc845d4e",
+      "title": "Van Polen stond tegenover 'monster' bij Ajax: 'Wist zelf niet hoe goed hij was'",
+      "category": "Overig",
+      "published": "2026-10-08T21:42:20+00:00",
+      "updated": "2026-10-08T21:42:20+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144659/van-polen-lovend-over-kudus-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "07765724ddddc2",
+      "title": "Van Polen vreesde duels met voormalig Ajacied Kudus: 'Dat vond ik echt een monster'",
+      "category": "Overig",
+      "published": "2026-10-08T21:25:00+00:00",
+      "updated": "2026-10-08T21:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejM2QmNFeXhXTHhqbjFtTjFjSUY3ajRTdEFlNUxxX3hwNGNQNDdBbnZEb1ZLU1NIRjRkYmRZX2NyS0VNMk1abDVyQkxGdlhsVXRSaUpia005SGlLOU5qXzctVm5EYnlxaVVQSUJiTXVja25xNEl2VGNjV083QTJDVkthRmRTcjh1YlNadjUzVmwwZ0Rxd1pYQVQ5SmJ3YjZ3S01NR2FLTjRQa1NsU2NGR3dyY0s0LTg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "11dce1f64352bc",
+      "title": "Ajacieden in Feyenoordshirt",
+      "category": "Overig",
+      "published": "2026-10-08T21:23:55+00:00",
+      "updated": "2026-10-08T21:23:55+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzRnbkZyYllDSEQzOW51M25jbmU0bzFGcUVWcndmM0FsdFAyMmZiVFVaWXZudlhEd2pOTy1DUE5XOTBpbGxhNFJKcWk2UHdQdDE3aXVaMEFzWl9ISk01QzByVkdXdUtSeFZsSy1reC04R081cXotYTJxVlJfeXZ4Szk1aXlkS3JMWG40ZA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0f9249e0c962d8",
+      "title": "Ajax-speler heeft volgens Spaanse media succesvolle ‘reset’ gehad in interlandperiode",
+      "category": "Overig",
+      "published": "2026-10-08T21:01:00+00:00",
+      "updated": "2026-10-08T21:01:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTzRkSzJMT0RzTU1CT21oZWJxd0RXR1U0dUlTcVpMRzZXbDVkb0xZNzFBUTdIcmprMGJpQnFsbTNiMU9TQmY3R2RTQ0JPZWZTQjVlcG44Z19yREdmVFhLWmp0SUtNc2NmdjFZaWFtekhyNjBzMlhpQnphOHNJUjI1V1NEa3ZZVGVvMlRpN3c1Q1FJTlVxTUJDTHB0R001aGR3Z2djV005ZVE2WVR6VXNJa0p5RjVUWmoxeW8xamhvNG9tX3pIc1VUY1ZhM29CaXBVSDVR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "70977b171cd05a",
+      "title": "Ajax krijgt vaker te maken met zeven talentvolle KNVB-scheidsrechters",
+      "category": "Wedstrijden",
+      "published": "2026-10-08T20:50:00+00:00",
+      "updated": "2026-10-08T20:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDNFYXVPVks1V0l2RldQNnRlS25WRTViRE0tQ1NCblBqdzN1OUZEWWhOaDRhZWRLRnZmSVBOSGdrZnFLU2F5WTQ1c01CTTV0elR2WlZoc2Y5SUp5Z0otcDdZaVlIUlBmRXQ1MTlBSFhadU0zNDZvMEtiYmlkZkoxNjZiZXJWQ1ZlMUJZUk1sbVpmOEJhSjlOcEFyRjJDMzNwb1hMcHY5V0o2NjZidmgwUjVSRjVVSngwdVdHRA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d29015015f2cdd",
+      "title": "BoJA: Cruijff wilde Jong Ajax sterker maken: dit is de impact van zijn aanwinsten",
+      "category": "Jong Ajax",
+      "published": "2026-10-08T20:05:00+00:00",
+      "updated": "2026-10-08T20:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1FXLVBfYU1YNWRFdGFpdzR1bWtSX2IxeXNmUnUxVm9Qcmo0ZlVXalRtV2pNeHRoT2hTbUczY3Jodkc5SDNKN3JLV2ExLUhSeXhXdEp5TGdyWVUwY0dKekdyTE92R2s5b0JnM3ptS2ZYYlE5VGttRWFWV1gwbDVyd25tTHY5cUloMGNv?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bde6fd6aaefcb8",
+      "title": "Geelen trots op transformatie Johan Cruijff ArenA: 'Daar heb ik hard voor gevochten'",
+      "category": "Club",
+      "published": "2026-10-08T19:30:00+00:00",
+      "updated": "2026-10-08T19:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVFCb3NLZ2p6M0dtZHF1eUlkOVZJZ21DWTJLa3NLZm16TVJmQnQ5ekdGRzRmLXlDM1hxVGt1NW45RlBtclhleFQ1b2tRUHZsUFd1Q2JFQXVtWXYwVmJMbElFMXlzbHBpbU5JZTRxMTlmbEZBc0VMb1pHYVBtZlRtT0k0X0JzazhrTXNFNThxYjBPbVBwS3FDX0E0MWRiOVlQWUZGTGF1M1lvQkZZYS11em15Y0k3dHJMMl9NNlJ1NHNSWmxiQ04xX1lna0o?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4e95427ac51a2c",
       "title": "Julian Brandt maakt mooiste goal van de maand september - Ajax",
       "category": "Overig",
       "published": "2026-10-08T19:01:34+00:00",
@@ -23,7 +128,22 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUERubHI2aDRjcWQ2UUdvclV0V1FKWUlSeV8yQ3JhaWRKeWg1U3YzY2FvcU5HdndxNHJBM1dobG5IN0Z1WGZWYmI5eWFTaXFFaVJsQkcxLThkZ3NxUDNnUXdHMW5sc3Z3eGNMRll3VnBNVlNoaXNhdk5jcGJoaFBRSW00QldQSEVSdnNaVHVvOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ01rQVJlZklMZk52U0F3MW9hZkZQSl9mUTZZSWhjMlVLOTlGeGdTNGx3UzNUUEx0MVI3LU1xQjluQ2E2cVNwalhwT0J2LWtJa2VRcnVWNU4wWFdvRHl6WHlvak9HOFZIaEw4V2twY0ZiYTl4dzltUGtzWGFIa0NsVndMV3FoWkFnaUkzcGtB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "61581f3a2da709",
+      "title": "Rondom Ajax: Brandt wint Doelpunt van de Maand september",
+      "category": "Wedstrijden",
+      "published": "2026-10-08T19:00:13+00:00",
+      "updated": "2026-10-08T19:00:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDFIYXpySlFFVDZPXzJXZURYOVdOUmZ4QVh3Sm5rd01nOTJZYm9kcUNWeXV3aXRUaTZTcXZWLW8wa0EzZkcwWTFSQUJTc29tQ2hXMHMxd0xtS2JRTFI5ZzlsbkU1LWRsX2lNbjUwRzRjdktTaE5WN2JIOTNsWnJ4SzhaSXQ0dzlLNEVYV1RRM3AtcVBkeHNQM2dhNHFHeXc1MWkwcHpyY2xSeU0?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -194,21 +314,6 @@
       "related_sources": []
     },
     {
-      "id": "d29015015f2cdd",
-      "title": "BoJA: Cruijff wilde Jong Ajax sterker maken: dit is de impact van zijn aanwinsten",
-      "category": "Jong Ajax",
-      "published": "2026-10-08T13:25:00+00:00",
-      "updated": "2026-10-08T13:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1FXLVBfYU1YNWRFdGFpdzR1bWtSX2IxeXNmUnUxVm9Qcmo0ZlVXalRtV2pNeHRoT2hTbUczY3Jodkc5SDNKN3JLV2ExLUhSeXhXdEp5TGdyWVUwY0dKekdyTE92R2s5b0JnM3ptS2ZYYlE5VGttRWFWV1gwbDVyd25tTHY5cUloMGNv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "8e64255d746a0b",
       "title": "Programma jeugd: Ajax O14 speelt topper tegen AZ - Ajax",
       "category": "Jeugd",
@@ -300,7 +405,7 @@
     },
     {
       "id": "0b766ea36cebed",
-      "title": "KNVB heeft nieuw plan voor wedstrijden van Ajax, PSV en Feyenoord",
+      "title": "KNVB komt met opvallend plan voor wedstrijden van Ajax, PSV en Feyenoord",
       "category": "Wedstrijden",
       "published": "2026-10-08T09:22:00+00:00",
       "updated": "2026-10-08T09:22:00+00:00",
@@ -345,31 +450,31 @@
     },
     {
       "id": "ba399999d7296c",
-      "title": "Zware blessure Dolberg heeft mogelijk ook financiële gevolgen voor Ajax",
+      "title": "Ajax-spits Dolberg geopereerd na zware knieblessure: 'Dit komt hard aan'",
       "category": "Blessures",
       "published": "2026-10-07T17:11:39+00:00",
       "updated": "2026-10-08T08:05:00+00:00",
       "source_count": 5,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144306/dolberg-blessure-heeft-gevolgen-voor-ajax.html",
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-spits-dolberg-geopereerd-na-knieblessure-dit-komt-hard-aan",
         "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmZlS013Q21lQmJRcGtaQUVoMFlXREMteDF0NmR3eXhEZ1dYcGs5VGk3UkEzQ1hXdTlhVVdkblBzYllQMjVSQXZsc2pGVFdBdE9LSFRpMlN1a1dBQ2RtV3lxcUNEdEhJVGsyZElDSGNjbGt1WHVMbEJLeGJpSTRBVlF3OWxmYndTNDMyODl3aHJMN3lJNExrZTdtVWsycHB1bzhCOUlrMmdsb0w3aTRDWmdWOWI0SVR4anh4MElzYzdXQ2tRaTc2UlJaNA?oc=5",
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORzdIRnlhcTd6bl9EQ2JzTW1nbXAxLTlLZVFZdndnMWhVX2lCZURSUmJNU0Rha2hndEpSTnJxTmloRHJOVkctakRkQmN3dGo3OElPa0JqSEd4Vi1EM3dLUFFheW9qV0lNX1ZVUTRud0VJUVJ3by1laUdMZmJRc3Rmc3hhNEFTZTY2TkJQX0tLZXVfcHoybDZHcEllczVsY0JIVDdZSmZjem4tR19tczFhWVZyMTlfcENyem9qNWY0Y2xINnRy?oc=5",
           "via_google_news": true
         },
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-spits-dolberg-geopereerd-na-knieblessure-dit-komt-hard-aan",
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2144306/dolberg-blessure-heeft-gevolgen-voor-ajax.html",
           "via_google_news": false
         },
         {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTRrSFZiU2FGRkdEdVc5U1AyUDVSSU9rWjV0S3pVY1JPdEQxOEFvLXFDZTR3T0tOTHY3a0dIaEhOZUFCYkZIOGljaUY3VGxCWHMzWHpxdEUzQTI0OUFvSER4enFpemlOeDBTazBraEdRTUxwTzJmVlcwdFR0NEZfVkFpTjFoeUwzUmZ5NktqTEdUQ3p2RWVyeWhwRGU4SXdYR3VFUkdqRHlWXzQ5UDFtRVNaZjQyZlVZTko2UzhSUm9FaS15TVE?oc=5",
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmZlS013Q21lQmJRcGtaQUVoMFlXREMteDF0NmR3eXhEZ1dYcGs5VGk3UkEzQ1hXdTlhVVdkblBzYllQMjVSQXZsc2pGVFdBdE9LSFRpMlN1a1dBQ2RtV3lxcUNEdEhJVGsyZElDSGNjbGt1WHVMbEJLeGJpSTRBVlF3OWxmYndTNDMyODl3aHJMN3lJNExrZTdtVWsycHB1bzhCOUlrMmdsb0w3aTRDWmdWOWI0SVR4anh4MElzYzdXQ2tRaTc2UlJaNA?oc=5",
           "via_google_news": true
         },
         {
@@ -532,117 +637,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2144236/vink-uit-grote-twijfels-over-ajax-spits-marcos-leonardo.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "174d014b97fa4b",
-      "title": "'Míchel kreeg iets los bij Dolberg dat ik hem nog nóóit heb zien doen'",
-      "category": "Overig",
-      "published": "2026-10-07T17:57:58+00:00",
-      "updated": "2026-10-07T17:57:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144218/willaert-en-vink-over-zware-blessure-ajax-spits-dolberg.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "aa9cd483358eb6",
-      "title": "Kruisbandoperatie houdt Ajax-spits Dolberg lange tijd uit roulatie",
-      "category": "Selectie",
-      "published": "2026-10-07T17:45:08+00:00",
-      "updated": "2026-10-07T17:45:08+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2634053",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d02f399cf051ba",
-      "title": "Drama voor Kasper Dolberg: Ajax-spits dit seizoen niet meer in actie door gescheurde kruisband",
-      "category": "Selectie",
-      "published": "2026-10-07T17:04:00+00:00",
-      "updated": "2026-10-07T17:21:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzhaRzhKSENaV2w1NjFuaFl3MTRjZjY3M2h5Rkg4bzBvLUpmS3BJWnd4cVJNTGR0Vkw5c0tQTC1xblFBT3JZUk1sOE1qNl8xZ0h2NVJ2OTZQaFVKdUhmSmZpNWtQVllXaUhmRmE3dEUzS3A0WkJYdlljX1BrTlVtSFRpV2toWGVlVmRYQ3hMRFl3ME8tWXVEQndDcUhUTTBESEI4SV9mbTlUeFVMTmd4UDlkSlhQbldrM2gwSWJxdkJZQS1McDkzYw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOURxOWcwS3EwbUlob3M1UTlaaTM4NjBsM09UY05ZOGl4Mk9taFZtQjYwbVFiYXVsSElqN3BxcEdNOHJhMlZPdm1teWloZ3l1QlFKTm9NMWlJUXlZVC1BMF9Ja0VDTl9vXzVoVkRSaFh0U3V2bURjZm92ZXJ2MG02V1NSbm9Ya19ReFdDanU2clFLUEduZjdOYjJwT1MxcjVuYUlfN1BEcWhWY0U0UHVOX292NTIyQU85MGdoTDI0ZGVzYXRISFNSVXBvRzdYOVc3ZkJZalEyd0wxWDE3?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "5f5284e83677a2",
-      "title": "Kasper Dolberg succesvol geopereerd - Ajax",
-      "category": "Overig",
-      "published": "2026-10-07T17:17:35+00:00",
-      "updated": "2026-10-07T17:17:35+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HUjBtZUNkTXRRcWI5TXlOZFQ1VVlpTVJLdDRDUDB5ZjJtM19pcWw5S3lkYUdBOWk3dHJ0MzlYd1l0WUZaX0JSMHN5Vkt5MzFSeGVrS3pKRHpZMTVpRXVIaldPdHNYMnU5eTVVV0JZdGRzQmtS?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cef28725e1413e",
-      "title": "Dolberg geopereerd aan kruisband, spits voorlopig uit roulatie",
-      "category": "Selectie",
-      "published": "2026-10-07T17:00:00+00:00",
-      "updated": "2026-10-07T17:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56056/Dolberg-geopereerd-aan-kruisband-spits-voorlopig-uit-roulatie",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "591607730872c0",
-      "title": "Gorter over zijn stap van Ajax naar Serie A: 'Zou me een completere speler maken'",
-      "category": "Overig",
-      "published": "2026-10-07T16:50:00+00:00",
-      "updated": "2026-10-07T16:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/gorter-over-zijn-stap-van-ajax-naar-serie-a-zou-me-een-completere-speler-maken",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4f0c18d47f2582",
-      "title": "Dies Janse is diep onder de indruk van één Ajacied: 'Echt een beest'",
-      "category": "Overig",
-      "published": "2026-10-07T16:50:00+00:00",
-      "updated": "2026-10-07T16:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXZqWDR6NTBGWTBtVDFZNDhtRWxhSUQ1bklWNk05czNWZFJnZE5LRXFra29kcjNRbndYMG53MHZZajNVb1VYeGtQVnJCSkJUMG56QXB1LUN1aGNsM3oyWlRIR0hRQXBvLUFtYkwxSHFkdjZUS2FIV0owdGxRdGVST01QTDc1NGhpbG9mUk53R3VNUjBMMkNwZHQ2c3pHMjg4MHc5cW05SXNPa2RtdHBSZw?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
