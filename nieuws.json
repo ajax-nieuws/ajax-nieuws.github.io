@@ -1,24 +1,39 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T23:52:46.155891+00:00",
+    "generated_at": "2026-10-08T06:14:37.701025+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 63,
+    "article_count": 66,
     "event_count": 40,
     "discovered_event_count": 53,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 37,
-    "excluded_video_only_count": 23,
+    "excluded_paywall_count": 32,
+    "excluded_video_only_count": 21,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "c5680c9456a447",
+      "title": "Slecht nieuws voor Ajax: 'Ze ontkennen het niet, dat zegt genoeg'",
+      "category": "Overig",
+      "published": "2026-10-08T05:58:00+00:00",
+      "updated": "2026-10-08T05:58:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaczZXUW1yY29NRnlUdGNjcVQxTHBJT0FCdEthZUtZSldOM3BqalYycVVUbEpVTFZDY0hsdFpFN19ReWZ3dEJIdHRrd0gtUF9sQVFxTXc1Y09RaVBqSGpaTTVtNXhlVTA5dURFcG1hOUhrQm5ZaV9XR2xDMlNvYUlEbVBfbWs1QWViWGk3VVpHcTlVYk5LU2ZSSjdJQzg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "4ae6c7d72085e5",
       "title": "Eredivisie-scheidsrechter over oud-Ajax-spits: 'Hij is lastig om te fluiten'",
       "category": "Wedstrijden",
-      "published": "2026-10-07T21:52:00+00:00",
-      "updated": "2026-10-07T21:52:00+00:00",
+      "published": "2026-10-08T05:40:24+00:00",
+      "updated": "2026-10-08T05:40:24+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -29,16 +44,88 @@
       "related_sources": []
     },
     {
+      "id": "e0f6c65c2b3790",
+      "title": "Ajax-spits Dolberg geopereerd na zware knieblessure: 'Dit komt hard aan'",
+      "category": "Blessures",
+      "published": "2026-10-07T17:11:39+00:00",
+      "updated": "2026-10-08T05:40:00+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-spits-dolberg-geopereerd-na-knieblessure-dit-komt-hard-aan",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0hhRUd0U2N2eHd6WmhlSjkxY1d6ZnlNQ0dBc3BnU0JGcUJORllkc2lHTlh2SlRQaUhPaDE4Z1Z3bms1RllUQmR3YWo1YW1jaEdZTWpGSEk2cXp3T2FWU25rMDdLeTNoQm1QNHhvUmFxTXphZ2xaMXowSG9jazRMUEpSOC1vRHpSTG1TcFRxZG4ySXhtUlQtOTJjNWU3RTY4UEVuc0FITFVMNEVlQUl4d0x2c19YdzE4QzcwS04wUU0?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTRrSFZiU2FGRkdEdVc5U1AyUDVSSU9rWjV0S3pVY1JPdEQxOEFvLXFDZTR3T0tOTHY3a0dIaEhOZUFCYkZIOGljaUY3VGxCWHMzWHpxdEUzQTI0OUFvSER4enFpemlOeDBTazBraEdRTUxwTzJmVlcwdFR0NEZfVkFpTjFoeUwzUmZ5NktqTEdUQ3p2RWVyeWhwRGU4SXdYR3VFUkdqRHlWXzQ5UDFtRVNaZjQyZlVZTko2UzhSUm9FaS15TVE?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQldOcUluNzBYd2VQQlpsRDhVNkVIZE8tTTRxd2NUM1JYZGNKY3NQWVBXZGtVVHpvLUYxcHlnZFBrWXVzdktOWERXUU1UalNwaERkdzRneEY5a0tSamZFcUw2bmpPOHhoSzhxZkQwRjdHXzZkOXpreWNXOElvaVZRREJaZGpOWFFZb2JROHBVcksyaGw0Ry1GYjF0TVBNYnhE?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2144213/slecht-nieuws-voor-ajax-dolberg-dit-seizoen-niet-meer-in-actie-na-kruisbandblessu.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "55841c5130e4d8",
+      "title": "Eredivisie wordt eindelijk hervat: Feyenoord-AZ, Tadic naar Ajax en veel blessures - NU",
+      "category": "Blessures",
+      "published": "2026-10-07T12:15:00+00:00",
+      "updated": "2026-10-08T05:30:51+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRngwN0gzSzg5elowUEExOWxyRElmZm1vOWJCX1RrZjRxSmhRc0lFVGs4MnpxTlFEV1hnMzkwOVBLcWVHby1hOWhKbnF1T1dacEVsMVYzTEJGQnpLd3ZPalpVQUNrR2V2a3pjVDBJUllJOGVhckI1UGlxYTZNU2E5Q1E1c2J2S0pOa0JpSnRMaEJJbDZuUktfYVdIWUgwTGNKWDBPVUtvMlJ2bVAwMHlOTVVpV1hocUcxRXlr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEZOcUdOVFNQblVCSEtjTTZsYkd6eTdzN3MwV2p6VlRWaTVkbllSVWU1VnVDQW56UzllakxFN2o2clhPczV6RGxpcnlDUU9Nb2RRNy0wVk0zYnF0SG02Y2kta0prQ1B0VnpfSm5XMEVuRnBNRUdTTk0zQVpaUDFhb2cyMkpzSmJIODdsTGJLcnBaanVUN1h3bmRsSDc5S3RUdXNtN1NkSDBtcy1MWkZPZEVLNGtZWUdpXzFORHNnc0VuNjhNNzNjemFDaGRydw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "e561e1b4d34737",
       "title": "Ajax krijgt miljoenenmeevaller: club hoeft groot deel van salaris Kasper Dolberg niet meer te betalen",
       "category": "Club",
-      "published": "2026-10-07T20:59:00+00:00",
-      "updated": "2026-10-07T20:59:00+00:00",
+      "published": "2026-10-08T05:20:00+00:00",
+      "updated": "2026-10-08T05:20:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRFFuMERNSWZEWFdpNFVPdlpvdGpWUmFpTDdxNHUxQ3RwREtNWnVVZnhQV0JiSmo4VmVjOEt4NHhaS0ozcTR0WEpoYUFQZ0NLamprcThhdHgwMU5xSTdnTkswT2lsMkVacnFzZkdlM25lNGhRTG5aMkZhYnFlQUFoWk5wa19EVXFEcXQxVzZMcGNJVkt5QmVIVlJ4VUVpSlpXbGFQcGdpcmJrbWpMRE93clp4U1V3aWdwVjN4VFFLUzNIWmdkVGx1elk1NUFWUDdYcy12RHZxTjliNUh5alh6TnJyMA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "cfbe9851cdacf0",
+      "title": "Ajacieden opgelet: krijg nu gratis bedrukking op het Ajax-thuisshirt van dit seizoen!",
+      "category": "Overig",
+      "published": "2026-10-08T05:00:00+00:00",
+      "updated": "2026-10-08T05:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXprbmt6bWhxOHhVeFNMcVFWSXVGZG1meVBQWFcydHMyUW51TGE0MmIxSzlORElFWWdoM25pVDlrblNIaFZ1eG5MaTQtOWVZdzVtMDVFd2k5SXNZUTlaanVTdGpxdlhLekJnaExMX09kN1V4NzJESUJSbVRzUzNtYS04bjhCWWlodmtFRVkwdVBrcFRUQ2VJd2puWG1WdHRIcWN6X2x1akpjbEgzdHgxajNYNjVWMWUxZ2pKQThJQXFDOFo4UkFpcXJjeE9GeVU?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -132,37 +219,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "ba399999d7296c",
-      "title": "Ajax-spits Dolberg geopereerd na zware knieblessure: 'Dit komt hard aan'",
-      "category": "Blessures",
-      "published": "2026-10-07T17:11:39+00:00",
-      "updated": "2026-10-07T17:26:26+00:00",
-      "source_count": 4,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-spits-dolberg-geopereerd-na-knieblessure-dit-komt-hard-aan",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTRrSFZiU2FGRkdEdVc5U1AyUDVSSU9rWjV0S3pVY1JPdEQxOEFvLXFDZTR3T0tOTHY3a0dIaEhOZUFCYkZIOGljaUY3VGxCWHMzWHpxdEUzQTI0OUFvSER4enFpemlOeDBTazBraEdRTUxwTzJmVlcwdFR0NEZfVkFpTjFoeUwzUmZ5NktqTEdUQ3p2RWVyeWhwRGU4SXdYR3VFUkdqRHlWXzQ5UDFtRVNaZjQyZlVZTko2UzhSUm9FaS15TVE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2144213/slecht-nieuws-voor-ajax-dolberg-dit-seizoen-niet-meer-in-actie-na-kruisbandblessu.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTE0d0s4Zk1fTmJ6NkRBSXhFYTZUZm1NeF9Yc1hKaWRZamYyV0VHTGxrVVNZanc1UlU4ZW9Kd1lud1dSa3hWRkk2WEhDOHdwY1hzMlZKVW9iTTFKbkQxelZpcHpsNGFQRVY2RjNuMWN4SEZoUWVnRm80VVJPQmhzMFRVUURqX1E2S1JDSHkzOWYxcUF2a0l0T2F2eERHN0hpLWV3Ym0zelZYcnJITzdfV0JkZ1N5QQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "d02f399cf051ba",
@@ -276,7 +332,7 @@
       "related_sources": []
     },
     {
-      "id": "1f7d82d4c1cfb5",
+      "id": "13aaeef181187a",
       "title": "Ajax bereidt zich met internationals voor op NEC - Ajax",
       "category": "Overig",
       "published": "2026-10-07T15:53:09+00:00",
@@ -285,7 +341,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXNYNkNIR3RBczdvTHFQQVNKUXJYd2FmNFRUVF9ZZ2JRUTM4Z1FrYks3LUJGNVB2c1RMUFlSRENjRW10WnBIVzdUZXh1a21vd0dLektRN3lLTGRZUmhpV1VNNWMxampnYjRXN3g4NlhVNmFWM3B5aFdBV2c5UU05ck40bVRVdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGNNZlc2SFpvTmltMkhIa1pDNmotVGJtOW5oM0RCMS1LQndERTN3eXRtM18zX0NEMmVDc1FPbDBoU3ZQZUZldHA3N0R3SGhlaF95cno0djE4V2VLdVFYYi1tc25hSXluS1BJb3RuNkt3S2l6SnpxWFRvR01YQVF0WFU3ZlQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -351,16 +407,16 @@
       "related_sources": []
     },
     {
-      "id": "8be3aa30da0863",
-      "title": "Goals, blessures en rood na dubbele klap in gezicht: de interlandbreak van PSV, Ajax, Feyenoord en AZ",
-      "category": "Blessures",
-      "published": "2026-10-07T12:15:00+00:00",
-      "updated": "2026-10-07T12:15:00+00:00",
+      "id": "f6049e1d9fa30e",
+      "title": "Jong Ajax moet vanavond winnen",
+      "category": "Jong Ajax",
+      "published": "2026-10-07T12:45:07+00:00",
+      "updated": "2026-10-07T12:45:07+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEZOcUdOVFNQblVCSEtjTTZsYkd6eTdzN3MwV2p6VlRWaTVkbllSVWU1VnVDQW56UzllakxFN2o2clhPczV6RGxpcnlDUU9Nb2RRNy0wVk0zYnF0SG02Y2kta0prQ1B0VnpfSm5XMEVuRnBNRUdTTk0zQVpaUDFhb2cyMkpzSmJIODdsTGJLcnBaanVUN1h3bmRsSDc5S3RUdXNtN1NkSDBtcy1MWkZPZEVLNGtZWUdpXzFORHNnc0VuNjhNNzNjemFDaGRydw?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDFkZXdGUEc2cEpGcFl0X1FFNXFKeWxldktlRjZOc19jMlRaRkF2RE5uLUZpMFVPZVpURWhzS0IxWC1rdlJxZ1BZOFBrSXhmelVSalR1RllJcE8xQmo4d1JWblozdC1tOFdhQ19XZGdPd0dJM3RWRzU5bmdZSDd0R3hSbk1yUVVWRVRJLUthQmpRMVZtTUIxMjE1Rk5pcmFkY1E2Zw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -549,7 +605,7 @@
       "id": "05f91083df57e5",
       "title": "Ajax-aanwinst onthult: 'Toen ik ging tekenen, heeft Juventus interesse getoond'",
       "category": "Transfers",
-      "published": "2026-10-06T05:28:00+00:00",
+      "published": "2026-10-06T11:24:00+00:00",
       "updated": "2026-10-06T14:05:00+00:00",
       "source_count": 4,
       "official_confirmation": false,
@@ -603,51 +659,6 @@
         "name": "Ajax.supporters.nl",
         "url": "https://ajax.supporters.nl/nieuws/artikel/56054/Newcastle-wil-na-Steur-opnieuw-toeslaan-bij-Ajax",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ce5b70aca1cbad",
-      "title": "Olivier Kahn eist meer nationale minuten voor Ajax-speler en haalt hard uit naar bondscoach",
-      "category": "Transfers",
-      "published": "2026-10-06T13:27:00+00:00",
-      "updated": "2026-10-06T13:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVi1ZMWtwekFhSHNBMnFjb2d2bzZIbElNclhmTUtfTVRwYjlzSFNLcDZwYmpvaC1VelhJYUlGSWxWQU9Nb3BXOWlfUF9XdmFQTlJDMXRqc0pYYnhKTWJab3JQLWVPWHU1a1l1NTN4QVlldGdQd3J1UTdxaU5ob1FRSjhSM0J2dWlLOGluZXlaVzJsUmNqTEp4OUlVN3dYSmpQd3lGMXdZMVFPVUdYenozNmdqaF9KZ3YzeEc2WXBTMzQ0cjlsdFpRWmRhRjlFcVZKWmNpa3ZzTEJxRk5ObEE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b62eb964426eb0",
-      "title": "'Ajax-opponent wil stunten met komst Dani Carvajal'",
-      "category": "Transfers",
-      "published": "2026-10-06T12:03:00+00:00",
-      "updated": "2026-10-06T12:03:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYV85Z19jclBSUHF4clBuOUlHbXdsT1ZzR2FVRDY5RTFsOFlpYzNyTVZGMzcwdGViczYyU3RrZXFlb3BlYlRIenVOUFVCOUhERGtSX2FvNnphRmhaeVlIbE02ZFUwdURwX1pWT3hud25tZlBtdjR5aUw5a3M3czdsUU10NFI4R3FBakxaNDQwUkZqXzZVZ1VaUHFEelZCWHJxQVNjOWNzVGg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "afcf9c59073fda",
-      "title": "Newcastle United wil groeibriljant van Ajax herenigen met Sean Steur",
-      "category": "Overig",
-      "published": "2026-10-06T12:03:00+00:00",
-      "updated": "2026-10-06T12:03:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckNua0RNdXdpVy1pd0UyNzZXUzdaNVF5UWh3cFNlSko2d2dHaEpmdlhaTWgwT0ptWjQ5bGdzbkVCWGJFS1pSZEh1dlpDZjR4SlNWZ0NBRWh4YzdvSVA0cTkyeVJvSldfcVQ3ejhLYm1PeU1CTUQxeGVTNWhxY3Q1aFQ2VVpZZVp6WnJoaXY3SjdrZGJEaDZRUXhJTV9QZnEwX0dNSEF2LWlqdUo4bDFlQ3d1VWQtRmpJd1JtanRnaw?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
