@@ -1,18 +1,382 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T06:17:44.801204+00:00",
+    "generated_at": "2026-10-09T13:50:04.770697+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 68,
+    "article_count": 82,
     "event_count": 40,
-    "discovered_event_count": 59,
-    "source_count": 11,
+    "discovered_event_count": 67,
+    "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 21,
-    "excluded_video_only_count": 16,
+    "excluded_paywall_count": 46,
+    "excluded_video_only_count": 13,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e57dcdf8fae4cd",
+      "title": "Ajax-nieuwkomers maken mogelijk debuut tegen NEC, backs en routiniers uit de roulatie",
+      "category": "Selectie",
+      "published": "2026-10-09T13:33:00+00:00",
+      "updated": "2026-10-09T13:33:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTFyYlhlY1VGbTF4Z0p2VVlPRnBUUTlfNS1fbkVHMnhMdGJTZTNCeVdxVy1HS2tvaVliSE52dUFwQml3TEhzS1hvZmpLU0dVdXVhaVctQjBacWYzNmpORDl0T3lHc3VUQ1RDZ2pNNjF5em93eVlOYmRtOWdMT0l0RHd5cEpLUEluSXBEdnotNHp4ZEhseDl6ZDdPSFJRbUs4WkRCZUZzeEJUXy0yUzFZWVc1YWpEMTAwVVM4UA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e03b44ea5ec360",
+      "title": "Vermoedelijke opstelling Ajax: tweetal kan zaterdag debuut maken",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T13:15:00+00:00",
+      "updated": "2026-10-09T13:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2hoWnA3bFIyUXYtZ3JuZ1lITUlhQ3Q4UmlVX3hkY1dObXlUblRfZlNXY0M4VjNlVWhWWUFOeE5NdjNfZ1Q5eTB3amVqNXpEUWROcjBMOWNIZDFnUFZ4RjY4SDlHOW1LMXRNZFdJTHFrMmFzODFHWkZXVklmdV9sWkRJOWNBX1k1UnlIQllUanB6S2E2NGRxNmNscjJBdFU1d3RZMm1KcXRLcElMUGluVlBva1VDUTNx?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a0a4d0044e50db",
+      "title": "Ajax nog niet op volle oorlogssterkte tegen N.E.C., Adingra en Bissouma wel beschikbaar",
+      "category": "Overig",
+      "published": "2026-10-09T13:12:13+00:00",
+      "updated": "2026-10-09T13:12:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkowM0haam43QzRFVUxlMGZHOC0tUmZTMGl6Qk1hYURBck5wUDlvWXd0MG91Nk5OTWMtVjBWRmpqeEIxTkpCcjMtSGw4RmNZNWl0dkZpa2ZiN2xTMnNCcVBXVHdEVjJQZHpXdnRpOXdFNXBxVk55MXFPYUNBOVg0QjNuLVI3cnZLTHpPRlNxVWxIZmxQWl9rVFRiY2ItYUdZSW83ZjhsZUVfbzVRS21vbTJYdUJPcE5IQ3JHNWRmV3JURmJ4Qi1YVEx0YlJSSUxQMExjbQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "55841c5130e4d8",
+      "title": "Míchel gaat in op blessures Ajax en deelt goed nieuws over Adingra",
+      "category": "Blessures",
+      "published": "2026-10-08T05:30:51+00:00",
+      "updated": "2026-10-09T12:56:43+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/michel-gaat-in-op-blessures-ajax-en-deelt-goed-nieuws-over-adingra",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRngwN0gzSzg5elowUEExOWxyRElmZm1vOWJCX1RrZjRxSmhRc0lFVGs4MnpxTlFEV1hnMzkwOVBLcWVHby1hOWhKbnF1T1dacEVsMVYzTEJGQnpLd3ZPalpVQUNrR2V2a3pjVDBJUllJOGVhckI1UGlxYTZNU2E5Q1E1c2J2S0pOa0JpSnRMaEJJbDZuUktfYVdIWUgwTGNKWDBPVUtvMlJ2bVAwMHlOTVVpV1hocUcxRXlr?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "2b63a85245d4b2",
+      "title": "Groot nieuws over Ajax-aanwinsten Adingra en Bissouma",
+      "category": "Transfers",
+      "published": "2026-10-09T12:37:28+00:00",
+      "updated": "2026-10-09T12:37:28+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmxJN1pyTTdIM0tXNW1IVmdhWDFvd0ZxZjFYV3ZnR19iOGhNak5Yc3hMZWF2VkVweHNhTjN6alhZMGJxNElwS24wS2N4bHJQZV9lM2M0RGMzRHJIQzEtVUFqRGU0ZFFqMy1weERrakZyWC0zaGxYNDNWR3BoNFhGc2tBVGczalVVTEV2WEd5UHItaEtqdnRKNFd1cjhYOWYzQTJ0bm42djlVLUFoMzUxdFlYcw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5d2918756b9f37",
+      "title": "Livestream | Persconferentie met Míchel Sánchez voor Ajax - NEC - Ajax",
+      "category": "Overig",
+      "published": "2026-10-08T15:23:03+00:00",
+      "updated": "2026-10-09T11:49:01+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnk4WjFkODJYN2YzT2NSMXBKTHg1VEZ2Y2gtRzUwZklqQUU2dnY5elVDMmJHZzVISzhaY19la0RiamVuU19QRHJYeU1SSXhsUXVXZ2JVZmFLeWNianZxRzFRMWRZY295NWtLRkZVREhIdWpkSmJVUFc0SlRLdERINzBldWtQajl6am1DdVlYVQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d09539c00030d0",
+      "title": "Peperdure Ajax-aankoop van Jordi Cruijff moet nú direct gaan leveren",
+      "category": "Transfers",
+      "published": "2026-10-09T10:52:00+00:00",
+      "updated": "2026-10-09T10:52:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTl9FZFhKbV9ZQ21ReVA0MGNSOWNYWkg4aUxHQzA0OFJ0T0E2NW1iRDE4VThjQlZnai1lRS1YdFpxMGRuTm1XM1g5WUlTSFdvd28tOGdLNUtVRkJuakZEeDczbWxhamROOEtfbDFwNEN6VW83WnlfQUhuRjNaR1BxQ2txQ05PSEJOYlpWXzEzODNKOGpESzh1ZDJfMHAyQ0dMeDFzazZzMTk5TzNVTl84aVJKVVc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7656bf8253a4e5",
+      "title": "Schreuder gaat tegen Ajax voor vier op een rij: 'Voor ons een heel grote uitdaging'",
+      "category": "Overig",
+      "published": "2026-10-09T10:25:00+00:00",
+      "updated": "2026-10-09T10:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUVxVzhQZ3QtalhlX2g1dW1IYjdSUnZkY3l4NWRZYjlYNWV6OGJBUEVnWHFtRnUwWFBISG82RG95LXJ2UTFibTFucm1tU3NqRVJwQUhVSXVUZVBxX1VjOTBUd2RtbFJZX09rSFdieEoxLUp1TEo4akFYTzlQVmk0bzA3SXlVVnZNSTV2aFc5S1J0XzJJS2U5cjJlZVVtQlVmcmxpUjQyN0xiS2xldm1vZmZsME1wNkxEd1J5eU1pTmw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "96997a3659e257",
+      "title": "Rondom Ajax: Dies Janse treft met Jong Oranje Denemarken in play-offs om EK-ticket",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T10:20:00+00:00",
+      "updated": "2026-10-09T10:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHhJWmdGQ2U2SjUwbDBJRWJCMGNCdy02Ym42VF9YNkl1VTgyUDBPbjJwLS1YZlc2VmNZRTZwc3I2dFpJQ1BUeFpkUW9YZTR5QW9TVlZraDV0M3pmWGMyMllGNmFWY1prMnlJaDZSM3JVbnd0bURjNFF4QWUzRS16MG1QR1pHNWQ3ZUFBcVUwYUU5WTgwOXB3aDJueW9waXlSMVUxZ3FRNDVyQkVNdnVSRlNGeDhLXzhYTTY5S0Jrek9EczN1a0VRRU51ZFQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "63150c666275ee",
+      "title": "'Ajax is een ander Ajax dan vorig seizoen, het wordt een heel grote uitdaging'",
+      "category": "Blessures",
+      "published": "2026-10-09T10:14:45+00:00",
+      "updated": "2026-10-09T10:14:45+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144782/dick-schreuder-blikt-vooruit-op-ajax-nec.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f23751e77ba671",
+      "title": "Schreuder beseft dat nieuwe stunt bij 'totaal ander Ajax' een flinke opgave wordt",
+      "category": "Overig",
+      "published": "2026-10-09T10:08:00+00:00",
+      "updated": "2026-10-09T10:08:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/schreuder-beseft-dat-herhaling-bij-totaal-ander-ajax-een-flinke-opgave-wordt",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5eb98e7d3fecff",
+      "title": "Dick Schreuder vertelt heel eerlijk hoe hij naar Ajax kijkt: 'Dit Ajax is...'",
+      "category": "Overig",
+      "published": "2026-10-09T09:55:00+00:00",
+      "updated": "2026-10-09T09:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2I4SlhVVVNmMUlKdVFWU1JkYWFvZWFFd29XYnVLaWV1VlVpNGYtNVRIaGNEM1hmRHdyTmlkRHQyQ1luRkdIbV9xS3h2VldiRWpkNW5vYjctR1R0bjlLQzRsaU9ySERPSXRCeFgxZkluZUxUbU1KdXR6U19Ya09RNC1fVkhUYmF6ZGJTWWxkcjlldUZzLWJpUGg4X3JFQWhBWkpoZHF0TzlZZTd3M1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a7a6762f28c58e",
+      "title": "Ajax en Barcelona eren Cruijff met iconenduel op debuutdag",
+      "category": "Selectie",
+      "published": "2026-10-09T08:00:07+00:00",
+      "updated": "2026-10-09T09:50:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-en-barcelona-eren-cruijff-met-iconenduel-op-debuutdag",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "AT5",
+          "url": "https://www.at5.nl/artikelen/240342/ajax-en-fc-barcelona-eren-cruijff-met-iconenduel-op-debuutdag-van-legende",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "d5ad26fb2b13ce",
+      "title": "Ajax en Barcelona komen met bijzonder eerbetoon aan Johan Cruijff",
+      "category": "Overig",
+      "published": "2026-10-09T08:44:11+00:00",
+      "updated": "2026-10-09T08:44:11+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdW5wWnpaX2N2VkdsaDVoN2hDaGYzOHpUT2hqMWtkLTAzMlJudm9qb3BuMklZMkxtU0lsVzZ2M05Gb0RtX0U1bGRnM0tUZmpzd2xBZmkyTFRUVkNkNFJMMXBpZFNWY29wWkEybWhMV3lhdzRZNmZUdWlHOEEwSm5UNHowZWtqdUoycVB0OWM1cW1jWFBFTkdVLVJtNVkybXJxUHc3aHItc3BJWnNXazlRaA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1aa4190d81e916",
+      "title": "Ajax haalt clubiconen terug naar ArenA voor bijzondere wedstrijd tegen Barcelona",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T08:32:13+00:00",
+      "updated": "2026-10-09T08:32:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144713/ajax-kondigt-duel-met-barcelona-aan-tere-ere-van-cruijff.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f1cdb4bc845d4e",
+      "title": "Van Polen stond tegenover 'monster' bij Ajax: 'Wist zelf niet hoe goed hij was'",
+      "category": "Overig",
+      "published": "2026-10-09T08:27:13+00:00",
+      "updated": "2026-10-09T08:27:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144659/van-polen-lovend-over-kudus-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7cf1e10b924310",
+      "title": "Rondom Ajax: Oud-AZ-keeper Beau Reus: ‘Ik zou het liefst tegen Ajax spelen’",
+      "category": "Selectie",
+      "published": "2026-10-09T08:22:37+00:00",
+      "updated": "2026-10-09T08:22:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGM2REM1c3labkNpb3hHRFVkdnpYYmF3ZE1aVFo2VnJYaGRRQk1YOVQ0UDNGUnozdlk2Zm1YRHdZMEMzVWRGMWplTXpMVnFSbklteTlFZ2ozOWs0RnBNbG5UQV82YWJfa0RPQ2pSbUtQNmNSRWJ4ZEtyVFZtOXI1THE4cnBOWUtVYk91U09aXzdMNzhrZzAyNGhRbTIxU2h5R3E0WXBKeS1EUHBFd0lmZU00T01XV1h0d0E2My1qQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fdaace86504c72",
+      "title": "Ajax en FC Barcelona eren Johan Cruijff met Legacy Match in de Arena",
+      "category": "Club",
+      "published": "2026-10-09T07:45:00+00:00",
+      "updated": "2026-10-09T08:17:07+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHIwNktENUJoX0pHMHVpdnZpYkZJam43VWotRl9vdEZXT25fUkIweU1UX095OWpOUHJBa1BpaGZyUFlHLUtLd0MtVXNzbEE0dWlxb2ZFTFdMWW45WVNveVBuZjRieDJad0V1RFlJV2c1enBtMTFIdXhEb0dHWE51ZExVVEE4LS00RExWeFlkZTVFdHNCZW1xT3FEX0U3NWs3U2Y4M0huNTZXdk82ODBuM2ttY1c3NWNvWHc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0hmUFNNeGM4Sm1zYWFGcVI3S2E0QXhtcERWSTNidEVnSEE5d2FMVU1SWnRLakdRVUxoUXdvdkduMGtKbFA3U0lHSGlyYTJDVHZvUWEzNHlGLWhMaEllOFY2bjBhRGJCUDlyQy1SQlZpR00yUzZ4c1lqNUpjVFZ4UTVoWW1JZEtkYXNsYktBdXZmWG4yZHRKTndheG93d19wY21EcE1lMGdRQmo5OFIxdFd1S0RSdlU?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFQzSXNldlN2by1ITlZRdnp5ZENFN2RVVUdNQTBOZTZrUThBOXRTMzRXaE5mdzNfbTBHTVk1Sy1ILTZXY3Bvb0VDaUwwOXc4d1ZSWUY3YXNuRzVVQ0tweFZOSUVpZHNaellwZENqOEhMaEJfR1VKLXdNbDZvU3pDQUtpc29wdnd5RlQ2eGlhZk5DQm1MM2o1RHBFR1JFVlB6aEEtSkN0R0k0RVNVT25aZXpkU0xJdWxHNy0xd0I3MlpleFNSci0tc2ttaFlKWlhVR2lETmlfaGFXaDA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "d4d721b166e207",
+      "title": "Ongeslagen doelman gaat Europa in: 'Als we doorgaan, speel ik het liefst tegen Ajax!'",
+      "category": "Overig",
+      "published": "2026-10-09T08:15:00+00:00",
+      "updated": "2026-10-09T08:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjNkNGVjMTJIaHlaS1gxTFhKRHlyREl5VzRXXzdSVGxyZGlMM3loRmIxRHZTaThlUTBHQ2RiY3pwbmlqa09QN0tvS2hfblZCaUYzekQ0LVhqTGZDaHMtb25tbHFkaXVLdFFXNjZZdmpGX0ViMUFEMmdTcUNvTFh6U2pndG1zbWNPRVljYjlLMVlpZlE4TjlILU5Jb09NTlRKSUpzOEpCZFlsZVZvM0ZEaWtBeHZ0aDZ3amRwWUd6amIzbFV6ZnlvOG1pSWQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9731e0e3797a5c",
+      "title": "Legends Ajax en FC Barcelona eren Johan Cruijff met wedstrijd in Amsterdam - NU",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T07:14:11+00:00",
+      "updated": "2026-10-09T08:03:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb25XckZjS0M0cFdkaGpfUHB6cEpmcXJieGVjZFZVS2NVZ05hRUdxVnJTZnd5SE9rcS15TGNrdlB0YWJvT3oxWGFFQ2VySUszMXhVenNnMVBPVmRwM05sTHlZbFVoMjJjU0h3dGJrVlBudnliNW41VkJKUVlmRDVPR2k4Z2RvU2tnM25fRU1JNXdyekFBMXVpTUViM2dNMUl2d2p2Sl9HQTctWVd3ZHhsWGxHWQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRl9ETjkyNEhudWdPY2RxM0NqVWpPOGt6cWFrbm9WRUgxNVU5NF9SbWE4ZnBRT0lueWJmNnl2YThHNVY5RTh4Mzl0RGpYcVcyTm9wRkZocXRKQWpFZzZtZkU0elNDdUJWSk4tS1FtSHNkTlg4Y3pSbDBrT3RSd0ZxMkd0RHVZOG5RYnN6OWtaM05WdGNhV1B4SGQ0T0dRXzdyV1Y0bnFiMkI2SUsxWUlFZ0M5cUNsdTZ6?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56059/Ajax-kondigt-Legends-wedstrijd-aan-ter-ere-van-Cruijff",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "c01542c45bd924",
+      "title": "Opta voorspelt winnaar van Conference League en berekent kansen Ajax en FC Twente",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T07:30:00+00:00",
+      "updated": "2026-10-09T07:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144346/opta-voorspelt-conference-league-winnaar-en-berekent-kansen-ajax-en-fc-twente.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3ffb0e8f9c153f",
+      "title": "Ajax ook op basis van alternatieve ranglijst Opta op teleurstellende vijfde plaats",
+      "category": "Selectie",
+      "published": "2026-10-09T07:15:00+00:00",
+      "updated": "2026-10-09T07:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmtPVWZGWjUyNEVaMjBHSDdwTDhLWVhlMklTSTdyaXFKSE1meWdidWlmY3llWHhMb3JKOU8tNWxQOWRtbWFXa2tpYy1BV2NjazVZV0RYWUo2Z0gwajNxU2VYbkVOWmhIVFN0dk1UbmRBck85MDNRSEY5amZ2SEtFd1NHMFpSRWdmdk5WLU42MlRHVjVEazlQd2JTNldGeXF0TFB0NVV2UDVueGlua2drdWhaTEo5Si1wbE12X3BHMDl0d012Qml6LWNYWDJWQQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "bde6fd6aaefcb8",
       "title": "Geelen trots op specifieke Ajax-aanpassing: 'Daar heb ik hard voor gevochten'",
@@ -50,46 +414,16 @@
       "related_sources": []
     },
     {
-      "id": "55841c5130e4d8",
-      "title": "Eredivisie wordt eindelijk hervat: Feyenoord-AZ, Tadic naar Ajax en veel blessures - NU",
-      "category": "Blessures",
-      "published": "2026-10-09T04:44:24+00:00",
-      "updated": "2026-10-09T04:44:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRngwN0gzSzg5elowUEExOWxyRElmZm1vOWJCX1RrZjRxSmhRc0lFVGs4MnpxTlFEV1hnMzkwOVBLcWVHby1hOWhKbnF1T1dacEVsMVYzTEJGQnpLd3ZPalpVQUNrR2V2a3pjVDBJUllJOGVhckI1UGlxYTZNU2E5Q1E1c2J2S0pOa0JpSnRMaEJJbDZuUktfYVdIWUgwTGNKWDBPVUtvMlJ2bVAwMHlOTVVpV1hocUcxRXlr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f1cdb4bc845d4e",
-      "title": "Van Polen stond tegenover 'monster' bij Ajax: 'Wist zelf niet hoe goed hij was'",
+      "id": "11dce1f64352bc",
+      "title": "Ajacieden in Feyenoordshirt",
       "category": "Overig",
-      "published": "2026-10-08T21:42:20+00:00",
-      "updated": "2026-10-08T21:42:20+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144659/van-polen-lovend-over-kudus-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "07765724ddddc2",
-      "title": "Van Polen vreesde duels met voormalig Ajacied Kudus: 'Dat vond ik echt een monster'",
-      "category": "Overig",
-      "published": "2026-10-08T21:25:00+00:00",
-      "updated": "2026-10-08T21:25:00+00:00",
+      "published": "2026-10-08T21:23:55+00:00",
+      "updated": "2026-10-08T21:23:55+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejM2QmNFeXhXTHhqbjFtTjFjSUY3ajRTdEFlNUxxX3hwNGNQNDdBbnZEb1ZLU1NIRjRkYmRZX2NyS0VNMk1abDVyQkxGdlhsVXRSaUpia005SGlLOU5qXzctVm5EYnlxaVVQSUJiTXVja25xNEl2VGNjV083QTJDVkthRmRTcjh1YlNadjUzVmwwZ0Rxd1pYQVQ5SmJ3YjZ3S01NR2FLTjRQa1NsU2NGR3dyY0s0LTg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzRnbkZyYllDSEQzOW51M25jbmU0bzFGcUVWcndmM0FsdFAyMmZiVFVaWXZudlhEd2pOTy1DUE5XOTBpbGxhNFJKcWk2UHdQdDE3aXVaMEFzWl9ISk01QzByVkdXdUtSeFZsSy1reC04R081cXotYTJxVlJfeXZ4Szk1aXlkS3JMWG40ZA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -150,21 +484,6 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ01rQVJlZklMZk52U0F3MW9hZkZQSl9mUTZZSWhjMlVLOTlGeGdTNGx3UzNUUEx0MVI3LU1xQjluQ2E2cVNwalhwT0J2LWtJa2VRcnVWNU4wWFdvRHl6WHlvak9HOFZIaEw4V2twY0ZiYTl4dzltUGtzWGFIa0NsVndMV3FoWkFnaUkzcGtB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "61581f3a2da709",
-      "title": "Rondom Ajax: Brandt wint Doelpunt van de Maand september",
-      "category": "Wedstrijden",
-      "published": "2026-10-08T19:00:13+00:00",
-      "updated": "2026-10-08T19:00:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDFIYXpySlFFVDZPXzJXZURYOVdOUmZ4QVh3Sm5rd01nOTJZYm9kcUNWeXV3aXRUaTZTcXZWLW8wa0EzZkcwWTFSQUJTc29tQ2hXMHMxd0xtS2JRTFI5ZzlsbkU1LWRsX2lNbjUwRzRjdktTaE5WN2JIOTNsWnJ4SzhaSXQ0dzlLNEVYV1RRM3AtcVBkeHNQM2dhNHFHeXc1MWkwcHpyY2xSeU0?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -260,21 +579,6 @@
       "related_sources": []
     },
     {
-      "id": "f4df0f08a054b5",
-      "title": "Kijk vrijdagmiddag naar de persconferentie van Míchel Sánchez - Ajax",
-      "category": "Overig",
-      "published": "2026-10-08T15:23:03+00:00",
-      "updated": "2026-10-08T15:23:03+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXNlblFPV0lIZ3ROeWlQR2dEbGdETDY0NUxlVGdFcjdKeGh5bW5Ga3ktZTBFdGJ0X1EtVXBNVVA5OExjVld4UHlBZFhDcExSNjB1MkpPV0hVS1lHakZ1azBWVDF5SlpveFpPbGZvODl5MFg4VGRNYmF6ams3MlNVOWp6cEVyREJlSjhFZ0FDbXZCcEgxMGpNN0RfVXM4ejNOT0plNzFCV3J6d1BXbF9yMV9yNVlYMVE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "237596533497dd",
       "title": "Meevaller voor Ajax: club krijgt compensatie voor salaris van geblesseerde Dolberg",
       "category": "Blessures",
@@ -352,297 +656,6 @@
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZTE4Um9SNzJXRzZxNElfZk1OcDNJX0MtUWhGS3ZaaGktQWZPZXZLTUlKMEVwLWRzbGNNdFo2OEJ2b3RQSG40dkhESnBUM25qTElQOEZxNXR6dVkzWUJFTjduTmdsSl9zTUsxU3hncS1LaVRIT1AwWVh1OHUxeEh4eFVtaw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "954600791f8201",
-      "title": "Kramer vertelt over 'Ajax-gezichten' en zijn lijstje: 'Als ik die kan raken...'",
-      "category": "Overig",
-      "published": "2026-10-08T12:40:35+00:00",
-      "updated": "2026-10-08T12:40:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144451/kramer-vertelt-over-ajax-afkeer-ze-hebben-een-ajax-gezicht.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "87a7b14e0c5480",
-      "title": "CIES deelt lijst met meest waardevolle tieners: Ajax, PSV én Feyenoord present",
-      "category": "Overig",
-      "published": "2026-10-08T12:29:00+00:00",
-      "updated": "2026-10-08T12:29:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144462/cies-deelt-lijst-met-meest-waardevolle-tieners-buiten-topcompetities.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3af16f141ca65f",
-      "title": "Ajax op 'verschrikkelijk goede' Abdalla gewezen: 'Dat vind ik jammer'",
-      "category": "Club",
-      "published": "2026-10-08T10:24:03+00:00",
-      "updated": "2026-10-08T10:24:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144383/waarschuwing-voor-ajax-abdalla-verschrikkelijk-goed.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "415bdcd2e6f30b",
-      "title": "KNVB heeft Talents Group: 'Zij zullen vaker Ajax, PSV en Feyenoord gaan fluiten'",
-      "category": "Wedstrijden",
-      "published": "2026-10-08T09:56:55+00:00",
-      "updated": "2026-10-08T09:56:55+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144374/knvb-stoomt-opvolgers-makkelie-en-gozubuyuk-klaar.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4ae6c7d72085e5",
-      "title": "Eredivisie-scheidsrechter over oud-Ajax-spits: 'Hij is lastig om te fluiten'",
-      "category": "Wedstrijden",
-      "published": "2026-10-08T09:35:49+00:00",
-      "updated": "2026-10-08T09:35:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144256/scheidsrechter-alex-bos-legt-uit-waarom-brian-brobbey-lastig-te-fluiten-is.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0b766ea36cebed",
-      "title": "KNVB komt met opvallend plan voor wedstrijden van Ajax, PSV en Feyenoord",
-      "category": "Wedstrijden",
-      "published": "2026-10-08T09:22:00+00:00",
-      "updated": "2026-10-08T09:22:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFk2bWhFeXBtX3QwcU4yRkdwaUkwamM5a3N0QTVBMzdXUy04ZEdPZGpHVlJKcnpiMnJqM2Z2SDBIOWl3T1dsLVp4TTQ1eHVwUWNJY01aTlZpQVpiaDJJRWxmeXBRdVY4bEQtOHFhMUVLRUc0SkVHbmhTWTl4QTlVZDU0UjJRSU5OdVEyWjRBR0xPN1E0ckNpZlU1clNwSWxuOUFrbVdvWWJrUXM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8a6e89e5bc8a27",
-      "title": "Voormalig Ajax-speler bezorgde arbitrage veel moeite: 'Hij is gewoon lastig om te fluiten'",
-      "category": "Overig",
-      "published": "2026-10-08T09:00:00+00:00",
-      "updated": "2026-10-08T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUUtKN3dYeEdCbGw4OGdETk5iUXBjSDNaY015cHVnWEpTSXRjaDE1RVItYm11N0JBM2lobFlDdmlBUUY1YnRZaEZJdFpCZGg5VWRLdkNoS040LU1YcTJXSnpfNXJTaTlBN1NrbS11d0RoVDA5NGV5TkhVdkFXeWVsRzM0MVZvNWR6WGtfRTU2Z0pPYk5RYnVQYUZfekVCVVV1SS1HbDRLemJYbFEzUTMwU0kzYUN1b2lHSk9WcmRQRXY5WndIRFl1a0NYdDdzV0U4ZXhmcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a8a42e82c558e3",
-      "title": "'Design van speciaal Bob Marley-shirt van Ajax voor volgend seizoen lekt uit'",
-      "category": "Overig",
-      "published": "2026-10-08T08:52:33+00:00",
-      "updated": "2026-10-08T08:52:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144342/design-speciaal-bob-marley-shirt-van-ajax-lekt-uit.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ba399999d7296c",
-      "title": "Ajax-spits Dolberg geopereerd na zware knieblessure: 'Dit komt hard aan'",
-      "category": "Blessures",
-      "published": "2026-10-07T17:11:39+00:00",
-      "updated": "2026-10-08T08:05:00+00:00",
-      "source_count": 5,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-spits-dolberg-geopereerd-na-knieblessure-dit-komt-hard-aan",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTRrSFZiU2FGRkdEdVc5U1AyUDVSSU9rWjV0S3pVY1JPdEQxOEFvLXFDZTR3T0tOTHY3a0dIaEhOZUFCYkZIOGljaUY3VGxCWHMzWHpxdEUzQTI0OUFvSER4enFpemlOeDBTazBraEdRTUxwTzJmVlcwdFR0NEZfVkFpTjFoeUwzUmZ5NktqTEdUQ3p2RWVyeWhwRGU4SXdYR3VFUkdqRHlWXzQ5UDFtRVNaZjQyZlVZTko2UzhSUm9FaS15TVE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2144306/dolberg-blessure-heeft-gevolgen-voor-ajax.html",
-          "via_google_news": false
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmZlS013Q21lQmJRcGtaQUVoMFlXREMteDF0NmR3eXhEZ1dYcGs5VGk3UkEzQ1hXdTlhVVdkblBzYllQMjVSQXZsc2pGVFdBdE9LSFRpMlN1a1dBQ2RtV3lxcUNEdEhJVGsyZElDSGNjbGt1WHVMbEJLeGJpSTRBVlF3OWxmYndTNDMyODl3aHJMN3lJNExrZTdtVWsycHB1bzhCOUlrMmdsb0w3aTRDWmdWOWI0SVR4anh4MElzYzdXQ2tRaTc2UlJaNA?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTE0d0s4Zk1fTmJ6NkRBSXhFYTZUZm1NeF9Yc1hKaWRZamYyV0VHTGxrVVNZanc1UlU4ZW9Kd1lud1dSa3hWRkk2WEhDOHdwY1hzMlZKVW9iTTFKbkQxelZpcHpsNGFQRVY2RjNuMWN4SEZoUWVnRm80VVJPQmhzMFRVUURqX1E2S1JDSHkzOWYxcUF2a0l0T2F2eERHN0hpLWV3Ym0zelZYcnJITzdfV0JkZ1N5QQ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "c5680c9456a447",
-      "title": "Slecht nieuws voor Ajax: 'Ze ontkennen het niet, dat zegt genoeg'",
-      "category": "Overig",
-      "published": "2026-10-08T05:58:00+00:00",
-      "updated": "2026-10-08T05:58:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTVaczZXUW1yY29NRnlUdGNjcVQxTHBJT0FCdEthZUtZSldOM3BqalYycVVUbEpVTFZDY0hsdFpFN19ReWZ3dEJIdHRrd0gtUF9sQVFxTXc1Y09RaVBqSGpaTTVtNXhlVTA5dURFcG1hOUhrQm5ZaV9XR2xDMlNvYUlEbVBfbWs1QWViWGk3VVpHcTlVYk5LU2ZSSjdJQzg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e561e1b4d34737",
-      "title": "Ajax krijgt miljoenenmeevaller: club hoeft groot deel van salaris Kasper Dolberg niet meer te betalen",
-      "category": "Club",
-      "published": "2026-10-08T05:20:00+00:00",
-      "updated": "2026-10-08T05:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRFFuMERNSWZEWFdpNFVPdlpvdGpWUmFpTDdxNHUxQ3RwREtNWnVVZnhQV0JiSmo4VmVjOEt4NHhaS0ozcTR0WEpoYUFQZ0NLamprcThhdHgwMU5xSTdnTkswT2lsMkVacnFzZkdlM25lNGhRTG5aMkZhYnFlQUFoWk5wa19EVXFEcXQxVzZMcGNJVkt5QmVIVlJ4VUVpSlpXbGFQcGdpcmJrbWpMRE93clp4U1V3aWdwVjN4VFFLUzNIWmdkVGx1elk1NUFWUDdYcy12RHZxTjliNUh5alh6TnJyMA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cfbe9851cdacf0",
-      "title": "Ajacieden opgelet: krijg nu gratis bedrukking op het Ajax-thuisshirt van dit seizoen!",
-      "category": "Overig",
-      "published": "2026-10-08T05:00:00+00:00",
-      "updated": "2026-10-08T05:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXprbmt6bWhxOHhVeFNMcVFWSXVGZG1meVBQWFcydHMyUW51TGE0MmIxSzlORElFWWdoM25pVDlrblNIaFZ1eG5MaTQtOWVZdzVtMDVFd2k5SXNZUTlaanVTdGpxdlhLekJnaExMX09kN1V4NzJESUJSbVRzUzNtYS04bjhCWWlodmtFRVkwdVBrcFRUQ2VJd2puWG1WdHRIcWN6X2x1akpjbEgzdHgxajNYNjVWMWUxZ2pKQThJQXFDOFo4UkFpcXJjeE9GeVU?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "13aaeef181187a",
-      "title": "Ajax bereidt zich met internationals voor op NEC - Ajax",
-      "category": "Overig",
-      "published": "2026-10-07T23:48:34+00:00",
-      "updated": "2026-10-07T23:48:34+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGNNZlc2SFpvTmltMkhIa1pDNmotVGJtOW5oM0RCMS1LQndERTN3eXRtM18zX0NEMmVDc1FPbDBoU3ZQZUZldHA3N0R3SGhlaF95cno0djE4V2VLdVFYYi1tc25hSXluS1BJb3RuNkt3S2l6SnpxWFRvR01YQVF0WFU3ZlQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "237f234c6b1980",
-      "title": "Persoonlijk drama voor Kasper Dolberg is ook een fikse aderlating voor Ajax",
-      "category": "Overig",
-      "published": "2026-10-07T20:00:00+00:00",
-      "updated": "2026-10-07T20:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTgtdjJyaDFWaEluQ2d4VGtJVVUxRFlXWXpyRjRnRVo4SGtMYU1pMmFiaDNMYlYwb3lpWXFISmpTelNqdzFFcTRIRU04RFNXRF9hR1ZBSkNBTWd4LWJTdGtFaUh3bUtFSmU1c3pQUFl6LThrcUt1MTRsTkVqcUxDcXlOaDV2RGpWeHlTYjU3Y0d3Nkd5UmtyTnlEQzdSU2RZdmxqcVU3T3FsQTlITXl4aQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d95ce7a151bb4c",
-      "title": "Maduro ziet verandering onder Cruijff: 'Jong Ajax is ook heel bewust versterkt'",
-      "category": "Jong Ajax",
-      "published": "2026-10-07T19:50:00+00:00",
-      "updated": "2026-10-07T19:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1loaDQ2ODNFMm1FX0p3UV95dTVRSXhuZ3NOLVFzcElvVnN2d2pYSGNZUUdPV0RJTDlmZlJLVTdUX0MyTTljWXhiQkhITWlEMGxEcEYwVGNwYXp1RVdEaFBtcE9HRmttd19pZTNnanNoLXFzamlWRlh1OVE4Qmh0OFZVaFIwdWdhMUo3MmlUc2RpQTZlVHQ4aTJwTnplOGhQMGVEVjJkSHhJZ3k5WWtOb2x1dzc0cW9SSjJYMA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c2f88ad43b6e8f",
-      "title": "Lof voor Ajax-speler: 'Ik zie hem dingen doen die ik letterlijk nog nooit bij hem gezien had'",
-      "category": "Overig",
-      "published": "2026-10-07T19:39:00+00:00",
-      "updated": "2026-10-07T19:39:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYlNHV01SbzNEcXctVmxHNUs2OXVGd3hzaVFDbkZKUGtKX2dlU09vamN0c1I2OVh4azBmdmFmYndFMFcwRU8zVDllYWQxdmVUclgzMHBGazV4RlU4YjAzUkJPdVZpZVkzYlh3WVNtUWpGd0dhVi1pY2g2Z2VlZVVYT3p4MWtUaDVUMjBvSkptSlU4UGFuVk1aOHZQcjRwNGRNc3dodGtUc2xDUVRrLWl1VzdWQVJRaDNUM2RxT0xOVS03dlc1U3NSbmxBTW1ZdW1MTGZWN0JtZmZSa3BG?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ef3323eebb10fe",
-      "title": "Janse op zijn plek bij Ajax: 'Als ik tegen Tolu kan staan, is dat alleen maar goed'",
-      "category": "Overig",
-      "published": "2026-10-07T19:15:00+00:00",
-      "updated": "2026-10-07T19:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHFDWWozakFwQ092X0FOSDNRY0s5MDV6RWtoQTZ1M2tTOWczNzVERFFQWUY2UVBBMkQxaGhUVzRSck5HOENfMC1ISXlpZzltRVpNVk9FOGU2UTVTT3FULU1pSFQwaEgwc3RfS3lnOU9LelhCa2dfakdyRUp3dGZNV25KekJ4cnJiRzczV0VmYU1VX1ZteU02b3FSa09hMFVDblJHbzBlNWxXVEZR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "813d2e8c6aca15",
-      "title": "Vink uit grote twijfels over Ajax-speler: 'Hele standaarddingen gaan fout'",
-      "category": "Selectie",
-      "published": "2026-10-07T19:06:00+00:00",
-      "updated": "2026-10-07T19:06:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144236/vink-uit-grote-twijfels-over-ajax-spits-marcos-leonardo.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
