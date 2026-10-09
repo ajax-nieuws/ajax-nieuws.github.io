@@ -1,18 +1,69 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T23:58:38.958668+00:00",
+    "generated_at": "2026-10-09T06:17:44.801204+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 69,
+    "article_count": 68,
     "event_count": 40,
-    "discovered_event_count": 60,
+    "discovered_event_count": 59,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 20,
-    "excluded_video_only_count": 17,
+    "excluded_paywall_count": 21,
+    "excluded_video_only_count": 16,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "bde6fd6aaefcb8",
+      "title": "Geelen trots op specifieke Ajax-aanpassing: 'Daar heb ik hard voor gevochten'",
+      "category": "Club",
+      "published": "2026-10-08T19:30:00+00:00",
+      "updated": "2026-10-09T05:02:48+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144667/geelen-trots-op-specifieke-ajax-aanpassing-daar-heb-ik-hard-voor-gevochten.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVFCb3NLZ2p6M0dtZHF1eUlkOVZJZ21DWTJLa3NLZm16TVJmQnQ5ekdGRzRmLXlDM1hxVGt1NW45RlBtclhleFQ1b2tRUHZsUFd1Q2JFQXVtWXYwVmJMbElFMXlzbHBpbU5JZTRxMTlmbEZBc0VMb1pHYVBtZlRtT0k0X0JzazhrTXNFNThxYjBPbVBwS3FDX0E0MWRiOVlQWUZGTGF1M1lvQkZZYS11em15Y0k3dHJMMl9NNlJ1NHNSWmxiQ04xX1lna0o?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "fd584889aaf9d5",
+      "title": "Míchel staat voor veel dilemma's: wat wordt Ajax' opstelling tegen NEC?",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T05:00:00+00:00",
+      "updated": "2026-10-09T05:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQem1DckNWczFyWkxoU3ZTVzZHVEdQQ3YtWUI4Y2dTUi16RkpmLVlPSXpnSmdMRXhwMWxtNWJmYktEN2FoR2lqY3lBUUd2X1IzNnFNR3QxbGttb204N19td3JTZkI2dEhTZkpsUGpXZmZROHZ4UE1lV283eFlfU3o3dDdWdHVXbmNVbUNxYjNJRl9zR0lXVVdleG8tUkpXcHh5UXJVM0hRUVA0WFJj?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "55841c5130e4d8",
+      "title": "Eredivisie wordt eindelijk hervat: Feyenoord-AZ, Tadic naar Ajax en veel blessures - NU",
+      "category": "Blessures",
+      "published": "2026-10-09T04:44:24+00:00",
+      "updated": "2026-10-09T04:44:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRngwN0gzSzg5elowUEExOWxyRElmZm1vOWJCX1RrZjRxSmhRc0lFVGs4MnpxTlFEV1hnMzkwOVBLcWVHby1hOWhKbnF1T1dacEVsMVYzTEJGQnpLd3ZPalpVQUNrR2V2a3pjVDBJUllJOGVhckI1UGlxYTZNU2E5Q1E1c2J2S0pOa0JpSnRMaEJJbDZuUktfYVdIWUgwTGNKWDBPVUtvMlJ2bVAwMHlOTVVpV1hocUcxRXlr?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "f1cdb4bc845d4e",
       "title": "Van Polen stond tegenover 'monster' bij Ajax: 'Wist zelf niet hoe goed hij was'",
@@ -39,21 +90,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejM2QmNFeXhXTHhqbjFtTjFjSUY3ajRTdEFlNUxxX3hwNGNQNDdBbnZEb1ZLU1NIRjRkYmRZX2NyS0VNMk1abDVyQkxGdlhsVXRSaUpia005SGlLOU5qXzctVm5EYnlxaVVQSUJiTXVja25xNEl2VGNjV083QTJDVkthRmRTcjh1YlNadjUzVmwwZ0Rxd1pYQVQ5SmJ3YjZ3S01NR2FLTjRQa1NsU2NGR3dyY0s0LTg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "11dce1f64352bc",
-      "title": "Ajacieden in Feyenoordshirt",
-      "category": "Overig",
-      "published": "2026-10-08T21:23:55+00:00",
-      "updated": "2026-10-08T21:23:55+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzRnbkZyYllDSEQzOW51M25jbmU0bzFGcUVWcndmM0FsdFAyMmZiVFVaWXZudlhEd2pOTy1DUE5XOTBpbGxhNFJKcWk2UHdQdDE3aXVaMEFzWl9ISk01QzByVkdXdUtSeFZsSy1reC04R081cXotYTJxVlJfeXZ4Szk1aXlkS3JMWG40ZA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -99,21 +135,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1FXLVBfYU1YNWRFdGFpdzR1bWtSX2IxeXNmUnUxVm9Qcmo0ZlVXalRtV2pNeHRoT2hTbUczY3Jodkc5SDNKN3JLV2ExLUhSeXhXdEp5TGdyWVUwY0dKekdyTE92R2s5b0JnM3ptS2ZYYlE5VGttRWFWV1gwbDVyd25tTHY5cUloMGNv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bde6fd6aaefcb8",
-      "title": "Geelen trots op transformatie Johan Cruijff ArenA: 'Daar heb ik hard voor gevochten'",
-      "category": "Club",
-      "published": "2026-10-08T19:30:00+00:00",
-      "updated": "2026-10-08T19:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVFCb3NLZ2p6M0dtZHF1eUlkOVZJZ21DWTJLa3NLZm16TVJmQnQ5ekdGRzRmLXlDM1hxVGt1NW45RlBtclhleFQ1b2tRUHZsUFd1Q2JFQXVtWXYwVmJMbElFMXlzbHBpbU5JZTRxMTlmbEZBc0VMb1pHYVBtZlRtT0k0X0JzazhrTXNFNThxYjBPbVBwS3FDX0E0MWRiOVlQWUZGTGF1M1lvQkZZYS11em15Y0k3dHJMMl9NNlJ1NHNSWmxiQ04xX1lna0o?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -254,7 +275,7 @@
       "related_sources": []
     },
     {
-      "id": "c7bdf85711e4b0",
+      "id": "237596533497dd",
       "title": "Meevaller voor Ajax: club krijgt compensatie voor salaris van geblesseerde Dolberg",
       "category": "Blessures",
       "published": "2026-10-08T14:50:00+00:00",
@@ -269,19 +290,25 @@
       "related_sources": []
     },
     {
-      "id": "d08a0dcf871dfa",
+      "id": "c497c5a7587973",
       "title": "NEC haalt transfervrije Bakker binnen, debuut tegen Ajax lonkt",
       "category": "Transfers",
-      "published": "2026-10-08T14:14:17+00:00",
+      "published": "2026-10-08T14:00:00+00:00",
       "updated": "2026-10-08T14:14:17+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/nec-haalt-transfervrije-bakker-binnen-debuut-tegen-ajax-lonkt",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMkVSdm9tY25ObThrN0F2OHAwY2NWUmVrV2tFZm5ldkx3RDc2bzFNcGZOMXEwSi1hNkFnWUxPSEJTdHlMSUNwRVN6UFlmWUU2UVVJX05CWDZBLV9nWXZCbENLNEZxQmlNX0tqem9Va0V3Mi1pTWFhaFJRZmw5MEJfZlE3YW15RkxsN2g1ZkNOOEtzREJ6RWltN3l3SVNQU25vOGRGZC1SUjdPY2JUMmhrTWhBMjdkVTFkckFWY3MxMGo4TzhoaWVwbmdQYWFaNnFDZVhYRQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "125056487e797a",
@@ -464,7 +491,7 @@
       "related_sources": [
         {
           "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORzdIRnlhcTd6bl9EQ2JzTW1nbXAxLTlLZVFZdndnMWhVX2lCZURSUmJNU0Rha2hndEpSTnJxTmloRHJOVkctakRkQmN3dGo3OElPa0JqSEd4Vi1EM3dLUFFheW9qV0lNX1ZVUTRud0VJUVJ3by1laUdMZmJRc3Rmc3hhNEFTZTY2TkJQX0tLZXVfcHoybDZHcEllczVsY0JIVDdZSmZjem4tR19tczFhWVZyMTlfcENyem9qNWY0Y2xINnRy?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTRrSFZiU2FGRkdEdVc5U1AyUDVSSU9rWjV0S3pVY1JPdEQxOEFvLXFDZTR3T0tOTHY3a0dIaEhOZUFCYkZIOGljaUY3VGxCWHMzWHpxdEUzQTI0OUFvSER4enFpemlOeDBTazBraEdRTUxwTzJmVlcwdFR0NEZfVkFpTjFoeUwzUmZ5NktqTEdUQ3p2RWVyeWhwRGU4SXdYR3VFUkdqRHlWXzQ5UDFtRVNaZjQyZlVZTko2UzhSUm9FaS15TVE?oc=5",
           "via_google_news": true
         },
         {
@@ -498,27 +525,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "55841c5130e4d8",
-      "title": "Eredivisie wordt eindelijk hervat: Feyenoord-AZ, Tadic naar Ajax en veel blessures - NU",
-      "category": "Blessures",
-      "published": "2026-10-07T12:15:00+00:00",
-      "updated": "2026-10-08T05:30:51+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRngwN0gzSzg5elowUEExOWxyRElmZm1vOWJCX1RrZjRxSmhRc0lFVGs4MnpxTlFEV1hnMzkwOVBLcWVHby1hOWhKbnF1T1dacEVsMVYzTEJGQnpLd3ZPalpVQUNrR2V2a3pjVDBJUllJOGVhckI1UGlxYTZNU2E5Q1E1c2J2S0pOa0JpSnRMaEJJbDZuUktfYVdIWUgwTGNKWDBPVUtvMlJ2bVAwMHlOTVVpV1hocUcxRXlr?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEZOcUdOVFNQblVCSEtjTTZsYkd6eTdzN3MwV2p6VlRWaTVkbllSVWU1VnVDQW56UzllakxFN2o2clhPczV6RGxpcnlDUU9Nb2RRNy0wVk0zYnF0SG02Y2kta0prQ1B0VnpfSm5XMEVuRnBNRUdTTk0zQVpaUDFhb2cyMkpzSmJIODdsTGJLcnBaanVUN1h3bmRsSDc5S3RUdXNtN1NkSDBtcy1MWkZPZEVLNGtZWUdpXzFORHNnc0VuNjhNNzNjemFDaGRydw?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "e561e1b4d34737",
