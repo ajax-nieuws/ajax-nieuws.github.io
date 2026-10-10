@@ -1,24 +1,363 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T02:48:08.503024+00:00",
+    "generated_at": "2026-10-10T09:57:57.008014+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 80,
+    "article_count": 89,
     "event_count": 40,
-    "discovered_event_count": 65,
-    "source_count": 11,
+    "discovered_event_count": 70,
+    "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 48,
+    "excluded_paywall_count": 43,
     "excluded_video_only_count": 13,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "9302a27be73d47",
+      "title": "Speler met koopoptie van 14 miljoen nauwelijks aan bod bij Jong Ajax: 'Een proces'",
+      "category": "Jong Ajax",
+      "published": "2026-10-10T09:52:42+00:00",
+      "updated": "2026-10-10T09:52:42+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2145100/zomeraanwinst-camara-krijgt-nog-geen-kans-bij-jong-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b02f7f195a09e9",
+      "title": "Journalist verbaasd over afgegleden ex-Ajacied: 'Wat is hier misgegaan?'",
+      "category": "Overig",
+      "published": "2026-10-10T09:33:08+00:00",
+      "updated": "2026-10-10T09:33:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXpiZkdCOVcybHJ0QjJVTGRRWGIzWnp2VTNtclp1SGJRdHFEcGdEdVFOSEt6ZldxMDNWd2VYZzN3T1BSOVVwYi1wazlzVHBpSEF1amZOcG5XLVUzemY1RVNlcFZFTTVTQ2NBY2FPeC0xMTBDMDVyNy12SC1iS3VfUUdnQXRVbmxERll5UFNQR243SFEteWNLb1FINzN0TlN5MEJBZG5pVlJiOVFsLXV3VVpuTWI?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "76cd47f114608f",
+      "title": "Felle kritiek op Tadic-uitspraken: 'Dit kan niet, ze moeten hem aanspreken hierop'",
+      "category": "Overig",
+      "published": "2026-10-10T09:32:29+00:00",
+      "updated": "2026-10-10T09:32:29+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2145093/kritiek-van-anita-en-maaskant-op-tadic-na-ajax-uitspraken.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "11e847c8fa367c",
+      "title": "Peperdure nieuweling komt niet aan bod: 'Hij moet eerst wennen aan het Ajax-systeem'",
+      "category": "Transfers",
+      "published": "2026-10-09T10:52:00+00:00",
+      "updated": "2026-10-10T08:55:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWd0bHNZQWF1U0t5YmhacEdZUEtwbFhnMlc3bmNaTEtYUmlBR0dVNkhHV2xTbHh3bHJRa0JsZ2IyRjZqMDY0WW1uSnpmYU90OUNKWGczTkY1dngwVE1rek5nTEY2cVBKNmpnOVlyTFNTb19iUjJjVXprd1JxT2hXWkVoTXRCbFJ3V2VoTzlfU29XZjVVQTZCZzhrRWNOWUJGdWd4ekRWM1gyMVJVZXlMZDNnc2dBTlUxOGhnMGNkTkttbFNtaEF3NTctREtmNjds?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTl9FZFhKbV9ZQ21ReVA0MGNSOWNYWkg4aUxHQzA0OFJ0T0E2NW1iRDE4VThjQlZnai1lRS1YdFpxMGRuTm1XM1g5WUlTSFdvd28tOGdLNUtVRkJuakZEeDczbWxhamROOEtfbDFwNEN6VW83WnlfQUhuRjNaR1BxQ2txQ05PSEJOYlpWXzEzODNKOGpESzh1ZDJfMHAyQ0dMeDFzazZzMTk5TzNVTl84aVJKVVc?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "551a011419cc39",
+      "title": "NEC kan bijzondere reeks tegen Ajax verder aanscherpen",
+      "category": "Overig",
+      "published": "2026-10-10T08:45:00+00:00",
+      "updated": "2026-10-10T08:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/nec-kan-bijzondere-reeks-tegen-ajax-verder-aanscherpen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c82193c0a7f22d",
+      "title": "Koopoptie van 14 miljoen euro, maar transfer pakt desastreus uit voor deze Ajax-speler",
+      "category": "Transfers",
+      "published": "2026-10-10T08:33:30+00:00",
+      "updated": "2026-10-10T08:33:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXpiR2hSdGJqR0VEOVI5X05jdTk4eFZUNWtLS3g1bHZjVlZwQmVTN3diRXlkVVd0V3JBRC13eHZWc3B2eHVRcXk3TXF6VWJpS2pSSFJyMVJnVFJvODQteHFMRE1RQ3BTUGVEeHRtV1paa3RTX3pLaFdqQzJ5NDM1bVhBb2gyLUNpX0NxanhodVR5bGQxWHNCS1FHRFc0bUJBNmk1WlVkSFI1ektUeUdPSDNydjhUanlIVGw3dlp0MktOd3dXbU5rREczcw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ddece5f6c56e2b",
+      "title": "Ook in NEC-shirt blijft Dusan Tadic een Ajacied: 'De standaard is hier anders' - NU",
+      "category": "Overig",
+      "published": "2026-10-09T16:48:09+00:00",
+      "updated": "2026-10-10T08:18:09+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZjS3QyMWF4LXIwU2VIZXhydU1iRDNoX3Ntak1NdmpuMXBjRlQyV2VPTk9vTGM1MG41WlBWM0FTUHRZU2k4WG01cjlHVGotLVFjOUZ1SXlrQ2Q0NkFaQXZwVi1XWGxwZUJpdm5EZ0ZfQ19aQlZ6TjdHUHlNZ2hKRHRKWFI3QndOOFRZN19EZUpEQkY3SHZEUnhMcmNsSmlqb0xHM1FwbF9aVko1dl84dFF2ZEE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlUyLWt2MUQ4SzhvV3NxZXl3bHBZMjMxZkRneUp3VFM2anJhN2Q3WFlwS0k4Q05hczhZRWJXYnV3QlV5TDdncHRZaUV4T2lUenotNnFMUkdvLXl0djdkX2NPaWVveDJ6TE5qOGE5aldhU05KbUV0VnEyRklSMVdNRXpNYmJod3N3WXR5R29YRmZQOWlvSm10ZDlhR2cyZ0ZHSC1zblFyTk1EdFpCUlBoeUU3QXRJUVY0dnc?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "577017a984b8fe",
+      "title": "Johnson ging van voorbereiding met Ajax 1 naar invalbeurten bij Jong: \"Dat was best lastig voor mij\"",
+      "category": "Overig",
+      "published": "2026-10-10T07:52:15+00:00",
+      "updated": "2026-10-10T07:52:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ3lYRnl3TTRiWDJsMVk2eTZIaFJyMWZEQ2YydEc0YmFZUXdGbFlmXzlHcmRGUEwxZGV4VnZtYWkydG8yZVJMbTZNT1lCSDVraEd0RENsQ2Zqelo0RmNfWU1XODNYeHM2ajFlTmVFZS1nS3REc1d6M1MtSDlCVDZCYklneXRZQWxqaFFUSm15NkppUmZSMGQ0cjJYLVV1MWNHeEdlUVhNcXpQWDJGUDdxXzZWX3Nfd2dncVhWLW5NTTlVYmhjSHZUSmVuZk5KU0JTWDFkanF5bENxSEJycHNnVA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "29ed2e8581e1e0",
+      "title": "Míchel over mogelijke Dolberg-opvolger: 'We hebben een Italiaan, die goals maakt'",
+      "category": "Transfers",
+      "published": "2026-10-10T07:49:13+00:00",
+      "updated": "2026-10-10T07:49:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2145037/michel-baalt-van-blessures-en-gaat-in-op-bounida-bissouma-en-pugno.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9f719b5d7ff9b6",
+      "title": "García ondanks nederlaag: \"Het voornaamste doel blijft de spelers klaarstomen voor Ajax 1\"",
+      "category": "Jong Ajax",
+      "published": "2026-10-09T20:45:52+00:00",
+      "updated": "2026-10-10T07:40:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTgxV2dlSUxuR04tZFlBYVN4bVVwek4zd2J1a2JIMjI1cVFHZ0JLNWpUQUtXU2JFdTU2akYyZFlybm1TeEowbmhLUEktS1VQMDcyTHRCMDlBaGcxSzBjZHYzZ1hNMm50OElycHBUd2Mwd3FXR0l0U1FibmJfSlVzUEhzVDUyOGYyS3Y0WldpZlZ2MmlSTVlQVV9yc2hoV2RsOEQzRlBsZm1NSG9iVjIzYlVUS0pYamh1UTVUcEVVdTM4QWpzYkJuQ2M3VGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0k5Q1U0eUJDLU0zLUI3Q0ZaMS02OFZ6c0prN0pZdlBHbGRkeXM2M25kVDhHbWs5STNqVlQxRW1EXzlMZGdJczloQktfaVdXS0ZkT2tkbDBqZGlaZnJ0N1lKclZuem1vTm9QdWFhcDVaLVF1QTJpM2tjYVlrd09pODVzdDIyN1RncG84eTVwWmgwMW52QTJqU3dnWU5kZHI3bGZUTGozaG9hdThWaUNIV21tSEdNT0t4NkJuRVBXZHBCQnNqUTNiRzhXY1Jpd3k1QlhKV3BIaEs?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "4bc18df6c13d1b",
+      "title": "Personele problemen voor NEC voor duel met Ajax: 'Werken met totaal ander team'",
+      "category": "Overig",
+      "published": "2026-10-10T07:37:57+00:00",
+      "updated": "2026-10-10T07:37:57+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2145067/schreuder-mist-veel-spelers-voor-duel-met-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "912c831bab8a2d",
+      "title": "Tadic spreekt wens uit richting 'droomclub' Ajax: 'Ik wil terugkomen...'",
+      "category": "Overig",
+      "published": "2026-10-10T07:24:36+00:00",
+      "updated": "2026-10-10T07:24:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144940/dusan-tadic-wil-als-trainer-terugkeren-bij-ajax-na-emotioneel-weerzien.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "065ee431ee9f8b",
+      "title": "Ajax-huurling Konadu doorbreekt burcht van Beveren: 'Ik voel me top in België'",
+      "category": "Transfers",
+      "published": "2026-10-09T21:05:26+00:00",
+      "updated": "2026-10-10T07:13:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-huurling-konadu-doorbreekt-burcht-van-beveren-ik-voel-me-top-in-belgie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e03b44ea5ec360",
+      "title": "Vermoedelijke opstelling Ajax: tweetal kan zaterdag debuut maken",
+      "category": "Wedstrijden",
+      "published": "2026-10-10T07:01:00+00:00",
+      "updated": "2026-10-10T07:01:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2hoWnA3bFIyUXYtZ3JuZ1lITUlhQ3Q4UmlVX3hkY1dObXlUblRfZlNXY0M4VjNlVWhWWUFOeE5NdjNfZ1Q5eTB3amVqNXpEUWROcjBMOWNIZDFnUFZ4RjY4SDlHOW1LMXRNZFdJTHFrMmFzODFHWkZXVklmdV9sWkRJOWNBX1k1UnlIQllUanB6S2E2NGRxNmNscjJBdFU1d3RZMm1KcXRLcElMUGluVlBva1VDUTNx?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8993b8fa58a7d3",
+      "title": "Op deze dag spelen Ajax en FC Twente hun eerste wedstrijd in de Conference League",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T07:30:00+00:00",
+      "updated": "2026-10-10T07:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144323/wanneer-spelen-ajax-en-fc-twente-hun-eerste-wedstrijd-in-de-conference-league.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d1bc7ef987912c",
+      "title": "'Goed bewaard geheim: Farioli wilde hereniging met Ajax-middenvelder (18)'",
+      "category": "Selectie",
+      "published": "2026-10-10T06:34:52+00:00",
+      "updated": "2026-10-10T06:45:35+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2145049/farioli-wilde-ajax-middenvelder-mokio-naar-porto-halen.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQW4tTjRpbXc2OXBvYWt1cVk1R2lsbUtlQmtZZncxd0RRRTlOTnhFY3NSNDdWcllZd3lpVWtjMjdPTmowZlhEaFBmX1VwVDl6aURpV1ZQSTdNdlRBM2tVSFpKU0VDNDQxSjNBM3REaHRNTEVqM09KOTk2Vml0QnJPdGtua3d0dl9hMlJsS1BxZDlkV09HQUM1T2JldzA1MkJTMWZKZlU5YnRTQy1Ua3c0cGxLWjd1OHNj?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "7731313c3675f8",
+      "title": "Goed bewaard geheim: Francesco Farioli ging afgelopen zomer voor speler van Ajax",
+      "category": "Overig",
+      "published": "2026-10-10T06:38:00+00:00",
+      "updated": "2026-10-10T06:38:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREZwVmxrd0NMSkg2bnlWa19EeXZ2Ml9VZUV4YmxFTDFOc1pmRmhFWVZxTUtIdWpST09KMzZWRVpOa3lNdHNzVkNRQ2hFZmFtZVU3Y1JMTXhrcUtWcjVjV1NKc1FPQmt2RUVlUnFtX2VFVnJ3aGZxejMyS1FTSzR1ai1RR1JuRFNPY0xzV3I3cjF3Y3JjMUJmRGxvVmVyclZ2RDJ6aC1vMnNTYjlIcFd6bVFDQVEwRldDODhtR09LeFJYVVplMVdfTGVILTNPUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "15e2fd19308600",
+      "title": "Analyse: Tadic verkeert bij N.E.C. nog niet in Ajax-vorm",
+      "category": "Overig",
+      "published": "2026-10-10T06:22:22+00:00",
+      "updated": "2026-10-10T06:22:22+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWQyNFBrRmlteG9vSVBQRkxwRVlJT25faTlPdDNrZ3JVZERHUnZpd1l4TV9YV0dmekhMSTU2MUNEcU55blF0d0t3Sk80cE1hVmZ0cHp4SlVGX0tNU2RDb0d2bWZPMV8wV2VXSHFpWGR6eGpGRkRYa01pX2ZmdmNBUTB5ZVc0aHFHRmlaRVJoS2FWeUdYeEx4UlFEcU9SQ2NNV3B5SA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c964dfc7f590b9",
+      "title": "VI Live: Ajax krijgt bezoek van het NEC van Dick Schreuder",
+      "category": "Wedstrijden",
+      "published": "2026-10-10T05:30:00+00:00",
+      "updated": "2026-10-10T05:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-tegen-nec-in-de-eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d4d721b166e207",
+      "title": "Ongeslagen doelman gaat Europa in: 'Als we doorgaan, speel ik het liefst tegen Ajax!'",
+      "category": "Overig",
+      "published": "2026-10-10T04:48:00+00:00",
+      "updated": "2026-10-10T04:48:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjNkNGVjMTJIaHlaS1gxTFhKRHlyREl5VzRXXzdSVGxyZGlMM3loRmIxRHZTaThlUTBHQ2RiY3pwbmlqa09QN0tvS2hfblZCaUYzekQ0LVhqTGZDaHMtb25tbHFkaXVLdFFXNjZZdmpGX0ViMUFEMmdTcUNvTFh6U2pndG1zbWNPRVljYjlLMVlpZlE4TjlILU5Jb09NTlRKSUpzOEpCZFlsZVZvM0ZEaWtBeHZ0aDZ3amRwWUd6amIzbFV6ZnlvOG1pSWQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f580731e5fe160",
+      "title": "Zonder Dolberg, maar met 'vertrouwen in Leonardo' hervat Ajax de eredivisie",
+      "category": "Wedstrijden",
+      "published": "2026-10-10T04:00:02+00:00",
+      "updated": "2026-10-10T04:00:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2634375",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "1d05c25b1b1f4f",
       "title": "Jong Ajax beleeft tegen VVV-Venlo avond om snel te vergeten - Ajax",
       "category": "Jong Ajax",
       "published": "2026-10-09T19:52:00+00:00",
-      "updated": "2026-10-09T22:38:46+00:00",
+      "updated": "2026-10-10T01:55:05+00:00",
       "source_count": 4,
       "official_confirmation": true,
       "primary_source": {
@@ -45,56 +384,11 @@
       ]
     },
     {
-      "id": "d4d721b166e207",
-      "title": "Ongeslagen doelman gaat Europa in: 'Als we doorgaan, speel ik het liefst tegen Ajax!'",
-      "category": "Overig",
-      "published": "2026-10-09T21:51:00+00:00",
-      "updated": "2026-10-09T21:51:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTjNkNGVjMTJIaHlaS1gxTFhKRHlyREl5VzRXXzdSVGxyZGlMM3loRmIxRHZTaThlUTBHQ2RiY3pwbmlqa09QN0tvS2hfblZCaUYzekQ0LVhqTGZDaHMtb25tbHFkaXVLdFFXNjZZdmpGX0ViMUFEMmdTcUNvTFh6U2pndG1zbWNPRVljYjlLMVlpZlE4TjlILU5Jb09NTlRKSUpzOEpCZFlsZVZvM0ZEaWtBeHZ0aDZ3amRwWUd6amIzbFV6ZnlvOG1pSWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e03b44ea5ec360",
-      "title": "Vermoedelijke opstelling Ajax: tweetal kan zaterdag debuut maken",
-      "category": "Wedstrijden",
-      "published": "2026-10-09T21:50:00+00:00",
-      "updated": "2026-10-09T21:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2hoWnA3bFIyUXYtZ3JuZ1lITUlhQ3Q4UmlVX3hkY1dObXlUblRfZlNXY0M4VjNlVWhWWUFOeE5NdjNfZ1Q5eTB3amVqNXpEUWROcjBMOWNIZDFnUFZ4RjY4SDlHOW1LMXRNZFdJTHFrMmFzODFHWkZXVklmdV9sWkRJOWNBX1k1UnlIQllUanB6S2E2NGRxNmNscjJBdFU1d3RZMm1KcXRLcElMUGluVlBva1VDUTNx?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8195f8f5f0cc99",
-      "title": "Konadu op dreef: Ajax-huurling maakt er twee voor Lommel",
-      "category": "Transfers",
-      "published": "2026-10-09T21:05:26+00:00",
-      "updated": "2026-10-09T21:05:26+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/konadu-op-dreef-ajax-huurling-maakt-er-twee-voor-lommel",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "c54883b9335c6a",
       "title": "Konadu laat van zich horen in België: dubbelslag voor Ajax-huurling in zege",
       "category": "Wedstrijden",
       "published": "2026-10-09T20:46:46+00:00",
-      "updated": "2026-10-09T21:00:00+00:00",
+      "updated": "2026-10-09T21:02:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
@@ -111,16 +405,16 @@
       ]
     },
     {
-      "id": "9334f9add04975",
-      "title": "García ondanks nederlaag: \"Het voornaamste doel blijft de spelers klaarstomen voor Ajax 1\"",
+      "id": "3f65b7a71567a4",
+      "title": "Dusan Tadic vindt het moeilijk om met NEC tegen grote liefde Ajax te spelen: ‘Moet mezelf mentaal goed voorbereiden’",
       "category": "Overig",
-      "published": "2026-10-09T20:45:52+00:00",
-      "updated": "2026-10-09T20:45:52+00:00",
+      "published": "2026-10-09T20:00:00+00:00",
+      "updated": "2026-10-09T20:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTgxV2dlSUxuR04tZFlBYVN4bVVwek4zd2J1a2JIMjI1cVFHZ0JLNWpUQUtXU2JFdTU2akYyZFlybm1TeEowbmhLUEktS1VQMDcyTHRCMDlBaGcxSzBjZHYzZ1hNMm50OElycHBUd2Mwd3FXR0l0U1FibmJfSlVzUEhzVDUyOGYyS3Y0WldpZlZ2MmlSTVlQVV9yc2hoV2RsOEQzRlBsZm1NSG9iVjIzYlVUS0pYamh1UTVUcEVVdTM4QWpzYkJuQ2M3VGc?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU1J3Wk9iMzRnTGRwMTBrQzlmcjBYbGpjOEtqYmpDbzZfTG5nSnhkSi11RGRmb3o1VmFydXAyNTM1ZWdDal9YRXQ1c3NnVDFvTTFtVDBJMnA3dmgyQW9ZUW45LWN3THBYX284MGRZWEpucUJIQ3htLVBlNTRwMzdqNTUtOFZnYVNXXzhYREJnWk44X0cyTVB6Y3JKVGFzYmdqeXF6ZmdOSVpGSFMzcjcybUlrNURZdjVPOTJUZjVCY3lXMExFeFdrWllJRkNwaDVrVFZjeEJESmgwaEdMUDdGc3psVmU?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -156,6 +450,21 @@
       "related_sources": []
     },
     {
+      "id": "ad0e918ae183e9",
+      "title": "LIVE eredivisie | Ajax neemt het in eigen huis op tegen NEC",
+      "category": "Wedstrijden",
+      "published": "2026-10-09T19:00:00+00:00",
+      "updated": "2026-10-09T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjM1cDFBSG5uemhHdG5LMmM4cW5wZDBEZHdfNWZTLWtjUl91aUpqc3llYmIxY0k2bkpCZnotdTFRNm04YVFMbUJXZkJQRG9sR2tZUEgwUEo4cEZpTzNMSVN5SFFtV1I5bGhEVkc0NFQ3cjFLUGR4dG5UUGE5MDZLSERHQmJObHhYa1BEN29BYmRYckZTSm4zeQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "71a5397ed46094",
       "title": "'Toen ik met de trein terug naar Ajax moest, was dat met lood in de schoenen...'",
       "category": "Overig",
@@ -184,42 +493,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "3f2c706ad449a9",
-      "title": "Ajax greep naast komst Rodríguez: 'Aanbod dat het dichtst in de buurt kwam van een vertrek'",
-      "category": "Transfers",
-      "published": "2026-10-09T17:05:00+00:00",
-      "updated": "2026-10-09T17:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcFJjeUdXQnk0WTRUYUwwR2V1aEZ3Z0lxZ3BQSkNNMEZzVzVWcFQzSkh4VmxIUGZoRlg1TWxmeWgwWlJ1eU9qODV1SGplMVZTWkI5VE1GUU1BRW1GZ1lVeUxLdTc5akJlRTFSMXpkbVBKRjQ3MFlvZkxDb2xnb0JxTWswOWt5RXVETlhyVFE4ZDhmUWxKQ3ZJeUc0WHVIaVBjTjBHVzFXM0d3T0hLMlViclhQVmJjTkZ3UXliXzlJU2RUZ3p6bE9BOGpTRFZBMEVFaHdHZWNn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ddece5f6c56e2b",
-      "title": "Ook in NEC-shirt blijft Dusan Tadic een Ajacied: 'De standaard is hier anders' - NU",
-      "category": "Overig",
-      "published": "2026-10-09T15:06:45+00:00",
-      "updated": "2026-10-09T16:48:09+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZjS3QyMWF4LXIwU2VIZXhydU1iRDNoX3Ntak1NdmpuMXBjRlQyV2VPTk9vTGM1MG41WlBWM0FTUHRZU2k4WG01cjlHVGotLVFjOUZ1SXlrQ2Q0NkFaQXZwVi1XWGxwZUJpdm5EZ0ZfQ19aQlZ6TjdHUHlNZ2hKRHRKWFI3QndOOFRZN19EZUpEQkY3SHZEUnhMcmNsSmlqb0xHM1FwbF9aVko1dl84dFF2ZEE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTlUyLWt2MUQ4SzhvV3NxZXl3bHBZMjMxZkRneUp3VFM2anJhN2Q3WFlwS0k4Q05hczhZRWJXYnV3QlV5TDdncHRZaUV4T2lUenotNnFMUkdvLXl0djdkX2NPaWVveDJ6TE5qOGE5aldhU05KbUV0VnEyRklSMVdNRXpNYmJod3N3WXR5R29YRmZQOWlvSm10ZDlhR2cyZ0ZHSC1zblFyTk1EdFpCUlBoeUU3QXRJUVY0dnc?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "8891b117f6261d",
@@ -267,21 +540,6 @@
       "related_sources": []
     },
     {
-      "id": "912c831bab8a2d",
-      "title": "Tadic spreekt wens uit richting 'droomclub' Ajax: 'Ik wil terugkomen...'",
-      "category": "Overig",
-      "published": "2026-10-09T15:35:18+00:00",
-      "updated": "2026-10-09T15:35:18+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144940/dusan-tadic-wil-als-trainer-terugkeren-bij-ajax-na-emotioneel-weerzien.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "f6bc621b673d3f",
       "title": "Míchel Sánchez: ‘Adingra, Bouwman en Bissouma kunnen spelen’ - Ajax",
       "category": "Overig",
@@ -312,25 +570,19 @@
       "related_sources": []
     },
     {
-      "id": "c99eb0ad92c635",
-      "title": "Arena-directeur doorbreekt stilte over Overmars-gerucht: 'Heb ik nog spijt van...'",
+      "id": "f878efd9f2e40d",
+      "title": "Johan Cruijff ArenA krijgt voorlopig geen derde ring: 'Dat is heel duur en lastig'",
       "category": "Club",
-      "published": "2026-10-09T13:50:00+00:00",
-      "updated": "2026-10-09T14:30:00+00:00",
-      "source_count": 2,
+      "published": "2026-10-09T14:45:00+00:00",
+      "updated": "2026-10-09T14:45:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144874/tanja-dik-ontkent-overmars-gerucht-en-haalt-uit-naar-johan-derksen.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTYxT1o2elpHYTF6blRNWnppcnNJRFpjUUdNejBQVkJIYUVkWmpRQkhnakhqU3A4YWhWQWVfUXVST2IzNmZPSVUyVmRBb2RUSzhwZ1FFNnIzanl4NGUtY1JDRUpIUElFaWtVd1BtOEllb3RkdjVhLTFmVnl6cFdwY3Z4YTU5WlFaakRIdGRnNFpTMGJka0dDcEtzUHlOOFVkM2F3SGF1QS1acm9KNmoySVFSdGZPS3hhc1FqYzRrX0UzVjJMR0pvbEx3?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTjREX0xIcVptdTh3cl9iX2hqN01hQmFlTkNCWWJsOU15WWoxMGV0QlRPZ3pqQWJXQlFRREtCeDhhem1PR2g3RXg4NFRBRk5yOWNqWjNyVnB6RDd5MkRGVTdPVHMzTk4waUZhc0pXRjB6NlhrcFAwM0VITkRDS3BWX1FGcjBVNXZST214WHZHM0dLSkpDaWhSZUxaRWhvdGQ3UjlJcEhNM3huX3FuQjB2ei1jNlFRQjlsWC1Wa01CalFadk05UE5tSFA4ellHN0p6Q1hJLWJSYjhoZw?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "260d295c46ba4d",
@@ -343,6 +595,21 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2144887/ajax-keeper-marc-ter-stegen-is-veel-te-goed-voor-de-eredivisie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ab4e664de1eb3c",
+      "title": "Arena-directeur doorbreekt stilte over Overmars-gerucht: 'Heb ik nog spijt van...'",
+      "category": "Club",
+      "published": "2026-10-09T13:50:00+00:00",
+      "updated": "2026-10-09T13:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144874/tanja-dik-ontkent-overmars-gerucht-en-haalt-uit-naar-johan-derksen.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -363,21 +630,6 @@
       "related_sources": []
     },
     {
-      "id": "02deb05b9a5f4d",
-      "title": "Míchel komt met duidelijke boodschap voor Ajax richting NEC",
-      "category": "Overig",
-      "published": "2026-10-09T13:30:00+00:00",
-      "updated": "2026-10-09T13:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFR4ZzJqOXM3ZHJXVTRkOWItTWZCZ0NLcXRNX1g1X1ZJZWRDY1hwT280REJjNFdJSy1HU0JDc3RQQ2h4UVBuYUNOZlhQY1ZiU0ZvWHQ1WDJUbmtTOTgzZjI5a2NEcG40OVlOWWU4eHdRWThhVUFZbHRlMkJEdXlOM3VZSzVZOHJZZnRCUmx6eWluci1PYkFLQmtmRU9WTzlfdzJGbnJ4TjM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "a0a4d0044e50db",
       "title": "Ajax nog niet op volle oorlogssterkte tegen N.E.C., Adingra en Bissouma wel beschikbaar",
       "category": "Overig",
@@ -393,297 +645,17 @@
       "related_sources": []
     },
     {
-      "id": "55841c5130e4d8",
+      "id": "7202c47b264c64",
       "title": "Míchel gaat in op blessures Ajax en deelt goed nieuws over Adingra",
       "category": "Blessures",
-      "published": "2026-10-08T05:30:51+00:00",
+      "published": "2026-10-09T12:56:43+00:00",
       "updated": "2026-10-09T12:56:43+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/michel-gaat-in-op-blessures-ajax-en-deelt-goed-nieuws-over-adingra",
         "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRngwN0gzSzg5elowUEExOWxyRElmZm1vOWJCX1RrZjRxSmhRc0lFVGs4MnpxTlFEV1hnMzkwOVBLcWVHby1hOWhKbnF1T1dacEVsMVYzTEJGQnpLd3ZPalpVQUNrR2V2a3pjVDBJUllJOGVhckI1UGlxYTZNU2E5Q1E1c2J2S0pOa0JpSnRMaEJJbDZuUktfYVdIWUgwTGNKWDBPVUtvMlJ2bVAwMHlOTVVpV1hocUcxRXlr?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "2b63a85245d4b2",
-      "title": "Groot nieuws over Ajax-aanwinsten Adingra en Bissouma",
-      "category": "Transfers",
-      "published": "2026-10-09T12:37:28+00:00",
-      "updated": "2026-10-09T12:37:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmxJN1pyTTdIM0tXNW1IVmdhWDFvd0ZxZjFYV3ZnR19iOGhNak5Yc3hMZWF2VkVweHNhTjN6alhZMGJxNElwS24wS2N4bHJQZV9lM2M0RGMzRHJIQzEtVUFqRGU0ZFFqMy1weERrakZyWC0zaGxYNDNWR3BoNFhGc2tBVGczalVVTEV2WEd5UHItaEtqdnRKNFd1cjhYOWYzQTJ0bm42djlVLUFoMzUxdFlYcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d09539c00030d0",
-      "title": "Peperdure Ajax-aankoop van Jordi Cruijff moet nú direct gaan leveren",
-      "category": "Transfers",
-      "published": "2026-10-09T10:52:00+00:00",
-      "updated": "2026-10-09T10:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTl9FZFhKbV9ZQ21ReVA0MGNSOWNYWkg4aUxHQzA0OFJ0T0E2NW1iRDE4VThjQlZnai1lRS1YdFpxMGRuTm1XM1g5WUlTSFdvd28tOGdLNUtVRkJuakZEeDczbWxhamROOEtfbDFwNEN6VW83WnlfQUhuRjNaR1BxQ2txQ05PSEJOYlpWXzEzODNKOGpESzh1ZDJfMHAyQ0dMeDFzazZzMTk5TzNVTl84aVJKVVc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7656bf8253a4e5",
-      "title": "Schreuder gaat tegen Ajax voor vier op een rij: 'Voor ons een heel grote uitdaging'",
-      "category": "Overig",
-      "published": "2026-10-09T10:25:00+00:00",
-      "updated": "2026-10-09T10:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUVxVzhQZ3QtalhlX2g1dW1IYjdSUnZkY3l4NWRZYjlYNWV6OGJBUEVnWHFtRnUwWFBISG82RG95LXJ2UTFibTFucm1tU3NqRVJwQUhVSXVUZVBxX1VjOTBUd2RtbFJZX09rSFdieEoxLUp1TEo4akFYTzlQVmk0bzA3SXlVVnZNSTV2aFc5S1J0XzJJS2U5cjJlZVVtQlVmcmxpUjQyN0xiS2xldm1vZmZsME1wNkxEd1J5eU1pTmw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "63150c666275ee",
-      "title": "'Ajax is een ander Ajax dan vorig seizoen, het wordt een heel grote uitdaging'",
-      "category": "Blessures",
-      "published": "2026-10-09T10:14:45+00:00",
-      "updated": "2026-10-09T10:14:45+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144782/dick-schreuder-blikt-vooruit-op-ajax-nec.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f23751e77ba671",
-      "title": "Schreuder beseft dat nieuwe stunt bij 'totaal ander Ajax' een flinke opgave wordt",
-      "category": "Overig",
-      "published": "2026-10-09T10:08:00+00:00",
-      "updated": "2026-10-09T10:08:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/schreuder-beseft-dat-herhaling-bij-totaal-ander-ajax-een-flinke-opgave-wordt",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5eb98e7d3fecff",
-      "title": "Dick Schreuder vertelt heel eerlijk hoe hij naar Ajax kijkt: 'Dit Ajax is...'",
-      "category": "Overig",
-      "published": "2026-10-09T09:55:00+00:00",
-      "updated": "2026-10-09T09:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2I4SlhVVVNmMUlKdVFWU1JkYWFvZWFFd29XYnVLaWV1VlVpNGYtNVRIaGNEM1hmRHdyTmlkRHQyQ1luRkdIbV9xS3h2VldiRWpkNW5vYjctR1R0bjlLQzRsaU9ySERPSXRCeFgxZkluZUxUbU1KdXR6U19Ya09RNC1fVkhUYmF6ZGJTWWxkcjlldUZzLWJpUGg4X3JFQWhBWkpoZHF0TzlZZTd3M1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a7a6762f28c58e",
-      "title": "Ajax en Barcelona eren Cruijff met iconenduel op debuutdag",
-      "category": "Selectie",
-      "published": "2026-10-09T08:00:07+00:00",
-      "updated": "2026-10-09T09:50:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-en-barcelona-eren-cruijff-met-iconenduel-op-debuutdag",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "AT5",
-          "url": "https://www.at5.nl/artikelen/240342/ajax-en-fc-barcelona-eren-cruijff-met-iconenduel-op-debuutdag-van-legende",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "d5ad26fb2b13ce",
-      "title": "Ajax en Barcelona komen met bijzonder eerbetoon aan Johan Cruijff",
-      "category": "Overig",
-      "published": "2026-10-09T08:44:11+00:00",
-      "updated": "2026-10-09T08:44:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdW5wWnpaX2N2VkdsaDVoN2hDaGYzOHpUT2hqMWtkLTAzMlJudm9qb3BuMklZMkxtU0lsVzZ2M05Gb0RtX0U1bGRnM0tUZmpzd2xBZmkyTFRUVkNkNFJMMXBpZFNWY29wWkEybWhMV3lhdzRZNmZUdWlHOEEwSm5UNHowZWtqdUoycVB0OWM1cW1jWFBFTkdVLVJtNVkybXJxUHc3aHItc3BJWnNXazlRaA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1aa4190d81e916",
-      "title": "Ajax haalt clubiconen terug naar ArenA voor bijzondere wedstrijd tegen Barcelona",
-      "category": "Wedstrijden",
-      "published": "2026-10-09T08:32:13+00:00",
-      "updated": "2026-10-09T08:32:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144713/ajax-kondigt-duel-met-barcelona-aan-tere-ere-van-cruijff.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f1cdb4bc845d4e",
-      "title": "Van Polen stond tegenover 'monster' bij Ajax: 'Wist zelf niet hoe goed hij was'",
-      "category": "Overig",
-      "published": "2026-10-09T08:27:13+00:00",
-      "updated": "2026-10-09T08:27:13+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144659/van-polen-lovend-over-kudus-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7cf1e10b924310",
-      "title": "Rondom Ajax: Oud-AZ-keeper Beau Reus: ‘Ik zou het liefst tegen Ajax spelen’",
-      "category": "Selectie",
-      "published": "2026-10-09T08:22:37+00:00",
-      "updated": "2026-10-09T08:22:37+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMGM2REM1c3labkNpb3hHRFVkdnpYYmF3ZE1aVFo2VnJYaGRRQk1YOVQ0UDNGUnozdlk2Zm1YRHdZMEMzVWRGMWplTXpMVnFSbklteTlFZ2ozOWs0RnBNbG5UQV82YWJfa0RPQ2pSbUtQNmNSRWJ4ZEtyVFZtOXI1THE4cnBOWUtVYk91U09aXzdMNzhrZzAyNGhRbTIxU2h5R3E0WXBKeS1EUHBFd0lmZU00T01XV1h0d0E2My1qQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fdaace86504c72",
-      "title": "Ajax en FC Barcelona eren Johan Cruijff met Legacy Match in de Arena",
-      "category": "Club",
-      "published": "2026-10-09T07:45:00+00:00",
-      "updated": "2026-10-09T08:17:07+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHIwNktENUJoX0pHMHVpdnZpYkZJam43VWotRl9vdEZXT25fUkIweU1UX095OWpOUHJBa1BpaGZyUFlHLUtLd0MtVXNzbEE0dWlxb2ZFTFdMWW45WVNveVBuZjRieDJad0V1RFlJV2c1enBtMTFIdXhEb0dHWE51ZExVVEE4LS00RExWeFlkZTVFdHNCZW1xT3FEX0U3NWs3U2Y4M0huNTZXdk82ODBuM2ttY1c3NWNvWHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS0hmUFNNeGM4Sm1zYWFGcVI3S2E0QXhtcERWSTNidEVnSEE5d2FMVU1SWnRLakdRVUxoUXdvdkduMGtKbFA3U0lHSGlyYTJDVHZvUWEzNHlGLWhMaEllOFY2bjBhRGJCUDlyQy1SQlZpR00yUzZ4c1lqNUpjVFZ4UTVoWW1JZEtkYXNsYktBdXZmWG4yZHRKTndheG93d19wY21EcE1lMGdRQmo5OFIxdFd1S0RSdlU?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFQzSXNldlN2by1ITlZRdnp5ZENFN2RVVUdNQTBOZTZrUThBOXRTMzRXaE5mdzNfbTBHTVk1Sy1ILTZXY3Bvb0VDaUwwOXc4d1ZSWUY3YXNuRzVVQ0tweFZOSUVpZHNaellwZENqOEhMaEJfR1VKLXdNbDZvU3pDQUtpc29wdnd5RlQ2eGlhZk5DQm1MM2o1RHBFR1JFVlB6aEEtSkN0R0k0RVNVT25aZXpkU0xJdWxHNy0xd0I3MlpleFNSci0tc2ttaFlKWlhVR2lETmlfaGFXaDA?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "9731e0e3797a5c",
-      "title": "Legends Ajax en FC Barcelona eren Johan Cruijff met wedstrijd in Amsterdam - NU",
-      "category": "Wedstrijden",
-      "published": "2026-10-09T07:14:11+00:00",
-      "updated": "2026-10-09T08:03:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb25XckZjS0M0cFdkaGpfUHB6cEpmcXJieGVjZFZVS2NVZ05hRUdxVnJTZnd5SE9rcS15TGNrdlB0YWJvT3oxWGFFQ2VySUszMXhVenNnMVBPVmRwM05sTHlZbFVoMjJjU0h3dGJrVlBudnliNW41VkJKUVlmRDVPR2k4Z2RvU2tnM25fRU1JNXdyekFBMXVpTUViM2dNMUl2d2p2Sl9HQTctWVd3ZHhsWGxHWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRl9ETjkyNEhudWdPY2RxM0NqVWpPOGt6cWFrbm9WRUgxNVU5NF9SbWE4ZnBRT0lueWJmNnl2YThHNVY5RTh4Mzl0RGpYcVcyTm9wRkZocXRKQWpFZzZtZkU0elNDdUJWSk4tS1FtSHNkTlg4Y3pSbDBrT3RSd0ZxMkd0RHVZOG5RYnN6OWtaM05WdGNhV1B4SGQ0T0dRXzdyV1Y0bnFiMkI2SUsxWUlFZ0M5cUNsdTZ6?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/56059/Ajax-kondigt-Legends-wedstrijd-aan-ter-ere-van-Cruijff",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "c01542c45bd924",
-      "title": "Opta voorspelt winnaar van Conference League en berekent kansen Ajax en FC Twente",
-      "category": "Wedstrijden",
-      "published": "2026-10-09T07:30:00+00:00",
-      "updated": "2026-10-09T07:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144346/opta-voorspelt-conference-league-winnaar-en-berekent-kansen-ajax-en-fc-twente.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bde6fd6aaefcb8",
-      "title": "Geelen trots op specifieke Ajax-aanpassing: 'Daar heb ik hard voor gevochten'",
-      "category": "Club",
-      "published": "2026-10-08T19:30:00+00:00",
-      "updated": "2026-10-09T05:02:48+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144667/geelen-trots-op-specifieke-ajax-aanpassing-daar-heb-ik-hard-voor-gevochten.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVFCb3NLZ2p6M0dtZHF1eUlkOVZJZ21DWTJLa3NLZm16TVJmQnQ5ekdGRzRmLXlDM1hxVGt1NW45RlBtclhleFQ1b2tRUHZsUFd1Q2JFQXVtWXYwVmJMbElFMXlzbHBpbU5JZTRxMTlmbEZBc0VMb1pHYVBtZlRtT0k0X0JzazhrTXNFNThxYjBPbVBwS3FDX0E0MWRiOVlQWUZGTGF1M1lvQkZZYS11em15Y0k3dHJMMl9NNlJ1NHNSWmxiQ04xX1lna0o?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "11dce1f64352bc",
-      "title": "Ajacieden in Feyenoordshirt",
-      "category": "Overig",
-      "published": "2026-10-08T21:23:55+00:00",
-      "updated": "2026-10-08T21:23:55+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzRnbkZyYllDSEQzOW51M25jbmU0bzFGcUVWcndmM0FsdFAyMmZiVFVaWXZudlhEd2pOTy1DUE5XOTBpbGxhNFJKcWk2UHdQdDE3aXVaMEFzWl9ISk01QzByVkdXdUtSeFZsSy1reC04R081cXotYTJxVlJfeXZ4Szk1aXlkS3JMWG40ZA?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
