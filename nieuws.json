@@ -1,29 +1,29 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T23:34:35.650965+00:00",
+    "generated_at": "2026-10-10T02:48:08.503024+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 81,
+    "article_count": 80,
     "event_count": 40,
-    "discovered_event_count": 68,
+    "discovered_event_count": 65,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 53,
-    "excluded_video_only_count": 11,
+    "excluded_paywall_count": 48,
+    "excluded_video_only_count": 13,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "c654afca1a2eb6",
+      "id": "1d05c25b1b1f4f",
       "title": "Jong Ajax beleeft tegen VVV-Venlo avond om snel te vergeten - Ajax",
       "category": "Jong Ajax",
-      "published": "2026-10-09T20:19:35+00:00",
-      "updated": "2026-10-09T22:04:39+00:00",
-      "source_count": 3,
+      "published": "2026-10-09T19:52:00+00:00",
+      "updated": "2026-10-09T22:38:46+00:00",
+      "source_count": 4,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEFiQkpQSFBBU0ZzNHZ6cVN1SUNjWnBhMXRkQmJTTE9UTWk1cmY2VUo5TWZwT1Z4eVpRTnBQR0RxRDN0b08yRUFILUF4SmpjeGxoUmRzUDZZZzJpam1iVE16RUNxUXNUOS1iV2Y5YlBSYVJuS2ZPS1dkMTNXV3RRWHl2MVlMcGJuTU9VQjFQa0VwcWxz?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUpmdWp1WlNTTzFpVllYR19LMGswcG53RVVsdjFoOFhWSkVJN2pmVHpiOTdWcG1CeEQ1RWY1aXZhRWJZbnJsWVNtNzdYbE0zeFB3dGJIdDdwWUJETndpUm90c3dUOTExRko5MmNHLTk4cnRBQUJoMERPeUJzT09VWnRvMkJPek8xREZFc2xuT1FIZ1k?oc=5",
         "via_google_news": true
       },
       "related_sources": [
@@ -36,6 +36,11 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRjBrbnRzZnJGb0NQcDJkTk9TaHo5OGJ6akdyazFyXzVnZTQ5WjBxMzlmVmp1Wi02VFMycnVVN2pCYlVrMVJ5aWFTZXJSaEZUTS1wOFRQdzEzVFZzNFhIR1BiajdzOXB5REJYWmNzb3NWVkxBbW9OOFlSUklZZjZRTlMzSTZlNFlDV2hySnMtZW92RXNHa19aUEVjMm94cFl0RTdkZjZ5RFhKRm5nemtrdngxZkZibU84Mk4zSU1RV0steXN6U1hqaVEyaEliS0M1cHNIN21GQ1B0Mng1eEE?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56061/Jong-Ajax-hard-onderuit-tegen-VVV-Venlo",
+          "via_google_news": false
         }
       ]
     },
@@ -116,21 +121,6 @@
       "primary_source": {
         "name": "ESPN",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTgxV2dlSUxuR04tZFlBYVN4bVVwek4zd2J1a2JIMjI1cVFHZ0JLNWpUQUtXU2JFdTU2akYyZFlybm1TeEowbmhLUEktS1VQMDcyTHRCMDlBaGcxSzBjZHYzZ1hNMm50OElycHBUd2Mwd3FXR0l0U1FibmJfSlVzUEhzVDUyOGYyS3Y0WldpZlZ2MmlSTVlQVV9yc2hoV2RsOEQzRlBsZm1NSG9iVjIzYlVUS0pYamh1UTVUcEVVdTM4QWpzYkJuQ2M3VGc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7632bbc389a4bc",
-      "title": "Programma, stand en topscorers eredivisie | PSV komt op gelijke hoogte met AZ, dit zijn de verschillen met Feyenoord en Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-10-09T20:16:23+00:00",
-      "updated": "2026-10-09T20:16:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNE5KM24wTV95Qlg4dzhlNGtNeU84UlBlQU40eU1sNUVpOEwzXzljZDJkMS1Ea3lpdjJMOGJXdjFfeTJpT1Y2TGU4MXQwRS1ndHdVMXRaUURtREt1U3NaaFQwTHdLbWVRWldvQnpXNkJfQkxsbkhRVWpINDFjRDNIX0RvUkMzbmV6RXgyOXhBM3BwSHJDUXU3OHFjMnFxUkNNTU9DaXdtMGo1MmI1R3pJa3k5cFFPRjIyR2RSQU9yQmdzVHVtVEQ4ZmxpLW0ybDhiOTFYWG9Ba1J2QnltUHB6eEVYYWR1cXpEUmZ0RA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -322,6 +312,27 @@
       "related_sources": []
     },
     {
+      "id": "c99eb0ad92c635",
+      "title": "Arena-directeur doorbreekt stilte over Overmars-gerucht: 'Heb ik nog spijt van...'",
+      "category": "Club",
+      "published": "2026-10-09T13:50:00+00:00",
+      "updated": "2026-10-09T14:30:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2144874/tanja-dik-ontkent-overmars-gerucht-en-haalt-uit-naar-johan-derksen.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTjREX0xIcVptdTh3cl9iX2hqN01hQmFlTkNCWWJsOU15WWoxMGV0QlRPZ3pqQWJXQlFRREtCeDhhem1PR2g3RXg4NFRBRk5yOWNqWjNyVnB6RDd5MkRGVTdPVHMzTk4waUZhc0pXRjB6NlhrcFAwM0VITkRDS3BWX1FGcjBVNXZST214WHZHM0dLSkpDaWhSZUxaRWhvdGQ3UjlJcEhNM3huX3FuQjB2ei1jNlFRQjlsWC1Wa01CalFadk05UE5tSFA4ellHN0p6Q1hJLWJSYjhoZw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "260d295c46ba4d",
       "title": "'Ajax-keeper Marc ter Stegen is eigenlijk veel te goed voor de Eredivisie'",
       "category": "Selectie",
@@ -337,21 +348,6 @@
       "related_sources": []
     },
     {
-      "id": "ab4e664de1eb3c",
-      "title": "Arena-directeur doorbreekt stilte over Overmars-gerucht: 'Heb ik nog spijt van...'",
-      "category": "Club",
-      "published": "2026-10-09T13:50:00+00:00",
-      "updated": "2026-10-09T13:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2144874/tanja-dik-ontkent-overmars-gerucht-en-haalt-uit-naar-johan-derksen.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "88ee78ecd94fc3",
       "title": "Ajax-nieuwkomers maken mogelijk debuut tegen NEC, backs en routiniers uit de roulatie",
       "category": "Selectie",
@@ -362,6 +358,21 @@
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYTFyYlhlY1VGbTF4Z0p2VVlPRnBUUTlfNS1fbkVHMnhMdGJTZTNCeVdxVy1HS2tvaVliSE52dUFwQml3TEhzS1hvZmpLU0dVdXVhaVctQjBacWYzNmpORDl0T3lHc3VUQ1RDZ2pNNjF5em93eVlOYmRtOWdMT0l0RHd5cEpLUEluSXBEdnotNHp4ZEhseDl6ZDdPSFJRbUs4WkRCZUZzeEJUXy0yUzFZWVc1YWpEMTAwVVM4UA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "02deb05b9a5f4d",
+      "title": "Míchel komt met duidelijke boodschap voor Ajax richting NEC",
+      "category": "Overig",
+      "published": "2026-10-09T13:30:00+00:00",
+      "updated": "2026-10-09T13:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUFR4ZzJqOXM3ZHJXVTRkOWItTWZCZ0NLcXRNX1g1X1ZJZWRDY1hwT280REJjNFdJSy1HU0JDc3RQQ2h4UVBuYUNOZlhQY1ZiU0ZvWHQ1WDJUbmtTOTgzZjI5a2NEcG40OVlOWWU4eHdRWThhVUFZbHRlMkJEdXlOM3VZSzVZOHJZZnRCUmx6eWluci1PYkFLQmtmRU9WTzlfdzJGbnJ4TjM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -662,16 +673,16 @@
       ]
     },
     {
-      "id": "fd584889aaf9d5",
-      "title": "Míchel staat voor veel dilemma's: wat wordt Ajax' opstelling tegen NEC?",
-      "category": "Wedstrijden",
-      "published": "2026-10-09T05:00:00+00:00",
-      "updated": "2026-10-09T05:00:00+00:00",
+      "id": "11dce1f64352bc",
+      "title": "Ajacieden in Feyenoordshirt",
+      "category": "Overig",
+      "published": "2026-10-08T21:23:55+00:00",
+      "updated": "2026-10-08T21:23:55+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQem1DckNWczFyWkxoU3ZTVzZHVEdQQ3YtWUI4Y2dTUi16RkpmLVlPSXpnSmdMRXhwMWxtNWJmYktEN2FoR2lqY3lBUUd2X1IzNnFNR3QxbGttb204N19td3JTZkI2dEhTZkpsUGpXZmZROHZ4UE1lV283eFlfU3o3dDdWdHVXbmNVbUNxYjNJRl9zR0lXVVdleG8tUkpXcHh5UXJVM0hRUVA0WFJj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzRnbkZyYllDSEQzOW51M25jbmU0bzFGcUVWcndmM0FsdFAyMmZiVFVaWXZudlhEd2pOTy1DUE5XOTBpbGxhNFJKcWk2UHdQdDE3aXVaMEFzWl9ISk01QzByVkdXdUtSeFZsSy1reC04R081cXotYTJxVlJfeXZ4Szk1aXlkS3JMWG40ZA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
