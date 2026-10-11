@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T23:37:52.440246+00:00",
+    "generated_at": "2026-10-11T02:14:34.211569+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 113,
+    "article_count": 115,
     "event_count": 40,
-    "discovered_event_count": 86,
+    "discovered_event_count": 88,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 103,
-    "excluded_video_only_count": 16,
+    "excluded_video_only_count": 15,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8a9febdb8fccbc",
+      "title": "Ajax 1-1 N.E.C. (10 okt., 2026) Uitslag",
+      "category": "Wedstrijden",
+      "published": "2026-10-11T01:06:46+00:00",
+      "updated": "2026-10-11T01:06:46+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rR3F1cWsxM0IzTXBXRWFKNTROMzd4YTNReEVBVW1aU2hhXzQtcWVOYjI0Y1ZMdzdySXpmVldOZXg1MXM0M05YUWRvZ01saHNUYm1fcGVCb1B0cDNQb3BkYjVJdE43bkRJQ1NxNldn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "c654afca1a2eb6",
       "title": "Ajax - N.E.C.: Live verslag | 10 oktober 2026",
@@ -40,6 +55,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2145334/tolu-steekt-dolberg-hart-onder-de-riem-na-zware-blessure.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ce901cf5910241",
+      "title": "Emotionele Dusan Tadic haalt hard uit na Ajax - NEC: ‘Dit is heel treurig’",
+      "category": "Transfers",
+      "published": "2026-10-10T22:04:00+00:00",
+      "updated": "2026-10-10T22:04:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSklQSUNDX0ZGWWZtZVI0Q3lSNkluWHhkMUg5dFZuNjhHWFhSXzFoYVpWSDRDVE1nbW1hVjlDNHA3aklKWXNKZXFKWU5QeDl0Q25BSUNhZW5SZGstc2ZBTUowRHl4dHJHQ0dSQk01VjdXSFNPU0dkNkdOVmF5eHgydlNfQ3RJSU1scGVJT0ZqMS1VOGctNWw2bEphV2xDdncxRzdFRGhqMmpxN2FSR0o2WGpOSjQyUGQ1dnhZN1BELTkxUTlf?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -145,6 +175,21 @@
       "related_sources": []
     },
     {
+      "id": "7079423eede589",
+      "title": "NB: 'Dit is kampioensonwaardig van Ajax, op deze manier ga je geen rol spelen in titelstrijd'",
+      "category": "Overig",
+      "published": "2026-10-10T21:40:00+00:00",
+      "updated": "2026-10-10T21:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWjg0MU9vclhOMjhqRzBPM1RPbUdSOUxCR1dMcUZZTmM3T0tRQmw2d083ZWdWcFFKQ1lzR29LUmhMalRyRWRoVDFMRGR2T0oxbkJYU3BJZVZJWE1RYnlQUVJyMWV6MFpfSTliajVoMm1YRHJOcFBMVGpGMm41T1AzNTcyQmh2VEw2ajA4ZFVmcUs2Y1A5TGczdHlPYzd5Sll3b3hLUjYyZkt0cE8wNmJyM2JPZ3pUMnBTOThSS0pBcmdJQ2ZZdGIwWlpOM1RZNDFKRFlDOHRSSQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "3b70f6ee42929f",
       "title": "Schreuder na gelijkspel in de Johan Cruijff ArenA: \"Ik ben tevreden\"",
       "category": "Wedstrijden",
@@ -227,8 +272,8 @@
     },
     {
       "id": "b7bbbfcffe05de",
-      "title": "'Je zit de hele wedstrijd naar die grote aankopen te kijken bij Ajax, maar hij heeft veel meer kwaliteit'",
-      "category": "Wedstrijden",
+      "title": "'Deze jongen heeft veel meer kwaliteit dan al die grote aankopen bij Ajax'",
+      "category": "Overig",
       "published": "2026-10-10T21:14:00+00:00",
       "updated": "2026-10-10T21:14:00+00:00",
       "source_count": 1,
@@ -252,6 +297,21 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdkxBUUY2ODd0bnBBbkFlUnBZc1B3SU1sbTR0R2hBellFd3RCcjhmbUhOc0M4QzBUZ2c3WWFIZnA0NHI4RHZxQjZwTDg1WFNRVVhuaFhRVlNQZVJ2bGRBbDNvLTdZeWd0TWVvaEdzQUZZNzJsdms4eF9CLVQta2Z2VmM4dEgwNl9ZbERXM2JNWDA2Qkp5MGNRQVJPaw?oc=5",
         "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "25d967589ea02b",
+      "title": "Ajax weet zesde keer op rij niet te winnen van NEC",
+      "category": "Wedstrijden",
+      "published": "2026-10-10T21:00:25+00:00",
+      "updated": "2026-10-10T21:00:25+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56062/Ajax-weet-zesde-keer-op-rij-niet-te-winnen-van-NEC",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -416,36 +476,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHVWUlk3Tjh0UzlEcDJybTBmRDNOcEM4Nk52dElpelViU0NVY0RYUjAwUGU3SjZtYW5fT1lRVWxxQXEtNXlIaGkyNHQyMnlIcllWclF0OVN3TGJWd1hHSmVpeHZzZy1YbUF6NTh0clNERWp1cU5vek9vanJfM1NnUzZBb2NaX1Azb1hZUU11WHNpMldpNVA2RjNEUWNwdXlXUFRhYWdoOUhmMFZ6NUZV?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8a9febdb8fccbc",
-      "title": "Ajax - N.E.C. (10 okt., 2026) Live tussenstand",
-      "category": "Wedstrijden",
-      "published": "2026-10-10T19:21:12+00:00",
-      "updated": "2026-10-10T19:21:12+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rR3F1cWsxM0IzTXBXRWFKNTROMzd4YTNReEVBVW1aU2hhXzQtcWVOYjI0Y1ZMdzdySXpmVldOZXg1MXM0M05YUWRvZ01saHNUYm1fcGVCb1B0cDNQb3BkYjVJdE43bkRJQ1NxNldn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8f023328e9ca3a",
-      "title": "Ajax - N.E.C. (10 okt., 2026) team statistieken",
-      "category": "Overig",
-      "published": "2026-10-10T19:06:46+00:00",
-      "updated": "2026-10-10T19:06:46+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEpJbWtiR3ptbDItRlMzcE5tekR4SXVXMUQ3c2FLdUUtSjZSTGFXV1k2X18tempMWmJEbzJleUExX1RWT1B4cWpuOUx3YVVsZzhBNlROMDhiRG11ZVJidmUwbVBPRnNMOGF4aXU2MXVhUlo0RUV1Vy1kaHJuaVlhZjVfdWdrcG9mcS05TFgxWQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -623,47 +653,17 @@
       "related_sources": []
     },
     {
-      "id": "fb9b1d556f0854",
-      "title": "Derbyzege Excelsior met hulp van coach Jong Ajax • Afwerktraining Valburg betaalt zich uit",
-      "category": "Jong Ajax",
-      "published": "2026-10-10T16:25:00+00:00",
-      "updated": "2026-10-10T16:25:00+00:00",
+      "id": "8f023328e9ca3a",
+      "title": "Ajax 1-1 N.E.C. (10 okt., 2026) team statistieken",
+      "category": "Overig",
+      "published": "2026-10-10T16:31:35+00:00",
+      "updated": "2026-10-10T16:31:35+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDVsUlNiY0FDMi1ocnlNSlBqLVJpMlV3UGR4R2luTHZJbTF2Z1d5VWFJUTQ3RnJvVlJRTDdKTnZFNDJvYjFHMjR2ZHEtd0lhWHJ4aC12MmI4NzFaY21ZZ29JemJsNkZCX2tUVnRteDkwaW1pa1VoV3Y5NnBBcGlnMjl6M2NiSmJ4cHlZS2RsY3pOQW9vWGl2dThzbmJlTnMtbUtMOVVteFJVQ0lLbk1uOHYyV3JiYVRwdGxoeFpxeWN4YTNWbWc?oc=5",
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEpJbWtiR3ptbDItRlMzcE5tekR4SXVXMUQ3c2FLdUUtSjZSTGFXV1k2X18tempMWmJEbzJleUExX1RWT1B4cWpuOUx3YVVsZzhBNlROMDhiRG11ZVJidmUwbVBPRnNMOGF4aXU2MXVhUlo0RUV1Vy1kaHJuaVlhZjVfdWdrcG9mcS05TFgxWQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e03b44ea5ec360",
-      "title": "Vermoedelijke opstelling Ajax: tweetal kan zaterdag debuut maken",
-      "category": "Wedstrijden",
-      "published": "2026-10-10T14:03:00+00:00",
-      "updated": "2026-10-10T14:03:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2hoWnA3bFIyUXYtZ3JuZ1lITUlhQ3Q4UmlVX3hkY1dObXlUblRfZlNXY0M4VjNlVWhWWUFOeE5NdjNfZ1Q5eTB3amVqNXpEUWROcjBMOWNIZDFnUFZ4RjY4SDlHOW1LMXRNZFdJTHFrMmFzODFHWkZXVklmdV9sWkRJOWNBX1k1UnlIQllUanB6S2E2NGRxNmNscjJBdFU1d3RZMm1KcXRLcElMUGluVlBva1VDUTNx?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6b51687781c932",
-      "title": "Rolstoelgebonden Martijn kan vanavond tóch naar Ajax na oproep",
-      "category": "Club",
-      "published": "2026-10-10T13:20:00+00:00",
-      "updated": "2026-10-10T13:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/240374/rolstoelgebonden-martijn-kan-vanavond-toch-naar-ajax-na-oproep",
-        "via_google_news": false
       },
       "related_sources": []
     }
