@@ -1,29 +1,149 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T17:09:55.273617+00:00",
+    "generated_at": "2026-10-13T21:52:51.679526+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 86,
+    "article_count": 77,
     "event_count": 40,
-    "discovered_event_count": 78,
+    "discovered_event_count": 72,
     "source_count": 9,
     "feed_error_count": 0,
-    "excluded_paywall_count": 107,
-    "excluded_video_only_count": 53,
+    "excluded_paywall_count": 106,
+    "excluded_video_only_count": 48,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "2be14797e70076",
+      "title": "'Grote politiemacht arresteert groep gewapende Ajax-supporters in Split'",
+      "category": "Club",
+      "published": "2026-10-13T20:32:09+00:00",
+      "updated": "2026-10-13T20:32:09+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146488/kroatische-politie-grijpt-in-18-ajax-fans-gearresteerd-met-wapens.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "8192ea6e1ca081",
       "title": "AFC Ajax en FC Barcelona eren Johan Cruijff met Legacy Match in de Johan Cruijff ArenA - Ajax",
       "category": "Club",
-      "published": "2026-10-13T16:22:32+00:00",
-      "updated": "2026-10-13T16:22:32+00:00",
+      "published": "2026-10-13T19:25:45+00:00",
+      "updated": "2026-10-13T19:25:45+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXhwVkUyMnExZEVxT2dOTUtkMjVQSi1VZlhIaDNpTkp6VTVmWVJ5SS1QaHVMMW4zSElNdzduNmJoam1xaDRLX2FkXzhCdDhzQ2VHV0NDMGd2blJUZ0Fxck45QkJKWFBKYzZaWFZfeXhSV1lDTlo1X1h4em5odWIxdzlHVlNVdWRWQ3E4Q1Q5NHMybUxVNy1ld2tPeGhfMTdUZUhpWHVPcFFmaHNBOUs0VDJGWlRZUkk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0ad43e898f69af",
+      "title": "Dit is het speelschema van Ajax en FC Twente in de Conference League",
+      "category": "Wedstrijden",
+      "published": "2026-10-13T19:08:24+00:00",
+      "updated": "2026-10-13T19:08:24+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9zZmRDVHBzaEZHMF9lS1B2d1VFMER5WmQ2SUtHUFUwZDRGREVyZ1BBR0ZyUEVCTm55MXdrSmZzT29WMTIzMVFXMjREV2o1RFNwMk1lQWtVa2RZeDhCbVVYUFhLSHVSQnh3MS1tU05oOHEzSFVPcS1LaHkzU3JaaFdFNlczMzBIZ1R4c0lTX0NBWlY0V0JLY0N1cjFlOEctR1EyUG53WXRlMGh1XzNKbHlqb2ZsdG9sZnc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c711417e65f097",
+      "title": "Legendarische trainer ziet angst bij Ajax: 'Ze zoeken nu al naar excuses'",
+      "category": "Overig",
+      "published": "2026-10-13T18:55:13+00:00",
+      "updated": "2026-10-13T18:55:13+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT1RWaFZHN0hyR3hfb2p4Z3VvbTVnNDJuNGtoMzgwRW1PTHl0UDFsM2RnVEJXTi1yeWdVY2h2UnJ2VG52UkVCc0pYeWI0dFNYZ2RjRlNLd19JTGp2OXpNNkJZWEhkVVpFTFAzYWFHZTduMVRnbzB2cVg2TTlpeWQ1V1JOY1ZtNFNTeHNTS3VyN0cxOFpMNWFIaU9ua1pwVlg3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0c9c13db246cc7",
+      "title": "Schmidt noemt PSV beste van Nederland: 'Ajax is niet meer hetzelfde als toen'",
+      "category": "Overig",
+      "published": "2026-10-13T18:42:58+00:00",
+      "updated": "2026-10-13T18:42:58+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/schmidt-noemt-psv-beste-van-nederland-ajax-is-niet-meer-hetzelfde-als-toen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0c2f98cd290e6a",
+      "title": "Valentijn Driessen: ‘Bij Ajax - PSV heeft hij Pol van Boekel voor de bus gegooid’",
+      "category": "Overig",
+      "published": "2026-10-13T18:34:00+00:00",
+      "updated": "2026-10-13T18:34:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZUJXZm9iNFhFNy1vZ3dtX2g4Y3YxZF9SWm15RlBHQ2ppMDBxbkZDdmlOZFkya1JtXzZGTjYyWkVxai1pODU5amZMa01QSDF1cUpXVFpPOThTQXVGV3h1ZllsRlRMek05WS1GWEVTNUk5eXl6b1V5clYtd3BiQXZSNkhIQjdjWUEzU1lNMTJJeXQ4SjZqZUtqalEyX2Z6WXlfYk85SHJILUtRRDhPaWlnWA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "25436999d6017b",
+      "title": "Harde kritiek op 'vreemdelingenlegioen' Ajax: 'En Míchel gaat week naar Spanje...'",
+      "category": "Overig",
+      "published": "2026-10-13T18:17:00+00:00",
+      "updated": "2026-10-13T18:17:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146428/onbegrip-over-spanje-trip-van-ajax-coach-michel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a19f3772f9c21e",
+      "title": "Ajax begint Conference League: zo kijk je live naar duel met Hajduk Split",
+      "category": "Wedstrijden",
+      "published": "2026-10-13T18:00:00+00:00",
+      "updated": "2026-10-13T18:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146343/waar-en-hoe-laat-kijk-je-naar-hajduk-split-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0e8d834d7d56ef",
+      "title": "Dit is waarom Ajax-trainer Míchel tijdens de interlandperiode naar Spanje afreisde",
+      "category": "Overig",
+      "published": "2026-10-13T16:40:00+00:00",
+      "updated": "2026-10-13T16:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWR4bnJ3OTVXMW0tWGdJUkQwQ0ZobUNCRUk3a1dhQ0ZPTWlLaFllak1Ta2FIUURKOVBuX0hELWN3c3hvTDgwbG1vY2pvbU0xSTBVSTVFNGZBVHhzYUNTVzdCTWJPUDJZeEFmcWFiUHVhZEtnWVlPSjNscElhQ19nS3BXdjhsU2psUnZCdEpjOElkYk1reGc3eC1hY2lOSmJraTc4azFQSE5CbnBMMTJoWHBoWC0xOUViTnZTajVqSHk3eGRUQnJ6UkFoLUJSdw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -89,6 +209,21 @@
       "related_sources": []
     },
     {
+      "id": "b0fb45ff6c940c",
+      "title": "Duel met Hajduk Split in Oostenrijkse handen",
+      "category": "Wedstrijden",
+      "published": "2026-10-13T12:57:15+00:00",
+      "updated": "2026-10-13T12:57:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56068/Duel-met-Hajduk-Split-in-Oostenrijkse-handen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
       "id": "058818f60494b6",
       "title": "Katalinić haalt uit naar Ajax: 'Ze zijn nu al op zoek naar excuses'",
       "category": "Transfers",
@@ -119,6 +254,21 @@
       "related_sources": []
     },
     {
+      "id": "a2d79937860eac",
+      "title": "Kroatische media zien kansen: 'Dan zou het zichtbaar onzekere Ajax opnieuw zijn zwakheden kunnen tonen'",
+      "category": "Overig",
+      "published": "2026-10-13T12:35:00+00:00",
+      "updated": "2026-10-13T12:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUp3MmZRUnlyM1ZOVkJSelBteVhBYWk1bW1ob2VOajlCOC1fMDUtMTUtX1hKMVlwT3dHR0pkMUg1V0ZGa1cxM2s2c1NkcDlhVS1LSzFOZENCRDRfcXNkZF8xLVA0R0Ywd2lYQmM3QlFQOVVFdE1UYU01VHpOXzN5U1h0bHJIbjJINjBJSGRNRWxLWUp1Wkh0NGlHU0Rhb0t0ejZBZVZvdVRndmVianAzdzYyMUFoX21kamxwNXE2aXVTTzFYNVloWHBVMTBBYmM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "842b659c4fc017",
       "title": "De Mos ziet Ajax niet meedoen om titel: 'Gaat het zo door in Amsterdam, dan wordt het een lijdensweg'",
       "category": "Overig",
@@ -137,16 +287,22 @@
       "id": "fa4f1a08742e86",
       "title": "Conflictgevoelige Eternal Barron vindt maand na vertrek bij Ajax nieuwe club in de Eredivisie",
       "category": "Transfers",
-      "published": "2026-10-13T11:16:00+00:00",
+      "published": "2026-10-12T19:20:00+00:00",
       "updated": "2026-10-13T11:16:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQTRINjRKQ3RVdVUyMmdGUGNxMGZ1ZnNnaE1INmNlbXpid1dTc3ZnV3pJVGp0d2tzd2FZTmg4Vm1ER2Q0UjZOYWNwdXJRTVNwME9TeWYtemZkSVhObjE5MUZ0TWdxZk5XX3NFSTBYYXZkeDVOX0I2dS1zNEZfbnZSNThZZ0ZOYXNuNHEycHNSTzEwU0hMWFp4b1FMX0JDR1BOejJxSHVJcUxKS3V4MXNiMk91Q05YYjE4QXhSVnVVMDlRX2lXcGNqVEhtTHNnR0NvckxyT3A3R1M3UWpYMzdFZg?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPajFFZXYtLWRqdk9UdnBRUGxweWJ6djNmSG80cm1nYWhjcGhkaUVWOVNxR3BKR1k1MUI0YTZvbE5GUmtOczFIVkxXaTdaQXlNRUxEbW1WbGlURlh4WGxLc0xBNTZrZ25wY0p3aERBUmJlSUlsMkc2V0djalc4SUhpTXBNSFdiVE5nRTZjdlVJR0ZFVVpaT3oyRGN6MVcxdzhDNExFQmxiR2hZR0xGVk5XT3dGbWpMNnZCZm1kaEFMT011STND?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "656cb33eb31939",
@@ -434,21 +590,6 @@
       "related_sources": []
     },
     {
-      "id": "736b0a0513f22e",
-      "title": "Bas Nijhuis is glashelder over 'twee gemiste rode kaarten' bij Ajax - NEC",
-      "category": "Overig",
-      "published": "2026-10-12T20:06:00+00:00",
-      "updated": "2026-10-12T20:06:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWpRaWxBeWV4RFNjSi1xTnJFcF9vT0FNN2lEUlJlNDNfd2NFOUFkRW1nSG5PeExYbGxYbFV5aTBNOTZMemIybGpITjJkcVFWTTdoRTJVSTVQWC1aZUUwY1l3VXRJZGI1eWhKZnhFRE54QTZxZVQ3UWZEbUxSX295bnh0ZkF6YXVLYkt0NTR0Z2dURXc0X3BzOEZ1d0xmaUpEcEdFd2xIX0M4TnQ1WXhVaHBWeEU4dElham9yaFhlRnQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "5a89b844a7a628",
       "title": "Gullit begrijpt Ajax niet: 'Vind het jammer dat hij niet vanaf het begin speelt'",
       "category": "Overig",
@@ -480,147 +621,6 @@
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2cwUHppMi1Kdk9tZnVRODd5MEJIOUFteF9ENUY4cUduYzNNYjZSXzB0Y01vMmhPYV9RTGVjUk5adV9IcW1scEpSWHI0b2hUejhvanhwLXRYTjl1R1lKeTFORVQ4YTRGQWdITGtCN0pIZF9ud1pYMFJsTVdmYTJtT2p6bHE2QmRQYkhlZnNZNHpRQkpjQXpRNS1VcjFVa0xYRVE?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "ad8f8c190670df",
-      "title": "Perez adviseert Ajax-trainer Michel: 'Dit talent kan je niet buiten elftal houden'",
-      "category": "Overig",
-      "published": "2026-10-12T18:10:10+00:00",
-      "updated": "2026-10-12T18:10:10+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2145824/perez-en-vink-prijzen-ouazane-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2de1f305bfb4ad",
-      "title": "Van der Gijp: 'Cruijff heeft 3 goede spelers bij Ajax gehaald, de rest is subtop'",
-      "category": "Club",
-      "published": "2026-10-12T17:45:04+00:00",
-      "updated": "2026-10-12T17:45:04+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146015/van-der-gijp-over-aankopen-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cfea2f26184c81",
-      "title": "Driessen kritisch op werk Cruijff en Míchel: 'De Toekomst is de heilige graal van Ajax'",
-      "category": "Transfers",
-      "published": "2026-10-12T16:50:00+00:00",
-      "updated": "2026-10-12T16:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUc3SEVxdXZtWFFPSVhTZndLa01RYXZJTTZUVnlHWC1WTDNIUldGMjNfVTY4TzhiMlk2akZ6Q3JLcDliVHc2bHJjbEVIMlZLUDIzVnRYd1FRc0NPQ0djNVNPV0UxOFNERW0ybDZfeUNFcVhpZF9jRWRyeGlPeEhHTkhWbU9FQlozRXlBM3ZSb2pVMWpTU0RsTFdPRnRiZU5qUm5kZExoSUhlM2daM2IxaE1jRkl0d0JFVnl2TQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "be71ce7d24b88b",
-      "title": "Wat verwacht jij dat Ajax gaat doen in Split?",
-      "category": "Overig",
-      "published": "2026-10-12T16:31:28+00:00",
-      "updated": "2026-10-12T16:31:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56067/Wat-verwacht-jij-dat-Ajax-gaat-doen-in-Split%3F",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bbb512cc918628",
-      "title": "KNVB zorgt bij Groningen - Ajax voor veel ophef met scheidsrechterskeuze",
-      "category": "Wedstrijden",
-      "published": "2026-10-12T16:22:02+00:00",
-      "updated": "2026-10-12T16:22:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmM2RENvU2VnWDVCdTFKRU9Wekd6Slp4bTRzTExVVndhdV9WTW8tSXRRZUVZaXFqMVdxTGpmVDFBMnBjSDkyNlo2MEthandtTU5HQmp2OFRlU0tsd3hRSzNLWFhwODJqaklMbmtVeXpCbUROcGhjM20yZ2tyOWlSc0dfaXV0R1dSdFlrZWZDbzh5RVU2?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "de57bc7563da05",
-      "title": "Grootste probleem bij Ajax aangewezen: 'Daar is niemand bang meer voor...'",
-      "category": "Overig",
-      "published": "2026-10-12T15:52:15+00:00",
-      "updated": "2026-10-12T15:52:15+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR0xZOFZkb2FnVnRkYk0zS3dzS21ibHlscVBNa29PZmFUQkJtUk9QNGQxNl9iWXVKNUlBeGxYR1lOdFpZZ0oyMXJ1ZWs2N19GTGlQanlNS3JOdWsxcGljakRDMTduVkYwQzEwUWRDSEJ2QW1RemV6dUo5LUJESUNUVnZ0NklxamhOREJseWFQOVJvRnFrc3lybGFvNE9Sdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "151614b0aae7af",
-      "title": "Van der Gijp twijfelt aan Ajax-werkwijze met Leonardo: 'Ging ook zo met Sterling'",
-      "category": "Overig",
-      "published": "2026-10-12T15:50:00+00:00",
-      "updated": "2026-10-12T15:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2145961/van-der-gijp-over-ajax-spits-leonardo.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "13aacdd3ea104f",
-      "title": "Van Hanegem ziet Ajax nog altijd als titelkandidaat en zou Ouazane altijd opstellen",
-      "category": "Overig",
-      "published": "2026-10-12T15:25:00+00:00",
-      "updated": "2026-10-12T15:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWl5MFBrakU2Tks0ODdOM2RNaDdWbHl6TXF6VktsOEt4b3lZeFU4ems1Sy1TdTlLZEE2bTBVM2RpUmNHQUdyZXJOUldGVDczSGxScWUzbWktSnB2QWpwRngwWnR2UG5LbktrUnY2RnNnSXJZaUY1TUVmbzJpSEh5QWhGU01Fak1oRDVnQ3BkNVBVdE04RFZ4blNIVTRkZkFpaHBCcWxTekU4aEJ0RjZEQnBZMHZkU0doYUxF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2449935947cc26",
-      "title": "Tadic-interviewer verrast door ophef: 'Niet gevoel dat hij NEC afbrandde'",
-      "category": "Overig",
-      "published": "2026-10-12T12:57:04+00:00",
-      "updated": "2026-10-12T15:15:02+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2145860/tadic-interviewer-verrast-door-ophef-brandde-nec-niet-af.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ080WXNFdEpGb3NMZkFKY2VnOVp5ZngzdTdnaVN0bnJLVGZaelhmLTB1SXdneU1kNFZxUWlDaGtndUpmb00tcHNvN3pWVC1Nb2JNYjFycUt6ejVFQ255eGh4Zk16TjFvQ1AzclEzOVFpZDJpNGJVc1E4ZkRpMFhLTklkS0JaTlFVZHRlMlhqQXJzdTlFZFNPUWFHYjNDamxF?oc=5",
           "via_google_news": true
         }
       ]
