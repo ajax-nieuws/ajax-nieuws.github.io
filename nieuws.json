@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T21:52:51.679526+00:00",
+    "generated_at": "2026-10-14T01:16:19.958167+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 77,
     "event_count": 40,
-    "discovered_event_count": 72,
+    "discovered_event_count": 73,
     "source_count": 9,
     "feed_error_count": 0,
     "excluded_paywall_count": 106,
-    "excluded_video_only_count": 48,
+    "excluded_video_only_count": 47,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b531d2e7106e8c",
+      "title": "Uithaal naar Ajax: 'Ik hoor dat ze nu al klagen, ze zoeken naar excuses'",
+      "category": "Overig",
+      "published": "2026-10-13T22:34:47+00:00",
+      "updated": "2026-10-13T22:34:47+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146528/kroatische-uithaal-naar-ajax-ze-zoeken-nu-al-excuses.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8192ea6e1ca081",
+      "title": "AFC Ajax en FC Barcelona eren Johan Cruijff met Legacy Match in de Johan Cruijff ArenA - Ajax",
+      "category": "Club",
+      "published": "2026-10-13T22:31:12+00:00",
+      "updated": "2026-10-13T22:31:12+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXhwVkUyMnExZEVxT2dOTUtkMjVQSi1VZlhIaDNpTkp6VTVmWVJ5SS1QaHVMMW4zSElNdzduNmJoam1xaDRLX2FkXzhCdDhzQ2VHV0NDMGd2blJUZ0Fxck45QkJKWFBKYzZaWFZfeXhSV1lDTlo1X1h4em5odWIxdzlHVlNVdWRWQ3E4Q1Q5NHMybUxVNy1ld2tPeGhfMTdUZUhpWHVPcFFmaHNBOUs0VDJGWlRZUkk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "37ec839c2ca45d",
+      "title": "Ajax gewaarschuwd voor Hajduk Split, een ijzersterke ploeg op eigen veld",
+      "category": "Overig",
+      "published": "2026-10-13T21:45:00+00:00",
+      "updated": "2026-10-13T21:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDExb2ljTk9QTllWbnRYVDh0RDdVSjRrMjBXMm9Nek9jdXNhVjBfMFZkMlVMRElVMmZWdnJjczloWVNNM3Bxbzk2Z0VsQW1TM09aQllzSDMtSXZ5eUVjODQ1T3VlWnBkRG5qYzJGUFFhUk9MRmtqTEtMUGgzeGRuX1dGamJWLVh0XzM5Z0J6NkJBT0xJSmlPNElYUjFhcVF6YmpSVmh0TUluaWxRVElVbm53RHMybVNEYXBnZUZWbkZFOGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "2be14797e70076",
       "title": "'Grote politiemacht arresteert groep gewapende Ajax-supporters in Split'",
@@ -25,21 +70,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2146488/kroatische-politie-grijpt-in-18-ajax-fans-gearresteerd-met-wapens.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8192ea6e1ca081",
-      "title": "AFC Ajax en FC Barcelona eren Johan Cruijff met Legacy Match in de Johan Cruijff ArenA - Ajax",
-      "category": "Club",
-      "published": "2026-10-13T19:25:45+00:00",
-      "updated": "2026-10-13T19:25:45+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXhwVkUyMnExZEVxT2dOTUtkMjVQSi1VZlhIaDNpTkp6VTVmWVJ5SS1QaHVMMW4zSElNdzduNmJoam1xaDRLX2FkXzhCdDhzQ2VHV0NDMGd2blJUZ0Fxck45QkJKWFBKYzZaWFZfeXhSV1lDTlo1X1h4em5odWIxdzlHVlNVdWRWQ3E4Q1Q5NHMybUxVNy1ld2tPeGhfMTdUZUhpWHVPcFFmaHNBOUs0VDJGWlRZUkk?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -85,21 +115,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/schmidt-noemt-psv-beste-van-nederland-ajax-is-niet-meer-hetzelfde-als-toen",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0c2f98cd290e6a",
-      "title": "Valentijn Driessen: ‘Bij Ajax - PSV heeft hij Pol van Boekel voor de bus gegooid’",
-      "category": "Overig",
-      "published": "2026-10-13T18:34:00+00:00",
-      "updated": "2026-10-13T18:34:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZUJXZm9iNFhFNy1vZ3dtX2g4Y3YxZF9SWm15RlBHQ2ppMDBxbkZDdmlOZFkya1JtXzZGTjYyWkVxai1pODU5amZMa01QSDF1cUpXVFpPOThTQXVGV3h1ZllsRlRMek05WS1GWEVTNUk5eXl6b1V5clYtd3BiQXZSNkhIQjdjWUEzU1lNMTJJeXQ4SjZqZUtqalEyX2Z6WXlfYk85SHJILUtRRDhPaWlnWA?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -160,21 +175,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/hajduk-rekent-op-dendoncker-tegen-ajax-na-debuut-in-waterpoloderby",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "37ec839c2ca45d",
-      "title": "Ajax gewaarschuwd voor Hajduk Split, een ijzersterke ploeg op eigen veld",
-      "category": "Overig",
-      "published": "2026-10-13T14:15:00+00:00",
-      "updated": "2026-10-13T14:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDExb2ljTk9QTllWbnRYVDh0RDdVSjRrMjBXMm9Nek9jdXNhVjBfMFZkMlVMRElVMmZWdnJjczloWVNNM3Bxbzk2Z0VsQW1TM09aQllzSDMtSXZ5eUVjODQ1T3VlWnBkRG5qYzJGUFFhUk9MRmtqTEtMUGgzeGRuX1dGamJWLVh0XzM5Z0J6NkJBT0xJSmlPNElYUjFhcVF6YmpSVmh0TUluaWxRVElVbm53RHMybVNEYXBnZUZWbkZFOGc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -285,7 +285,7 @@
     },
     {
       "id": "fa4f1a08742e86",
-      "title": "Conflictgevoelige Eternal Barron vindt maand na vertrek bij Ajax nieuwe club in de Eredivisie",
+      "title": "Conflictgevoelige Eternal Barron vindt maand na vertrek bij Ajax nieuwe club in de Eredivisie - Voetbalzone.nl",
       "category": "Transfers",
       "published": "2026-10-12T19:20:00+00:00",
       "updated": "2026-10-13T11:16:00+00:00",
@@ -590,6 +590,21 @@
       "related_sources": []
     },
     {
+      "id": "736b0a0513f22e",
+      "title": "Bas Nijhuis is glashelder over 'twee gemiste rode kaarten' bij Ajax - NEC - Voetbalzone.nl",
+      "category": "Overig",
+      "published": "2026-10-12T20:06:00+00:00",
+      "updated": "2026-10-12T20:06:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWpRaWxBeWV4RFNjSi1xTnJFcF9vT0FNN2lEUlJlNDNfd2NFOUFkRW1nSG5PeExYbGxYbFV5aTBNOTZMemIybGpITjJkcVFWTTdoRTJVSTVQWC1aZUUwY1l3VXRJZGI1eWhKZnhFRE54QTZxZVQ3UWZEbUxSX295bnh0ZkF6YXVLYkt0NTR0Z2dURXc0X3BzOEZ1d0xmaUpEcEdFd2xIX0M4TnQ1WXhVaHBWeEU4dElham9yaFhlRnQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "5a89b844a7a628",
       "title": "Gullit begrijpt Ajax niet: 'Vind het jammer dat hij niet vanaf het begin speelt'",
       "category": "Overig",
@@ -603,27 +618,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "454a5f9b72f2b5",
-      "title": "Van der Gijp hekelt hoe Ajax omgaat met zomeraanwinst",
-      "category": "Transfers",
-      "published": "2026-10-12T17:52:03+00:00",
-      "updated": "2026-10-12T18:35:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2ZkRlFRV0VIVmZrazlrQ2lmN2dhN2VBcnNFd3NqSUdZRkl1bEhaSG53TUJlX2lpYlNLUTEwdkZYQlZtMUpXZW9SUEZibmVpUzN2Ry00ZW96Q2o3cFlVOWE4VDNpZ0N2UkF2djNYU0g2cVNORHNBT1BrdUVIakozSFA1ZGV5U2laQlBBNDNHZ2tGWUJtaUUyblpHNHBaWkU4dmpZNVlHQndJNm8?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2cwUHppMi1Kdk9tZnVRODd5MEJIOUFteF9ENUY4cUduYzNNYjZSXzB0Y01vMmhPYV9RTGVjUk5adV9IcW1scEpSWHI0b2hUejhvanhwLXRYTjl1R1lKeTFORVQ4YTRGQWdITGtCN0pIZF9ud1pYMFJsTVdmYTJtT2p6bHE2QmRQYkhlZnNZNHpRQkpjQXpRNS1VcjFVa0xYRVE?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
