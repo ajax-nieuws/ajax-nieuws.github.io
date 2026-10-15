@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T23:57:56.064609+00:00",
+    "generated_at": "2026-10-15T04:49:46.801883+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 73,
+    "article_count": 74,
     "event_count": 40,
-    "discovered_event_count": 71,
+    "discovered_event_count": 70,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 69,
-    "excluded_video_only_count": 37,
+    "excluded_paywall_count": 65,
+    "excluded_video_only_count": 44,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8afb34cacb4aed",
+      "title": "De oud-aanvoerder van Ajax Onder 16 die inmiddels al 30 miljoen streams heeft verzameld",
+      "category": "Selectie",
+      "published": "2026-10-15T04:30:00+00:00",
+      "updated": "2026-10-15T04:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeTdldDdGLXZUWUxuckVHRXFaWUJ2VV9vWmJXbDd0ZHh0QTZlajB4dlR1c01Bb3ZIR1hqalIxSnBWOEtwYlBoYUVKZ1JlMHpJTWxPcEpMYWxJSndyVkg0TXYydElScGZVQXNWSXNMajZsNVRBUHF3VVJNSzJVZDFBU2xJUTlUVEZIcWpsQkxNZ2ZCb3cyNTZESm11NVozT1ZfRDdnSFpZLW1EdWZPRFFwY1hRRHZKT25CN2dCRFR4SjMzWjNhdkZsakc4SUZGaFJYOUd6RlVlR2NwZHFC?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "6b82fc5690a7be",
       "title": "Brandt openhartig over eerste maanden bij Ajax: 'Dat is voor mij nieuw...'",
@@ -134,6 +149,27 @@
       "related_sources": []
     },
     {
+      "id": "281f8b94f7acbc",
+      "title": "LIVE Conference League | Ajax opent competitiefase met uitwedstrijd in Kroatië",
+      "category": "Wedstrijden",
+      "published": "2026-10-14T13:56:14+00:00",
+      "updated": "2026-10-14T19:00:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFBIdkRpWEtwXzVQYkd4ZExFeWhKSlNDSWZzSjNuS3BtVGxlcWZjNHU1R3ZNNnhKMExRaVlqWG8tNlRFRE1HOExrQmNQU0xCSnZXdWF6VVF5VWxxUnhzbmxXcmlxbzFnUllDWUdObmdwNGpnRzZUdXcyME8tS0lxWTVFZHktcDd5bVRNdW9sTldZN1R3a1Fxek5uZS1ldmNMenRXTHp3OHVxcDBtOWp4NXNn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2146756/ajax-traint-niet-op-veld-van-hajduk-split-in-aanloop-naar-conference-league-duel.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
       "id": "7b79a6aeeb7af9",
       "title": "Míchel verklaart afwezigheid Adingra en wil niet rouleren bij Ajax: 'Belang groot'",
       "category": "Blessures",
@@ -150,18 +186,24 @@
     },
     {
       "id": "f36461e5a0e952",
-      "title": "Ajax-aanvaller loopt nieuwe blessure op: 'Het is een klap...'",
+      "title": "Rondom Ajax: Brobbey terug op trainingsveld bij Sunderland na blessure bij Oranje",
       "category": "Blessures",
-      "published": "2026-10-14T18:37:00+00:00",
+      "published": "2026-10-14T11:37:24+00:00",
       "updated": "2026-10-14T18:37:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTFVaWjJXdTNwUXpmRzQ3VEJjeUNSb25DWjVONVg3NmZ6d1pETWRjSTlyTlR6YndUdnZEal9VOXMzUk8tY0JNaTZ5dVBlUFVvT0FBMHZ1TTZZV1puQ1AtbTh5VmNjcjdrSnZoam9sS1QzeUg4T3hmTHFEelQ0Y1pfSk54eE1rekdBR3JnZWtHZUN1eTJHQmJGbHZ1SFBJM0xLS3BV?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc1ktOGtTRWRIZUg4QTZTTFhnM1NlNjUySnhvTHNSb0ctS1FBUWlZOGNsaGZxaFJsS1VJMGl4Uk5iN2VoZ2g1RXBVYk5HdHB1QzdXdWJmNmNTajh2eTJnbEs1RDZrQ2tyc0p0WkgyYWF2X3VHYjBNcl81bVU0elI5UWFySjNFS0hnQ05oUTE1R0xWaE9yNnltbFNOSV9WU2ZwUk00OEVtWjIzQVRKSHBIZ1N4VjJBVUJNRTJDUU9BMXllUTlReEpVYkpXbw?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTFVaWjJXdTNwUXpmRzQ3VEJjeUNSb25DWjVONVg3NmZ6d1pETWRjSTlyTlR6YndUdnZEal9VOXMzUk8tY0JNaTZ5dVBlUFVvT0FBMHZ1TTZZV1puQ1AtbTh5VmNjcjdrSnZoam9sS1QzeUg4T3hmTHFEelQ0Y1pfSk54eE1rekdBR3JnZWtHZUN1eTJHQmJGbHZ1SFBJM0xLS3BV?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "f7efb471ae0a94",
@@ -175,6 +217,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2146863/ajax-fans-aangevallen-door-kroatische-hooligans-in-split.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4763ef04aba28e",
+      "title": "Ajax-fans moeten alert blijven in Split: 'Laat je niet afzetten bij de accommodatie'",
+      "category": "Overig",
+      "published": "2026-10-14T17:55:00+00:00",
+      "updated": "2026-10-14T17:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaG5EWkxEdmZZNzN5XzdGVXhZNXBXQWFHak9aS2dqdmNWbndLWTk0YmwyU2hvZnJFSFRJbUpaQXB5UnFTS2pWYl8zUXRGYkdOYXZBY21zQTY0YnM1a004Tl9hSGdETm9jb1NySEdoM3p4RHYtcUtEY0stRWp3Rmlnd1FZcllyeXVHRDRkYXd0eGI2dW5rcnpNRW9aTVgxSzc3ZUdCckN5a0o1MjBaOVZkaVBOZHBURGQxUC03MWRxMmVkdy1sVHR2ckVhQXk?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -239,21 +296,6 @@
       "related_sources": []
     },
     {
-      "id": "a0c33385c980ef",
-      "title": "Trainer van Ajax-opponent is Nederland(s) nog niet vergeten: \"Groot deel van mijn leven\"",
-      "category": "Overig",
-      "published": "2026-10-14T17:10:47+00:00",
-      "updated": "2026-10-14T17:10:47+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjlzNnIzQ1cwOHZ6TFJDYm9UclVEek44RTBKTW9RX1JQYjBlaUkya3B0eEt6ajUtN1lTVzV4UW1ZS25LTFhrTEdVV0lFVzdDanVxQjRWREVlUl9QNnBjSzNqNnBNSHB2eGJHZkxVc00yN2ljNVR1cjUyaUZlODR6V25LT2pUeUVyT2pYckJRT0YtMTYtMHFrWHhOeF9uMTdqMHlVUUxYaUJHZzl2VnF2NDdYaS1Bdldrc09GRkh3TXpRdTFGMV9Gd2x0eUhLQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "5b41553cb3db91",
       "title": "Marktwaarden: het verschil tussen ECL-tegenstanders Split en Ajax is gigantisch",
       "category": "Wedstrijden",
@@ -300,22 +342,22 @@
     },
     {
       "id": "07a9eb96f4e9cc",
-      "title": "Achttien gewapende supporters Ajax aangehouden in Kroatië",
+      "title": "Achttien Ajax-supporters opgepakt in Kroatië; politie vindt messen",
       "category": "Club",
       "published": "2026-10-14T09:08:00+00:00",
       "updated": "2026-10-14T15:44:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56070/Achttien-gewapende-supporters-Ajax-aangehouden-in-Kroati%C3%AB",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTJ6Njg5cjFhOVRGZ2dzdVlIanhTVkQ1S29PNWlOd3l5LThuU0ZONWdBZTVqNlRMRlZ5RFhlTEFTTUJIbGQwaURwVzJBdkhHX3ZCNTBUWlJKamgtODlmSkpWYXVlc3dnaDVDNTU0ZTFmNmFaT0pCWTVXb25NUzlfRjlpWklnSklTT0hEbzZXQkJuTGZYaHBxZDJuTXpINU1jc1Q1SHBFNkFFV1l4OVZpMWVQVTNEd1k4V19B?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTJ6Njg5cjFhOVRGZ2dzdVlIanhTVkQ1S29PNWlOd3l5LThuU0ZONWdBZTVqNlRMRlZ5RFhlTEFTTUJIbGQwaURwVzJBdkhHX3ZCNTBUWlJKamgtODlmSkpWYXVlc3dnaDVDNTU0ZTFmNmFaT0pCWTVXb25NUzlfRjlpWklnSklTT0hEbzZXQkJuTGZYaHBxZDJuTXpINU1jc1Q1SHBFNkFFV1l4OVZpMWVQVTNEd1k4V19B?oc=5",
-          "via_google_news": true
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56070/Achttien-gewapende-supporters-Ajax-aangehouden-in-Kroati%C3%AB",
+          "via_google_news": false
         }
       ]
     },
@@ -331,21 +373,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2146658/adingra-ontbreekt-bij-ajax-voor-duel-met-hajduk.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6ac24223c748ab",
-      "title": "Rondom Ajax: Ajax zendt persconferenties voor Europese uitduels dit seizoen niet live uit",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T15:20:31+00:00",
-      "updated": "2026-10-14T15:20:31+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnREeXVHZTUyc052Z3l6c2tyRW9kb2E4R2cyR2d3T19ZMWROVC1mNUthSFgtc3BaMHp4bmhpRlJ2VTFCdHg2Q2ZrbTNSalZ5aTdNLTFjWHg5NFF1dkg3ZExCMm5GZG03Q2JGNng4OFRFNmp5dFhDcmpyYTRFcUR0Vk9xZU1zR1pwVGdyTWw5b3dLMnJHRWtUMFJxY2gzd09OUjN4b2habk9JT1h6dFdEWW1JZjE2M1FMYk1NMFAxbmlLWWkzdkJ2VTVkUEg?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -390,21 +417,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2146772/ajax-maakt-selectie-bekend-voor-conference-league-duel-met-hajduk-split.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c899212d85e7f6",
-      "title": "Ajax-'stunt' nieuws in Kroatië: Amsterdammers vliegen later voor Conference League",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T13:56:14+00:00",
-      "updated": "2026-10-14T13:56:14+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146756/ajax-traint-niet-op-veld-van-hajduk-split-in-aanloop-naar-conference-league-duel.html",
         "via_google_news": false
       },
       "related_sources": []
