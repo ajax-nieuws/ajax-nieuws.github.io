@@ -1,18 +1,384 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T04:49:46.801883+00:00",
+    "generated_at": "2026-10-15T10:01:33.839133+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 74,
+    "article_count": 78,
     "event_count": 40,
-    "discovered_event_count": 70,
-    "source_count": 10,
+    "discovered_event_count": 74,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 65,
-    "excluded_video_only_count": 44,
+    "excluded_paywall_count": 99,
+    "excluded_video_only_count": 41,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "695e7ab4c44fc5",
+      "title": "Ajax-trainer Míchel is zeer lovend over één speler: 'Geweldige start van het seizoen'",
+      "category": "Overig",
+      "published": "2026-10-15T09:27:00+00:00",
+      "updated": "2026-10-15T09:27:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3M0dzMwU2p1eWVZaFJZSC1MTDhQNzFhTGpoTzNRM3dLVnVQU0xQay1jUTJvclI2ZHc3ZHhQejRIRUdZSUszNGhWMDc1bjJSMGp4cWx6NWdqWmN5WTUyamdSaWN5YU54R3c3MlRHMDlCZkNheDFPSlJTcVB6bnRKMDZxY0JXN1BuRmdtM0M1SEZLN28xQURIMndIdUFRa1RiM1FoQWUyaWtaUlA1c1FzNUFNY1NDREh2WFdTUktZSVIxaDU2WFFtTHgzY2hLbzg4UHc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2060560d6bc3d1",
+      "title": "57 mensen aangehouden in Kroatie bij confrontatie tussen Ajax en Hajduk Split-fans",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T09:15:07+00:00",
+      "updated": "2026-10-15T09:15:07+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2635045",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4df18d33580293",
+      "title": "Waarom Ajax en FC Twente nu pas beginnen aan Europese campagne",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T09:10:00+00:00",
+      "updated": "2026-10-15T09:10:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/waarom-ajax-en-fc-twente-pas-na-interlandperiode-europees-spelen",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1938b25f34f756",
+      "title": "'57 arrestaties in Split bij dreigende clash tussen Ajax- en Hajduk-fans'",
+      "category": "Club",
+      "published": "2026-10-15T08:45:34+00:00",
+      "updated": "2026-10-15T08:45:34+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/240463/57-arrestaties-in-split-bij-dreigende-clash-tussen-ajax-en-hajduk-fans",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2a55a17a968b6a",
+      "title": "Míchel zet 'bepalende' Ajax-speler in de spotlights: 'Maakt teamgenoten beter'",
+      "category": "Overig",
+      "published": "2026-10-15T08:43:00+00:00",
+      "updated": "2026-10-15T08:43:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2147024/michel-sanchez-blij-met-terugkeer-aaron-bouwman-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "5a11d9ddb53f64",
+      "title": "Wie wordt het alternatief voor Tolu in de spits bij Ajax? Míchel vol vraagstukken naar Split",
+      "category": "Selectie",
+      "published": "2026-10-15T08:38:00+00:00",
+      "updated": "2026-10-15T08:38:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQandvelM2QTdISWlqMkpSVDVQdWIwZi1yRUkxYm02VFgwVG1MemNIS2dLcnpzc25VWDZPeUo2a2c0d2xpY2Y1cnAyTThTa0s3WF81WURVVXlmVkVVNlhkVHg3MHdVUzZlYUNCck52amd3UGFKbDhxT0RQY0FYVFZ0VEpqVW5TQjhsNVB3RTA3OUpwQUh6MUVQbl8xWkYwVFBqTnlmZmJTZ0ZOT3p3aXljUjVEaG83amwzOUM5QjRZT3hOaDNSenc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a5a86b9f8f3807",
+      "title": "\"Ajax gaat nooit de energie in een wedstrijd kunnen stoppen die Feyenoord er wél in steekt\"",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T08:33:36+00:00",
+      "updated": "2026-10-15T08:33:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU2Q1cmtzR0V3R003MVRhaHVrY2MzRnR2TVg2X1pnRG9Db1ZGeUJxa195TllDSlFiOXJycll6Z1V2aEJOb0Z3UTBGNGc2SXVGUnl1bHlqamdGRExIQm5KZUpSOElyUVR2WWpkTVh0eHVobEl2a21QZzlEWE5RU3JTYWVvYTh2WGF0bFdEVURPVXdqamx1d0g1YTk5YWhUX29IYXZCcG1ZOHNZMDUwdjFXb19YSmZsTkQ3N1EzWXJ6NGlwWll3Wko1SWNXT01ZUWZ3UlFyNkVR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "17a464fbc75c12",
+      "title": "Onrust in Kroatië: 57 aanhoudingen na clash tussen fans van Hajduk Split en Ajax",
+      "category": "Overig",
+      "published": "2026-10-15T08:14:35+00:00",
+      "updated": "2026-10-15T08:14:35+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2147030/onrust-in-kroatie-57-aanhoudingen-na-clash-tussen-fans-van-hajduk-split-en-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3d0e59d1c4678e",
+      "title": "Julian Brandt is heel eerlijk over start bij Ajax: 'Voor mij is dit nieuw...'",
+      "category": "Overig",
+      "published": "2026-10-15T07:51:00+00:00",
+      "updated": "2026-10-15T07:51:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVFiSEFFdHdZX1ZhQkVWUFpRZkctMU1SVF91bllvSExHRUxTblg0SFZuRlpDemVSMkhlVURxQ2s4d0ZYS0Fyd0VJcEIySnRMc2c3MzlLcWQwVGJINDVIUHlvdDFKOXZMbjItSElLZDQzVUFCeVFHeGdVamk2NjNZRDZwR3NOc19oN0hxcm50aEFlcGF2bXNvbFdQTmwxVVBBTy1PaGVxRlVPMkR2Mlg3TmtYbEZIUkllc0ZF?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "68c30083a01cd0",
+      "title": "Politie moet massaal ingrijpen bij gigantische confrontatie tussen fans Hajduk en Ajax",
+      "category": "Overig",
+      "published": "2026-10-15T07:41:00+00:00",
+      "updated": "2026-10-15T07:41:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSy1VY2pHdUZjQXE1aGpJV3NFeE5vQ1p4ajlmd1ZCQlBXOEZWT0c1WmFDTmNOM1NWeDFpemcwQk4tTm56Rkkyd1hLV0NsR0dKaHZlMTBGZGJaUGw5Smd3SFFVX2NLZG5WcW1BZkJpSjNucXd4N1hIQzJqeG1NUnI3WVFmMXVqZGV0N0xQR2tDbXJ2SkVjYmlWNTFyRVUyQTRKYXNFWEVSUlJJeDkxeFZncmo2QUdYcjNwVjVyVF93VEtUcHMycUNlREREV0lnb0I4aG5wY3VNRQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6d9798ec70dc72",
+      "title": "Míchel hint op sterkste Ajax-elf in Kroatië: 'Ga niet rouleren om te rouleren'",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T07:39:00+00:00",
+      "updated": "2026-10-15T07:39:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/michel-hint-op-sterkste-ajax-elf-in-kroatie-ga-niet-rouleren-om-te-rouleren",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "24544586015602",
+      "title": "Rondom Ajax: 'Ajax wordt met die blessures een beetje het Feyenoord van vorig seizoen'",
+      "category": "Blessures",
+      "published": "2026-10-15T07:30:00+00:00",
+      "updated": "2026-10-15T07:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa2Zqd3dJS20zWERDdkhYRTQ2VWtVUHU3NnZIemhpOEZwYkRvckdqTXRhSlJrbHdLOWVoMS1UMUw5cjRHOC01b2k1d2xoeDRJaDdtdE9ZTnh5YVlfaHNXemZRSndjSHFhNWhuUU5hbUJIS1U3M0lEY2tpVzVUa0JjWDdRNi1yZDBRZ0FFRFg0X0taYno3TkhKM21ZUkRHMEwxaVc5V2R5S01Pby1HeS1sdHAzWmhmS2VvRll6Yk1nU0hZazdHWUc5bmg5NDlDVEU?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6b82fc5690a7be",
+      "title": "Brandt openhartig over eerste maanden bij Ajax: 'Dat is voor mij nieuw...'",
+      "category": "Overig",
+      "published": "2026-10-15T07:24:07+00:00",
+      "updated": "2026-10-15T07:24:07+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146935/julian-brandt-ziet-zichzelf-terug-in-ajax-talent-abdellah-ouazane.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "99ddf58312e6fe",
+      "title": "Buitenland: Brobbey en Kluivert komen in actie, volop voormalig Ajacieden op Europese velden",
+      "category": "Overig",
+      "published": "2026-10-14T06:25:00+00:00",
+      "updated": "2026-10-15T07:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc0tnUUI2em5lSU00YmpkdE5tMW1wVkNIb08xM184ejZGOWd5NVEybEtiNXZ6NlFwUzJodEFBaU5BX1gwYTNxS1pYcXMtT1d3VzJIYWpKTmRQaVl1QVA4TjRqcEkxRWZCMXlvT2Y2RkpQUlVJMW50NXdlLWFCYUluQVl5ZHRHNTdudEVrQ0NSaVcwNndvX3JJV0ZqXy1GamVhWXJ5ekNfRVJURXBIbHR5VnA1YzNUOVJYam9rd2NrWGlFT0Z5cnNOQ3dMNmUxdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "7b379f90dab4f3",
+      "title": "VI Live: Ajax en FC Twente openen Conference League, AZ en NEC in Europa League",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T06:30:00+00:00",
+      "updated": "2026-10-15T07:00:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-en-az-al-vroeg-in-actie-daarna-de-beurt-aan-nec-en-fc-twente",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2146988/live-hajduk-split-ajax-en-az-hapoel-beer-sheva.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "7e7807df5e7b5f",
+      "title": "Vermoedelijke opstelling Ajax tegen Hajduk Split: Míchel Sánchez kiest voorin tussen Oscar Gloukh en Abdellah Ouazane",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T07:00:00+00:00",
+      "updated": "2026-10-15T07:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZXdhbWpraUdxMkwyMG1wOVJyeDVueDJGNm5NZUJEOENnOGtUWU9jak83NVNhX3ROaVpLZTgxc0xYMUFwMkxiY3MwZDFCaW1aQVBnVmN3aWk5d2c0RDNQV0JFMDlOdkk1YVFodlZfV0NFVDdqZzU4eFFXZUVfTHdtWHJJekFBX0I4YUVGNlhyQUtqMzFDQmVhMzdVUjVPeWxyZEY2LUhGdUx5V3F5TkhhNThQN2pKNUVVR05VX0hxekpmZVdoVW5Sak1WVmk3dDBFX1Z4Q19MMGd6TmNJbkV4MnpLdWNsYnBCZUNXd1JrbzRoUGRFcVlDUzhIQzlzRG8?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2efc5e9f579b4b",
+      "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt één keer voor Conference League-duel",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T06:40:00+00:00",
+      "updated": "2026-10-15T06:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146974/de-vermoedelijke-opstelling-van-ajax-tegen-hajduk-split.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a9a692cd21363e",
+      "title": "Hajduk Split ontleed: dit zijn de wapens waarmee Ajax rekening moet houden",
+      "category": "Overig",
+      "published": "2026-10-15T05:58:50+00:00",
+      "updated": "2026-10-15T05:58:50+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3BYQ0R3THY1T3Q2TjQ2bmdXLVNnLUcxQUozNlZJWXJrVmdjNTl0amdxWUNMcmlVOFFsbk84WEtMaTIzazV0bENaaDUzTEppeWlCTm5QVk5aZEl1Q29vaDdaVEFRUlZILXIzanRhQnUzenJrQVc1ak5qclRkanBoeERHZDJYYjZyTlQ0enVvem1NbDBXb3ZxdVBWMlFidlZGcGJTLUU5b2toVmlyc1JoNGlNWEhUX1AtbVh3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bff0939a16cbc5",
+      "title": "Adingra niet mee met Ajax naar Europees duel met Hajduk Split",
+      "category": "Overig",
+      "published": "2026-10-15T05:37:30+00:00",
+      "updated": "2026-10-15T05:37:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTd6WDBPQ0NGSmtNUHc4bWVvYTVZVjVzM1FOeTdEYmwyeEd0VkhnRXBBbEg5Yk1Ed2w1b3FJdG5WVWgwZFItYlh0elpvYlJUcFpEN18zTGtNd2R4TTlpZVNfWmRfQlpqU3BxUnZyWXlkaURLakEyb0ZWVFY5RTNoQW5BQno1Y0dUN3F5OGVkVmNSenpCX0tBbEpMUjJhQ1hrWlJ0cGx5UFpqTjFndEpraw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3928122ccb7808",
+      "title": "VI ziet opvallend positief signaal bij Marcos Leonardo ondanks vele missers",
+      "category": "Selectie",
+      "published": "2026-10-15T05:30:00+00:00",
+      "updated": "2026-10-15T05:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146954/vi-ziet-reden-voor-vertrouwen-in-leonardo-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6116eb214f6b44",
+      "title": "Ajax blijft zoekende: 'Míchel doet er verstandig aan voorin een extra alternatief te creëren'",
+      "category": "Overig",
+      "published": "2026-10-15T05:25:00+00:00",
+      "updated": "2026-10-15T05:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnpSLXdOc1VYMndkVzhRWWh3NXRrX1VUMllYbF9qb1VvRGcwVHNEYUxQZEh6azRQSnE0bEU5UFFMcVcyYUprbFZtM2Q4cnpXZDQ4RjEwdU44VlBRanljdDFSUFd0anlOZ29oU3RNc0gxMlBaZW1rUTdHVDVwUVhJaFBOS09STjFLelZudTVZZXpQUkp6UFZVSEhCSGt1NVFxeWpBalNkY0xNVjhsdUFXNFNwZlZMbFd3cjdMU2lPTzJTc2tF?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2474d479e6f774",
+      "title": "Hoge verwachtingen van Belgische routinier tegen Ajax: 'Hij is hiervoor gemaakt'",
+      "category": "Overig",
+      "published": "2026-10-15T05:20:00+00:00",
+      "updated": "2026-10-15T05:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2146946/hoge-verwachtingen-van-leander-dendoncker-tegen-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "37ec839c2ca45d",
+      "title": "Ajax gewaarschuwd voor Hajduk Split, een ijzersterke ploeg op eigen veld",
+      "category": "Overig",
+      "published": "2026-10-15T05:00:00+00:00",
+      "updated": "2026-10-15T05:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDExb2ljTk9QTllWbnRYVDh0RDdVSjRrMjBXMm9Nek9jdXNhVjBfMFZkMlVMRElVMmZWdnJjczloWVNNM3Bxbzk2Z0VsQW1TM09aQllzSDMtSXZ5eUVjODQ1T3VlWnBkRG5qYzJGUFFhUk9MRmtqTEtMUGgzeGRuX1dGamJWLVh0XzM5Z0J6NkJBT0xJSmlPNElYUjFhcVF6YmpSVmh0TUluaWxRVElVbm53RHMybVNEYXBnZUZWbkZFOGc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "84a5caa3055654",
+      "title": "Marc ter Stegen onder vuur bij Ajax: 'Wakker worden'",
+      "category": "Overig",
+      "published": "2026-10-15T04:55:30+00:00",
+      "updated": "2026-10-15T04:55:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTE0ZTdCcFFvekFTOElxSk9uUmx5cUo3aEZ5d2tGVkVtTkFnT2tpR0pEdjFsZW1lMDdqQUVWbFY1eW5LcU9LYzFlbTRWbnZDWjlpQW9haVVTUnBpazRhS0t0RWVNQUVSb19fYzN1b3VraTFVUGdDdkg1XzNwcHZqU2w3RlI5WkI2cnEtSm5QSldQT1RsYWRFa095WQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "8afb34cacb4aed",
       "title": "De oud-aanvoerder van Ajax Onder 16 die inmiddels al 30 miljoen streams heeft verzameld",
@@ -29,21 +395,6 @@
       "related_sources": []
     },
     {
-      "id": "6b82fc5690a7be",
-      "title": "Brandt openhartig over eerste maanden bij Ajax: 'Dat is voor mij nieuw...'",
-      "category": "Overig",
-      "published": "2026-10-14T22:27:00+00:00",
-      "updated": "2026-10-14T22:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146935/julian-brandt-ziet-zichzelf-terug-in-ajax-talent-abdellah-ouazane.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "1eb65845ba7fa5",
       "title": "Brandt ontwijkt favorietenrol Ajax in Europa: 'We moeten het verdienen'",
       "category": "Wedstrijden",
@@ -55,21 +406,6 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/michel-en-brandt-blikken-vooruit-op-hajduk-split-tegen-ajax",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7e7807df5e7b5f",
-      "title": "Vermoedelijke opstelling Ajax tegen Hajduk Split: Míchel Sánchez kiest voorin tussen Oscar Gloukh en Abdellah Ouazane",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T21:43:00+00:00",
-      "updated": "2026-10-14T21:43:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZXdhbWpraUdxMkwyMG1wOVJyeDVueDJGNm5NZUJEOENnOGtUWU9jak83NVNhX3ROaVpLZTgxc0xYMUFwMkxiY3MwZDFCaW1aQVBnVmN3aWk5d2c0RDNQV0JFMDlOdkk1YVFodlZfV0NFVDdqZzU4eFFXZUVfTHdtWHJJekFBX0I4YUVGNlhyQUtqMzFDQmVhMzdVUjVPeWxyZEY2LUhGdUx5V3F5TkhhNThQN2pKNUVVR05VX0hxekpmZVdoVW5Sak1WVmk3dDBFX1Z4Q19MMGd6TmNJbkV4MnpLdWNsYnBCZUNXd1JrbzRoUGRFcVlDUzhIQzlzRG8?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -119,6 +455,36 @@
       "related_sources": []
     },
     {
+      "id": "dda1ec1920e899",
+      "title": "Brandt geniet elke dag bij Ajax: 'Ik zoek nog een beetje naar mijn rol'",
+      "category": "Overig",
+      "published": "2026-10-14T21:00:00+00:00",
+      "updated": "2026-10-14T21:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcElkYU9wdE5LcXJOY21kRWd1WmRla2lmdnVpTTZjRG5La2dPZXBuQ2t6Y3lIa1g1c3gwLWhDYUdYcnhSY0ZYZEpwSkY0cTc1bklDbnhPTHpXR2tIb1pVUHJySmlIUVIyZG9Vamk1cVplTnpoQU16aTF4VkN4Tmk0SG9aUk4xSjZSUWxUQW9Vd2lrYVRWMVdYeDhRV1dWc08xNUlWNVFkaDRoc1pRUV9YZ2NDYkxQT0N5?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "061b02fd1cefa9",
+      "title": "Van Ajax-talent naar reserverol bij NAC: ‘Ik ben gekomen om basisspeler te worden, 100 procent’",
+      "category": "Selectie",
+      "published": "2026-10-14T20:30:00+00:00",
+      "updated": "2026-10-14T20:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT3hYRjJkSTQyREdhMTdPVFpDMEtPWU9TYVRxOWJkYkdfVXg2ZDdmNFRBV1V6eHZSaUFycmNJdjR4Tl9SM0FQTDdjU0NPcDg4d0w5ZmlUZzdrR2ViNmRieDFzZmZsaGo2SENGcHlrTEh1dEJMYzJqcWFXdzd5b0VCeURKcjVUWkVqZEhkSnBEQ3JCVUx5a3N0c2ZNZUxFaVZKdUxHTC1xS2lMWlhlc1BFeTI3R0FHSW9uSnFINEJCTXhGZ1d1U1ZIdVlqVXVUMkdIZmt3cERQenN3eXhzMTBXLQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "72961d21ec7a8c",
       "title": "'Mijn Ajax-vrienden hebben liever dat Feyenoord het goed doet dan PSV'",
       "category": "Overig",
@@ -147,27 +513,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "281f8b94f7acbc",
-      "title": "LIVE Conference League | Ajax opent competitiefase met uitwedstrijd in Kroatië",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T13:56:14+00:00",
-      "updated": "2026-10-14T19:00:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFBIdkRpWEtwXzVQYkd4ZExFeWhKSlNDSWZzSjNuS3BtVGxlcWZjNHU1R3ZNNnhKMExRaVlqWG8tNlRFRE1HOExrQmNQU0xCSnZXdWF6VVF5VWxxUnhzbmxXcmlxbzFnUllDWUdObmdwNGpnRzZUdXcyME8tS0lxWTVFZHktcDd5bVRNdW9sTldZN1R3a1Fxek5uZS1ldmNMenRXTHp3OHVxcDBtOWp4NXNn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2146756/ajax-traint-niet-op-veld-van-hajduk-split-in-aanloop-naar-conference-league-duel.html",
-          "via_google_news": false
-        }
-      ]
     },
     {
       "id": "7b79a6aeeb7af9",
@@ -221,22 +566,7 @@
       "related_sources": []
     },
     {
-      "id": "4763ef04aba28e",
-      "title": "Ajax-fans moeten alert blijven in Split: 'Laat je niet afzetten bij de accommodatie'",
-      "category": "Overig",
-      "published": "2026-10-14T17:55:00+00:00",
-      "updated": "2026-10-14T17:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaG5EWkxEdmZZNzN5XzdGVXhZNXBXQWFHak9aS2dqdmNWbndLWTk0YmwyU2hvZnJFSFRJbUpaQXB5UnFTS2pWYl8zUXRGYkdOYXZBY21zQTY0YnM1a004Tl9hSGdETm9jb1NySEdoM3p4RHYtcUtEY0stRWp3Rmlnd1FZcllyeXVHRDRkYXd0eGI2dW5rcnpNRW9aTVgxSzc3ZUdCckN5a0o1MjBaOVZkaVBOZHBURGQxUC03MWRxMmVkdy1sVHR2ckVhQXk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "efba69d6e98604",
+      "id": "b5db137289009d",
       "title": "Ajax trof de 'rovers' van Hajduk slechts één keer in Split - Ajax",
       "category": "Overig",
       "published": "2026-10-14T17:49:51+00:00",
@@ -245,7 +575,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSUd2a25jc2Z2ZDRVWWhrWnFTNUxWanJ4QXZxYVJsS0g0YUtMLWZYczZQMU9zV25FNTU2VGNEbWJNbmlFX3JyWTQydzEya1ZIXzU2Z05JanZvQUdEYWFVUEdHZGdjdHBreWl2ZGxGR1dsQ1pLNEdmOXNhbmJ2cUdZQ3pqTDJtYzgxQWFsT0xRbEk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDFqcV9HUHFjakxMaTVrVU52aThMdTNwcjJtRzFXRGc3U2VXMmJseldYVHFOc1FTTngzVUFiSHQyRW16V1p5Vk9YRVB0ZkcyQkhsV01vTHA5d1M1aWNPU29WZnhFRjhaVWhZbTk4RzFheGszeEdtWTBPYnpmaU1SdFBOSF9YSEJ4aFZOM0VGRQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -292,342 +622,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2146839/lof-voor-rigaux-twijfels-bij-cruijff-nog-geen-voldoende.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5b41553cb3db91",
-      "title": "Marktwaarden: het verschil tussen ECL-tegenstanders Split en Ajax is gigantisch",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T17:00:00+00:00",
-      "updated": "2026-10-14T17:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146708/de-marktwaarden-van-hajduk-split-en-ajax-tegenover-elkaar.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ff0dd2f4ef41e9",
-      "title": "Ajax-fan deelt huiveringwekkend verhaal uit Split: 'Dit is echt andere koek'",
-      "category": "Overig",
-      "published": "2026-10-14T16:31:17+00:00",
-      "updated": "2026-10-14T16:31:17+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjBnYXVlQUZlQWhRaVp2TXo2RFRjbUhDZzBXUHdsdWZCN2l2UktsS2FJdFRuWjZmWWt0Mjg4bU1kTmhEWVIwNjk1Z2taNEVtdmg4S2E5V21YenYzT1pUUVEtTGRudVpWMW5rN2d1V25Dd2ctb1Bqd1plaGFMRUtoc2stV2dzb1VmVnVESkpJWkp4UGpFZzFJaXUybGkzODV6N1dxTTViQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a40f58e91944f9",
-      "title": "Ajax reist zonder Adingra af naar Kroatië",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T15:54:55+00:00",
-      "updated": "2026-10-14T15:54:55+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-reist-zonder-adingra-af-naar-kroatie",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "07a9eb96f4e9cc",
-      "title": "Achttien Ajax-supporters opgepakt in Kroatië; politie vindt messen",
-      "category": "Club",
-      "published": "2026-10-14T09:08:00+00:00",
-      "updated": "2026-10-14T15:44:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObTJ6Njg5cjFhOVRGZ2dzdVlIanhTVkQ1S29PNWlOd3l5LThuU0ZONWdBZTVqNlRMRlZ5RFhlTEFTTUJIbGQwaURwVzJBdkhHX3ZCNTBUWlJKamgtODlmSkpWYXVlc3dnaDVDNTU0ZTFmNmFaT0pCWTVXb25NUzlfRjlpWklnSklTT0hEbzZXQkJuTGZYaHBxZDJuTXpINU1jc1Q1SHBFNkFFV1l4OVZpMWVQVTNEd1k4V19B?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/56070/Achttien-gewapende-supporters-Ajax-aangehouden-in-Kroati%C3%AB",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "acffa421c8f164",
-      "title": "Zomeraanwinst ontbreekt op Ajax-training voor duel met Hajduk",
-      "category": "Transfers",
-      "published": "2026-10-14T15:29:14+00:00",
-      "updated": "2026-10-14T15:29:14+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146658/adingra-ontbreekt-bij-ajax-voor-duel-met-hajduk.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ecdad0c06bfacd",
-      "title": "Ajax met 22 spelers afgereisd naar Split",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T15:01:38+00:00",
-      "updated": "2026-10-14T15:01:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56069/Ajax-met-22-spelers-afgereisd-naar-Split",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "dbecbca59d405e",
-      "title": "Ajax mist Steven Berghuis, Anton Gaaei en Caio Henrique in uitduel met Hajduk Split",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T14:28:55+00:00",
-      "updated": "2026-10-14T14:28:55+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUGJwR1BjRjUtU3RVMXk1dWtXOEhxeTdoNF9QeGMxZVFQaS04ZmQtbUdxcmdtenh0bzBwamFncDdzVHl0UzFxT1ptdG9OTDV4eDBqeDdIcE9ZVlhicXIyM2hIYjRmb29WZlhTbzBPbWxrbnVKUjFwZ0FXaWdWM0ZmZmFkcW5nelExSWJIVTVuMHJUdWpIbWJjWS1nclVlXzRNMzFseXVFU2hFdW1WYmtoNndIazZIcGNWbkFF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4308a42e393d20",
-      "title": "Ajax maakt selectie bekend: Adingra ontbreekt, Michel doet beroep op jongelingen",
-      "category": "Selectie",
-      "published": "2026-10-14T14:10:00+00:00",
-      "updated": "2026-10-14T14:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146772/ajax-maakt-selectie-bekend-voor-conference-league-duel-met-hajduk-split.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4df18d33580293",
-      "title": "Waarom Ajax en FC Twente nu pas beginnen aan Europese campagne",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T13:30:56+00:00",
-      "updated": "2026-10-14T13:30:56+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/waarom-ajax-en-fc-twente-pas-na-interlandperiode-europees-spelen",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "25b9935083eaca",
-      "title": "Zorgen bij Ajax: net herstelde speler alweer geblesseerd, blessurelijst blijft groeien",
-      "category": "Blessures",
-      "published": "2026-10-14T10:57:00+00:00",
-      "updated": "2026-10-14T10:57:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeURTMl9jaTNxdkxwQXY2OU1UV1d0SHRFUWZoVjZxaXNTbkd5SEptd1o4djZjQ0xqS0RVWHo2azlFLUdTMThwMnd0ellrRFB3TXl5QVJpN2dnUjZnVWdFVDlzOEpzMGVCaV84c1Q2ZC03XzJ0RDA5VGNKMW1hZEFZazN3UzJnQkM2V0lnUVJ0TGhjSzd5a2xCMUd5b09JUHBkSXpvLWJra2lRMUFhcGZKdDlmQ2pwYWFyOW1vNl9ZY1R6LTF6cldabVlFYmFldm5tNVlYdg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a28bf4e5bdd871",
-      "title": "Kraay jr: 'Hij zweet niet bij Ajax, hij wacht op zijn vrouw in P.C. Hooftstraat'",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T10:25:56+00:00",
-      "updated": "2026-10-14T10:25:56+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146632/hans-kraay-jr-is-niet-te-spreken-over-houding-marc-ter-stegen.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7e6c4b3ed5998a",
-      "title": "De Boer baalt van Ajax-moment: 'Dat zou de enige uit mijn carrière zijn geweest'",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T09:56:00+00:00",
-      "updated": "2026-10-14T09:56:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146659/frank-de-boer-baalt-van-mislopen-ajax-hattrick-tegen-hajduk-split.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "aad2c77bc4d970",
-      "title": "Adingra traint apart bij Ajax, aanvaller redt Europees duel vermoedelijk niet",
-      "category": "Selectie",
-      "published": "2026-10-14T09:50:57+00:00",
-      "updated": "2026-10-14T09:50:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOTBuajdOQ1UzaERNcFFoTGt2ajI1ZzhaRmhzTmFwTVVQWVBxb3Uya0d2RnJMVDdvZjdOMVRIWTg2cXhrX3pFOW9JNjVfLUNNdURJRWg3Qi02dzZRQlhzLXBWakNoYTNSYm1menBCLXZ5UWUyaGROcks4Q1pZSms3LXZic2FtOWlWZzdoLWgxNERHeVJxb05ud05QWEkybnFQa1QyUGJ6bkF1bjhQNWo4a2tNc0ZkelpxNmR2NHpuUlB4d2R0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d204d1923af49f",
-      "title": "Hans Kraay junior ergert zich aan Marc ter Stegen en één veldspeler van Ajax: 'Hij is tot nu toe een verschrikking'",
-      "category": "Overig",
-      "published": "2026-10-14T09:48:00+00:00",
-      "updated": "2026-10-14T09:48:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdElYMkp1SVBoNFQybk9rb1dqVDNWWWVoa1dzQVpLLXltNEZqSFJ6VXpEcWNBMDhfNTRpQlUyWmFONGZtZDVMcVNwdXNlNFdJYlJGZEt3OXE4Vm1HQ1BkZ3FMOC1GSXQ5R2RJcF9RWWtTQWxQZ2ZLU2FLb1loMk1lbWdha1c5anI3Nkhta3lxaHpDUDVTWDE5eHVDWDNtVENUbGszNU10eXlZQ2JZV0Y2dEFudzJzNDA3c3pxamd0RWZ2dkgzeExQdHcxTDNBWmlSWXlmUmZCSGxocmtUUEJKZDEyWHJWS3pNVmNsb0pRcWZ4LXhoQkFsY0NR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f857c86bc1805f",
-      "title": "'Grote zomeraankoop Ajax niet fit voor duel met Hajduk en blijft achter in Amsterdam'",
-      "category": "Transfers",
-      "published": "2026-10-14T09:43:03+00:00",
-      "updated": "2026-10-14T09:43:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmRiUUhjWTVPUGFaZk16cU9TUm03RjNlOVlBSVB1RG9QblJLYWNMbU5wT2paR19SdGRRQmZITEN0WDFQSjJuRVdCdlZNZzNTWmRMVWxRVVc0VlVocFRpMDVaSTYwN1d1RFBFV2JuWld1U0ZPcUFsZXZabTJNUXYtREVWbTZqMERVRF9UaEVjM1BtX2FfSzRFM0w4RWU?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5f5ca6226571b6",
-      "title": "Vernieuwd Hajduk Split vol vertrouwen: 'Zeker geen makkelijke wedstrijd voor Ajax'",
-      "category": "Wedstrijden",
-      "published": "2026-10-14T09:30:00+00:00",
-      "updated": "2026-10-14T09:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146332/ajax-gewaarschuwd-voor-conference-league-tegenstander-hajduk-split.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8e0f9939ae7bc6",
-      "title": "Ajax traint zonder Adingra richting duel met Hajduk Split; ander vijftal ontbreekt nog altijd",
-      "category": "Overig",
-      "published": "2026-10-14T09:04:24+00:00",
-      "updated": "2026-10-14T09:04:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdHh3N1JVQVZBdUpKZGhHNFZjU1NOaFVieXNXQTlrU1hOVGJZRnVldDl5U1lOblMtbkMycHZtbHhCLUNaZWhCTklmeUpqQVV6d3dOUGwxZ2JQMlFCN2h6TGlSWGpjb1NEQldvd2NSRjB6d2JwbWw4bndlSHBDVTFYUnZDWkV6WDhFREFfaTBDVUZxUkV5cVpoTjNFM0l2UXhZek9qSXB6eTFteGxmeHdoXzgzOU00U3FRMTVPeC1jUE9nR1Z2QVdGNFY1WHh2VFB1NjRscXNtb0xHcm5XSzVNYmJSSQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3d97a2a2e0a897",
-      "title": "Hans Kraay junior haalt uit naar ‘verschrikking’ van Ajax",
-      "category": "Transfers",
-      "published": "2026-10-14T08:49:07+00:00",
-      "updated": "2026-10-14T08:49:07+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWprTGhudXBhY0tHRjNBNDZVcUl3azRkcEdxamVQNGVQYTU3ZmwwSXY1TFJ5cS1Pb0ZXV3BjRmlyZVpKZ3lza1hYVW9IbmtLVG5xRDVSSmZOQ0lDb1k2dEFxYmNWZlNESzJkUDc4Q3Z6TVNyMElxV0dDMUV2VC1Nakd4VWlkNGxQX3ZDcHpfQm1sVWRySmtIX0xjT2s3NllUNWlMZUFWRGp0SVZHdk14X3RyV1NWVHR6VGkzVXdoY21KR3M?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b531d2e7106e8c",
-      "title": "Uithaal naar Ajax: 'Ik hoor dat ze nu al klagen, ze zoeken naar excuses'",
-      "category": "Overig",
-      "published": "2026-10-14T08:27:05+00:00",
-      "updated": "2026-10-14T08:27:05+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146528/kroatische-uithaal-naar-ajax-ze-zoeken-nu-al-excuses.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2be14797e70076",
-      "title": "'Grote politiemacht arresteert groep gewapende Ajax-supporters in Split'",
-      "category": "Club",
-      "published": "2026-10-14T08:14:23+00:00",
-      "updated": "2026-10-14T08:14:23+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2146488/kroatische-politie-grijpt-in-18-ajax-fans-gearresteerd-met-wapens.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "21a75bd570b0cd",
-      "title": "Groep gewapende Ajax-fans gearresteerd in Split: Kroatisch medium toont beelden",
-      "category": "Overig",
-      "published": "2026-10-14T07:27:18+00:00",
-      "updated": "2026-10-14T07:27:18+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMUp5U24tRzdfRTJwWHFjMzRVV0Q4MEE4LVpWM0tsVXBfZ2pCOEtld3Z3TWw2dE4xbG9mdV9lOHBjZlI2RXMyNFphdVhnZ3d3amhBM0M2cjZqU2F3NFNwQ1JzZ0MxSVN4d29PeU1OX1pFLWNLamFMUmlmdVJPbTNESXBLUFBRZ1JrTjNUU18yb3ZSOW1wWVR2eDNMWDNkMWFZYzdaZA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "37ec839c2ca45d",
-      "title": "Ajax gewaarschuwd voor Hajduk Split, een ijzersterke ploeg op eigen veld",
-      "category": "Overig",
-      "published": "2026-10-14T07:00:00+00:00",
-      "updated": "2026-10-14T07:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNDExb2ljTk9QTllWbnRYVDh0RDdVSjRrMjBXMm9Nek9jdXNhVjBfMFZkMlVMRElVMmZWdnJjczloWVNNM3Bxbzk2Z0VsQW1TM09aQllzSDMtSXZ5eUVjODQ1T3VlWnBkRG5qYzJGUFFhUk9MRmtqTEtMUGgzeGRuX1dGamJWLVh0XzM5Z0J6NkJBT0xJSmlPNElYUjFhcVF6YmpSVmh0TUluaWxRVElVbm53RHMybVNEYXBnZUZWbkZFOGc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
