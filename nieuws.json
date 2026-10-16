@@ -1,29 +1,44 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T22:27:01.678196+00:00",
+    "generated_at": "2026-10-16T00:49:19.146629+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 117,
+    "article_count": 119,
     "event_count": 40,
-    "discovered_event_count": 105,
+    "discovered_event_count": 106,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 63,
+    "excluded_video_only_count": 78,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "1a8afcf8fb91bb",
-      "title": "Hajduk Split - Ajax in twee minuten - Ajax",
+      "id": "3f87892af11f9b",
+      "title": "Dit is Hajduk Split - Ajax in foto's - Ajax",
       "category": "Overig",
       "published": "2026-10-15T22:03:06+00:00",
-      "updated": "2026-10-15T22:03:06+00:00",
+      "updated": "2026-10-15T23:02:04+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jVmIteXctd1RnaVQxazBOc0JRVGVsX1BETVpqTE1UX1R6VlZJRGRJcDlKY1ZsUWhnRHRQaHdxcEFqU2pIMnE4VjVXTmFVRU9nalFWNEVDVDRlSGxDUW1qc2tzeEFuVjNPaW5RZE5WRjdTZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYkFkOGVoTjdNcWVXM0FtNHpieXluZ3NXMGlaOTA5bjNrMzZOVklXMHRjUUo3N1dpS2VBMjQyNm1Xcnk3cEQ4elhRT09JS2VCaWRDVTg2Rmp2el9lWDBXUnZTc1c2NXl4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a4f9e6987f39ac",
+      "title": "Ajax-trainer Míchel: \"Slechte eerste helft mét en zonder bal\"",
+      "category": "Overig",
+      "published": "2026-10-15T22:02:46+00:00",
+      "updated": "2026-10-15T22:02:46+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekNILUFXdkQwWWEta3JBRExtN2xHQTh0U0JCSldvanlxS3dGVlBUVk4wd3RQWVpyc2loQi1qakZJZENxVG1idDQ2UlhVWjJMMXNOeXZDYktKcGVCRUNKNDVKcTdZUlQtaWZybkhQZmRpSEpLUjlpN1k1ZWk2OUFUanc2X1Z4RXhKRk92OHhGdkJseDE0LUtxQzRMRGRncHhUUThaTkE1TV9oNVZT?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -130,21 +145,6 @@
       "related_sources": []
     },
     {
-      "id": "ffb308ebf95cb2",
-      "title": "Baas legt pijnlijk Ajax-probleem bloot: ‘Daar konden wij niet aan tippen’",
-      "category": "Overig",
-      "published": "2026-10-15T20:45:00+00:00",
-      "updated": "2026-10-15T20:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUQ1bDNnRVdIamh4N0pseVRReC1hRngyMmxtSElkbnQ0Zmg2RGFMSy1EakZjOEs5cVNhODM5a1VzYkMzQXRLUDJGTlRtWHdUMmZ2MFZkbG15X3A0Q3dldk1CdE0zU0oyLTBZWVdPc01KWnA5OGNoZzZLNktsUkg2QWVvN0pFNlY1WllrX2x0b3pTQzhNY1BYOWJwcVpvOE9CNXdtMEpBNzRUaDMxNkJPUA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "6d96c6d73a8ff6",
       "title": "Ajax-fans woest na interview trainer Míchel Sánchez: 'Echt schrikken..'",
       "category": "Overig",
@@ -191,7 +191,7 @@
     },
     {
       "id": "58b827b8bec1b4",
-      "title": "Ajax-trainer Míchel gekraakt na 'grove fout' in Kroatië",
+      "title": "Frank de Boer wijst op grove fout van Ajax-coach Míchel Sánchez",
       "category": "Overig",
       "published": "2026-10-15T20:19:00+00:00",
       "updated": "2026-10-15T20:19:00+00:00",
@@ -230,6 +230,21 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbWVxN29PcXVGTjVoTTVKeWxXM01GVHR0NFNQUTBzNmRhSEJKTkJUcEY0NER0Tm9PNlkyWDkyNEl0WDQ0U1VTTFJvLXBSMENMQmlJNk11Zk5iTWtMS3B0Q25TOXZPQUdpQno4cFVJdTBBMmlHT3UybDJQU1UxaE85TXlFbmtsamFMek9vVzJnYktibnRiT0dId3ZDQ3JELTN2elAzbFo5UzUta0J1WmZWbzhneU4wTXJWVkpCRmdkNElxM1pPR2phWmpabVVJT3gwVkE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "368c7c877d6e82",
+      "title": "NB: 'Zie te veel mooiweervoetballers bij Ajax rondlopen, hou mijn hart vast voor komende weken'",
+      "category": "Overig",
+      "published": "2026-10-15T20:08:08+00:00",
+      "updated": "2026-10-15T20:08:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2Y2UTZhWGZyazVWczY1MGtNNWM2cHluVW50MUdDU2dtU1lHMW42TGFwSHN2blZKT2d6TnBxY25XeWk3NS1YMHJES0gtS2JpM2hfLTJ1RmJKaVFUV0tpb1JPVjVMN2xfTmVkY0g0RDh3UnhuOVdPTTNYb3NtU0RUanVMdXkxaTZ1ZEQ2dG83VmtkMnJTRlFlQUNOSENvd09IU2ZZMmRhOTdrdG5IR1dHMFZtamdKNW1OblBGaHlNVVowLVRNVS1EaVZIWFo?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -628,21 +643,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkV3UU9yekZpLUdxRWo3RXFXX3QtQjhuWnhUNDBfQjI1Y1N4QldnV0ZWSER6NEFvRnA3UXNvOVlmcDZaOEx5WlFKMXJhV1RBTENWZVM0dlJCQzlSNFNBNnlpN25YYVI3QldQWjJtZTZBOWlXZG13MDExZVprZjBtZUpyMHRmVjRhRW92S3FFRjRaQ2hKY1Vid1pOTVhWYUN5X2VaZA?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "91e7a85a0ce203",
-      "title": "De Boer pikt er één Ajacied uit tegen Split: 'Dat heeft hij niet goed gedaan'",
-      "category": "Wedstrijden",
-      "published": "2026-10-15T17:50:57+00:00",
-      "updated": "2026-10-15T17:50:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2147301/frank-de-boer-kritisch-op-ajax-in-rust-van-uitduel-met-hajduk-split.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
