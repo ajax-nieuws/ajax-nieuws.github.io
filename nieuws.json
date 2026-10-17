@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T22:07:34.179554+00:00",
+    "generated_at": "2026-10-17T00:33:04.505668+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 121,
     "event_count": 40,
-    "discovered_event_count": 108,
+    "discovered_event_count": 107,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 78,
+    "excluded_video_only_count": 81,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
@@ -240,18 +240,24 @@
     },
     {
       "id": "24f8a64bc739e4",
-      "title": "'Het project van Jordi Cruijff bij Ajax staat al op instorten'",
+      "title": "'Voetbalseizoen nauwelijks onderweg en nieuwste project Ajax staat alweer op instorten'",
       "category": "Overig",
-      "published": "2026-10-16T15:11:02+00:00",
+      "published": "2026-10-16T05:20:00+00:00",
       "updated": "2026-10-16T15:11:02+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVlnRE1jUUFnYlNwX2s2Zzk1cTFtdDZoUU8wcWhabm5BSmh1MkFqdkRGTDR3cUEzUXUxVUVSVUhPZXNXS3NIQmpJbzV1VkxnbXBicjJnaXUyNk5pRWpVM2hjV0NUSTBSNFRNNS0xZlRKUFlPWGdYYTJEWFJPS2lsa3I0LU1GV21TOUJTdHVPQ0NOWEZtSGNxdnJVTWl0YkF6bzQ1VlYzd0t0UQ?oc=5",
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFMwdGtfQ2lMeDJlUWd0bXlDS1VrZnN5MHNUcWJNVHI5OXJvdl9wS2oyWWtDNUI2aktsSnhhTGhueU1mZ3NRcGRyejJxS2FIYUdwUE1WNFRZcFgyMGE1RTB0OEZjTlhabzhuVGh1YldhQld5RjFaNVhoTHd5OWhKNDItRjlZTTZQd0xZdkxJZjZ3RlJLRkt5MWI0NjN0X3AtRnRqYmZrQnI3RmtNMU1paXpReXRYdXdWMmM0V19jNFV5V0NVNHNoVjE3emc?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVlnRE1jUUFnYlNwX2s2Zzk1cTFtdDZoUU8wcWhabm5BSmh1MkFqdkRGTDR3cUEzUXUxVUVSVUhPZXNXS3NIQmpJbzV1VkxnbXBicjJnaXUyNk5pRWpVM2hjV0NUSTBSNFRNNS0xZlRKUFlPWGdYYTJEWFJPS2lsa3I0LU1GV21TOUJTdHVPQ0NOWEZtSGNxdnJVTWl0YkF6bzQ1VlYzd0t0UQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "a2d665751c6f80",
@@ -602,6 +608,21 @@
       "related_sources": []
     },
     {
+      "id": "0b7b5651e34298",
+      "title": "Ajax-trainer Míchel neemt het op voor dissonant: 'Hij speelde goed'",
+      "category": "Overig",
+      "published": "2026-10-16T09:18:00+00:00",
+      "updated": "2026-10-16T09:18:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1JpWXVzS0h0ZUdxSTJ5cGUyY3diX29MU2xwUUdzMDJuQU1HWDhlenhrN1RjeGhsNUxQTUxDQkctQlNRaHlUa3R3TUtnc1AyNHBoZEluN2doRktQZjlheG1uZ2VqVVdLTXVVTHNWYWVoaTh2a0l1RDR2cDk0Y0V6OHVCaGFyeWpBalFlWnlSclFOWFlYaEJ3d0hUSUkzSmEyeGg0TTgxQWhPVWNVbHFNZVp1WmN3N1QtNFE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "2d1da6a47274be",
       "title": "Zorgen groeien na nederlaag tegen Hajduk Split: 'Geen Ajax-trainer zet zo weinig druk als Míchel'",
       "category": "Overig",
@@ -613,21 +634,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWttTHdJcDBvaUp3akdFc1g3REFpSnpNQ1B0OC1mWmZ1TzVoTG5UVFNmT2Q1ZkdnSEIxRWpUR09ob1BFTExtTWc2V3pxVGdHTHhDbEVRR3NBRUF1cVNWWlFudHBURFBXekoxcnpWY2dSZV9ReXcybVg5WXhCV20ydjVLb3liTkd5RzFOOTJGV25uUElmWXR1M1dXRlkwNmJHYVZVWWVLYm9vQUNFNzlYRzN1a25hZzd5X0tKRll3QkR5WGNXSk5CQXpOZ2JITHM?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e9f374f1400191",
-      "title": "'Ik heb bij Ajax alle interviews gedaan, de directie had ook iets kunnen zeggen'",
-      "category": "Club",
-      "published": "2026-10-16T08:36:28+00:00",
-      "updated": "2026-10-16T08:36:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2147494/marcel-keizer-blikt-terug-op-drama-rond-abdelhak-nouri-bij-ajax.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
