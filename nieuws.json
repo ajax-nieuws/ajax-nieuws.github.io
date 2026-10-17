@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T16:31:10.413031+00:00",
+    "generated_at": "2026-10-17T18:52:19.198209+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 123,
+    "article_count": 116,
     "event_count": 40,
-    "discovered_event_count": 104,
+    "discovered_event_count": 97,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 88,
+    "excluded_video_only_count": 87,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "fbed1f00d19b2f",
+      "title": "Ajax O16 overtuigend langs AZ - Ajax",
+      "category": "Overig",
+      "published": "2026-10-17T16:40:08+00:00",
+      "updated": "2026-10-17T16:40:08+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT05OSTNtMkxoVmtBVTVXY0VfUldMWkptZ0dhNlhZVDVROG9BcGxhQ0lnd09BbmtZdkVtSjIxMEZucDdSa1J1NmFlTFVrdm5JN0VLMW9OVnh4QXg2SFl1bGU5TTVPRUxlRnhKRnBSVEpmN3pKRWM5WURGbnlnS1hwQ2UxeERQekE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "42c24e41576ccb",
       "title": "Anita over samenspelen met Ajax-legende: 'Als kleine jongen keek ik naar hem op'",
@@ -113,8 +128,8 @@
       "id": "3764da9a34503e",
       "title": "Van der Werff heeft hoop op zege tegen Ajax: \"Kunnen boven ze komen, dat is extra mooi\"",
       "category": "Wedstrijden",
-      "published": "2026-10-17T11:55:50+00:00",
-      "updated": "2026-10-17T11:55:50+00:00",
+      "published": "2026-10-17T12:29:17+00:00",
+      "updated": "2026-10-17T12:29:17+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -156,21 +171,21 @@
     },
     {
       "id": "98bc875f5da24c",
-      "title": "Grote vrees voor Feyenoord-uit: 'Thuisblijven is helaas geen optie voor Ajax'",
+      "title": "Henk Spaan vreest zware afstraffing voor Ajax: ‘Thuisblijven is helaas geen optie’",
       "category": "Overig",
       "published": "2026-10-17T05:47:00+00:00",
       "updated": "2026-10-17T10:29:27+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE1iRlhBeGtTOGdpcmxaaXRYR1VOWnVwaEpMYTRnNHpSR3JWclpiVGNGajZldmhHR2R3bFl1WmJjLXJJZGZiRFBZRUpDNUVUckhKZGlqNEhLZmEtaUtaWnNTQmpRaDZlVk4tMDZ6Zk5mOGNKNnQ0OGFfRWFPMEZXWS1PaDBacjBxdnE2UlVOUmM2VU9QWmVmdUhZWUhsWm1pOHdXa09ZVzhCT2U0bC1mY1dIem9aZmRWV2U0QThwLUhjQjR4SWRv?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmoxc2Nma3pGaDdxU3dzS3BNSzMxWXFucmlQZWEzN2ZWSnhCaUdWYTRqR0ZxdXJkWHNmckZHY0I5Y2hubnVuWUJYelNNRGlpdkg5c0lHanJNeVVnTkkzY0drR1FEU2c1bnVuSmdpVXhQdEJ5Z0dWaEozd3JMWE9qV0Q1NlBLUmF6eVJzbmxSZGdPWTlmNGc?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmoxc2Nma3pGaDdxU3dzS3BNSzMxWXFucmlQZWEzN2ZWSnhCaUdWYTRqR0ZxdXJkWHNmckZHY0I5Y2hubnVuWUJYelNNRGlpdkg5c0lHanJNeVVnTkkzY0drR1FEU2c1bnVuSmdpVXhQdEJ5Z0dWaEozd3JMWE9qV0Q1NlBLUmF6eVJzbmxSZGdPWTlmNGc?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE1iRlhBeGtTOGdpcmxaaXRYR1VOWnVwaEpMYTRnNHpSR3JWclpiVGNGajZldmhHR2R3bFl1WmJjLXJJZGZiRFBZRUpDNUVUckhKZGlqNEhLZmEtaUtaWnNTQmpRaDZlVk4tMDZ6Zk5mOGNKNnQ0OGFfRWFPMEZXWS1PaDBacjBxdnE2UlVOUmM2VU9QWmVmdUhZWUhsWm1pOHdXa09ZVzhCT2U0bC1mY1dIem9aZmRWV2U0QThwLUhjQjR4SWRv?oc=5",
           "via_google_news": true
         }
       ]
@@ -206,19 +221,25 @@
       "related_sources": []
     },
     {
-      "id": "70867ac0fa2108",
+      "id": "1de82c29dc55ec",
       "title": "Van der Gijp zag 'ontluisterend' Ajax-interview: 'Dit kan echt niet'",
       "category": "Overig",
-      "published": "2026-10-17T09:55:28+00:00",
+      "published": "2026-10-16T14:29:18+00:00",
       "updated": "2026-10-17T09:55:28+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2147888/van-der-gijp-kraakt-michel-na-ajax-interview-en-opstelling.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWc4XzBTU1VEb0taTjZoNU5uaXUyd0pMcFZrNkVNQmxvTWF6c0Fha1NOQ2VqbVM4azlweWlpWVpoakNKVGlYdUFVLUI4U24wc3lwWUlQb0tIMk1vZWRrNmtfTE5CdDE0VlJaNEI5VFJlVzVUYm50d0JvQngxSTJmbEx2Rks4U1Boa2J2MnFPYllQRm5CUkNpTDdPc2xTdmw5aU5r?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "68b6bd089a31a2",
@@ -372,6 +393,21 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeTdldDdGLXZUWUxuckVHRXFaWUJ2VV9vWmJXbDd0ZHh0QTZlajB4dlR1c01Bb3ZIR1hqalIxSnBWOEtwYlBoYUVKZ1JlMHpJTWxPcEpMYWxJSndyVkg0TXYydElScGZVQXNWSXNMajZsNVRBUHF3VVJNSzJVZDFBU2xJUTlUVEZIcWpsQkxNZ2ZCb3cyNTZESm11NVozT1ZfRDdnSFpZLW1EdWZPRFFwY1hRRHZKT25CN2dCRFR4SjMzWjNhdkZsakc4SUZGaFJYOUd6RlVlR2NwZHFC?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "45c45969f67e92",
+      "title": "Ajax staat op plek 25 na nederlaag in Conference League, AZ klimt naar 19de plaats na zege",
+      "category": "Wedstrijden",
+      "published": "2026-10-15T20:59:00+00:00",
+      "updated": "2026-10-17T04:03:59+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTS05QkJQbmFOWnVxanpNSUdCT3BiV0Z2TE5OTnE2MWcwVEJDcUp4SzhIMGJnaVlQUVRjQ1I0eTk0ZzdBNi1LOG5pYTU1TEo5WnZxQTk1ejdCR1ZDc01vdms3SHcySUl6VG1Xc3NjS0lBdWMwOE9adXFKSlMzdk1RRndzdTJwV2hoMnZsUDFBV2pmUWlHZWVpbVBmV3lhQTFYRkJaNnA4andodEoxalRHZ2dieXUzakg3Mnl0LUlQVVl6MjA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -563,21 +599,6 @@
       "related_sources": []
     },
     {
-      "id": "11e17e04cae3d0",
-      "title": "Ajax slaat de plank mis op transfermarkt: aankopen leveren al jaren fors aan waarde in",
-      "category": "Transfers",
-      "published": "2026-10-16T17:21:36+00:00",
-      "updated": "2026-10-16T17:21:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaU5mSW44SFBvemhyM0FKeHoxLVFNeFZkLWoxN204Y09fRG5UU3l4SHhjejlibWs0Z2xnMHF2NVRPTUhvSlJhSDVvdmowX3ZtR3JfcTFWRU5xSlAwMEx0MlJCOFRiV3lJanJBUWlqdFJzRncwd2FMN0NzVVhLajlsR2liNjV4VUZzWGJZVW5jandlOVppdWNkZmFYUjItdE15VXBRNGFLV0FROXVjNzNGdEMtdjhWbGFPSTRudkNBVEItbk56U0daMkxoU0pWeEpsNHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "47eaf057e966eb",
       "title": "PSV treft FC Porto van Farioli: waar, wanneer en hoe kijk je naar het CL-duel?",
       "category": "Overig",
@@ -618,21 +639,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0lCekRuTGREM2g2djJxT2dHTHVNT2lXVk1FakN5NnlLMHdRTDFSSF9PaFZncldaZUNNRkJjdTdMOF9oZVRwcjdKUTBFMGtCMUJrazRXM0MxZTg5QUthc2M0YXQtSjZEM2ViSHJlT0ZWY2Ixbm10bnZ6QUlCZ2xfaUtPTVFiM0tua2tqdWNJcWh0MXBIS24wTFdaSV8yS0JPeTI3Q19qR3N0NEJJX3NidzRfMlhhcjFRZU1WVUk2LTk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "159b372f07b26b",
-      "title": "Baas over drukzetten Ajax: 'Niet het gevoel dat we in hele grote ruimtes terechtkomen'",
-      "category": "Overig",
-      "published": "2026-10-16T15:29:25+00:00",
-      "updated": "2026-10-16T15:29:25+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2ZBblozSEk0RnBtNHMyU1BqekM2R3JyYTVJMEdtZ29wN2x3V1J2VEhnV1JJYW9tNXJucnhQQkJXVnItQXBqdHpzcG5lNVhfWUtVRlpzRGhXUDZIaS1NeWR0bmN1emNUMWtuS3FtbGhmbUd5M2RuTFVxamg4RnFtSjdJalZuWDFTRmhQeVZuSUt4TDNqZmZHUGZMLUo2QWNDQm5yVFMxbFk0dXBlVEY1S0htVTBCRGZqQUdF?oc=5",
         "via_google_news": true
       },
       "related_sources": []
