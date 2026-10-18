@@ -1,18 +1,104 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T20:51:51.771875+00:00",
+    "generated_at": "2026-10-18T23:20:08.881908+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 109,
+    "article_count": 110,
     "event_count": 40,
-    "discovered_event_count": 90,
+    "discovered_event_count": 89,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 77,
+    "excluded_video_only_count": 79,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "311ffd83ed9634",
+      "title": "Highlights FC Groningen - Ajax | Op schot in Groningen - Ajax",
+      "category": "Overig",
+      "published": "2026-10-18T22:00:27+00:00",
+      "updated": "2026-10-18T22:00:27+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmtkYzhVSm1SQkpZalRRWms5enFnZ3Q1UG9EYzRGVEp3SzhhcHNYaXpzU2xwbW1faERUeDlpeTB4RVpmQVBwRkhVMGJrTWEwWFZZY3lSZHVkRS1id3hIYlJ4eUh0Z0JNdVlFRWJmT0s0Nm5NNFhrUWlsNEp2bW5udTN5ZkJZYndK?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "42ec06626c98e4",
+      "title": "Ajax profiteert met ruime zege in Groningen van puntenverlies PSV en AZ",
+      "category": "Wedstrijden",
+      "published": "2026-10-18T16:40:46+00:00",
+      "updated": "2026-10-18T21:29:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-profiteert-met-ruime-zege-in-groningen-van-puntenverlies-psv-en-az",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2148401/kenneth-perez-en-karim-el-ahmadi-kraken-marcos-leonardo-bij-ajax.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMy1RaDdUQUttVFhpTUZGLUxRZjJfYURFYWM4R3BPclhaaGl3d2M3UERFQ0JSOFM3QUhpU1k0cHAzRDJtdExFTE9WSDkxcEx6WUxnQW9ucVdwU0xqendyRml0c1FvVU1HWmJKNXhCa1J2ZGEtMGJTRnREbVFVNnc4UG93ZkZnTzNrUDBwMUVuNE5aS08yemxMdDJmZFhFYnVrdl95T3ZlbkZqVVQyMlVySm5GTQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "25bcb4dcbed4fb",
+      "title": "Míchel bracht Ajax-spelers in hun kracht: 'As dicht en Brandt hoeft minder te lopen'",
+      "category": "Overig",
+      "published": "2026-10-18T21:25:00+00:00",
+      "updated": "2026-10-18T21:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGYyRHljLWtzaUdwWEtjOU9yazlOUWU1Mm9OWVc4WXBhSWFTLW1VbEEzQ0VUcVRBWm42SHUxQkRKTnByR2VpVmxVRWFoTEE2YUhFYWxLd1FEYmZvTnpfVFJ5Tm1sN2ozLThXQlJxN1ZfY2VONDJFZjh2bnJ1MEpEUkI5ejRUTkwyMGd3cTYyYnprV2J4d1lVRWxPdUc0RDdPSnRhbWFoazZ2Q2dESHo4UVlwMjNYY2Rw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "595bc8506ddd08",
+      "title": "Marcos Leonardo overtuigt ook niet tegen FC Groningen: 'Dat is schrijnend hoor'",
+      "category": "Overig",
+      "published": "2026-10-18T21:05:00+00:00",
+      "updated": "2026-10-18T21:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/marcos-leonardo-overtuigt-ook-niet-tegen-fc-groningen-dat-is-schrijnend-hoor",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "90504b2d1e7733",
+      "title": "Janse geniet van Ajax-teamgenoot: 'Het is gruwelijk om met hem te spelen'",
+      "category": "Overig",
+      "published": "2026-10-18T20:50:00+00:00",
+      "updated": "2026-10-18T20:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTVRwSnRuZGFXcFJ6dHpraUZhTXRiNVdmbE9PRHNhWkJoQWNBcUNaeHZlWDltbUJIM1Zjc3FmM3k4STFxQkVjNUx5NWdnUXZfVmdwOXB1dFIyM3FGaEx0NlhKZWdoOVFRcWt2UG1XN2ZHcWxvSWpydWdJODhXaV90UWp3MWRmcmVMV0w3eVc0M2xNUDRNVWM1Z1pVYXliZTY2Mm5ic2EzSjNJUWNPOU9hQThfUDF4TF9qQ0pyQmRB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "f5a5fb70bc3146",
       "title": "Leonardo maakt indruk bij Ajax: 'Fantastisch, hij kan een erg goede speler voor ons zijn'",
@@ -149,21 +235,6 @@
       "related_sources": []
     },
     {
-      "id": "330a307118c26b",
-      "title": "Van een dal in Split naar een piek in Groningen, het past precies bij wat Ajax nu nog is",
-      "category": "Overig",
-      "published": "2026-10-18T19:05:00+00:00",
-      "updated": "2026-10-18T19:05:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjVwbzdvV0RPdE1IS2pWQlRhZUc2dG5LM1RIbWJVLTRaOVVxV28xUlRqenlzcXkzMWVKdHNlaGpfbkNsc2pNTXF5VjY1YVRSUmdvSVdxQlpVcVBHY05Ray1JVFhhcG1jZFJDNWgzU21CSDNUaEdiTDJ1amJLSEUzNzVYUHpIc1lBMzBXLU9CU1R2aVVzdmpWNEI3Ti1CUE16b2pkcFZSV0ViVG9TNWJHbFRwb1RMR2ZOS2FJZVJuNTc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "0145e19c23ccf7",
       "title": "Mokio laat zijn licht schijnen op Ajax-opstelling: 'We waren dynamischer'",
       "category": "Wedstrijden",
@@ -222,32 +293,6 @@
         "via_google_news": false
       },
       "related_sources": []
-    },
-    {
-      "id": "42ec06626c98e4",
-      "title": "Ajax profiteert met ruime zege in Groningen van puntenverlies PSV en AZ",
-      "category": "Wedstrijden",
-      "published": "2026-10-18T16:40:46+00:00",
-      "updated": "2026-10-18T18:32:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-profiteert-met-ruime-zege-in-groningen-van-puntenverlies-psv-en-az",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2148364/davy-klaassen-haalt-gram-na-fc-groningen-ajax.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMy1RaDdUQUttVFhpTUZGLUxRZjJfYURFYWM4R3BPclhaaGl3d2M3UERFQ0JSOFM3QUhpU1k0cHAzRDJtdExFTE9WSDkxcEx6WUxnQW9ucVdwU0xqendyRml0c1FvVU1HWmJKNXhCa1J2ZGEtMGJTRnREbVFVNnc4UG93ZkZnTzNrUDBwMUVuNE5aS08yemxMdDJmZFhFYnVrdl95T3ZlbkZqVVQyMlVySm5GTQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "d4d7ab6c8b83dc",
@@ -593,51 +638,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnhVbmdHcXBiYzJSMUxhQmxOQlJNbnM4MXF2Q3JGZS1mdVZINFR3bkx0Wm5DdkFqMWUxOHhHUEl5STN1Z3JSdXhRWW1uTWpCU05jbVRiYUtsaDdTdmx4Y1I4a0lRc05fY3lSZjNvTkpwUWJKc3UtRmZpQnR1amxtWGxtVlFibVBQbTNOcExtLUt4M3JJVkNHU25fdG5CMWhZRm1kaGpZTDd1REFlSmZYSnpOOHMwd0M3b0t4bVJYLWpBc01ESm5iZU94MFI4N1Rk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d4fab5127d082e",
-      "title": "Blokzijl: \"Als Ajax heel goed speelt hebben ze meer kwaliteit dan dat wij hebben\"",
-      "category": "Overig",
-      "published": "2026-10-18T16:51:49+00:00",
-      "updated": "2026-10-18T16:51:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdnRqRk41blhnUEdKdm1DY3BaN2JvTzNsZjVoYnpWOUNCVDExaFhaOXpNand5dF90dmNyYmJ0ZHhNU1lFN05wNzNEOFFPZGlyaTV3NlAxRlhhNUFXUU1ZMUF5NS03a2VzOVF0dm1McjljTFJlVG44RExVTERmeWlWdWRyZTZxQ2ZPRllzWW5INndYbTVpaGhBZGNNUmVnUDRuOVVPR1NyZG9WRDVWUzdKR1FxbzF0RXZvVGFwcHhpbGg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7321558d65d8bf",
-      "title": "Ajax krabbelt op in doelpuntrijk duel in Groningen: 2-5",
-      "category": "Wedstrijden",
-      "published": "2026-10-18T16:41:00+00:00",
-      "updated": "2026-10-18T16:41:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AT5",
-        "url": "https://www.at5.nl/artikelen/240523/ajax-krabbelt-op-in-doelpuntrijk-duel-in-groningen-2-5",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "43c8fb884871b6",
-      "title": "Ajax maakt einde aan negatieve reeks met vijfklapper in Groningen",
-      "category": "Overig",
-      "published": "2026-10-18T16:41:00+00:00",
-      "updated": "2026-10-18T16:41:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQREt2ekx0cjVqUDZ4SlFBblByV2dFNjQwb1k4UUVtNlNJS0F2ZTJoYU04aVktUmp6b3VHeEYyWjdPQzQ0TmZtMTNOY21PNFc2dnVibktUeW56cUUzSnFRV1R6U1FQb2kyZ3dmR0Myc2VRcVVzSXMxQ1pVOFc4SFJNeU80OVFrWml3QjUxM09fdGZMcGFxUWYzUXRueWQ3OW0wRlFLTUZleVJYTjZZMTl1aFg3eTNfc2tvbVI0?oc=5",
         "via_google_news": true
       },
       "related_sources": []
