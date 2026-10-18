@@ -1,18 +1,93 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T01:34:16.051846+00:00",
+    "generated_at": "2026-10-18T06:38:27.958379+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 95,
+    "article_count": 90,
     "event_count": 40,
     "discovered_event_count": 81,
-    "source_count": 11,
+    "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 87,
+    "excluded_video_only_count": 83,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "9877c20f365fa3",
+      "title": "Twijfel bij keuze Ajax voor Míchel: 'Gebrabbel is zelfs geen steenkolen-Engels'",
+      "category": "Overig",
+      "published": "2026-10-18T06:23:00+00:00",
+      "updated": "2026-10-18T06:23:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2148125/twijfel-bij-keuze-ajax-voor-michel-het-is-zelfs-geen-steenkolen-engels.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9c44a0c167589a",
+      "title": "Gertjan Verbeek geeft transferadvies: 'Hij zou bij PSV absoluut basisspeler zijn'",
+      "category": "Transfers",
+      "published": "2026-10-18T05:56:00+00:00",
+      "updated": "2026-10-18T05:56:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2148120/verbeek-tipt-bart-van-rooij-bij-topclubs-bij-psv-absoluut-basis.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "53095caebe07ba",
+      "title": "'Bij Ajax verdiende ik 80.000 euro, nu moet ik rondkomen van 940 euro per maand'",
+      "category": "Overig",
+      "published": "2026-10-18T05:40:00+00:00",
+      "updated": "2026-10-18T05:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2148118/ex-ajacied-nicolae-mitea-ik-moet-nu-rondkomen-van-940-euro.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "78a33040a5c6ed",
+      "title": "VI Live: Ajax hoopt Europese kater weg te spoelen in Euroborg tegen FC Groningen",
+      "category": "Wedstrijden",
+      "published": "2026-10-18T05:30:00+00:00",
+      "updated": "2026-10-18T05:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/volg-de-wedstrijd-tussen-fc-groningen-en-ajax-op-18-oktober-in-een-liveblog-van-vi",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0ec593d43e389f",
+      "title": "Duurste eredivisiespeler overtuigt nog niet: 'Ik vind Marcos Leonardo geen Ajax-spits'",
+      "category": "Selectie",
+      "published": "2026-10-18T03:52:43+00:00",
+      "updated": "2026-10-18T03:52:43+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2635425",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "9224ba67f1418d",
       "title": "'Huntelaar is bij Ajax helemaal gek geworden van één iemand'",
@@ -24,6 +99,21 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1ZKWno0bktnaUUzZUdkWURQa2xlWDNqVW9hNjdrQ2NGMFdvdk1BSnk0TEJ3NFpiU1ZfY3Fqb2otS3NGVU1rOU9rNjQ5UWlsRWZyaFFpbXRoSXlON19abTQ1b3VPeXk0T3NRNUVCLXVFc2NTb3JCTXRKcjlucEl3QURPV2p4M2pGai10N0kzVEc1Y3Y5N3cxaEluZ1BtaE9zaklNMUp5eXJMNFNaanlMaVVB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9909b5c21d2f90",
+      "title": "LIVE eredivisie | Belangrijke test voor Ajax op bezoek bij FC Groningen",
+      "category": "Wedstrijden",
+      "published": "2026-10-17T19:00:00+00:00",
+      "updated": "2026-10-17T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTBzc3RmLTNiZHN3aTlQZ3p6dHY2X2VjYVk1ckZHWHdNQUJKdktSWHBXQmVDc1N3N0pyRjVrQnVhejd3LXJvTEZoUlpEWm1FS2ZScWpSYUM1RXRvaktCdE91UmF1U1cwenlWWDBOVlVEcnplNEFwd2pPNnVkVlM3aWl0TUwzbkRXbUIzOHFFOTVaZGZ5blhPR3BjQU44QUVsVEdsOVVrNGw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -201,21 +291,21 @@
     },
     {
       "id": "98bc875f5da24c",
-      "title": "Grote vrees voor Feyenoord-uit: 'Thuisblijven is helaas geen optie voor Ajax'",
+      "title": "Henk Spaan vreest zware afstraffing voor Ajax: ‘Thuisblijven is helaas geen optie’",
       "category": "Overig",
       "published": "2026-10-17T05:47:00+00:00",
       "updated": "2026-10-17T10:29:27+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE1iRlhBeGtTOGdpcmxaaXRYR1VOWnVwaEpMYTRnNHpSR3JWclpiVGNGajZldmhHR2R3bFl1WmJjLXJJZGZiRFBZRUpDNUVUckhKZGlqNEhLZmEtaUtaWnNTQmpRaDZlVk4tMDZ6Zk5mOGNKNnQ0OGFfRWFPMEZXWS1PaDBacjBxdnE2UlVOUmM2VU9QWmVmdUhZWUhsWm1pOHdXa09ZVzhCT2U0bC1mY1dIem9aZmRWV2U0QThwLUhjQjR4SWRv?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmoxc2Nma3pGaDdxU3dzS3BNSzMxWXFucmlQZWEzN2ZWSnhCaUdWYTRqR0ZxdXJkWHNmckZHY0I5Y2hubnVuWUJYelNNRGlpdkg5c0lHanJNeVVnTkkzY0drR1FEU2c1bnVuSmdpVXhQdEJ5Z0dWaEozd3JMWE9qV0Q1NlBLUmF6eVJzbmxSZGdPWTlmNGc?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmoxc2Nma3pGaDdxU3dzS3BNSzMxWXFucmlQZWEzN2ZWSnhCaUdWYTRqR0ZxdXJkWHNmckZHY0I5Y2hubnVuWUJYelNNRGlpdkg5c0lHanJNeVVnTkkzY0drR1FEU2c1bnVuSmdpVXhQdEJ5Z0dWaEozd3JMWE9qV0Q1NlBLUmF6eVJzbmxSZGdPWTlmNGc?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE1iRlhBeGtTOGdpcmxaaXRYR1VOWnVwaEpMYTRnNHpSR3JWclpiVGNGajZldmhHR2R3bFl1WmJjLXJJZGZiRFBZRUpDNUVUckhKZGlqNEhLZmEtaUtaWnNTQmpRaDZlVk4tMDZ6Zk5mOGNKNnQ0OGFfRWFPMEZXWS1PaDBacjBxdnE2UlVOUmM2VU9QWmVmdUhZWUhsWm1pOHdXa09ZVzhCT2U0bC1mY1dIem9aZmRWV2U0QThwLUhjQjR4SWRv?oc=5",
           "via_google_news": true
         }
       ]
@@ -338,6 +428,27 @@
       "related_sources": []
     },
     {
+      "id": "2a547dd1fe7e06",
+      "title": "AD trekt pijnlijke Ajax-conclusie na 250 dagen Cruijff: 'Grootste flop tot dusver'",
+      "category": "Overig",
+      "published": "2026-10-17T06:52:00+00:00",
+      "updated": "2026-10-17T07:10:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2147823/250-dagen-jordi-cruijff-bij-ajax-ad-trekt-conclusies.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSzRzN3dlbDY2UEM5OHJjWDdaTE1tb0JoWVZPSmxtQ2tlWDctOVpqYjJZeHhOaGdmUU90TnVRNWNaaDhhQnFIOE5ZejJPQnc2OXNCcEUxV1BqNFo1TVhoeXJVaXFiYWJWSjRKMDRnRTdqRjcyRk5fZUVhbTBKam9NOFZfcjZhUk05SlpQX0NQV3VZWmhiSV9qbHNpMzctWWRHcUxIZmpqTVF5SWNOZnR0Y1hKQ1ptbDBLSzNWaA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "772bff3358cd29",
       "title": "Míchel Sánchez zwaar onder vuur bij Ajax: ontslag of nog een kans?",
       "category": "Overig",
@@ -349,21 +460,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMC1Lckt6MFotU2poMVE2R2JZTS1VcVRTX05BQkNHVkFEczB5UXF0ajJhZGl3YWs4OHlvRVluZnlaSE5qQlhqbEpUb0JMYmo3OXhDcjloLTV4OGFfblBSTzFjQklyM1owdkt5Qmg3a3ZTYmgtOGZEVllRbkMtQ3JXd0IzTzNfNmNYRGE5bVN6ZHlNQWM?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d51a1b74f1bf2e",
-      "title": "AD trekt pijnlijke Ajax-conclusie na 250 dagen Cruijff: 'Grootste flop tot dusver'",
-      "category": "Overig",
-      "published": "2026-10-17T06:52:00+00:00",
-      "updated": "2026-10-17T06:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2147823/250-dagen-jordi-cruijff-bij-ajax-ad-trekt-conclusies.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -489,24 +585,18 @@
     },
     {
       "id": "0605b9294a86db",
-      "title": "Kroatische premier 'teleurgesteld' na Ajax-duel: 'Ik ben uiterst ontevreden...'",
+      "title": "Kroatische premier veroordeelt spreekkoren tegen Ajax: 'Ik ben uiterst ontevreden'",
       "category": "Overig",
-      "published": "2026-10-16T14:14:00+00:00",
+      "published": "2026-10-16T21:15:00+00:00",
       "updated": "2026-10-16T21:15:00+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2147692/kroatische-premier-andrej-plenkovic-veroordeelt-spreekkoren-tegen-ajax.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnBhVFA4ZmNkcHZsZ1piMm1kcEJ5aEYxU2p3THBDVTZkenpXdzdwT0dNd1FQZW9uZmU2VGFQcjF6bmtLWGlZa183UUJFMkg3Q2FTQ2VsWTM2MjNzMVBPbGhBYi1TanZNRUUtci1ZajZJZEpPcjB1VEFyZFBydzNpZWhEWU5wemJpZGZUT2R0R3VCZ2F6eDFWYnN1T3JRR3U1S3ZSaVZoUU5NaWthNXF3VUl3eGNNN1NnaTFkU3NKbDRHOFNtU1M4cFN3?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnBhVFA4ZmNkcHZsZ1piMm1kcEJ5aEYxU2p3THBDVTZkenpXdzdwT0dNd1FQZW9uZmU2VGFQcjF6bmtLWGlZa183UUJFMkg3Q2FTQ2VsWTM2MjNzMVBPbGhBYi1TanZNRUUtci1ZajZJZEpPcjB1VEFyZFBydzNpZWhEWU5wemJpZGZUT2R0R3VCZ2F6eDFWYnN1T3JRR3U1S3ZSaVZoUU5NaWthNXF3VUl3eGNNN1NnaTFkU3NKbDRHOFNtU1M4cFN3?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "35265814a738c2",
@@ -524,16 +614,16 @@
       "related_sources": []
     },
     {
-      "id": "11889efa4fddcd",
-      "title": "Tussenbalans na 250 dagen Jordi Cruijff bij Ajax: geflopte miljoenenaankopen, maar ook toppers als Brandt en Tolu",
-      "category": "Transfers",
+      "id": "bcf50daaaa3723",
+      "title": "De tussenbalans van het Project Cruijff: 8 conclusies over zijn missie bij Ajax",
+      "category": "Overig",
       "published": "2026-10-16T20:00:00+00:00",
       "updated": "2026-10-16T20:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS21pT2RIOGtUQm5WQjBHbk12R0xMcTI1Y0ZzcXVnV2NUZFlqUC1FWDBGSnAyYWhZdFB3WjA1X2J4QWowRU1vTmhBMktJRnAtUFYxdWwwTkppUlJsYjBydEkxeV9jY05vSWN2Qy1XSDdra0MwNmluRGhPdE81X2tDVC1QRGU1T3JzVDB4YnFhcXVqeDE3MVRKbHE0VkYzZ3dnQVBaN0FVUmFONUgwUlA3MDB3RlhkMWhyWXU3YTBfSVVyVGttOFVtYWJLSmlBX0otVEsxc0YtNXRYS25Vb0hKcQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVR6QUdmRTVjcDQ5SjNSclB1QUFnMEpkT2diUHVoNlR0ang3QlZKdmsweC1JWFBNR2h5Y0h3MWVYQVZmVVZXOUJTZGJPRk5FRDVkX0NXSTVrblBzaDBmMDE5NlhqQW5sOUM2WUxPVzJvNkMtQXE2SEZQRzVNMTNVWnhRc1FUU0hzSHpTbWJiTWhEMEt2ZUZXUWhmZExzMklWSndENTBteUtCSk5EYW50c3J2UVE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -550,96 +640,6 @@
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXYzN3RqZzAxejFmZkViTnVKcV92UUxYRUZfaFBFN0ZrTzkwb05VU1I4dGpBS2k4OG9Ia0kwVVlVSVZ5SWNMRzlDcmZzSDNGQUNtdzRGdk5HUGktYWJ4cHR6Uk5MLXJ5SmhPVkduZlp5R2RHTEE1QXp1RnZadVJvbWJwemRDU0JoaHh4aFhtb3cwcjFKeVVManEtYjVCMmRLaXlrTUpLRm5Zalhya3g3ZTVLRQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "da99228c380e37",
-      "title": "Kieft ziet pijnlijk contrast tussen Ajax en Feyenoord: 'Moet pijn doen in Amsterdam'",
-      "category": "Overig",
-      "published": "2026-10-16T18:50:00+00:00",
-      "updated": "2026-10-16T18:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbFJxVUNiQURfYXBfd1NCLTgtdTRFSmhwOF9tV3lhMVJyczdvRkUxRGJrVU5TYkxJWGt0WFBoYndiWnJ5dVo2bzNZVTVDaUdhNW1UeGphaU9uZ0pJVVJfeXhILVRZeXFZQ2V2Y21ocHJLLUlQZE92bXktVERkaC10ZGlqQUhCeExwZTRPY3MxbzN4Rk14VVBpM3FsaDVKSWdFb003aXJtR2tFZFBWcVRuQzBNcWh5MkdP?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8c99d77548a9e9",
-      "title": "Inan ziet Ajax afglijden naar een crisissfeer: 'De kluts alweer kwijt'",
-      "category": "Overig",
-      "published": "2026-10-16T18:15:00+00:00",
-      "updated": "2026-10-16T18:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2hjSGUzeDYwUUR3ckhaMjI0U3Z3dHFobHIxbHhmMUlDb3BvdFJHU3JDZFBCdzFNRnNJdWxQTUJZMXBYOFY1M0xrR242TWRzeDdvZ1F5bjN5dFA1VTRwem04bVp2N0JlOVk5OTI2ZW1xRjcyT0l1ZGdlY2syQjVrYVFLWXNMMEJzNTdoRW1QU29WMEhQNkJQaHNWZjFfUzFGdlhDclF3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "24ae9d0bead9cb",
-      "title": "Kieft: 'Hij is verguisd, maar achteraf is het gewoon een geweldige speler voor Ajax'",
-      "category": "Overig",
-      "published": "2026-10-16T18:11:00+00:00",
-      "updated": "2026-10-16T18:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXE4a3o0SDRrcDlId2FsSmo5Wjc0SEVyY2tqMlRzaUVSY1R3Ni1RZEJLT3BtTGNmUENFYW1RSl9OQzZ2cFVmeGlOTnQtZUxBTjNkOElpQWIyUkdjR1AxNVpYN2w4cjg4T2RENG4yZHJkNzJGXzNfeUd6dVNsS2NxZ2d4b2txSXJoVVY0TEJZVnppQW10WkJXUXkxNTFzb0JHbFZfMHB5Nm5qbngtMmNYaDM1THdiYllYdkZjclVWclNwa2wyclladEJ5cXA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4166a0891e1100",
-      "title": "Baas ziet Ajax worstelen en wijst op oplossing: 'Dan krijgen we vaker de bal'",
-      "category": "Overig",
-      "published": "2026-10-16T17:57:25+00:00",
-      "updated": "2026-10-16T17:57:25+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2147758/baas-ziet-ajax-worstelen-en-wijst-op-oplossing.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "788cd609e09065",
-      "title": "Baas ziet duidelijk verbeterpunt bij Ajax: 'Dat mag absoluut niet ontbreken'",
-      "category": "Overig",
-      "published": "2026-10-16T17:30:00+00:00",
-      "updated": "2026-10-16T17:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnhDczQtVVhaT3ZydGNkSjRGYXVRbUdUcEdMVlBXcmh1OGFIVXFEQ095MnBIWTJsLVdWOFR3Rl95R1ZmNTJvQklCRzc3MUVPQ3cxUF9yNjA0VlEzcGZSTHFBZ24xMVY1c2dGUElna01fejZHV1EwaFp6a0Joa1h5ZjZwTTRjeVBBRjRseVY5SW03ZHVjYTRPUVRKMm54ZERIYXNaUm42LVRlSkthQmlvLUhpd18?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "47eaf057e966eb",
-      "title": "PSV treft FC Porto van Farioli: waar, wanneer en hoe kijk je naar het CL-duel?",
-      "category": "Overig",
-      "published": "2026-10-16T17:15:00+00:00",
-      "updated": "2026-10-16T17:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2147128/waar-en-hoe-laat-kijk-je-naar-fc-porto-psv.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
