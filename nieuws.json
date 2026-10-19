@@ -1,18 +1,59 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T20:43:52.977470+00:00",
+    "generated_at": "2026-10-19T23:58:00.726018+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 135,
+    "article_count": 134,
     "event_count": 40,
     "discovered_event_count": 112,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 44,
+    "excluded_video_only_count": 47,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "42ec06626c98e4",
+      "title": "Voetbalzone Team van de Week: twee spelers van Ajax na ruime zege in Groningen",
+      "category": "Wedstrijden",
+      "published": "2026-10-18T16:40:46+00:00",
+      "updated": "2026-10-19T21:59:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMEhTUWF0VG45X05fZEo2a0NVT0d2TUY0X2VrdUpod19SbUxXNUtUdThidXFMVTVna1VpTnpIWEVOd29qVXVUMVV5RU9PR0NVRkMyX1pFUE1KREFGZEMzSlZIY2haeXVyT2w4eFlVUXdObU1jQWt3NGRYX2NWVE5vTmFZNjhLT2tEY3ZYOElUQWNzU1VFblo4QlRxeV9GNDNITm9KbGZCM2t4LWR0MWdqZWJrbGNOd2ZFanoyOUNaWXBtNHdIRHl4TlZfRQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-profiteert-met-ruime-zege-in-groningen-van-puntenverlies-psv-en-az",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMy1RaDdUQUttVFhpTUZGLUxRZjJfYURFYWM4R3BPclhaaGl3d2M3UERFQ0JSOFM3QUhpU1k0cHAzRDJtdExFTE9WSDkxcEx6WUxnQW9ucVdwU0xqendyRml0c1FvVU1HWmJKNXhCa1J2ZGEtMGJTRnREbVFVNnc4UG93ZkZnTzNrUDBwMUVuNE5aS08yemxMdDJmZFhFYnVrdl95T3ZlbkZqVVQyMlVySm5GTQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "4d99443d406ed8",
+      "title": "Derksen schrok enorm tijdens FC Groningen - Ajax: 'Die kan er helemaal niets van'",
+      "category": "Overig",
+      "published": "2026-10-19T21:23:00+00:00",
+      "updated": "2026-10-19T21:23:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGtfTEtzcWplN0lfUFFVMGhTbGw4SkN3WWtnM1JYOU1QTkFNWEpnZ29VbEFoM3A5Vy01T1hlU1lGcFlGTWQ5ZXA5RjhnN2ZEOEVicEtpSzRGZnBiOHlXbnVUQUpZQlBvNkVWMXE0V3ZNUmNvVE55dmxEZjJoOEFZek1OOXV6VXh0a3dLTHVadGx2SlFzNUpEQlB4MW9Yd0c2aHd1cVdYQmY1dXFuekR1d09TVmN5cjljRFQwTEtneFBZYTBMY2xzc3BB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "3f0a6513907e05",
       "title": "Genee doet opvallende onthulling over Ajax: 'Van bovenaf aangegeven wie er speelt'",
@@ -152,7 +193,7 @@
       "id": "5b6098201b1718",
       "title": "LIVE Keuken Kampioen Divisie | Jong Ajax opnieuw op voorsprong tegen De Graafschap, Jong PSV staat achter",
       "category": "Jong Ajax",
-      "published": "2026-10-18T19:00:00+00:00",
+      "published": "2026-10-19T18:15:00+00:00",
       "updated": "2026-10-19T18:15:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -198,32 +239,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "42ec06626c98e4",
-      "title": "Ajax profiteert met ruime zege in Groningen van puntenverlies PSV en AZ",
-      "category": "Wedstrijden",
-      "published": "2026-10-18T16:40:46+00:00",
-      "updated": "2026-10-19T17:01:00+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/ajax-profiteert-met-ruime-zege-in-groningen-van-puntenverlies-psv-en-az",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMEhTUWF0VG45X05fZEo2a0NVT0d2TUY0X2VrdUpod19SbUxXNUtUdThidXFMVTVna1VpTnpIWEVOd29qVXVUMVV5RU9PR0NVRkMyX1pFUE1KREFGZEMzSlZIY2haeXVyT2w4eFlVUXdObU1jQWt3NGRYX2NWVE5vTmFZNjhLT2tEY3ZYOElUQWNzU1VFblo4QlRxeV9GNDNITm9KbGZCM2t4LWR0MWdqZWJrbGNOd2ZFanoyOUNaWXBtNHdIRHl4TlZfRQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMy1RaDdUQUttVFhpTUZGLUxRZjJfYURFYWM4R3BPclhaaGl3d2M3UERFQ0JSOFM3QUhpU1k0cHAzRDJtdExFTE9WSDkxcEx6WUxnQW9ucVdwU0xqendyRml0c1FvVU1HWmJKNXhCa1J2ZGEtMGJTRnREbVFVNnc4UG93ZkZnTzNrUDBwMUVuNE5aS08yemxMdDJmZFhFYnVrdl95T3ZlbkZqVVQyMlVySm5GTQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "34eb417ee2a5b4",
@@ -337,7 +352,7 @@
       "related_sources": []
     },
     {
-      "id": "c47b63d9434a0d",
+      "id": "47e60505400d6a",
       "title": "Ajax Insights: Wijndal zowel aanvallend als verdedigend op dreef - Ajax",
       "category": "Overig",
       "published": "2026-10-19T15:01:45+00:00",
@@ -346,7 +361,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLXZJanF4NjBROFpjMmdrVzRpeWZaaC1Kc0wwRDZFb3o1LVVKa0FFbWU1VDBobjhyS2FyTDNORVU2NTB1WXd0eUdwM0FZbFktNTgwQjRkZWM2ekhaTmVtSnJUS2NpX01YeFZ3a0J4ZnRSSWNOMXdMOHp2TWN1UTJJd0lKdmJrTkh6X21xNjhpRHZFVEx3RDBKeWZB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd1dTZnhWWUVfWFRnenAyTDkwbmIyc2RkRFV1T2JnSUFDM1BCNlI3UFpLSHdmVGtTSHBic3dZZV9nU3pEMy1aNzJ5T0hjcDNnWUVhdlBUcmpoSEl2NVpzaDdrcU1MU2pPODNVWVN0SW5IMkZIMTIwSFN5eVBWZkZVTFJ3Vml2ejgzT1NDaGIzZFRkb0hxUjRlTQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -636,21 +651,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2148640/oscar-garcia-ex-coach-ajax-imponeert-in-polen-sensatie-tactisch-monster.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2fb33534c9a878",
-      "title": "Ajacied zorgt voor verbazing: 'Wordt echt behandeld als een held...'",
-      "category": "Overig",
-      "published": "2026-10-19T12:33:02+00:00",
-      "updated": "2026-10-19T12:33:02+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUZkaHNBS0VCb3g5ZmJBNDVYU29ocTlqUGlNNjU4a2F0YjcwUHR6aWctNTMxZ0lLT3lheFhaU1p5NzZPRUo1aWpYOWVtQmR2c3BCNzM5eHVXQk04Q3RVVkZSSW8tOVRoa090N3Zjd25RbkxQMVI4U2d2ZDJjZnQzV2dZMGZpQ2ZKclE?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
