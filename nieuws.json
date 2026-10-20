@@ -1,18 +1,69 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T15:10:05.012932+00:00",
+    "generated_at": "2026-10-20T19:20:39.882851+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 126,
+    "article_count": 103,
     "event_count": 40,
-    "discovered_event_count": 115,
-    "source_count": 12,
+    "discovered_event_count": 96,
+    "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 45,
+    "excluded_video_only_count": 46,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "c0084416988851",
+      "title": "Ajax-talent laat Feyenoord links liggen: 'Heb mijn gevoel en clubliefde gevolgd'",
+      "category": "Overig",
+      "published": "2026-10-20T17:04:20+00:00",
+      "updated": "2026-10-20T17:04:20+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2149214/ajax-talent-moumane-wijst-feyenoord-af.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1678318a7793ee",
+      "title": "Van der Vaart krabbelt terug: 'Hij is geweldig, de beste speler van Ajax'",
+      "category": "Overig",
+      "published": "2026-10-20T16:43:27+00:00",
+      "updated": "2026-10-20T16:43:27+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2149208/mooiweervoetballer-brandt-overtuigt-van-der-vaart.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "84b1c80f121dd2",
+      "title": "Done deal: voormalig Ajax-enfant terrible tekent contract ADO Den Haag",
+      "category": "Transfers",
+      "published": "2026-10-20T14:49:48+00:00",
+      "updated": "2026-10-20T15:43:22+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2149152/ado-den-haag-legt-voormalig-ajax-talent-eternal-barron-vast.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHRYRF8xWWtlWU9KeGZ4TXMxM3JQdF9jM0dRUWhUN0I4M3cwWFBYb3prV1MxTFpZVVVWTE1ZZXlSSVZRVUVWTjh6eXNpdk81U3VleTA5UnJfNFFvN1ZyZ0k3MDUtYkVjb2FrcXY4MlhsZ1Z4MG9FcXVJNUdfY3daa09UUldSYjFpQVdBOTdCV1oyOXpocmc?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "baebf3617db75c",
       "title": "Kieft twijfelt aan Ajax-uitblinker: 'Moeten er geen wereldwonder van maken'",
@@ -24,21 +75,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2149087/wim-kieft-kritisch-op-tolu-arokodare-rafael-van-der-vaart-wil-marcos-leonardo.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e74094d2bbb0db",
-      "title": "Done deal: voormalig Ajax-enfant terrible tekent contract ADO Den Haag",
-      "category": "Transfers",
-      "published": "2026-10-20T14:49:48+00:00",
-      "updated": "2026-10-20T14:49:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2149152/ado-den-haag-legt-voormalig-ajax-talent-eternal-barron-vast.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -134,6 +170,21 @@
       "related_sources": []
     },
     {
+      "id": "bdf6c46a19cb6d",
+      "title": "Pijnlijke onthulling over onderonsje Klaassen en Leonardo bij Ajax tegen Groningen",
+      "category": "Overig",
+      "published": "2026-10-20T12:33:22+00:00",
+      "updated": "2026-10-20T12:33:22+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWFqSFZRWFpnNmU3dzBpRkhtWkFQREpoRnFKekpVZmJkZ0pYZlV6SThJVFpRQ3o0OFZpY2pYdlB0d0ctc0FoVlhheENJNkhlTWowbmlZc1lQeHVsbWgwa1BkTDRhQkRUSmVYUXpTZm5PNU5ibjZqRGFZRWNBLWhWZFJWWVV1cFBDQi13dTg1MWJpbVBNRnBsblhtd2ZvZU0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "5852b8229e2c48",
       "title": "Persco in aanloop naar Atalanta-thuis woensdag live te volgen - Ajax",
       "category": "Wedstrijden",
@@ -179,21 +230,6 @@
       "related_sources": []
     },
     {
-      "id": "4f23fcf72ec30b",
-      "title": "Rondom Ajax: Relatief onbekende arbiter krijgt leiding over Ajax - Atalanta",
-      "category": "Wedstrijden",
-      "published": "2026-10-20T10:15:00+00:00",
-      "updated": "2026-10-20T10:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnVsNDB2MDNzMlBfZVB0Qm8xc1l6TWhDZFM0S0E4YzV1Z1ZHdkttaEVnWVRDRGtsODN6YmdWa0N1cm91TE5rOW5oVU8zckpJSnhLZ0lkLUFxSjZtQ0M5YnNIZWdBRUQ3cGVDUkpaYU0zenl6bG5ZNFFxYno3Vy1tNVEteTFSRThOaEJlSTN3bnlUWnItVWF0cktjXzVaOW90aERGTVRvYnctNjlMWE1rWVNTM0tlVDhGQTN5c0VybVQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "ecb61de2c36f43",
       "title": "Dit zijn de scheidsrechters van Ajax, AZ, NEC en FC Twente in Europa",
       "category": "Wedstrijden",
@@ -219,6 +255,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZU84cVhfWElSSjhmWmtPMTkyczB6cml6djU5QjNDcnFaSXFnbXZXWnZtLTdjLVVSTnZJWFYzSEFZWWFwMFBvY0RVS3hmTTJ0SUh2ODR5SWd6Q1dNSVhLRjZVeTFpUVVyc1Zjb1h0X29VNGpOSmxKZnZlNVNDOTNtcC1Pd1pzX0lhT1g0MWFQeEcxR1F5d2lVU2tZODdCZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0fb07d06c8d626",
+      "title": "Moumane wees Feyenoord af en bleef Ajax trouw: 'Ik ben pas net bij Ajax en weet wat ik kan'",
+      "category": "Overig",
+      "published": "2026-10-20T09:00:00+00:00",
+      "updated": "2026-10-20T09:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWTFPUU45UmRBZ0tsSFJ4LUx6XzVIblllSnpMdG9hWkp4UFlLTjFyQUdfQ29UZ3lTV1dpSjNnSkpkRzFRdllkbEVZTFU5SzBoLVE5SnM4bmhocDhyeWJFYnBKT290dnNnZU15dXdIOFBnTE5RbEtZODVVNWhmNDVxN195Mm9oYTFmWktjUWJDTmcyRU9jejRfREFSMzZLR0Z5aERSQm51MmdacU1ubnhJTElOZ29SVHBHYzFMU3o5NmZJaGFwdEpLcA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -329,21 +380,6 @@
       "related_sources": []
     },
     {
-      "id": "9d97c98d0b7bc8",
-      "title": "De Telegraaf meldt groot nieuws: Ajax geeft oude bekende kans om mee te trainen",
-      "category": "Overig",
-      "published": "2026-10-20T06:43:57+00:00",
-      "updated": "2026-10-20T06:43:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2148894/de-telegraaf-ajax-geeft-oleksandr-zinchenko-de-kans-om-mee-te-trainen.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "14926cc9d3f071",
       "title": "Vertrokken Ajacied duikt plotseling op op De Toekomst",
       "category": "Transfers",
@@ -354,6 +390,21 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTIxZ1llaTc4T1pxNlBUZ3JKX211UFdMNElUMlFxaE4yTHdKdFBTTnRJOFJMdk5IRkxVU3F5RkRiVFR6R052b00zY2UxNnM4dkNkMWluZ0lSSzJoZHpLWTlaMkZqVmF5Qkxpd2pMSGpVMnJjRXlVMkR1a1kzaWZwVGlOQVEweTRYVWtPdjBHVEU1Y3pkVnpOUnVB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "695d0ffb284476",
+      "title": "Ajax TV | Emre Ünüvar & Jano Monserrate ⚽️✅ | Highlights Jong Ajax - De Graafschap",
+      "category": "Jong Ajax",
+      "published": "2026-10-20T06:30:00+00:00",
+      "updated": "2026-10-20T06:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVg0RkRjRVJjVkdiV3BIbXhmUFgxOG1SRzFWaE9PQkNYT0FITW9iZlBZZVZldWx0OC13aTRoM3JWNkxIcUF6bFYyMFVSX2t1NDZReGJjRXgxTlZ0UHB1RUFBOFV1SjB5OTNjNFVkbmQ3eERkSEVzdFd4cUszUEc5Um44VjJScU1DV3VxTUhlbEFHSkFPd0NHQ2xGd0FWTEkwZ1psS2VST2hUUEpLeUpCR1QwUlM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -374,40 +425,55 @@
       "related_sources": []
     },
     {
-      "id": "86d9a5f8cce85c",
-      "title": "Johan Derksen snoeihard na FC Groningen - Ajax: 'Hij kan er helemaal niks van!'",
+      "id": "5d6e15f25b8f8b",
+      "title": "De Telegraaf meldt groot nieuws: Ajax geeft oude bekende kans om mee te trainen",
       "category": "Overig",
-      "published": "2026-10-20T05:58:20+00:00",
-      "updated": "2026-10-20T05:58:20+00:00",
+      "published": "2026-10-20T06:00:00+00:00",
+      "updated": "2026-10-20T06:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzN5bUlpZFd6ak1aUk42THk1MUk0OW5OVHdrVnd6cGlJcmQzckxRSDcwcGFVQkJFN0oxTXo0MnhSQkZXeUIwQ3RLeFBFUC02VkwyYWR1N1A2cHphU0xQbUhxODZjVnc3MEZ4bG9IT0tibGQ5dmQ5Sy1haFotdjdTWl9uWk5leGdiYWRpR3ZxT05ybHlCNmlpRUh4bnNXaG1QTjlRd2FxdW4yOG1tT3piYW5MM05vVHNEd2VNQ3VfSWFQTU9oZXc?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2148894/de-telegraaf-ajax-geeft-oleksandr-zinchenko-kans-om-mee-te-trainen.html",
+        "via_google_news": false
       },
       "related_sources": []
     },
     {
-      "id": "bc7d4d23c99cc3",
-      "title": "Jong Ajax 2-1 De Graafschap (19 okt., 2026) Uitslag",
-      "category": "Jong Ajax",
-      "published": "2026-10-19T18:03:15+00:00",
-      "updated": "2026-10-20T05:45:00+00:00",
+      "id": "86d9a5f8cce85c",
+      "title": "Derksen schrok enorm tijdens FC Groningen - Ajax: 'Die kan er helemaal niets van'",
+      "category": "Overig",
+      "published": "2026-10-19T21:23:00+00:00",
+      "updated": "2026-10-20T05:58:20+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4bkNZdFI1ZF9xRWFkbmdFbjlrSmdTRmE1cHplZTlocEJlRy11TWxUVjMyLTU5SldqQ1RjMHZ4aEQtNlJFdENGd2ZoeUozd3VnTVBzeUVJTTZLYVJHSUx4Ym9JOGRhbmFBdEEzTTh3?oc=5",
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGtfTEtzcWplN0lfUFFVMGhTbGw4SkN3WWtnM1JYOU1QTkFNWEpnZ29VbEFoM3A5Vy01T1hlU1lGcFlGTWQ5ZXA5RjhnN2ZEOEVicEtpSzRGZnBiOHlXbnVUQUpZQlBvNkVWMXE0V3ZNUmNvVE55dmxEZjJoOEFZek1OOXV6VXh0a3dLTHVadGx2SlFzNUpEQlB4MW9Yd0c2aHd1cVdYQmY1dXFuekR1d09TVmN5cjljRFQwTEtneFBZYTBMY2xzc3BB?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/56081/Jong-Ajax-verslaat-%C3%A9n-passeert-De-Graafschap",
-          "via_google_news": false
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzN5bUlpZFd6ak1aUk42THk1MUk0OW5OVHdrVnd6cGlJcmQzckxRSDcwcGFVQkJFN0oxTXo0MnhSQkZXeUIwQ3RLeFBFUC02VkwyYWR1N1A2cHphU0xQbUhxODZjVnc3MEZ4bG9IT0tibGQ5dmQ5Sy1haFotdjdTWl9uWk5leGdiYWRpR3ZxT05ybHlCNmlpRUh4bnNXaG1QTjlRd2FxdW4yOG1tT3piYW5MM05vVHNEd2VNQ3VfSWFQTU9oZXc?oc=5",
+          "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "bc7d4d23c99cc3",
+      "title": "Jong Ajax verslaat én passeert De Graafschap",
+      "category": "Jong Ajax",
+      "published": "2026-10-20T05:45:00+00:00",
+      "updated": "2026-10-20T05:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56081/Jong-Ajax-verslaat-%C3%A9n-passeert-De-Graafschap",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "784d4b9f28d266",
@@ -485,37 +551,37 @@
       "related_sources": []
     },
     {
-      "id": "42ec06626c98e4",
-      "title": "Voetbalzone Team van de Week: twee spelers van Ajax na ruime zege in Groningen",
-      "category": "Wedstrijden",
-      "published": "2026-10-18T16:40:46+00:00",
-      "updated": "2026-10-19T21:59:00+00:00",
+      "id": "9ceb9668201e68",
+      "title": "Jong Ajax 2-1 De Graafschap (19 okt., 2026) Uitslag",
+      "category": "Jong Ajax",
+      "published": "2026-10-19T18:03:15+00:00",
+      "updated": "2026-10-19T22:09:23+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMEhTUWF0VG45X05fZEo2a0NVT0d2TUY0X2VrdUpod19SbUxXNUtUdThidXFMVTVna1VpTnpIWEVOd29qVXVUMVV5RU9PR0NVRkMyX1pFUE1KREFGZEMzSlZIY2haeXVyT2w4eFlVUXdObU1jQWt3NGRYX2NWVE5vTmFZNjhLT2tEY3ZYOElUQWNzU1VFblo4QlRxeV9GNDNITm9KbGZCM2t4LWR0MWdqZWJrbGNOd2ZFanoyOUNaWXBtNHdIRHl4TlZfRQ?oc=5",
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4bkNZdFI1ZF9xRWFkbmdFbjlrSmdTRmE1cHplZTlocEJlRy11TWxUVjMyLTU5SldqQ1RjMHZ4aEQtNlJFdENGd2ZoeUozd3VnTVBzeUVJTTZLYVJHSUx4Ym9JOGRhbmFBdEEzTTh3?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMy1RaDdUQUttVFhpTUZGLUxRZjJfYURFYWM4R3BPclhaaGl3d2M3UERFQ0JSOFM3QUhpU1k0cHAzRDJtdExFTE9WSDkxcEx6WUxnQW9ucVdwU0xqendyRml0c1FvVU1HWmJKNXhCa1J2ZGEtMGJTRnREbVFVNnc4UG93ZkZnTzNrUDBwMUVuNE5aS08yemxMdDJmZFhFYnVrdl95T3ZlbkZqVVQyMlVySm5GTQ?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQTB1VlMwTUM4dTFGSzNjZzYzRl81VTdyamp1ZHRlWmtJMGFOcWluUFphS1M1SXNqQ3NlaXViNkg5YkZ4dUxzejJRSldzZlBtdWlRUzJGYzRBcXlZMmZuNUtRZVZsNXBDa2lYMW9RWEJtc2h1aHdkYUR3ZE1pbnZWd08yVFFYd3V3OGNyMzlGMFlDLUJXeDhhckIxQ3JUY2JrWFNSYmJYT3ZXZGdtNUlEY1gtSlNfN1lGdWlQVUh0Mkg0NF8wNlI1TzlDeXBFanhDbnNmdTdRNGZhcGtxOXFzQlQ1UQ?oc=5",
           "via_google_news": true
         }
       ]
     },
     {
-      "id": "4d99443d406ed8",
-      "title": "Derksen schrok enorm tijdens FC Groningen - Ajax: 'Die kan er helemaal niets van'",
-      "category": "Overig",
-      "published": "2026-10-19T21:23:00+00:00",
-      "updated": "2026-10-19T21:23:00+00:00",
+      "id": "4c414d2dd7d568",
+      "title": "Voetbalzone Team van de Week: twee spelers van Ajax na ruime zege in Groningen",
+      "category": "Wedstrijden",
+      "published": "2026-10-19T14:19:00+00:00",
+      "updated": "2026-10-19T21:59:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGtfTEtzcWplN0lfUFFVMGhTbGw4SkN3WWtnM1JYOU1QTkFNWEpnZ29VbEFoM3A5Vy01T1hlU1lGcFlGTWQ5ZXA5RjhnN2ZEOEVicEtpSzRGZnBiOHlXbnVUQUpZQlBvNkVWMXE0V3ZNUmNvVE55dmxEZjJoOEFZek1OOXV6VXh0a3dLTHVadGx2SlFzNUpEQlB4MW9Yd0c2aHd1cVdYQmY1dXFuekR1d09TVmN5cjljRFQwTEtneFBZYTBMY2xzc3BB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMEhTUWF0VG45X05fZEo2a0NVT0d2TUY0X2VrdUpod19SbUxXNUtUdThidXFMVTVna1VpTnpIWEVOd29qVXVUMVV5RU9PR0NVRkMyX1pFUE1KREFGZEMzSlZIY2haeXVyT2w4eFlVUXdObU1jQWt3NGRYX2NWVE5vTmFZNjhLT2tEY3ZYOElUQWNzU1VFblo4QlRxeV9GNDNITm9KbGZCM2t4LWR0MWdqZWJrbGNOd2ZFanoyOUNaWXBtNHdIRHl4TlZfRQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -561,66 +627,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWld2cm44ZW5YVXluWFNvZ2VpV1VIUjVtTzJKV0RINUwwcmlBd29sWE4yY1RWRHlJRktTVW1aVXZTUHZjakxUTW0yck15ZUIzZVlNdHNkbEVuLXppUXVYVmFHNFl3eXRQSjhlU2dNUGt4RGdwRkxRd0E3ejFnNnFUQlVBYmtmc0Z6WWQtZ3JEMDJTdmwxWXpJUk5PR1ZHOU5taUJXY2x4S1k?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "171c8a03ae57b4",
-      "title": "Van der Vaart snapt Klaassen: 'Je denkt niet aan spits die het moeilijk heeft'",
-      "category": "Selectie",
-      "published": "2026-10-19T19:33:29+00:00",
-      "updated": "2026-10-19T19:33:29+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/van-der-vaart-snapt-klaassen-je-denkt-niet-aan-spits-die-het-moeilijk-heeft",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "83da43985a69df",
-      "title": "Staat Arne Slot ooit open voor stap naar Ajax? 'Hij is altijd heel...'",
-      "category": "Overig",
-      "published": "2026-10-19T19:25:00+00:00",
-      "updated": "2026-10-19T19:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeldsMHZYRS1kMlVjRmt0ei1pa2E4S3d0Vm56ODZ2QnBHZFRmZDNMSzhwSnZYbVJhd0RWajdtUmFXOVlES014SzR0bGJ2QWtySTkyNEQ1bmh6MHQ3YmRka25rZkUzQ2FoS1YtSmFOT2tTd2RfYmg4YzFrbHE0ZkN6Y0tUejFKM3Jvb2lMVkFHb3ZnYUR3bG16dXdRN05fdlBEaHEtcmtmMERCT2puV21F?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e2ef738de8166b",
-      "title": "Owen Wijndal maakt indruk bij Ajax: 'Hij is al 175 keer afgeschreven'",
-      "category": "Overig",
-      "published": "2026-10-19T19:08:00+00:00",
-      "updated": "2026-10-19T19:08:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2148828/kenneth-perez-en-freek-jansen-bespreken-opvallende-rol-owen-wijndal-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "95f048be02556d",
-      "title": "René van der Gijp ziet mensonterende situatie bij Ajax: 'Dit is zo pijnlijk...'",
-      "category": "Overig",
-      "published": "2026-10-19T18:20:00+00:00",
-      "updated": "2026-10-19T18:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODNCOGJwSGlYdjBsYXhyelZtM2ljaTNpY0xtanpONUdIZ3Y1OUNZWV9JN3JqdmRGbXltT2JCTTBNdG54a0dJLUl6MFFKMGVwbnFIVmlYNm9obmRCdzZDQjlOenlGNXZxMkNjd2M4QmtPWEF6R2cydlNWX3QxYS1qbzN3UHdONUNEU0pPUHlvS1dIM0JyazRfNk51aDZwUlVSM01j?oc=5",
         "via_google_news": true
       },
       "related_sources": []
