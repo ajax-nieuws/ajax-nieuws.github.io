@@ -1,18 +1,75 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T17:19:22.079947+00:00",
+    "generated_at": "2026-10-21T20:55:15.497391+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 92,
+    "article_count": 84,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 66,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 107,
-    "excluded_video_only_count": 30,
+    "excluded_paywall_count": 106,
+    "excluded_video_only_count": 32,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "a650f505575de3",
+      "title": "Bizarre situatie bij Atalanta, vlak voor clash tegen Ajax",
+      "category": "Overig",
+      "published": "2026-10-21T20:15:00+00:00",
+      "updated": "2026-10-21T20:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3NkdGFSYUEzVEVfNGRJVzNyalhsMVcwUERocnpBVTlvdDZjVHlmdUhBOWRfb2NEdjlob2dKLUFmSU1hTUN1VzQ3c0xqQmdJX0hYaWNmR1Y2c01rdkE4NVN4MnJEUDFWNDIzTFNyNmVubUNkVm4zSkJsTEpacGdzQVdpNTk3eHVFS2d3dmNtMzRJNmNBWFV3cTR2dlhVN2piSVIwcA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b8bda25db75b53",
+      "title": "Ajax treft gehavend Atalanta: 'Zo'n situatie heb ik niet eerder meegemaakt'",
+      "category": "Overig",
+      "published": "2026-10-21T18:55:48+00:00",
+      "updated": "2026-10-21T19:55:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-treft-gehavend-atalanta-zo-n-situatie-heb-ik-niet-eerder-meegemaakt",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTZPeVlYSWcyWm4tMzdPdlBvVzRiTndQSG14cmlLUGNPT3ZUN2dRaVJlUnVTS3RxclFIdGRoNXVLRlF3ZVF0dFZwNkFHdmZqQm9mR2NpX2JGSXlkWDhFQThhcklWcDlwcUlOM2NLS01aWG1Dekdva194UzEwWWlra2hlU1VoSEh0UGgyNTREaU1qenZEVlVRSm1JMm5DM2dQaVlRWnk0dVdURkd1a043WmJqTmljeFV5QzJJbDFB?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "46b7e00e5f08e9",
+      "title": "Vermoedelijke opstelling Ajax: Míchel wijzigt defensie tegen Atalanta",
+      "category": "Wedstrijden",
+      "published": "2026-10-21T13:45:00+00:00",
+      "updated": "2026-10-21T17:50:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2149682/vermoedelijke-opstelling-ajax-tegen-atalanta-tolu-arokodare-terug.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORllQQUkxUnUzWXZVN2YtX0dWQTVIWkVhZGJuUW1lOHliaGtIUWNkcXVHZC1RLVZKWlA5YW91MUZtWUJYZkZXUDBjVnNHM0dnTXNpT19rb29OYlA5YXNXTVl0YmdLc0hwc3hwXzhoWGphTF9VeFVtTDY0VE5oSHE2dUNHQ1NYek9nQ0U0ZEhSLXFnOEJRdkhRM2w3U1lSc1l2cU5raDhQMmxtLUJqd2Z0aEhTUlYzOHhmRTAwa0FZQlo1XzEwQVFMQw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
     {
       "id": "69513ff852935b",
       "title": "Míchel en grappende Ter Stegen kijken uit naar krachtmeting met Atalanta",
@@ -25,6 +82,21 @@
         "name": "AT5",
         "url": "https://www.at5.nl/artikelen/240589/michel-en-grappende-ter-stegen-kijken-uit-naar-krachtmeting-met-atalanta",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "876342aa9758e4",
+      "title": "Ajax nog steeds grote naam in Italië: 'Maar angst heerst hier niet'",
+      "category": "Overig",
+      "published": "2026-10-21T17:00:00+00:00",
+      "updated": "2026-10-21T17:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFQ5d29xQVYzVGJFdi04UFZBZTFTeEh1WHJoNnFkdUVwRFNFNjVIbHl3V2JFTVNfYlhKcVU2a0p3Q0RoenUwNV9uZERaUHV3bmk0V0NJNjI4OTloaUZVUHJBc2thalVuLUtMd0dPLUdrNVIzVnBPcWh0WDRPMnZjcEtyOHdDU2tHcHlfc0JYMUdYYVhkWS04amtIdWNJMDlFbk9GVHlzdHpDWTZPR1VLWnd1S2c0cHVHZHc?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -44,16 +116,16 @@
       "related_sources": []
     },
     {
-      "id": "7361e5b1f1fc98",
-      "title": "Ajax speelt trefbal tijdens afsluitende training voor Atalanta-thuis; Míchel legt uit waarom",
-      "category": "Selectie",
-      "published": "2026-10-21T16:25:00+00:00",
-      "updated": "2026-10-21T16:25:00+00:00",
+      "id": "0e2a3ccaa9d8be",
+      "title": "Rondom Ajax: Ajax daalt dit jaar op lijst van 'beste academies'",
+      "category": "Overig",
+      "published": "2026-10-21T16:29:43+00:00",
+      "updated": "2026-10-21T16:29:43+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcW1QLVFNY1VwQ1locFd6QkpnWXZWdzg4NW94N1pOd2hDcjJLNnhqNmZFdjhKcDYwS0dSRmJ2VFEtTUhtUjI2ZHBMTlpfVU1acTRlTWs0ZmRQa0JsX1U0MVpIaEdxOWVNc0tvMzluaUdPMjJOV05MdjZfOG9NenhNLWl3Q09FQ1dTRkVuNTdsODdfc3FzdGZFSEhFX1VYcW5tcXAwZ3RSZHJwY3JDSVR4ZVBuZ3lPTzZIVzBxN3lud2NhaGJZUnVKeWdHU1JrakhmTS13WFUwVldBZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFZKeG1oRHhCRkNxVTd0R2ItbXdlQ2draGpKcTlDeFNSc25tNENsMWdwSDItNEJEdG1TS2lhLTJKbXZGSzlyMnFNRE11Y3RaM0FEZnM5cmJvRExMZ29ZRFVreTlfcnA5OG96a2YwaXhlLWZjbUJYWjhuMkpJYzV6SC01TXF2V0pQLVltWnBDZGZURHFvOFRqeW1ZRWZBdVYybF9JdkFHYkg5SUw1ejNNOQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -190,21 +262,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdWplaUpMazhDMHp2S3lMaC1ZZmZ4QllkcXJqVUZBMzk2dVRaM3BnUmZ5cVNrRTg0RnlJN1BpYzdXaUFhWWZZRi1vWWlaZjRkMG9WQkE5ek1RR0Q0anJSSWVFdkxTcE9vX3dDV3dvejB6TDhrd25FeXNjUG80UWZ6S0hyWUVUZF95VzVWa3QwVzdrRGNpcXNVa0s5NEp3NVBoQ1ZjTG9yVGhCYkJtZ2pMRzQyZDB6eHVsaFJNc3F5ZUl3blN3a25XTGZsai1KUERtdTQxZkQxc1FaMmo2WmQw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "46b7e00e5f08e9",
-      "title": "Vermoedelijke opstelling Ajax: twee nieuwe namen in voorhoede tegen Atalanta",
-      "category": "Wedstrijden",
-      "published": "2026-10-21T13:45:00+00:00",
-      "updated": "2026-10-21T13:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORllQQUkxUnUzWXZVN2YtX0dWQTVIWkVhZGJuUW1lOHliaGtIUWNkcXVHZC1RLVZKWlA5YW91MUZtWUJYZkZXUDBjVnNHM0dnTXNpT19rb29OYlA5YXNXTVl0YmdLc0hwc3hwXzhoWGphTF9VeFVtTDY0VE5oSHE2dUNHQ1NYek9nQ0U0ZEhSLXFnOEJRdkhRM2w3U1lSc1l2cU5raDhQMmxtLUJqd2Z0aEhTUlYzOHhmRTAwa0FZQlo1XzEwQVFMQw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -555,21 +612,6 @@
       "related_sources": []
     },
     {
-      "id": "876342aa9758e4",
-      "title": "Ajax nog steeds grote naam in Italië: 'Maar angst heerst hier niet'",
-      "category": "Overig",
-      "published": "2026-10-21T06:30:00+00:00",
-      "updated": "2026-10-21T06:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFQ5d29xQVYzVGJFdi04UFZBZTFTeEh1WHJoNnFkdUVwRFNFNjVIbHl3V2JFTVNfYlhKcVU2a0p3Q0RoenUwNV9uZERaUHV3bmk0V0NJNjI4OTloaUZVUHJBc2thalVuLUtMd0dPLUdrNVIzVnBPcWh0WDRPMnZjcEtyOHdDU2tHcHlfc0JYMUdYYVhkWS04amtIdWNJMDlFbk9GVHlzdHpDWTZPR1VLWnd1S2c0cHVHZHc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "5b8025fcf57f07",
       "title": "'Ajax-fans hoeven niet langer te treuren om het vertrek van Farioli'",
       "category": "Transfers",
@@ -632,36 +674,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaG83dGdqX0xlbGdEa09EZ2ExWjB0WjRieVFsVE1iVGVXZVJkdmV3MzR1T2hkcDZ0UGViQkJlSGViZW1kcEMya1dFQkVPS0FXQkg2Zk4zb1o5cDB4RnJJb0ZjM1JGa0lVaEI5UVgzMjljWVpJNEU3aTVkVDUyRFotWW1FNnJLdXItQmlEemJpb3RyeFl5SG1OYW8yUWRvQld4a0hQMkMtZDVNcWZaMDBxRDZqMHFkc0V6UUdFUkJnVU5ZNkNKWmROYVdhbmdibDFxeHc?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e462eab5962113",
-      "title": "LIVE Champions League | Voormalig Ajax-speler doet Liverpool pijn, fraaie assist Veerman helpt Dortmund aan zege",
-      "category": "Wedstrijden",
-      "published": "2026-10-20T18:39:00+00:00",
-      "updated": "2026-10-20T18:39:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGtHZ2dIYzFITUVqV3M3czlLUHBQb05tUjR4ZUFGZXU1WldNS19yWFpPQ1oxQkw1eVprdTJOelhUVmxzWmhBSjlISjlVUEctVUJDSkIzY1RWWFNTZ0FJWkdWcDNvcHRZc21HeWdwNGxXVmRyN3UxcUIwSEU2REFvS2l0LWZWVU5KQkZ4UTc3Vl9Md2VUb0hhMTRiWmFOMzM2U2wyWjBQdUxhZVlNMmNhWDdLLWdQUzJWNmV6NmZTczlfRzVvU2I4dXl5S25ZSHIzdXJyZnBVVQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c0084416988851",
-      "title": "Ajax-talent laat Feyenoord links liggen: 'Heb mijn gevoel en clubliefde gevolgd'",
-      "category": "Overig",
-      "published": "2026-10-20T17:04:20+00:00",
-      "updated": "2026-10-20T17:04:20+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2149214/ajax-talent-moumane-wijst-feyenoord-af.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
