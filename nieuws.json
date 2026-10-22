@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T00:02:12.549083+00:00",
+    "generated_at": "2026-10-22T04:58:55.434038+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 81,
+    "article_count": 82,
     "event_count": 40,
     "discovered_event_count": 66,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 89,
-    "excluded_video_only_count": 32,
+    "excluded_paywall_count": 106,
+    "excluded_video_only_count": 31,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "3173c58248547f",
+      "title": "Ajax, PSV en Feyenoord moeten dit leren van aanpak en jeugdopleiding AZ",
+      "category": "Jeugd",
+      "published": "2026-10-22T04:25:54+00:00",
+      "updated": "2026-10-22T04:25:54+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkE1N25BUHNySHlBQVNaRmVUV3lfWXljbDNhREFqaEFFUC1XcWNycTgwaDdCbnZfRDktTGg0MW05V0tLTGVwN1VKMVN2ekJPV0VHOWYtdkI2OVNxTGhJTE5RVG8xOHdQTi1Ya3BCdnBNTm1iT0JIaHBPR0NVRkd4RXZlZ1A3Q3VLYktaRmprRDNRNHotTTVycklzSkRZMER1U3lKdlQ5Zzh1eDJrRzJ3WHFR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "c9b2789dbf5b02",
       "title": "Míchel springt in de bres voor Ajax-talent: 'Speelde op het niveau van de rest'",
@@ -60,7 +75,7 @@
     },
     {
       "id": "7052e50d9a6ff6",
-      "title": "De Boer geniet van Ajax: 'Ik zie eindelijk weer dynamiek in het elftal, daar hou ik van'",
+      "title": "De Boer vindt Ajax 'verademing': 'Dat heb ik heel erg gemist de afgelopen jaren'",
       "category": "Overig",
       "published": "2026-10-21T20:50:00+00:00",
       "updated": "2026-10-21T20:50:00+00:00",
@@ -108,6 +123,21 @@
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "c033f2763db95c",
+      "title": "LIVE Conference League | Revancheert Ajax zich tegen Atalanta na valse start in Conference League?",
+      "category": "Wedstrijden",
+      "published": "2026-10-21T19:00:00+00:00",
+      "updated": "2026-10-21T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVHBoeTJMSEtOZGJvcGotUXBDRFBqMVMxQ1g1UVA4QjI2dnJnM2kxUTNIcktRVGJEYUVKWnMyWXoxTVJXTDh1WVN0VG1YN2s3cUZyQXlaZlFYOV9ubVNadEh0cUNYaWhwVTNGUElmdjV0b0tsUV9lVWxuYjRETE1XVWdVbkR5TV9FSVFrU2JBQ2pMaU1pQmZLWXJ2RG1oektvY1FBaUx3OGgzXzVyM195Y1gxbVFuRkdudjRQcGhIdTVpU0ZlMGJXdGo4NA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "46b7e00e5f08e9",
@@ -171,21 +201,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFZKeG1oRHhCRkNxVTd0R2ItbXdlQ2draGpKcTlDeFNSc25tNENsMWdwSDItNEJEdG1TS2lhLTJKbXZGSzlyMnFNRE11Y3RaM0FEZnM5cmJvRExMZ29ZRFVreTlfcnA5OG96a2YwaXhlLWZjbUJYWjhuMkpJYzV6SC01TXF2V0pQLVltWnBDZGZURHFvOFRqeW1ZRWZBdVYybF9JdkFHYkg5SUw1ejNNOQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7361e5b1f1fc98",
-      "title": "Ajax speelt trefbal tijdens training voor Atalanta-thuis; Míchel legt idee daarachter uit",
-      "category": "Selectie",
-      "published": "2026-10-21T16:25:00+00:00",
-      "updated": "2026-10-21T16:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcW1QLVFNY1VwQ1locFd6QkpnWXZWdzg4NW94N1pOd2hDcjJLNnhqNmZFdjhKcDYwS0dSRmJ2VFEtTUhtUjI2ZHBMTlpfVU1acTRlTWs0ZmRQa0JsX1U0MVpIaEdxOWVNc0tvMzluaUdPMjJOV05MdjZfOG9NenhNLWl3Q09FQ1dTRkVuNTdsODdfc3FzdGZFSEhFX1VYcW5tcXAwZ3RSZHJwY3JDSVR4ZVBuZ3lPTzZIVzBxN3lud2NhaGJZUnVKeWdHU1JrakhmTS13WFUwVldBZw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -297,7 +312,7 @@
       "related_sources": []
     },
     {
-      "id": "11529cdea9a642",
+      "id": "e9725d244cb233",
       "title": "Zinchenko revalideert bij Ajax - Ajax",
       "category": "Overig",
       "published": "2026-10-21T13:50:05+00:00",
@@ -306,7 +321,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GR0xRRG9DRHR5c284UWx1UzlVd2gtMnBDeFpjdkNpQjIxcnZnT2lCR0tkWEJ2TE9YdVMwUXRwRGtxTy1VWjN3NXMzVndkdVJpMFNTbk04MTRUZjVUcDJJWm5PNXpNTm4xZk1OUVZR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mWWhmRlNvRW9xQVFrTEZ1NExYN2N4VU9HU0dqSkR0Tk9FMXJiZHZvdjVkM3lDbnNrQTdHOUlsaDV2Q2NiSS1jS2xVbVlYNy01eTNkVkhCNDI3b29WYm00WE0zelZIN3JkdHR2RQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -379,22 +394,22 @@
     },
     {
       "id": "bf42c8acdbbf4f",
-      "title": "Berghuis en Blind terug op trainingsveld Ajax: \"Atalanta komt te vroeg\"",
+      "title": "Zinchenko meldt zich op trainingsveld Ajax, Berghuis en Blind keren terug",
       "category": "Selectie",
       "published": "2026-10-21T10:38:07+00:00",
       "updated": "2026-10-21T13:25:02+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzZqb0RFbnAyd0xla3JwQTQzZzFBTGdwOV9wSEEzcHlvMEVYZlZ4eGQxM25RbHJ2eDl1b3pLUm8zX1QwY3pVaFlPTzFnNW54aG5mMnhSSkYzbE9URnpFWFFPaGlJYUF4ZG01emlFcEREM3FFNUJFSE56SlRYeWd5S3J6UkpNc2ZobjhCYk1BMHFOZw?oc=5",
-        "via_google_news": true
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/zinchenko-meldt-zich-op-trainingsveld-ajax-berghuis-en-blind-keren-terug",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/zinchenko-meldt-zich-op-trainingsveld-ajax-berghuis-en-blind-keren-terug",
-          "via_google_news": false
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzZqb0RFbnAyd0xla3JwQTQzZzFBTGdwOV9wSEEzcHlvMEVYZlZ4eGQxM25RbHJ2eDl1b3pLUm8zX1QwY3pVaFlPTzFnNW54aG5mMnhSSkYzbE9URnpFWFFPaGlJYUF4ZG01emlFcEREM3FFNUJFSE56SlRYeWd5S3J6UkpNc2ZobjhCYk1BMHFOZw?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -655,27 +670,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "5b8025fcf57f07",
-      "title": "'Ajax-fans hoeven niet langer te treuren om het vertrek van Farioli'",
-      "category": "Transfers",
-      "published": "2026-10-21T06:10:00+00:00",
-      "updated": "2026-10-21T06:18:24+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVVQSFpXOUFQQmQtVk90NERQQmhpQlplM1pUcG9JNWlkTXA3cW1vdTBRMDFGOVdjTFozemE1Xzd2RE1KOVJxNVBOVlBNeDJkSnktYmhsRE04c0lxOVNXb3ZULW9UbXNGV3VXblc3cHlhVTBycG5qSjZCTmZhZEx3QmpCUjladU83ZmwzMHNubm1GSmIyVk9nVEgyTm96M0lFT1B0Mg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHNrWDlycWpDOVEydkwtYWstb1paMTdPcS1WYjgyeExXLWloNTRIdEFLbk56TGRZSDlOeHh5ZmtCOXpYc214TDZUV3JCUldsSlpCSzF0U0s2ZklaUTdJeWdsMmtTRDVFTWJtQzE1SXdxbHdiTnRRaUtnNm5nclpwanpzckRodWVBNldXSW8zb1phSm5YWmpLYWhGcXRvV0ZxNUNocjZyWV9YNkVPN2lzdXFBNUxYQzJyb190RzQ5aHQ?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
