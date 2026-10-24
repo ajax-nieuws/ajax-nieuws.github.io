@@ -1,21 +1,21 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T23:34:08.401092+00:00",
+    "generated_at": "2026-10-24T02:00:46.442522+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 110,
+    "article_count": 111,
     "event_count": 40,
-    "discovered_event_count": 101,
+    "discovered_event_count": 100,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 79,
+    "excluded_video_only_count": 70,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
       "id": "df30bd7a5ffb9a",
-      "title": "Dit is de selectie voor Legacy Match tegen FC Barcelona-Legends - Ajax",
+      "title": "Dit is de selectie voor Legacy Match tegen FC Barcelona-Legends",
       "category": "Selectie",
       "published": "2026-10-23T22:17:44+00:00",
       "updated": "2026-10-23T22:17:44+00:00",
@@ -30,7 +30,7 @@
     },
     {
       "id": "4ebb410ed57a15",
-      "title": "Negentig minuten lang: Ajax – Atalanta - Ajax",
+      "title": "Negentig minuten lang: Ajax – Atalanta",
       "category": "Overig",
       "published": "2026-10-23T22:01:21+00:00",
       "updated": "2026-10-23T22:01:21+00:00",
@@ -90,7 +90,7 @@
     },
     {
       "id": "0144dea85bc9dd",
-      "title": "Geen winnaar na zes goals in Oss - Ajax",
+      "title": "Geen winnaar na zes goals in Oss",
       "category": "Overig",
       "published": "2026-10-23T20:30:53+00:00",
       "updated": "2026-10-23T20:30:53+00:00",
@@ -175,6 +175,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150529/kieft-twijfelt-aan-dure-ajacied-leonardo.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3c9c9ff3c34fe8",
+      "title": "TOP Oss 3-3 Jong Ajax (23 okt., 2026) Uitslag",
+      "category": "Jong Ajax",
+      "published": "2026-10-23T18:04:29+00:00",
+      "updated": "2026-10-23T18:04:29+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X0RKRVlpa2ljQXZXODBPeF90anUzNzVsZnljTkRtMmlXYU5FSjc2Ry1DVnd4UndLMXlNX2FuaWI2TlFlLUJUMnNZRU1OS3FHbHN4eFFIdFlJRnpHQm9yT1QybnF6LVVhMVJYZmpn?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -340,6 +355,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150447/ajax-watchers-verdeeld-over-terugkeer-zinchenko.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9cbcaf3b40ab1c",
+      "title": "Rondom Ajax: Arokodare bereikt mijlpaal van honderd doelpunten in zijn carrière",
+      "category": "Wedstrijden",
+      "published": "2026-10-23T13:25:15+00:00",
+      "updated": "2026-10-23T13:25:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV2MtbS1UbXg5ZVpDXzJPMlV4VzlxekRNclhJV2pFZ0tHYVY3aEJNMXVtMEJqT3AxbWJyWUxFMVNiVjZ2WXBtTktSUk9wYTF3TE11c0JHV0xodnB6S1g0ZUdHY3pVWDFhTTlOaWNnaWhsMEk0OXkybU9PeEVRbG9qV3E0ZVVqQ0dsWEt0V1FMQzVqMExfWXlxZTc4dHVhc2l6d1FMbHRhT19LaHRRVzEwNHo1SGEzakZvSy1CdFB4c2p0bWJaQUFNTg?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -545,21 +575,6 @@
       "related_sources": []
     },
     {
-      "id": "374f1426faa73d",
-      "title": "Mokio brengt dynamiek op middenveld Ajax: 'Je komt niet weg met Klaassen, Amrabat en Brandt'",
-      "category": "Overig",
-      "published": "2026-10-23T09:40:00+00:00",
-      "updated": "2026-10-23T09:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXhGdThiX0dhcmUwV24xTWRSNFVieDEwd2poT0MwLWNUSzg1VnYzTGUzYk5ReGdpSHRBc1M1Q01NLWlYcDA5TkhITE1KSWZNVS1PMl9Lb0REeUtFaEhMeXRFM0UwVnJsUGduSnd4TDFEMHB6N0x2MHpfTE5xaHQ1eTdyQ2JtZFA3d1ViRzlqTHptMzRfN1VaMTNVNllhbkRmS0pmUjBSaWpFRHo2V1F6ZGFlXzNJdDQyTWRXT1ZlS1l0QWc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "04d033346e0f28",
       "title": "Bissouma baart opzien: beelden in spelerstunnel na Ajax - Atalanta gaan viraal",
       "category": "Overig",
@@ -601,21 +616,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150279/vink-ziet-nederlands-probleem-bij-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5841ca12adf3bb",
-      "title": "NB: 'Amrabat niet de zes die ik graag wil zien bij Ajax, hij brengt voetballend te weinig'",
-      "category": "Overig",
-      "published": "2026-10-23T08:30:00+00:00",
-      "updated": "2026-10-23T08:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWZTNmlDcWw1dWxyZUp0YjgwY1hFajJvVll3R1pheXBtUVBVbFVXM1h3ei1jYmFjNURHaUdQNkswV2p2SUlEWTNjM1Rqc0J2WXJhRUJpQUV5dnM0WXJoWGtuY3NmUFRfal9jbkVXVjlxOHpYclhJdy1PRFJRVlVDZVBvVWtqREp4b2ZESTJ5bzlBQVFoVmJLbzZub2RWcUhOY2pRblNLUEpYeXBlVnJSZjI1UklOWGFFQ2h5eVBUbnNkZ28yT2c?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
