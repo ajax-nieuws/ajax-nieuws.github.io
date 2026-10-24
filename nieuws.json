@@ -1,18 +1,93 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T02:00:46.442522+00:00",
+    "generated_at": "2026-10-24T07:23:02.264440+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 111,
+    "article_count": 113,
     "event_count": 40,
-    "discovered_event_count": 100,
+    "discovered_event_count": 101,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 70,
+    "excluded_video_only_count": 73,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b4fc6ac051cd75",
+      "title": "Twee Ajax-zeges geven boost: 'Willen gewoon eerste plek pakken en kampioen worden'",
+      "category": "Wedstrijden",
+      "published": "2026-10-24T05:55:23+00:00",
+      "updated": "2026-10-24T05:55:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2150594/bouwman-ajax-wil-kampioen-worden.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "890df81a3a02c7",
+      "title": "Het bizarre verhaal van Tolu Arokodare: van vertrek bij Wolves naar favoriet van Ajax-fans",
+      "category": "Transfers",
+      "published": "2026-10-23T06:01:12+00:00",
+      "updated": "2026-10-24T05:55:12+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0RrS20wdWpZMEY1enJKUTZjZldYQmRFdDJwTUR6ck5NeFlvTlpOQ2VQazhxQzhvdmhkY1puZWlFbElONVJDYVRUN2RVdC1NY3ZjZXFqVEZtQ2dEVWxsbFg3cnJmWnJGOUh6TnJRMWRBUUh4N1c1Z2dNdUlQSkhpUFMtVE5uWV8tZ2I4SEJOTlhTMHdHQU1JSA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "42ea84e9cc5a69",
+      "title": "Zelfkritische Bouwman voelt vertrouwen bij Ajax: \"Vind dat ik steady speel\"",
+      "category": "Overig",
+      "published": "2026-10-23T17:25:05+00:00",
+      "updated": "2026-10-24T05:22:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUzQwbGZwYjZPbFRHNl9JNkFOdHhCaHVFRmhrNVlsSnlNcVZOQVFoTVkyYU05enlBLVZhZFpYeE1Ya2xQTWpOY0NsTEpWRVl2V2tkSFlfZ0FaZXgzS0NybjBoajdMdURDX2toejNwRTM3MmJiT1EyZVYtUnZFM2xwTWxFYk92N2taRTFhLVpQSVRVNnZBaDRVQw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1defe2b30dacd1",
+      "title": "Gijp kijkt met open mond naar Ajax-publiekslieveling: 'Begreep hele aankoop niet'",
+      "category": "Transfers",
+      "published": "2026-10-24T04:53:00+00:00",
+      "updated": "2026-10-24T04:53:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2150583/van-der-gijp-lovend-over-ajax-spits-tolu.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0144dea85bc9dd",
+      "title": "Geen winnaar na zes goals in Oss",
+      "category": "Overig",
+      "published": "2026-10-23T23:19:04+00:00",
+      "updated": "2026-10-23T23:19:04+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fUkc4YVktbHBLWFBoT2FmOVV5Z0lOUVJDaW9HcFZSa1VGQ09oU3ktT2o1V2wtTnVHbV9TZ3hadld0WlFuOVl3WHVOOFkxZWFKTTRuV2NSNFdwc092Z29ESnFsd1ZDbGVVSWk4cWZ0MXI?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "df30bd7a5ffb9a",
       "title": "Dit is de selectie voor Legacy Match tegen FC Barcelona-Legends",
@@ -85,21 +160,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150564/gijp-lovend-over-ajax-talent-ouazane.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0144dea85bc9dd",
-      "title": "Geen winnaar na zes goals in Oss",
-      "category": "Overig",
-      "published": "2026-10-23T20:30:53+00:00",
-      "updated": "2026-10-23T20:30:53+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fUkc4YVktbHBLWFBoT2FmOVV5Z0lOUVJDaW9HcFZSa1VGQ09oU3ktT2o1V2wtTnVHbV9TZ3hadld0WlFuOVl3WHVOOFkxZWFKTTRuV2NSNFdwc092Z29ESnFsd1ZDbGVVSWk4cWZ0MXI?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -182,8 +242,8 @@
       "id": "3c9c9ff3c34fe8",
       "title": "TOP Oss 3-3 Jong Ajax (23 okt., 2026) Uitslag",
       "category": "Jong Ajax",
-      "published": "2026-10-23T18:04:29+00:00",
-      "updated": "2026-10-23T18:04:29+00:00",
+      "published": "2026-10-23T18:05:36+00:00",
+      "updated": "2026-10-23T18:05:36+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -404,25 +464,19 @@
       "related_sources": []
     },
     {
-      "id": "865db2956e1b3c",
+      "id": "cbb8dd8452325c",
       "title": "Ajax TV | Late goals to seal the WIN ❌❌❌ | Highlights Ajax - Atalanta | UEFA Conference League",
       "category": "Wedstrijden",
-      "published": "2026-10-22T20:50:55+00:00",
+      "published": "2026-10-23T12:00:00+00:00",
       "updated": "2026-10-23T12:00:00+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVlkSldlWnVqdE5CSjFFNzQwc3c3VXRrQS1rQjd2dEw2dnpSZmI5dlQ4dkQtS0IxV0RsdXpUTFBRMllUY2FSQWZCTmdoZkViSFQ2QU5sbjNqTDFxa1BBTzJGdmVHY0FYVndEZ0Ffb2FPYmdseHFscGZ3UUt1azI4MjRPRXVtT3pPckx1aGtMdl9HUVNrYWQwcC1JcHVmV2xZdzJmbDN3OWVxM3RfUTBFZGltem5wNnJnTmZFYlM5bE10TTJD?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVU1VZDB0MWE1Q1lKaHhkTUpHWENod0NwaXRlNzF6YUh6MTJxb0dBS1hBZkVaeENRRGktdXJPQnhRSE1ZVkRPR1g5SVh4LXR3a0lmZm96RmdzQWhhbjRPTmQ0YlBqQmdLblJFYWVWNWZlUi0wX0dvbmdDX2JwX19XbjRid2lZekhKdlVOc1NTNWZ5SkE4bEZTY3UzTWQzTGFxanpfNFNSem5BNllmc1A3SFpLbDVjUQ?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "66166fd363666d",
@@ -555,66 +609,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150327/na-europees-duel-van-ajax-wacht-de-johan-cruijff-arena-een-ongekende-operatie.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f409583dc06825",
-      "title": "Bissouma wacht Ajax-teamgenoten op in catacomben: 'Lamine Yamal!'",
-      "category": "Overig",
-      "published": "2026-10-23T10:13:00+00:00",
-      "updated": "2026-10-23T10:13:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2150321/yves-bissouma-vergelijkt-abdellah-ouazane-met-lamine-yamal-na-ajax-zege.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "04d033346e0f28",
-      "title": "Bissouma baart opzien: beelden in spelerstunnel na Ajax - Atalanta gaan viraal",
-      "category": "Overig",
-      "published": "2026-10-23T09:39:03+00:00",
-      "updated": "2026-10-23T09:39:03+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXZqdkI3U0tYT29rVUhta1ZkdHFCNDB2OTZ0bUh1TEM2VXpRcDlIUFpRYXVsR0gxc28yTjQ0czFlTlZTMDQycmloN0ttcC1WMlk3X0FZME15NTR4RnFWTGNQWkJyRTZzQ2VMcDJDSENkMXVsM2t0VTRkMUdWTG0zVm93bmNLNHFlRUVleFRuaTE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "56a02c3d5ebf3d",
-      "title": "Megafeest AMF deed verzoek bij UEFA om duel Ajax te verplaatsen, nu staan ze voor krankzinnige klus",
-      "category": "Wedstrijden",
-      "published": "2026-10-23T09:00:00+00:00",
-      "updated": "2026-10-23T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblU4b2ZwZ0hYbHVZNUlEWGpzallaWG9nampua043X0RONF94ejJ1dndoZERSZDRMSmt0emFHNzhTUjFBWHhhb2thcGZ6NElITlZWZzJYY2FKTlg1MEtzaDhkSk1GQXprU1FrbF9ZT0ZLTjJYWjhqS1d5bEZUQ01OS1M1bkYycURUZEFFeVp2cUZtOF9yeXpEQ0xwZGdPNVM5SWRYQ0Z0UEplY044NWpfck5mR09KYzV5VXhvbWk4eEs1QlR3cHdYYmItSnU1MmhFVDdR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c070ede68845f9",
-      "title": "Vink wijst op knelpunt bij Ajax: 'Dat is een Nederlands probleem aan het worden'",
-      "category": "Overig",
-      "published": "2026-10-23T08:45:29+00:00",
-      "updated": "2026-10-23T08:45:29+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2150279/vink-ziet-nederlands-probleem-bij-ajax.html",
         "via_google_news": false
       },
       "related_sources": []
