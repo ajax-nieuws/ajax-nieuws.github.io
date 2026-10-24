@@ -1,29 +1,149 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T12:14:57.213559+00:00",
+    "generated_at": "2026-10-24T16:04:30.125069+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 110,
+    "article_count": 111,
     "event_count": 40,
-    "discovered_event_count": 98,
+    "discovered_event_count": 99,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 67,
+    "excluded_video_only_count": 69,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "e6ecc5f319a017",
-      "title": "LIVE 12.00 uur | Ajax O15 neemt het in thuiswedstrijd op tegen koploper AZ O15",
+      "id": "9a039746c307c2",
+      "title": "'Staf van Míchel heft frustratie bij Ajax getransformeerd in doeltreffend wapen'",
       "category": "Wedstrijden",
-      "published": "2026-10-24T08:30:00+00:00",
-      "updated": "2026-10-24T08:30:00+00:00",
+      "published": "2026-10-24T15:41:00+00:00",
+      "updated": "2026-10-24T15:41:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2150778/vi-analyseert-verbeteringen-van-ajax-bij-standaardsituaties.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "df30bd7a5ffb9a",
+      "title": "Dit is de selectie voor Legacy Match tegen FC Barcelona-Legends",
+      "category": "Selectie",
+      "published": "2026-10-24T14:51:55+00:00",
+      "updated": "2026-10-24T14:51:55+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVRMTDQ0U2VERFVRcW1ZWjk3OVJNMjNCaFZTZjVGUk5Id2ZBczJOZkZVeWRCY2dlNldmYXdTOUxOOGt5VTI0OWNHZWJ6X0Y4cjJIbEswbjhjR2RmR1V2a2U3RDJSVzZSbWVETXgyd0lzd1FNMTZwMVk3c1R4MDV2SUpCNjBVOEJmekt5eXc2VkI5Y1poMkpGbnJRU1ZjMUpBbGswWm1nR2Znb21P?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f97a661fc9c1b8",
+      "title": "Dit is waarom Ajax dit Eredivisie-seizoen de meeste doelpunten uit hoekschoppen scoorde",
+      "category": "Wedstrijden",
+      "published": "2026-10-24T14:35:00+00:00",
+      "updated": "2026-10-24T14:35:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFNZWUxLZnFkcUxIRk9uU2VTVHJkd3dJQ2FpNkZBUk5sR1BXYzVNcXFfNkFLeFQwelotcENacWhZX0xxUFQxLUc5MXIwUWE4QjRDVUdNTFU3UlprbF91b3RvR25BbDZycS1tbjBWUExlcXBlVnVqNVNZbDhaVmJkV0ZOT1dfVU5QcHZnMjEzNHBEaERIV192UWVKMWZ3bV9lZ0hVcTd1MW5pMVZGbEV0d1FJOENXZVk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaVRKOG1VY0FfSGhvejV5RjQ1MzZUeUhQcWNJRld3UmZFOWRzTElOMEU1cExXdzNUSjZnb1ZCcmVkTC1JRXpMWmtpLVFjdnNpQWtYQ0lQWTFWQ0pMQjVmUTFmRDh1SjdmOFo5T1JkampNbzViZ2lEZm1zRjd3UWFuODFvSE5pMng4Zld5RFhlWFNyTXUyNVNuSFBzcS1tOWpGeUZKWUxEeTVmN19jVk0xalREVTZENXMwNkFyTFdwb0c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "afb83acc6c757e",
+      "title": "Henk Spaan vergelijkt uitblinkende Ajax-speler met grote ster van PSG",
+      "category": "Overig",
+      "published": "2026-10-24T13:57:12+00:00",
+      "updated": "2026-10-24T13:57:12+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkFqUHRqT2pZdWpGVjNNNjhNbnVjVG9RYnNMVk5yZ0lJQXZYa09DX0NIeldrc3FZS1F0WjVqdDFELXpYa2h6M1ZtdmJfTkRZSlI4QUU1Um9obzlya3l5cTZJd2czUHRnbzd2ZFhXTHVULWtEOTdYcWV5R2RhRlRSel9ka2xXcDd6cFhPRk51eFMzNDVmaHlnY1RjMWJ4Q2Q0NEVNVzhDbFVkVFdlZU5Ecy05X0pWdw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "002b18e37cffff",
+      "title": "Koploper Ajax O17 wint van Sparta Rotterdam O17 en zet uitstekende reeks voort",
+      "category": "Wedstrijden",
+      "published": "2026-10-24T12:50:00+00:00",
+      "updated": "2026-10-24T12:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0JKS0o2MnN2VTdaYkVXT3ozcENqbWhIYmpzV3YwdjZNalM5Ulh4NUFzOFh4LVEyWTBCNEQzNl81T294RDhTN2V2MzhmRXNGMGNRT3ZLZkJ0YmpnMXJ3YjN0NGFRVkxJVDRfUGYyS3N4Umo3NS1rSDhrOXBPa3k2Q09lN0ltckU5dHptblFIeDV1TTFCM0MtWWVDdmdRUjM2SzZxX3ZmNV8tRGpYa1VZUHU5dDYyb1dKTzk1ZzVUOWZoQjJNV3lfZQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8277bfec956ad6",
+      "title": "Rondom Ajax: Ajax voegt nieuwe naam toe aan selectie van Ajax Legends",
+      "category": "Selectie",
+      "published": "2026-10-24T12:11:37+00:00",
+      "updated": "2026-10-24T12:11:37+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHBzVWhzcXdVRGhRWTJHS3UtU2Q4b0EyV2IzbUhoNGItdFlEMHo4c3dQZ1hCOHpQRkVJTE1RM3ltY29Ic0hDdXFVLUcxbmQ0S3Jkc2tMX0N2V1ZXVEJDWHdNTk5wNEVETHp5OU95NjRLNVA0OXBva2lpNE80cFJaVUpNODJSbk9Za1Q3UjZIYi15WGd1UkQwckVaQ0dJZ3lPR1Z2VzVIbUNjQV9jR0NPd0tLYmhQRFBNc3ZR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "006c910a721e7e",
+      "title": "Makkelie fluit duel tussen Sparta en Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-10-24T11:16:51+00:00",
+      "updated": "2026-10-24T11:16:51+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56093/Makkelie-fluit-duel-tussen-Sparta-en-Ajax",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f1625048a50ef7",
+      "title": "Weet Ajax ook Sparta te verslaan?",
+      "category": "Overig",
+      "published": "2026-10-24T11:08:09+00:00",
+      "updated": "2026-10-24T11:08:09+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56091/Weet-Ajax-ook-Sparta-te-verslaan%3F",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "04031129ae99ad",
+      "title": "Ajax zoekt naar nieuwe hoofdsponsor: wie wordt de opvolger van Ziggo?",
+      "category": "Transfers",
+      "published": "2026-10-24T11:00:00+00:00",
+      "updated": "2026-10-24T11:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkhYMHpDcGFwa0NWenozNmJYVktBS1E0Q0VoVDVxVmlPSTVYWk50cENmd3dyWDk0bVFlQkRsLXRVc3F2MUxCVmRFOU9WSjNBWHAwMXgxekpWOU9Zbzc0UzZNMUtMSHoyUVAxMk5IWHY0QWZiVUY5LXZBcTZuejVHbFFyeWlobThydzRwSUlkQklEX1VsS1oyQ2h5YTRsSThEUkJrdy1pVmtiNFBUTHBBS054dFNtZlkwUEE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -194,42 +314,6 @@
       "related_sources": []
     },
     {
-      "id": "df30bd7a5ffb9a",
-      "title": "Dit is de selectie voor Legacy Match tegen FC Barcelona-Legends",
-      "category": "Selectie",
-      "published": "2026-10-23T22:17:44+00:00",
-      "updated": "2026-10-23T22:17:44+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVRMTDQ0U2VERFVRcW1ZWjk3OVJNMjNCaFZTZjVGUk5Id2ZBczJOZkZVeWRCY2dlNldmYXdTOUxOOGt5VTI0OWNHZWJ6X0Y4cjJIbEswbjhjR2RmR1V2a2U3RDJSVzZSbWVETXgyd0lzd1FNMTZwMVk3c1R4MDV2SUpCNjBVOEJmekt5eXc2VkI5Y1poMkpGbnJRU1ZjMUpBbGswWm1nR2Znb21P?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f01a464712b915",
-      "title": "TOP Oss 3-3 Jong Ajax (23 okt., 2026) Uitslag",
-      "category": "Jong Ajax",
-      "published": "2026-10-23T18:05:36+00:00",
-      "updated": "2026-10-23T22:11:36+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X0RKRVlpa2ljQXZXODBPeF90anUzNzVsZnljTkRtMmlXYU5FSjc2Ry1DVnd4UndLMXlNX2FuaWI2TlFlLUJUMnNZRU1OS3FHbHN4eFFIdFlJRnpHQm9yT1QybnF6LVVhMVJYZmpn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRGhFaFdMMXZsekZMRVh6NHNaOEo2dFpmOEljM3Rab0VILW9VV0xoc1d4V29XWVM5SmFyU1ladEpkYVFGTWNoc1B6ZTBHTjlzdXI2SjZuUFQxU1d3YllJRTdUNEFyQmNvZEdERHVQcTBfWVFwRk1WN2h6akFGM1RMN0FMejR0SlpKQ19PSG9MWU5vd2JMLUNrMl90bE51OGRfdG9ISU1LcGh1UklnU0ZucW5YUi12bkNHTUNmRjNLemZ5dWlMRWI2bE5vNHRTZEpNVVE3ZElVYS1DX1U?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "4ebb410ed57a15",
       "title": "Negentig minuten lang: Ajax – Atalanta",
       "category": "Overig",
@@ -256,6 +340,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150564/gijp-lovend-over-ajax-talent-ouazane.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "34707c94d010f3",
+      "title": "Cruijff-aanwinst Camara redt Jong Ajax met heerlijke vrije bal; Veerman en Van der Hurk maken onvervalste hattricks",
+      "category": "Jong Ajax",
+      "published": "2026-10-23T20:02:00+00:00",
+      "updated": "2026-10-23T20:02:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMlpuY2lVR0JaekJJeXVvbm5WalVoQWhtaEF4Z3h2WFR0ekNISFBodjZKaUhCUFFRR1FUSUI5V29MaG9SeTF6Q1FjaWc1WjVBM2pxSjNPd1VMYVlmOTN3Ujd3U0ZXZnFmRFV5eXhodVM3a3hzZlV3aGJ1M19PdVF1VmpSM0E1aG4ybnNiNE9VNGdTbF9fUzdSeGVMMXR6Q1BCXzVpX1ZLdTBCbEFjOFRNelhEMldSZlNLNmMwakotVEhnYU9hWlVYVWhsUFhYbk0xYTJZREoxNG5hWUpiYU5rM3YwRkhnOWlWWUpDVEhFTmQ3NW9kOUloZzBMcEM?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -316,6 +415,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2150529/kieft-twijfelt-aan-dure-ajacied-leonardo.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3c9c9ff3c34fe8",
+      "title": "TOP Oss 3-3 Jong Ajax (23 okt., 2026) Uitslag",
+      "category": "Jong Ajax",
+      "published": "2026-10-23T18:05:36+00:00",
+      "updated": "2026-10-23T18:05:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X0RKRVlpa2ljQXZXODBPeF90anUzNzVsZnljTkRtMmlXYU5FSjc2Ry1DVnd4UndLMXlNX2FuaWI2TlFlLUJUMnNZRU1OS3FHbHN4eFFIdFlJRnpHQm9yT1QybnF6LVVhMVJYZmpn?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -455,21 +569,6 @@
       "related_sources": []
     },
     {
-      "id": "92c6ba025cb029",
-      "title": "Rondom Ajax: Ajax deelt unieke video van doelpunt Arokodare: ‘Composure’",
-      "category": "Wedstrijden",
-      "published": "2026-10-23T13:59:58+00:00",
-      "updated": "2026-10-23T13:59:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpWcnRfSDhiR3dvOTkwQ2JSNmZtVE5qX2hnS3ZkMWdSSkZlY3pVZjMzSGg3QlpzNlhIeGw1OXRNTjcyWEhSZDZvTEVPVllnMmRvZWFhNXFjVkJiamFBVEJEcFFEa2pQRUxGSWEyRm82X3M5eU1STDdxLWw1S2g5Q0hRQ1pWTDFodHA0RTRwbDl2SFBvdEloNHlNUmEwYkkwUnFkbU93ek1aenlEU09rTzhrZTRaTUQ3Nno0?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "84a65024aa951d",
       "title": "Ajax-watchers verdeeld over terugkeer Zinchenko: 'Dat heeft veel meer prioriteit'",
       "category": "Transfers",
@@ -510,111 +609,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcU9hT2RVdFgzU2h0N1htcjVRRENzdnhSbG1Td2hZc2pBdk95M0l1N3FkeUxfcUFkbDZsRVhsUkwzdmtFQkRfWl92NTRYeXJiZHhWeVRPVFJRSUVBY3BGMjgxempHcl9fNDJHSy1JWkRwR1p4NTZZOFBHTmEwdm1IWUV1aEhwOGFLMy1saGo3dUI2M0t1V29EMjEzczBMaHFLV2lGQVhmV1lPUHR5RHdOS3dXT3JxWDNOcVliYXJBMHhUMUVNWVVnbDBoWGM2TkYyVTRGYWw3SzQyOEE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "218bb0b4feacf0",
-      "title": "Conference League geen publieksmagneet, behalve bij Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-10-23T12:09:28+00:00",
-      "updated": "2026-10-23T12:09:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/conference-league-geen-publieksmagneet-behalve-bij-ajax",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "cbb8dd8452325c",
-      "title": "Ajax TV | Late goals to seal the WIN ❌❌❌ | Highlights Ajax - Atalanta | UEFA Conference League",
-      "category": "Wedstrijden",
-      "published": "2026-10-23T12:00:00+00:00",
-      "updated": "2026-10-23T12:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVlkSldlWnVqdE5CSjFFNzQwc3c3VXRrQS1rQjd2dEw2dnpSZmI5dlQ4dkQtS0IxV0RsdXpUTFBRMllUY2FSQWZCTmdoZkViSFQ2QU5sbjNqTDFxa1BBTzJGdmVHY0FYVndEZ0Ffb2FPYmdseHFscGZ3UUt1azI4MjRPRXVtT3pPckx1aGtMdl9HUVNrYWQwcC1JcHVmV2xZdzJmbDN3OWVxM3RfUTBFZGltem5wNnJnTmZFYlM5bE10TTJD?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "66166fd363666d",
-      "title": "AT5 | Persconferentie Ajax wordt de grote Tolu-show",
-      "category": "Overig",
-      "published": "2026-10-23T12:00:00+00:00",
-      "updated": "2026-10-23T12:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOXIwa1E1Z25BUTYzRDBqdFdsaUtkTmw5YVhtMXNYa1c3Rml0eE43dUtMS0Uxd0JVZE5zcGp2VkZfcUoyQ3RkOHhUNW93TmxweDVlUVY5Zlc3cjU5MFJaUTVWLVZyYTZLb0MyQk9qYjVrWXJXMHFKU3lsMWF5dzZ6V1haUl9HY1VCc29jYkMyS1dTNzByaWNsdQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e1f8340705d2c8",
-      "title": "Jansen haalt Van der Vaart aan over Ajax-talenten: 'Als je goed genoeg bent, ben je oud genoeg'",
-      "category": "Transfers",
-      "published": "2026-10-23T11:50:00+00:00",
-      "updated": "2026-10-23T11:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkxWNzd5U3NkTEh2NGdOc2QzZG1qT3g3UC1JTFVFNl93NG9lMXRic0NWNGhsUTEwbXlZTlZRcXc5TjFJbG5NQkZ3Q1h3cFY2NG5CSjIxOXNJMmlCNHZrdTk3MWluWHJDMUJDN1RVSHM1TlJEWjU4dS1kb0xOUG9md3ZBMGVfcnV0dmdaV1Q5cmIzcDBjWnVoQ0tuV2JvWS0tZ2xJT2swcldSRWxtTEc3aU52bDFIWlJLN3ZmeXlrODZzNHBDOFE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3cd9984082ce85",
-      "title": "Ajax-held Tolu deelt emotioneel bericht na Atalanta, onder meer Brian Brobbey reageert meteen",
-      "category": "Overig",
-      "published": "2026-10-23T11:21:00+00:00",
-      "updated": "2026-10-23T11:21:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2lCTDBaMEh2RzZiRnhKY0NOcEFJak5YYjI5Ry1DZ2dDX0x3TUhRcjZLZ2hXY0hjUllyUndCREtIcjR0a2UzM2NpSExsYUJxQ3AzMG8yNW10YUNPRms0SE1lVElQQnF4WVdNZTRhY1BmY0hnSm94eTg4ODVTcWcwSFMxb2Jlb0dfN29NOHl1cU9WOUpaVERFM0pUdEJYMlFUVFlqdUhzaDFfZk15N21WVlBMWDVlUHlJWW9ibTFGc19qNTRnR1pNT1RhX05MbzJsWnFZYXZxSWlLeEstMG9z?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "643c80afb61308",
-      "title": "Ajax-spits Tolu laat van zich horen na bijzondere mijlpaal: 'De reis gaat verder'",
-      "category": "Selectie",
-      "published": "2026-10-23T10:52:28+00:00",
-      "updated": "2026-10-23T10:52:28+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2150339/ajax-spits-tolu-laat-van-zich-horen-na-bijzondere-mijlpaal.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3e5fbcdd427054",
-      "title": "Chaos compleet bij tegenstander Ajax, voorzitter ontploft richting eigen trainer: 'De deur staat open'",
-      "category": "Overig",
-      "published": "2026-10-23T10:52:00+00:00",
-      "updated": "2026-10-23T10:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZEY4M3pISFQyenRGd0JYOHE0S1VYaXYxQ3BmZDh5OUdGcXFESW04NFhsYTJsQlp4eXlWX3ZYdW9TdklOQl82cmVzVUlRQ3MwbXlHbVlTVDlzemdwUWRnVnFpeEJFN1lTU25VTF9JZnVOUjZyMFlISzdXUmQxLUdxWEhET01VbTdSZGluSFBMWTlrQjFPaWR0U0lOQlpSajNGWklCbHBMS2RaOG9VQU5sVmxITjdmaUlZR2Y1Uk1WQk5VenotbldpYW5Sajk5LU5tdWVJNVZkWDVCblZlOHQ2eDNMYzRvb0k?oc=5",
         "via_google_news": true
       },
       "related_sources": []
