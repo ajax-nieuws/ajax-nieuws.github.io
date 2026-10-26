@@ -1,54 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T00:27:11.911047+00:00",
+    "generated_at": "2026-10-26T05:25:57.812970+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 93,
+    "article_count": 92,
     "event_count": 40,
-    "discovered_event_count": 77,
+    "discovered_event_count": 76,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 89,
+    "excluded_video_only_count": 90,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
-    {
-      "id": "dbeb8f4cf50bf7",
-      "title": "Ajax loopt in op koploper Feyenoord en passeert PSV dankzij moeizame zege bij Sparta",
-      "category": "Wedstrijden",
-      "published": "2026-10-25T17:30:00+00:00",
-      "updated": "2026-10-25T23:35:40+00:00",
-      "source_count": 6,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2636646",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-passeert-psv-en-nadert-feyenoord-door-moeizame-zege-op-sparta",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWNnSnYxUFZ4ay1fOEJGUzNLc2tXaFRPSjFUQW1pcm54aDNhRWw4NGxwVDFCQkVwWTZjQWdsQUNSdWdTZHJCU3JyRjRtWjl2ZWk3MG9CQWk1RklHSzBTNVVReURNcjZlUEE5N1VObEtlNUhORF9UQjdSY0xwWVZzSUQzdGNzcnkzcXlybVc5M2FsbHFiZ0hFalVaYzVsN1B1Tl9kaW9wdU9fN3NpZ0o2Q0JKUzNsbkViZ2c?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AT5",
-          "url": "https://www.at5.nl/artikelen/240670/ajax-zakt-tegen-sparta-ver-weg-na-rust-maar-wint-ook-nu-dankzij-goals-van-ouazane-en-tolu",
-          "via_google_news": false
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2151178/klaassen-vol-lof-over-ter-stegen-bij-ajax.html",
-          "via_google_news": false
-        }
-      ]
-    },
     {
       "id": "b898f5e6fb36ce",
       "title": "Ter Stegen maakt het verschil bij Ajax: 'Ander soort keeper dan bijna elke andere Eredivisie-keeper'",
@@ -300,13 +264,13 @@
           "via_google_news": false
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHJvTDdMbHhlTF93bXJZMHRsVE01bHhMdzFpM09FWkZLS1VHVzA5OWM2VFp6T3ZFTDFYb2VZWHoya0g4SXFwVWctWG1zMzR0WlRJZ3d1VUJhMkJ2M3dmY3VKN21xM19yNWJ6dVAtQUd6bkhvYUVaTnlkWXhwSGpVWDZaWDgzVDFwdi1HMU9tS0RoVXFFY1VrNG9IdXhEa1RMb0cxbHB2MW1TU0FzLTFTVFUzemRDWDZOYURSOFJsZE0?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkRHUTZYNDVkT1BpZTF2Y3VoWFU0ajJMcHBsNDRudmI2anFCVGhabDNTQU9oUHppX214OFhTQ0JfSkd2Vi1ZMDdVZU5OWFpybE41eTk3UGpnVHlXTGJsRjNOUFkxdGdTak1ZZDBNdTRHeHNUWFYxdWdlSk13d3pHYTgxMEpOcWR6REphcXNqOFhhQzJYVlVGWnE2Qml5ZllTUDB3WEtR?oc=5",
           "via_google_news": true
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkRHUTZYNDVkT1BpZTF2Y3VoWFU0ajJMcHBsNDRudmI2anFCVGhabDNTQU9oUHppX214OFhTQ0JfSkd2Vi1ZMDdVZU5OWFpybE41eTk3UGpnVHlXTGJsRjNOUFkxdGdTak1ZZDBNdTRHeHNUWFYxdWdlSk13d3pHYTgxMEpOcWR6REphcXNqOFhhQzJYVlVGWnE2Qml5ZllTUDB3WEtR?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHJvTDdMbHhlTF93bXJZMHRsVE01bHhMdzFpM09FWkZLS1VHVzA5OWM2VFp6T3ZFTDFYb2VZWHoya0g4SXFwVWctWG1zMzR0WlRJZ3d1VUJhMkJ2M3dmY3VKN21xM19yNWJ6dVAtQUd6bkhvYUVaTnlkWXhwSGpVWDZaWDgzVDFwdi1HMU9tS0RoVXFFY1VrNG9IdXhEa1RMb0cxbHB2MW1TU0FzLTFTVFUzemRDWDZOYURSOFJsZE0?oc=5",
           "via_google_news": true
         }
       ]
@@ -526,6 +490,42 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "dbeb8f4cf50bf7",
+      "title": "Ajax loopt in op koploper Feyenoord en passeert PSV dankzij moeizame zege bij Sparta",
+      "category": "Wedstrijden",
+      "published": "2026-10-25T17:30:00+00:00",
+      "updated": "2026-10-25T18:04:00+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2636646",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-passeert-psv-en-nadert-feyenoord-door-moeizame-zege-op-sparta",
+          "via_google_news": false
+        },
+        {
+          "name": "AT5",
+          "url": "https://www.at5.nl/artikelen/240670/ajax-zakt-tegen-sparta-ver-weg-na-rust-maar-wint-ook-nu-dankzij-goals-van-ouazane-en-tolu",
+          "via_google_news": false
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2151178/klaassen-vol-lof-over-ter-stegen-bij-ajax.html",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWNnSnYxUFZ4ay1fOEJGUzNLc2tXaFRPSjFUQW1pcm54aDNhRWw4NGxwVDFCQkVwWTZjQWdsQUNSdWdTZHJCU3JyRjRtWjl2ZWk3MG9CQWk1RklHSzBTNVVReURNcjZlUEE5N1VObEtlNUhORF9UQjdSY0xwWVZzSUQzdGNzcnkzcXlybVc5M2FsbHFiZ0hFalVaYzVsN1B1Tl9kaW9wdU9fN3NpZ0o2Q0JKUzNsbkViZ2c?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "b900cd06442379",
