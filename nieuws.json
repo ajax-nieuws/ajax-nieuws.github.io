@@ -1,18 +1,84 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T22:05:56.666543+00:00",
+    "generated_at": "2026-10-26T00:27:11.911047+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 95,
+    "article_count": 93,
     "event_count": 40,
-    "discovered_event_count": 79,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 91,
+    "excluded_video_only_count": 89,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "dbeb8f4cf50bf7",
+      "title": "Ajax loopt in op koploper Feyenoord en passeert PSV dankzij moeizame zege bij Sparta",
+      "category": "Wedstrijden",
+      "published": "2026-10-25T17:30:00+00:00",
+      "updated": "2026-10-25T23:35:40+00:00",
+      "source_count": 6,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2636646",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/ajax-passeert-psv-en-nadert-feyenoord-door-moeizame-zege-op-sparta",
+          "via_google_news": false
+        },
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWNnSnYxUFZ4ay1fOEJGUzNLc2tXaFRPSjFUQW1pcm54aDNhRWw4NGxwVDFCQkVwWTZjQWdsQUNSdWdTZHJCU3JyRjRtWjl2ZWk3MG9CQWk1RklHSzBTNVVReURNcjZlUEE5N1VObEtlNUhORF9UQjdSY0xwWVZzSUQzdGNzcnkzcXlybVc5M2FsbHFiZ0hFalVaYzVsN1B1Tl9kaW9wdU9fN3NpZ0o2Q0JKUzNsbkViZ2c?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AT5",
+          "url": "https://www.at5.nl/artikelen/240670/ajax-zakt-tegen-sparta-ver-weg-na-rust-maar-wint-ook-nu-dankzij-goals-van-ouazane-en-tolu",
+          "via_google_news": false
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2151178/klaassen-vol-lof-over-ter-stegen-bij-ajax.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "b898f5e6fb36ce",
+      "title": "Ter Stegen maakt het verschil bij Ajax: 'Ander soort keeper dan bijna elke andere Eredivisie-keeper'",
+      "category": "Selectie",
+      "published": "2026-10-25T22:30:00+00:00",
+      "updated": "2026-10-25T22:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1hhY3I5LWVSN0d3UjVPeWRhSXVaQTMyM0VjSnBhWjJOdG5KVFAxb0tNX09UdFhIaUFGUnYyTUQ0cEI2RnRfVUI4clJZZ3hRbEZZbjhYZ0ZhYldPSWxWcFRnS3BobDhQZExJdUVFMHEtZTB0SlZVMHNWZXRoTWJQc3JDclV6ZTBkMURwUXlvZTM5Uk10ajRPNW1VQmhwUnZNbXFjcThRbURoNU1VaTNRdjVNSkp2NExNREMyZENSUE9xazdwS29GY0pyMFpEUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9b9302bf7fbc5b",
+      "title": "Perez geniet van één Ajacied: 'Dat is buitencategorie'",
+      "category": "Overig",
+      "published": "2026-10-25T22:26:00+00:00",
+      "updated": "2026-10-25T22:26:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2151274/perez-geniet-van-een-ajacied-dat-is-buitencategorie.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "86b404eb961185",
       "title": "Zoon Heitinga (15) schittert bij Ajax op Messi Cup met twee ingedraaide corners",
@@ -24,6 +90,21 @@
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/zoon-heitinga-15-schittert-met-ajax-op-messi-cup-met-twee-ingedraaide-corners",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0d6c9f5d0c8c7d",
+      "title": "Míchel dankt Ter Stegen na moeizame overwinning op Sparta: \"Geweldige reddingen\"",
+      "category": "Overig",
+      "published": "2026-10-25T21:53:00+00:00",
+      "updated": "2026-10-25T21:53:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/240672/michel-dankt-ter-stegen-na-moeizame-overwinning-op-sparta-geweldige-reddingen",
         "via_google_news": false
       },
       "related_sources": []
@@ -125,6 +206,21 @@
       "related_sources": []
     },
     {
+      "id": "4285b8cc11386c",
+      "title": "Míchel zucht na afloop van Ajax - Sparta: 'We snakken echt naar hem'",
+      "category": "Overig",
+      "published": "2026-10-25T19:53:00+00:00",
+      "updated": "2026-10-25T19:53:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSldTN184NjVORFdnY3VjbG1neTZKX3hmTkc0MHdmbVVRWWwySGVzdXF3SGk5R1JTMzdZQTZUamUwWW5wMXRFaGlJeU9VNWNlUTNVVnhqUFhnUUtYU2dYMXFXNjVuc3FjZkpmV0hrMk9ZeFJNUWF0b1hHMGlwZzNWN3V1b0laUjFSZzJRYUtBOXRZTDhrNldDcFVHOC1UUE9mTUs3S2xEb2JhZndYMXFEUEdIWTA2bDdE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "13b3dc7d8f88ed",
       "title": "AZ incasseert week voor topper tegen Ajax mokerslag van FC Twente",
       "category": "Overig",
@@ -204,13 +300,13 @@
           "via_google_news": false
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkRHUTZYNDVkT1BpZTF2Y3VoWFU0ajJMcHBsNDRudmI2anFCVGhabDNTQU9oUHppX214OFhTQ0JfSkd2Vi1ZMDdVZU5OWFpybE41eTk3UGpnVHlXTGJsRjNOUFkxdGdTak1ZZDBNdTRHeHNUWFYxdWdlSk13d3pHYTgxMEpOcWR6REphcXNqOFhhQzJYVlVGWnE2Qml5ZllTUDB3WEtR?oc=5",
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHJvTDdMbHhlTF93bXJZMHRsVE01bHhMdzFpM09FWkZLS1VHVzA5OWM2VFp6T3ZFTDFYb2VZWHoya0g4SXFwVWctWG1zMzR0WlRJZ3d1VUJhMkJ2M3dmY3VKN21xM19yNWJ6dVAtQUd6bkhvYUVaTnlkWXhwSGpVWDZaWDgzVDFwdi1HMU9tS0RoVXFFY1VrNG9IdXhEa1RMb0cxbHB2MW1TU0FzLTFTVFUzemRDWDZOYURSOFJsZE0?oc=5",
           "via_google_news": true
         },
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHJvTDdMbHhlTF93bXJZMHRsVE01bHhMdzFpM09FWkZLS1VHVzA5OWM2VFp6T3ZFTDFYb2VZWHoya0g4SXFwVWctWG1zMzR0WlRJZ3d1VUJhMkJ2M3dmY3VKN21xM19yNWJ6dVAtQUd6bkhvYUVaTnlkWXhwSGpVWDZaWDgzVDFwdi1HMU9tS0RoVXFFY1VrNG9IdXhEa1RMb0cxbHB2MW1TU0FzLTFTVFUzemRDWDZOYURSOFJsZE0?oc=5",
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWkRHUTZYNDVkT1BpZTF2Y3VoWFU0ajJMcHBsNDRudmI2anFCVGhabDNTQU9oUHppX214OFhTQ0JfSkd2Vi1ZMDdVZU5OWFpybE41eTk3UGpnVHlXTGJsRjNOUFkxdGdTak1ZZDBNdTRHeHNUWFYxdWdlSk13d3pHYTgxMEpOcWR6REphcXNqOFhhQzJYVlVGWnE2Qml5ZllTUDB3WEtR?oc=5",
           "via_google_news": true
         }
       ]
@@ -381,21 +477,6 @@
       "related_sources": []
     },
     {
-      "id": "4285b8cc11386c",
-      "title": "Míchel zucht na afloop van Ajax - Sparta: 'We snakken echt naar hem'",
-      "category": "Overig",
-      "published": "2026-10-25T18:30:00+00:00",
-      "updated": "2026-10-25T18:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSldTN184NjVORFdnY3VjbG1neTZKX3hmTkc0MHdmbVVRWWwySGVzdXF3SGk5R1JTMzdZQTZUamUwWW5wMXRFaGlJeU9VNWNlUTNVVnhqUFhnUUtYU2dYMXFXNjVuc3FjZkpmV0hrMk9ZeFJNUWF0b1hHMGlwZzNWN3V1b0laUjFSZzJRYUtBOXRZTDhrNldDcFVHOC1UUE9mTUs3S2xEb2JhZndYMXFEUEdIWTA2bDdE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "7d25a0d7d0501f",
       "title": "LIVE 16.45 uur | Sparta Rotterdam - Ajax (0-0)",
       "category": "Wedstrijden",
@@ -445,42 +526,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "dbeb8f4cf50bf7",
-      "title": "Ajax loopt in op koploper Feyenoord en passeert PSV dankzij moeizame zege bij Sparta",
-      "category": "Wedstrijden",
-      "published": "2026-10-25T17:30:00+00:00",
-      "updated": "2026-10-25T18:04:00+00:00",
-      "source_count": 6,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2636646",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-passeert-psv-en-nadert-feyenoord-door-moeizame-zege-op-sparta",
-          "via_google_news": false
-        },
-        {
-          "name": "AT5",
-          "url": "https://www.at5.nl/artikelen/240670/ajax-zakt-tegen-sparta-ver-weg-na-rust-maar-wint-ook-nu-dankzij-goals-van-ouazane-en-tolu",
-          "via_google_news": false
-        },
-        {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2151178/klaassen-vol-lof-over-ter-stegen-bij-ajax.html",
-          "via_google_news": false
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWNnSnYxUFZ4ay1fOEJGUzNLc2tXaFRPSjFUQW1pcm54aDNhRWw4NGxwVDFCQkVwWTZjQWdsQUNSdWdTZHJCU3JyRjRtWjl2ZWk3MG9CQWk1RklHSzBTNVVReURNcjZlUEE5N1VObEtlNUhORF9UQjdSY0xwWVZzSUQzdGNzcnkzcXlybVc5M2FsbHFiZ0hFalVaYzVsN1B1Tl9kaW9wdU9fN3NpZ0o2Q0JKUzNsbkViZ2c?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "b900cd06442379",
@@ -613,51 +658,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVktrNFM1QTZLM1AwTkpsamRGeHFHVjZIel9zMERtRE5qS0hOcnFMMlFRRmt2cDJBVHoyTmZkMWlWd0VkakZsSTZ5QWJ3R2hMR1lPcVVpVTM1dm9pQldIb0ZUQmluVkg2YzBfVEdOLUItRG9NRDNzZnMxVXVlb00wdDIwQ1FkMzJ0aVEtS21ra002QmNHUzBOUE0xM3Z2NXRHUTlla0VmbW5qa0d2bWhmTGMyRkNOeTB4ZEVzWl94S2x1Ml8yS1B5V0lzTElfY3RfelE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "776a30392ebca8",
-      "title": "Sparta - Ajax (25 okt., 2026) Live tussenstand",
-      "category": "Wedstrijden",
-      "published": "2026-10-24T07:00:00+00:00",
-      "updated": "2026-10-25T15:53:32+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhdi1IdGNRU0JvWVRoYVowZzBrcFg0emVsYkExa05TYXBfaGNQeGstSnowUHlZTkZILTI4WThSdEVWR28yMVVRaEZCdXAyeG1qdFNISHpFQm8ydTc3S0EwMTRDemhwbndGeU5wMFRR?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0869c70969bb3c",
-      "title": "Speler van Ajax afgemaakt: 'Dat zag er niet uit, hij moet eerst maar eens fit worden'",
-      "category": "Blessures",
-      "published": "2026-10-25T15:52:00+00:00",
-      "updated": "2026-10-25T15:52:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmRtamdSZ1B0MDMzajAzdVY5ZHRjTHJzSXlweUJGQmFBUktiSW4tenl4X1RRU3BCNjZtcy1aWFY4STdpcGVEWnhYTDlPZTlDaGh4RDdEcWpqSVc4QnozY2h3YVdSMjFyZ2dMcG1jV2ZqYmpheGl0bDlRdGF6VHFxN3h6allKZHlvZm9SalhBY2ppTlQ0ZHhfMzB5UzFNNHdJUTBNeTJqZ25ZYTltdFpZclR0VVZDcFh0YnBfY1JWZktPb2pzZF9tSjVienRrZ0N2?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a813b07c874d92",
-      "title": "Programma, stand en topscorers eredivisie | Feyenoord koploper in de eredivisie: dit is de voorsprong op PSV, Ajax en AZ",
-      "category": "Wedstrijden",
-      "published": "2026-10-25T15:20:00+00:00",
-      "updated": "2026-10-25T15:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdEhKZTJMRmtGbF9vWFlFcy1rS0hhVlp3ZU0yQkdvbE9qU01lMUc5dFdXNDJTRVlVcWdXSF8wOEU0c1NLZXEwY2F2XzZ3SGI0UmZZbmZ5VmV4SjZnT3p0M1dCeDNidXdVQUcySXRjdDRlbmI0VDBodWlIOUU5RTAwYWtpV200TGFMYXFNQ1ROaXJJblItR0diaDNsdFcxVDdRMFhIRS05eVRwbEZHMWI1YnJhNy00S0k?oc=5",
         "via_google_news": true
       },
       "related_sources": []
