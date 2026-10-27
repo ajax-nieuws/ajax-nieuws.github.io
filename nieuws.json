@@ -1,18 +1,63 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T21:55:47.295536+00:00",
+    "generated_at": "2026-10-27T01:30:44.944491+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 110,
+    "article_count": 111,
     "event_count": 40,
-    "discovered_event_count": 96,
+    "discovered_event_count": 97,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 105,
-    "excluded_video_only_count": 75,
+    "excluded_paywall_count": 58,
+    "excluded_video_only_count": 85,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "b348c93d8c98a2",
+      "title": "'Ik heb Tolu in de gaten gehouden. Na een uur is hij moe, hij zet geen druk meer'",
+      "category": "Overig",
+      "published": "2026-10-26T22:47:00+00:00",
+      "updated": "2026-10-26T22:47:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2151683/janssen-denkt-dat-geldbedrag-parten-speelt-in-speelminuten-tolu-hij-is-gehuurd.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a7825570501b0b",
+      "title": "Ruud Gullit kraakt Klaassen om veelbesproken moment: 'Vind het slecht leiderschap'",
+      "category": "Overig",
+      "published": "2026-10-26T22:23:00+00:00",
+      "updated": "2026-10-26T22:23:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2151674/gullit-hekelt-klaassen-over-penaltymoment-in-groningen-slecht-leiderschap.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1ccbd9ec57bfe6",
+      "title": "Ajax heeft belangrijk wapen in titelstrijd: 'Positieve factor in de uiteindelijke eindstand'",
+      "category": "Selectie",
+      "published": "2026-10-26T22:10:00+00:00",
+      "updated": "2026-10-26T22:10:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmdBekwxdl9DZy05LW5TeXROWWlydVZkSWFUdWZvMS1lRVNhWXpPNUItRWdRQUEzaEtPWU1IVWJLcFl6UWhydzV0YlhnQnd6cW9SWlVpYzNpd1RMbEZ5WlRsQVFkMHR1TjJlWFdJRWJjMmlNMjhWMlphLXhfdUxLeFZJQzJ5Yk1tcDBFRFFCWHFYU2FDSy1VREQ2MGpFR3JsVk4zWWxVVDNsY2FNTk5JVDd0UlF6TnFWWDdQOGJOWEF4bVk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "2e13aa2ce0ae5b",
       "title": "'Het kooitje is weer open in Amsterdam en de kanaries beginnen weer te zingen'",
@@ -249,6 +294,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDBhWnZzdDhma0t2Z1poSk11clpLVnlZYnJTQXlTbXR0eE51NVU2ZDNSaHdfekc1djIwUGhnMDlDS2pfMURVelI4WXlocHd5aEpfUEU1UUNnVW5mdlJ3c0RyeW5XN0g0NzdEQTF5c2FCRHJHRkpsQkhHYWd5aDlNQVo3R05rMF80VXowZVNja182bmJNcEpuN1ZYellzX19DUVNDU3lOb0tacHp0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3f4c192d27ec73",
+      "title": "'Ajax hoogt met Baas als linksback de ondergrens, maar ook de bovengrens op'",
+      "category": "Overig",
+      "published": "2026-10-26T16:20:00+00:00",
+      "updated": "2026-10-26T16:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXVjaDg3dDVpQjVad0tiOEVoNkdlZFd1MEhKYnNPdGFmSVJhdjI3V2tNQS16OGRJN0xzRW5ZYUlPX2FOUWtWV240ZGsxZ2tTTEZIQ0w2T1dTT3ktQXVIYXBHX3pERVc3LXd2Ykx3LUdESGxGTGlsOGxnczRMZ0xKbHdobzZTdHNVT1g0ZXlQVEdTWWdvVVUxZWxLZmZPX0xQT0VF?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -562,72 +622,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW94ZGNoUGNIWW1FVjRLaF9Gb1lEa3ctMFBlbURzMVQ2clp1VDJNcnhNaFlfcjVjc19aQVlKdzZPWEl2QmdrMEtsT2JYY2xtTlBsdjQtcVlqSjAtZlhhSEJnZXdkN243Z2hHbTdrOS1ObzVNQ0NBSXV2cnJ2alJiVkdNdXE4RDhyOHB3QklsRGVWOFJiRkZRMVZ0Mm9JWVdURXBSWWxOS21faENuMzFaQ1BpQUFCYlhQRTNibmVOSQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "daea7f292778b3",
-      "title": "Ajax O16 pakt dankzij twee weergaloze treffers van Heitinga eerste drie punten op Messi Cup",
-      "category": "Overig",
-      "published": "2026-10-26T09:10:00+00:00",
-      "updated": "2026-10-26T09:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUY1aXk1Q2VuLVBZejJSSG1YRlhRTmlZLXd2X21wcHhPWjFkYW96b1l3YWtfaElPQlhMdEdBc1V6dEpsb01Zd1N1dmxGdzN0bGVUSFJCNmxZX1AyYmNTaUtIMVA2YlE0aWlwcUNMY1RGSVlidTd5ejUzbzhVbTJvSnpacERicUJkYW9UTXFHTmFLLTh0Q1B3RjRVbmd0Vk5wX2RrNkpUUlJSTExuS2VjWVR6WHh2WHRiVWc2dWJXbWRiOXh6clVINy1jLWZaWEJWMktjZ043cTJ5Zw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7ebd0151c44d0f",
-      "title": "Míchel na zege van zwak Ajax op Sparta: ‘Het probleem was niet de structuur, maar onze mentaliteit’",
-      "category": "Wedstrijden",
-      "published": "2026-10-26T07:09:55+00:00",
-      "updated": "2026-10-26T09:05:02+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGNaME9VVDliMkY1TXU5VVFFdXczMFllQmlkSXJpb2IyejRJTThOMTFMZy1pZFN6UkM1cUIxOGVfSWhYcGdWTS1OMWMzWGFPQ3VMODBKU1ozdnE0Z2JYRGZQVEh0eVI1S05BTDJTVFZzMDdLM2hUbWJ3bHAyUm13aUNLYXEyMncyVVI3cWdldEREN2FqdktMQ0xqX1k4YzhrTkdGSmptUjAxNW1xMXg4T3A2dEZndml5TVhoSzFHcGthYzlZaTVsWXgtNA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX3lWOS1tS3RFMVhuV2NBcExyYkdTYTlwLUVpUG5WWU4zM1QzY1pqbGpVMHVOMjBaellLS2xYcFdrNlBKekJCQUdmM2x3VmFPdTEzRmdvNUtsdFp3Wm1SVGNJZG1XVTB2cVQycUIzOTJJbmlvYXFDdExfSTVaeDdzTzI1NUcwU2YyWDJUUlpyYV9LSkFLYVNOMk5VYnRDb1djRW9CbjczWi1BZlNq?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "5844a05937155d",
-      "title": "Rondje Eredivisie: is Feyenoord de morele winnaar na speelronde tien?",
-      "category": "Wedstrijden",
-      "published": "2026-10-26T08:45:00+00:00",
-      "updated": "2026-10-26T08:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/rondje-eredivisie-is-feyenoord-de-morele-winnaar-na-speelronde-tien",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c241bd90fddd6b",
-      "title": "Van Hanegem: 'Die zou ik meteen kopen als ik Jordi Cruijff en Ajax was'",
-      "category": "Club",
-      "published": "2026-10-26T08:36:06+00:00",
-      "updated": "2026-10-26T08:36:06+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2151356/tolu-arokodare-zou-ik-meteen-kopen-als-ik-cruijff-en-ajax-was.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
