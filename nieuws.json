@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T19:00:13.455616+00:00",
+    "generated_at": "2026-10-27T22:59:30.206207+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 88,
+    "article_count": 81,
     "event_count": 40,
-    "discovered_event_count": 82,
-    "source_count": 11,
+    "discovered_event_count": 74,
+    "source_count": 9,
     "feed_error_count": 0,
-    "excluded_paywall_count": 49,
-    "excluded_video_only_count": 88,
+    "excluded_paywall_count": 59,
+    "excluded_video_only_count": 92,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "42922a79aa6a48",
+      "title": "The European Dream - Loading - Ajax",
+      "category": "Overig",
+      "published": "2026-10-27T20:01:17+00:00",
+      "updated": "2026-10-27T20:01:17+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRQWZWTzFBN0pPWmY5VmZpQXNNVXRfanZ3a3MwSG1JbUFTaHFQang2UUxYRWRJbk9PM21KMEg2RDhVMGMzcHZRUTZWZTZPckFELXFFem5YYjdIS2VXVDdxQ3dPNVNBZDFN?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "881e8d7b40ae31",
+      "title": "Basisspeler van Ajax duikt als supporter op bij duel in KNVB Beker",
+      "category": "Selectie",
+      "published": "2026-10-27T19:43:46+00:00",
+      "updated": "2026-10-27T19:43:46+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkw3eDZYRmRNWlpkaXkyMmd4Uk8wVHRoQzlPa19ucklxa0FZNUZKbFNSbVJmRG5uVllXY0xNQmdxQnUtdTZhdTF0SGpCUHkxR0p6aHd1MGxEOFd1WUhVWFN1MzdXYzFZNWJRWDFtek84TkFxZW41NS1lNjlfZV9CVXhBQkhtUGI1MnpYaQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "74457de725b8e4",
       "title": "Ajax-speler Sofyan Amrabat keihard aangepakt: 'Je moet je mond houden!'",
@@ -181,19 +211,25 @@
       "related_sources": []
     },
     {
-      "id": "877a5fafe57e5d",
+      "id": "cc14934321ad4f",
       "title": "Verweij: 'Denk dat Ajax uiteindelijk meer toekomst in hem ziet dan in Baas'",
       "category": "Transfers",
-      "published": "2026-10-27T14:21:00+00:00",
+      "published": "2026-10-26T07:45:00+00:00",
       "updated": "2026-10-27T14:21:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2151847/mike-verweij-verwacht-geen-wintertransfer-youri-baas.html",
         "via_google_news": false
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWZMeXd1V0xQUV82dDBudUo1X2ZONDJBM1VVNXNzUmFHdjJybVJ3SmJEVjdXOGNaTW5GSUV0Qm1HUkNMckRkMHVvbXRHNXFIa1ZjRm5Xeks5NlVuRzcydHB3UUNNZnlyYXp0YUZnSmxQZjQ4aTZpZlRPdUZCZno3Mml6NTRIOXRPVEZzbzB0VXhpX04tcVBVQjVIQm1feE43VkJjSGtwN1RmUQ?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "fecc95e3187cef",
@@ -596,36 +632,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnI3QVliUjBKUzdSdXRDekhJQmY0dk9ja1JENjBRYWhaeDgwUWthMW9Ld0prSHlNWFhTR3lMQXFiT0FPRnpQQVhoeGMzSm1aVzZnSmZ2M3NCOGtoR01Qa2cxOVRlRVdNMGZrODZDSHVGdzg2N3AzaGpmQWo5RDhNcG5sNExRM18zYVptNHNVSlRYZHY3YU5xVVk0YTMtUFZTbTYxbHNWYmJWdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "faa7f997013c9e",
-      "title": "Verweij over 'tegenvallende' Ajacied: 'Je ziet wel dat hij iets heeft'",
-      "category": "Overig",
-      "published": "2026-10-26T19:27:00+00:00",
-      "updated": "2026-10-26T19:27:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2151645/mike-verweij-kritisch-op-viktor-tsygankov-maar-pleit-voor-geduld-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0b6c1d6d2f972c",
-      "title": "Perez noemt opvallende optie op 'zes' voor Ajax: 'Iemand die rust aan de bal brengt'",
-      "category": "Overig",
-      "published": "2026-10-26T19:25:00+00:00",
-      "updated": "2026-10-26T19:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjV1cDdwQmVld2pKSDMxMmN6ZndSVjJFSVV1RkJ1YVhIZkl1eUh4Z01BT0NoTld3aHJpYjRuYWhSbHVBTExJa2huNTF3V21vTFpXWUxwMXVyU3p0U0Y4RVJWOTNFVHFKOUdOTHZoaFROSUlweDBiS25hdEZ1ZV9mS1BGbkNTMXNPRlhOOEU4Vlk1MEZMVjhaWjc4MDdSQmdrNWgwekVMdFlvd2p6ZEdrblRxSHNoUQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
