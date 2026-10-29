@@ -1,30 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T21:09:34.839078+00:00",
+    "generated_at": "2026-10-29T01:01:43.231704+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 90,
+    "article_count": 94,
     "event_count": 40,
-    "discovered_event_count": 79,
+    "discovered_event_count": 80,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 108,
-    "excluded_video_only_count": 48,
+    "excluded_paywall_count": 64,
+    "excluded_video_only_count": 67,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "11cb51b2e369d9",
-      "title": "Nipte nederlaag voetbalsters Ajax en PSV in Europa Cup, pak slaag voor Feyenoord",
+      "id": "fa1bcd2eb7a13f",
+      "title": "Feyenoord Vrouwen vernederd door Wolfsburg, ook PSV en Ajax verliezen UEFA Women's Europa Cup",
       "category": "Wedstrijden",
       "published": "2026-10-28T20:25:41+00:00",
-      "updated": "2026-10-28T20:53:04+00:00",
+      "updated": "2026-10-29T00:03:08+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2637087",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2RHRXBLb0FLU2JKSGZ3b0p5VDhmTWozVURLWGZQb2dvWXJDcTg3MGMzVGpYWjBsZm9SaTEwMWs3UVdsUlR4YkYtbDVlaUZFZExkMWExY3NtbmxzLW1DU2FZVUFDWFpoZThZQzU5VUNRVHU2QkhSV0c5WmU5cFh3Z2Y3YldfLTRWN1hEWXlSZGl1VGU1UnlmYVlRNmtScGJzV3d0RGpn?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
@@ -35,25 +35,85 @@
       ]
     },
     {
-      "id": "59e9f37beb202b",
-      "title": "Livestream | Ajax Vrouwen in achtste finale tegen Malmö FF - Ajax",
+      "id": "d22781658ad72b",
+      "title": "'Ajax heeft zich de laatste jaren nauwelijks versterkt op de flanken, ondanks alle aankopen'",
+      "category": "Overig",
+      "published": "2026-10-28T16:00:00+00:00",
+      "updated": "2026-10-28T23:07:14+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMVJ5eUxhSXdxMjVzQVN4MmFRTXBzWUhvLUM1TDBMaFFXaUUtT1dqTDBaZUVNajNUaHppbE1oX19SbDZKOWdfelZadFUzQ2ZsMWNCb2Rwd0lXdnNqYWFKV0p0NzdUR09qc0NHSjVsVGhKY19YcTdkXzJVMUo1Y1kyZ1BDeGFrMHRna2RRWmVtWUdMdE1CN2t3V0RYSnpMQkY1d0NHOUc4ekhQdkh1dk4wX0VmcUxXZFZaWkFvY3pVSHdLT01iZTgydnU3ODVhT1BCUlE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f37afac5b78229",
+      "title": "Highlights | Ajax Vrouwen - Malmö FF - Ajax Amsterdam",
       "category": "Ajax Vrouwen",
-      "published": "2026-10-28T17:46:33+00:00",
-      "updated": "2026-10-28T20:50:00+00:00",
+      "published": "2026-10-27T11:05:48+00:00",
+      "updated": "2026-10-28T21:51:19+00:00",
       "source_count": 2,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VM3N3QWhQNWxKWUdYcERLQTVkMnIyOUZxemRfZ0JmQWdPNENybm1OSmd2XzBKQUFnUjhIckZQWHozbUlRcWcwcS1WZ2ZEcm13M3hsRmRXN2hjOHdmTWJyZ1BnaUhOTExoQVNtaV9iTmw4UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yWlcydjYxUnBjYnRRempIQms4dWxRVnNCSld1Vlp3XzFyOE56NkR2eFRmaW1ZZGVMRko3REJVTmU0Zlh6cjZvZVhyRDhIMGdfY2kxYmIxUmIzaFFaRlZNaWY0VjBpdVREUG5WNUlvMDZvQ2FKMHc?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkJvcHo5TnNidi0zTENLM1NqQl9RbHBtUTR0bDA4U1B1T0NIUjFlLTktcjFzREY3V052LTU1dlR4cXhoaFJnVlY3TVNCY3dWVER2ZWlPaFRTVFU5dUdOZWF0NlhacTlNbUk3S2wzdHM5YXVMcG1oQ0JmZ1VWVnd2QTdwS0NuSlR4dWFFRXFjLXNGcEdvZjJ4WXRzaXFWcEZUMTMwWThST3BUb2pZZFlxT2xoOGhLbFJpV3lMSEFaaWMzZ2Rs?oc=5",
-          "via_google_news": true
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56102/Ajax-Vrouwen-verliezen-nipt-van-Malm%C3%B6",
+          "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "808aaf5de15c8e",
+      "title": "Oud-Ajacied Rulli groeit uit tot grote held van Manchester City na bloedstollend bekerduel",
+      "category": "Wedstrijden",
+      "published": "2026-10-28T21:38:00+00:00",
+      "updated": "2026-10-28T21:38:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXhMdE5zSUxxa25Hem5QNFNXN1RIVHBXRU8xQWpoS3RNaXFBM0lzWmpRLU96cEZSMHU3M1FtN25EQ2pOMnYzWDdCc2dnMnFGRnZ0NzQxazBGcnZadndiRWx1U01qWm9QRUFGei1uY3dJenlISGxCR2ROUTRlQTd6ZklSSXJCdHc2TDhtM2ZMV1dBU2N2WkF1ZTVFSjcyMmhCX0FhQXE5UUpPbFN0TmQ3U0FlelV1Z3JSVjlYQi1GLWEycnp1bjNFUUxKOUZfbDE3dmRRSHAyMXZOYUpV?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d2cafb2b67a538",
+      "title": "Kleine nederlaag voetbalsters Ajax en PSV in Europa Cup, pak slaag voor Feyenoord",
+      "category": "Wedstrijden",
+      "published": "2026-10-28T20:53:04+00:00",
+      "updated": "2026-10-28T20:53:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2637087",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0dc797795aad15",
+      "title": "Ajax Vrouwen verliest van Malmö FF in achtste finale UEFA Women's Europa Cup",
+      "category": "Ajax Vrouwen",
+      "published": "2026-10-28T20:50:00+00:00",
+      "updated": "2026-10-28T20:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkJvcHo5TnNidi0zTENLM1NqQl9RbHBtUTR0bDA4U1B1T0NIUjFlLTktcjFzREY3V052LTU1dlR4cXhoaFJnVlY3TVNCY3dWVER2ZWlPaFRTVFU5dUdOZWF0NlhacTlNbUk3S2wzdHM5YXVMcG1oQ0JmZ1VWVnd2QTdwS0NuSlR4dWFFRXFjLXNGcEdvZjJ4WXRzaXFWcEZUMTMwWThST3BUb2pZZFlxT2xoOGhLbFJpV3lMSEFaaWMzZ2Rs?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "2b159bcff14fa3",
@@ -167,6 +227,21 @@
       "related_sources": []
     },
     {
+      "id": "d2ff65b4989d05",
+      "title": "Met Hedwiges Maduro op zoek naar beste centrale duo Ajax: ‘Vroeger had je de stopper en de bouwer’",
+      "category": "Overig",
+      "published": "2026-10-28T18:24:22+00:00",
+      "updated": "2026-10-28T18:24:22+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFdoTWNWV1NJM3dVeG12SUlzd3UzdlZtM1FKRDF6Vk01YlFaX1VjakxwZlc4bkpyWlZlalVrNURSYkU3Mmltc3FBS0w4WnFBN2ZDMkFQenZESW1iR015cGtyZVBTNEhWQWxFQmZqVUhOdElESVZhNk8wcGtQeGlnSFMyWUpXRnpiWGJTVmZJUmxkSEgxUEFiVDV2b0tjUjFjcnJKU25nZTVLUjNpTjNBQTJtdlZ4c0FURlRjVHo1aWxyVnpNSmdidFV0SQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "b1d0f0b477d405",
       "title": "'Ajax krijgt in januari nieuwe kans op Noa Lang na periode bij Napoli'",
       "category": "Overig",
@@ -182,6 +257,27 @@
       "related_sources": []
     },
     {
+      "id": "5643b8d4462f8d",
+      "title": "'Noa Lang mag in januari weg bij Napoli: twee Nederlandse topclubs genoemd'",
+      "category": "Transfers",
+      "published": "2026-10-28T17:19:20+00:00",
+      "updated": "2026-10-28T18:05:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2152353/noa-lang-mag-weg-bij-napoli-ajax-en-psv-genoemd.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0hyZDlvbDcyZ2RxSVdySUdyeVk0LUFxMXpvNTh6blV4RW1NQ0dlZHp2RnZZekMyU0VwZEJYT0lGQndheVRoRnVrT0g0dUpDaVpqRmllVzRrLTZhR3EzUHQ2U3VIZDliVjNzUDhxaFR5TW9lMFFHZloxLXBPZ1BBQ3lmTnBFVDdKQnBQYURobjFZSkszeE5Bd2NfNGgteFZ6VEZHUDN4X0ZVenNDbG1tZngxR2ItSkNXYWdESUIydEV6ZG1SQy1BM2dWQW91blo3SnBwUW8zQQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "c984d708343232",
       "title": "Ajax wacht lastige avond in Denemarken: zo kijk je naar FC Midtjylland - Ajax",
       "category": "Wedstrijden",
@@ -192,21 +288,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2151816/waar-en-hoe-laat-kijk-je-naar-fc-midtjylland-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fbdb01eb9e9af1",
-      "title": "'Noa Lang mag in januari weg bij Napoli: twee Nederlandse topclubs genoemd'",
-      "category": "Transfers",
-      "published": "2026-10-28T17:19:20+00:00",
-      "updated": "2026-10-28T17:19:20+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2152353/noa-lang-mag-weg-bij-napoli-ajax-en-psv-genoemd.html",
         "via_google_news": false
       },
       "related_sources": []
@@ -243,7 +324,7 @@
     },
     {
       "id": "909489c0388959",
-      "title": "Bayern München - Ajax openingsduel nationaal stadion Kenia - Ajax",
+      "title": "Bayern München - Ajax openingsduel nationaal stadion Kenia",
       "category": "Club",
       "published": "2026-10-28T15:06:33+00:00",
       "updated": "2026-10-28T16:45:20+00:00",
@@ -575,81 +656,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3gzY0MxMk5RQ0J1OFJvYmZFYlhheGtGMFFPWnBxckoyTk5GUWNEMDNyUm1GZEhjYWhaRVotNnpvaEtJOEQwQzBCQzFSb2pZTHVmRkNWOUJWNEFhUmtJd0FERWJ5eWxRaDNBYzVHX2Qxb0F0TGN2RWp6b2FGaHNmdmIzQ0JuVlJ0TG5DR1VQNEw2RUw5RFQybTNzaWg4S2cwcDJkX2ZTR1FvN240MWNseEVNQ09Fa2dzTVRyX3ZBdG41WFhySFVwdGdDRklReTlJOVhvc3hjT3lmbVAtaG1n?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9531805be2f916",
-      "title": "Suárez ziet zoon van oud-ploeggenoot Heitinga scoren voor Ajax op Messi Cup",
-      "category": "Wedstrijden",
-      "published": "2026-10-28T09:27:49+00:00",
-      "updated": "2026-10-28T09:27:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWpDYVdDT0g5R2NNVEY3WnhBeTJZc1I2NmhIUk1VVC1abmdEcEQzWGdXU2RkbGxYVl84QTBTQWg3aGtFZFZiSjVlZVYyUmQ2VkpvRFBCTjZGZFcyVzBSaVlJT29MSGhTb3N2N0E4SDQ4WXBJRjJTVTJ5VElCYllHOGh4emJxbm9NbTI5ZF85UzB5dw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6d703250d69bd7",
-      "title": "'De tweede plek verbaast Ajax zelf ook, ze kunnen meedoen om de titel dit jaar'",
-      "category": "Overig",
-      "published": "2026-10-28T09:24:00+00:00",
-      "updated": "2026-10-28T09:24:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2152133/valentijn-driessen-vindt-dat-de-beste-wisselspelers-bij-ajax-zitten.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4e37d2858719f2",
-      "title": "Hans Kraay jr. ziet Ajax en Feyenoord aan het werk en trekt ineens opvallende conclusie",
-      "category": "Overig",
-      "published": "2026-10-28T08:43:00+00:00",
-      "updated": "2026-10-28T08:43:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObkRRTWR0Z0lhcXRoUXJKT3VxTlZZTUpLdmRNSHI0bVdGRFNmakxzeFhHVnFWdFU5cGlYYmFwLTFYcFgtRFNtRmN3N2hVVTk4bzNpQnVtbEs0V2FLWndDMHhEMnUxZU5teGRQa3FNaUtoaVJmVG1ocHhMdUVNX0hadWRtclZhZVhpVTc3Zm90bUZHVkpqNjNLQ1VYOE5ZUFJGOEh4VVR0WFRzQzhvVFhONm45NjY0WFZmR3Rydld2cHlmcV9kSGdBMWNtQmpIbWdsU3lVQjhoUQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "705f6fa3a8531d",
-      "title": "Kraay onthult: 'Ajax-trainer Míchel heeft zich hele wedstrijd geërgerd aan hem'",
-      "category": "Wedstrijden",
-      "published": "2026-10-28T08:41:00+00:00",
-      "updated": "2026-10-28T08:41:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2152108/kraay-onthult-ajax-trainer-michel-ergerde-zich-tegen-sparta-rotterdam-aan-tolu.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a763df45d3c379",
-      "title": "LIVE 19.30 uur | Ajax O16 treft Boca Juniors in kwartfinale op Messi Cup",
-      "category": "Wedstrijden",
-      "published": "2026-10-28T08:25:00+00:00",
-      "updated": "2026-10-28T08:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR3lSNVhSSVhDNzJBc1BzZUROLUtEbHBvWnNfeE9wVFJnNWlvUlFyZVV2UzJaNDJvR09rbXlrVWZkcV84eXVEODVWVTkzSk1sdERzS2tpVnNySlpZTW9VeHJZRW53bnY2NUh6V2xtV2o2di1HZ0Y3QjVoUW5aT3FzcUNHQk80cVlmV1dqZVN1Z21rOGxLT2lsVVozNHMxczdzS2hnVEVVbHVLN0w5ckd1eDdYVjlyM0w4UWVhVA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
