@@ -1,18 +1,93 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T19:54:16.380946+00:00",
+    "generated_at": "2026-10-29T23:58:36.462836+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 98,
+    "article_count": 97,
     "event_count": 40,
-    "discovered_event_count": 76,
+    "discovered_event_count": 74,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 55,
-    "excluded_video_only_count": 52,
+    "excluded_paywall_count": 52,
+    "excluded_video_only_count": 45,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "bbe4db4985e9a8",
+      "title": "'Ajax zag hem vertrekken, nu lonkt megatransfer van 30 miljoen naar Europese top'",
+      "category": "Transfers",
+      "published": "2026-10-29T11:00:00+00:00",
+      "updated": "2026-10-29T22:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2152556/as-roma-wil-carlos-forbs-voormalig-ajax-club-brugge-mikt-op-30-miljoen.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "968d796636f68b",
+      "title": "Woede om miljoenen aan belastinggeld voor Ajax: 'Dit kan niet waar zijn!'",
+      "category": "Transfers",
+      "published": "2026-10-29T22:01:00+00:00",
+      "updated": "2026-10-29T22:01:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdHdjRklNZkYyNllBMW1YXzJGRk9TQXFLb2ZJYzYxaTF3cFNKZGZRQUJGSUNzSkNWZEFyQjN5YVgteWFJeWhuTHp2NkRRMkNMZ1FvX0xscUNMMHVtU2VpbGprNEI1eFgxcTVERjZpcmhxWUEwRlY3TDJrc3R5bVdMTkk5MEZUdmt2NjNDbnkyMEl4dGJRTlZQeXB0ZkRqcjRPV0hMUkIxLTh2eDU4cWJId2wxSDQtOU54YkpJX1pKR1o?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "8104435cdcdd4a",
+      "title": "Ex-Ajacied Janssen bekert ten koste van KKD-koploper door; inspiratieloos FC Groningen geklopt door FC Emmen",
+      "category": "Wedstrijden",
+      "published": "2026-10-29T21:55:00+00:00",
+      "updated": "2026-10-29T21:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUlgzMzRxdS01UFNIVlNOMnJKUWYzMnNPdTVyRXZELW1zOXZ1eTFZT3h4c2dKajVWeEs1VDM4SWI0VXU3SFlwalBwRk9sc2ZrMl84c3JUckxtb0dqQ3U3RFRGajNKQnpGd0lrNFBKbEVJekNjRW80WDJNTENKamdzZjIyVVZpX0VVTGpCYnI1MGV3WDdWZUpucnZvTC1EdmtQamFzQXppNDNab1k0MFdnbk1hOS1RcURPbUdnRk1CMFVjLUlubC1IOGowTTZiMkRLejdhajJwTjNISDVxVXIzdTIxd1k?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9c7c01dc379326",
+      "title": "PSV, Ajax, Feyenoord én tien amateurclubs in de koker: doe hier zelf de loting voor de KNVB-beker",
+      "category": "Wedstrijden",
+      "published": "2026-10-29T21:54:00+00:00",
+      "updated": "2026-10-29T21:54:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkh2bUdiX0Nza3EtR081SDlEdVR6ei1Gc1ctM0doMFBzV2cxUnA1ZWNySFBDMXh6OGI5U2hPeXVYUmdkWExqTXJjeE9aOVdmMDk5THZCdENUTzhBaXhpQXpwQ3g5NlhvWG5ETklqOHlWS09yVDRnTnlZdThzYVNwZzR5MjRKTUQzU0UzMVZLYnhLdng4ZVBCWE96THI4SlVlZV9YR2d0NUxIU1RvOXlYSnktNG5pNXRrNzB0ZWVhd3lKcFNGZWZnN0ln?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "388eda98076ff6",
+      "title": "De veelbelovende verdediger van Ajax die droomt van het Nederlands elftal",
+      "category": "Selectie",
+      "published": "2026-10-29T21:30:00+00:00",
+      "updated": "2026-10-29T21:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzFxeExGZF9NOUtkUXVxSXNQNkQ3RFd3NHktVzNZTWY2aE1MY2IzeTM2Q25WTE5ROXNONzdGQWtDMUJ4c2wwYlpRbTZxdVViSGlMTG9FTEc2UXBXQlJuU0RoOFlYQVRfSHhmWWNLSC1mZlRLdzZkTnpqbnY0a3BBZ0ZveUxHV1VXMkl1Wk9aeFZJMlVwM0MtOTh0UFUycnBDbEtTcGNkZU9oZTBnaUZiNHY4RVIzc196YkROd3VDZnE3QlNoVkNMQ2RB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "18a0d76a065c2b",
       "title": "Ajax-huurling kreeg harde les mee: 'Van de 25 talenten zouden er twee het redden'",
@@ -247,7 +322,7 @@
       "related_sources": []
     },
     {
-      "id": "4cd13d27e7688a",
+      "id": "60cebc67f58218",
       "title": "Toekomst Tolu bij Ajax onzeker: 'Gaat een heel lastig verhaal worden'",
       "category": "Transfers",
       "published": "2026-10-29T14:15:00+00:00",
@@ -256,7 +331,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ09teXJWdVlPT3Q0WTVQd1NwYmwxak03aUZGdVctNU9yU2ZNNS1TVXNoTmh4RG1LdUN6Ujh4TzdYX3U4bmR6Y3NZWmNua2hKTmRtYmd0ZUlLUWQzWWF5a240TmlkVDB2Z2dlbGNtd0ljMW5wSFhCcVFsUjJhMk4tOTg2OGltQklvcnNVSnZ0aExSS1BnTmhNMkJDUUZGd0hvTHJVeQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVAyMERCR0IwV3FkNDVkeU1UajFQTDNvVGpMcE9wUXhyZjZTZXc3SXg4Q1Z5RDdadktBZVFaOUZFWWNVeXM1Wl80d0NpRVNnS2Z4ZHdpU1U2c2Q3QnAwOUpsYTFFNkZkMWVHazNDV29nZXZkSE1fSkVTX05PNmdLTE5FRTVPS3ZtWllNQjExcC01VzRza1h4MmhTeE4wNGFEWDVHMmJqY1VBaTllTDQ4emZOTVIxNXJn?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -276,14 +351,14 @@
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGdjdUlLdnM4Q0RuTHF5UnZtRDNpNFBzRVZXOFZRb3pVSnFkMXdxQzN4OW9YZVhBdjUyZU9JUTNCX1ptY0h0a1V3clFMbmtLMEQ2SnNQWkZYWFJNSERyNEdsLV96Nks4ai0zRDE5RkYwMXNLTnkxTjJKX2hNR21FVHpnYmJHcXFRbzVqXy0yVHJSQ2xKbDhnSHlTVk1VNFZCcG13aVEzNC1yaWdOSUdfX2dRalJXdTcycG51SQ?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/56104/Feyenoord-en-Ajax-melden-zich-bij-Te-Kloese-voor-Mexicaans-international",
           "via_google_news": false
+        },
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGdjdUlLdnM4Q0RuTHF5UnZtRDNpNFBzRVZXOFZRb3pVSnFkMXdxQzN4OW9YZVhBdjUyZU9JUTNCX1ptY0h0a1V3clFMbmtLMEQ2SnNQWkZYWFJNSERyNEdsLV96Nks4ai0zRDE5RkYwMXNLTnkxTjJKX2hNR21FVHpnYmJHcXFRbzVqXy0yVHJSQ2xKbDhnSHlTVk1VNFZCcG13aVEzNC1yaWdOSUdfX2dRalJXdTcycG51SQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -307,46 +382,16 @@
           "via_google_news": true
         },
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVZRT2hLeUt6bi1POC1abFBvMkxnR3JsTmtTM00tUnpuTXIxRmMwOFVTOHhoT09CdkhlbHNQN1dtOGxzbmdQb0owcElYZEtDOFhDcTB6b2xSaVJrbTV4OUJ3dXRQUGtDZU9TZW53cjlsNW0xSWpIY3VOSVdxME5pS0xKRmVGWWtoa3pIb2FYMEtHMFpNdEtpM0c2eHhxS0EtUGVLQUY5d1RqX1MxRzFVR3QwQUhaQ2ttU21nQnZn?oc=5",
-          "via_google_news": true
-        },
-        {
           "name": "Ajax.supporters.nl",
           "url": "https://ajax.supporters.nl/nieuws/artikel/56103/%22Inlijven-Tolu-wordt-lastig-verhaal-voor-Ajax%22",
           "via_google_news": false
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVZRT2hLeUt6bi1POC1abFBvMkxnR3JsTmtTM00tUnpuTXIxRmMwOFVTOHhoT09CdkhlbHNQN1dtOGxzbmdQb0owcElYZEtDOFhDcTB6b2xSaVJrbTV4OUJ3dXRQUGtDZU9TZW53cjlsNW0xSWpIY3VOSVdxME5pS0xKRmVGWWtoa3pIb2FYMEtHMFpNdEtpM0c2eHhxS0EtUGVLQUY5d1RqX1MxRzFVR3QwQUhaQ2ttU21nQnZn?oc=5",
+          "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "388eda98076ff6",
-      "title": "De veelbelovende verdediger van Ajax die droomt van het Nederlands elftal",
-      "category": "Selectie",
-      "published": "2026-10-29T11:30:00+00:00",
-      "updated": "2026-10-29T11:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzFxeExGZF9NOUtkUXVxSXNQNkQ3RFd3NHktVzNZTWY2aE1MY2IzeTM2Q25WTE5ROXNONzdGQWtDMUJ4c2wwYlpRbTZxdVViSGlMTG9FTEc2UXBXQlJuU0RoOFlYQVRfSHhmWWNLSC1mZlRLdzZkTnpqbnY0a3BBZ0ZveUxHV1VXMkl1Wk9aeFZJMlVwM0MtOTh0UFUycnBDbEtTcGNkZU9oZTBnaUZiNHY4RVIzc196YkROd3VDZnE3QlNoVkNMQ2RB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bbe4db4985e9a8",
-      "title": "Europese top zit achter Ouazane aan, Ajax en Cruijff proberen exit te voorkomen",
-      "category": "Transfers",
-      "published": "2026-10-29T11:00:00+00:00",
-      "updated": "2026-10-29T11:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2151929/juventus-chelsea-real-madrid-en-manchester-city-willen-ajax-parel-ouazane.html",
-        "via_google_news": false
-      },
-      "related_sources": []
     },
     {
       "id": "a186e234bab886",
@@ -449,6 +494,36 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "dc579b331905f8",
+      "title": "Tolu Arokodare (Ajax) deelt opvallende video, zelfs Vandaag Inside reageert",
+      "category": "Overig",
+      "published": "2026-10-29T08:14:27+00:00",
+      "updated": "2026-10-29T08:14:27+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb0lMR3pudlE1MDNNN25vOVhUSi1pazJQQ0c2REk5ejRSMzdtaEl6dXNQLVg0eklmbVpaMDNzS2g3RkNtNGY1YjMxQzNFbnRIclJkQjcxQllXWk9rRkdpTDVCbTVjWlpXT3RSb0pqZ3R2VEt6M205NzhSRDh3dVJwb0hMZk9YNnFTRzd0YUg4cmZlcU5IY3dZWXFWeFd2cVlBYUVCT21XbElfTGt5VktUcC0tTUt0ZFA5NlE?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9705594c83bc7b",
+      "title": "Inan ziet transferprioriteiten voor Cruijff: 'Daar heeft Ajax vooralsnog niet echt houvast'",
+      "category": "Transfers",
+      "published": "2026-10-29T07:55:00+00:00",
+      "updated": "2026-10-29T07:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVklhN3ZMYzdsVGtFMjhtNl9QQktmT3M3QlJyRHZJbmNhRlZnZWFfU3ExQW81OThNdl9Ra2N0NmFLaHVqalE0a0l2MnlkZjYwTDB6ZmFadEYzTF8wdmZzdk9qaUJLRHVhZFBFbmswTGd3a1RVUk85Tkl2RGhxbjhjcmZSd1BtY3pWaVF6djF3SWU2Wk1QZDJlU3lVNjFnZTNFTmxwUnphODYwZWVuZk9DQTlpd3pSa2VWQjRiRVRVVlZYZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "b15b6300d63922",
@@ -605,87 +680,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "2b159bcff14fa3",
-      "title": "Voetbalsters Feyenoord snoeihard onderuit in Europa, ook PSV en Ajax verliezen",
-      "category": "Overig",
-      "published": "2026-10-28T20:23:00+00:00",
-      "updated": "2026-10-28T20:23:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnJIcERCbGtsZWwtRS1fT25fRmhYUjZ0cXl0RF9XWjBsMFFqS3Vzc28zWDNsLUc0bk5na1BXeGNzTmdhT1pNeWRqeEh1M2tnT0RTbnkxWUp1QVBrS2o3ek16NkZCd2staHp6WVFsR1hWQURqZ1JSRFJxQ1RxMVJCMHFrOGNBbkxGMjhLZXA2Q3BRQUZ5R1ozclB2a01vRFA4d19DMFZoRWhEb3dJMV94ODNYTQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ec814102ce23a5",
-      "title": "Ploeggenoot Carlos Forbs doet opvallende onthulling na transfer bij Ajax",
-      "category": "Transfers",
-      "published": "2026-10-28T19:57:05+00:00",
-      "updated": "2026-10-28T19:57:05+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWx4bWFjWHBYbnBZdkwweHM5QmsxVEVoVU1Dck1nSkZFTVF6MlRaZ3IweVI4ZmtjMV9kV2V6RmJlMkhMYkRjZGNFYjdiVGM2dVYzanF2QlAtNmRrZ0dVR1AwclBQR1BfT1B0RjRwdUI4UFhESnlsdVhKdlVwUWphci02Q0RILXdwNFI3VVpWVG02amtwVGp5eU1tckk4QUk?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "472dd9982c054f",
-      "title": "Maduro wijst ideaal centraal duo voor Ajax aan: 'Vroeger had je Stam en De Boer'",
-      "category": "Overig",
-      "published": "2026-10-28T19:46:27+00:00",
-      "updated": "2026-10-28T19:46:27+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2152383/maduro-over-centrale-duo-s-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8ab39da6666500",
-      "title": "Club Brugge-ster diep onder indruk van Forbs: \"Carlos speelt ongelooflijk\"",
-      "category": "Overig",
-      "published": "2026-10-28T19:18:17+00:00",
-      "updated": "2026-10-28T19:18:17+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2152377/tresoldi-steekt-loftrompet-over-ploegmaat-bij-club-brugge.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "95f2884f82662a",
-      "title": "Rafael van der Vaart onthult rol bij transfer van Ajax: 'Ik dacht: krijg het heen en weer!'",
-      "category": "Transfers",
-      "published": "2026-10-28T17:32:02+00:00",
-      "updated": "2026-10-28T18:58:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYkcwQ0pMblFQYzdmaEQ1el9rSTQ3UzRMVmFJNEc1YWdtUHduaDdTVUhiSGtkSWpoUDB0NEpPdXdMTkplcEczeVhPWVdVcnRpUmlLTUhwTEpfQWlJaWlWSHAxX0czR2xZNkJWRFFrZENWRjlTcmoyLUVOSEpWLU5odjJmR0tKMmNJM1locHNRZ2hzM1NjeVlabFlibmxNS3RIR05YaEQ5SkFkNm93WnBqZUZqN095ZlU3QnlabXVsSEZ1TmpNYmhnQy1RX0pWNTJEVVhlNG9JNA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzNFdTN4U3BGazhGSFV6Tlo4bmpnU2QwX0xyb0czNFU0dzRoNzA3NHIwWElHUDJxbWJLMDZlckhNY1p0NzNLTG1KVkJ5dW4tLWozV2xWTkUyX0NERFZ3QUhadUlFN3JhQTExM011cTRvbUV2amFzZ2VacmtVNFdVUWFBQ3owVnI5Q1ZIVUZXZVhmcVVFbGE0N1FTVDI2Q0ZDN2pfWnk0Yw?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
