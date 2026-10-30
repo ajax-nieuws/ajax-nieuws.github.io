@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T23:58:36.462836+00:00",
+    "generated_at": "2026-10-30T05:57:36.991390+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 97,
+    "article_count": 96,
     "event_count": 40,
-    "discovered_event_count": 74,
+    "discovered_event_count": 75,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 52,
-    "excluded_video_only_count": 45,
+    "excluded_paywall_count": 42,
+    "excluded_video_only_count": 39,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "1742392a915187",
+      "title": "Ajax wil dramatische serie doorbreken tegen angstgegner AZ",
+      "category": "Selectie",
+      "published": "2026-10-30T04:55:00+00:00",
+      "updated": "2026-10-30T04:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNkhBUl9xQWdNMVdhY212cnRRamh0d3J4QllueTJYTmt2Rlc1djJwSUhfbUMzMTdzaGNza0tjaUd3dzlWSkgyMlhILUNpYlFIclFHQ1VLemVpSzBCOTgySU1jSE1YOGNQeEdQVEhVdFh2SlBVcm9QcG9mT3RCZ3RiQ1ZxRjB1S2Y2N2xUeDhrMjB2U3hlY1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "bbe4db4985e9a8",
       "title": "'Ajax zag hem vertrekken, nu lonkt megatransfer van 30 miljoen naar Europese top'",
@@ -92,7 +107,7 @@
       "id": "18a0d76a065c2b",
       "title": "Ajax-huurling kreeg harde les mee: 'Van de 25 talenten zouden er twee het redden'",
       "category": "Transfers",
-      "published": "2026-10-29T15:45:00+00:00",
+      "published": "2026-10-29T16:35:00+00:00",
       "updated": "2026-10-29T19:33:02+00:00",
       "source_count": 3,
       "official_confirmation": false,
@@ -146,8 +161,8 @@
     },
     {
       "id": "6bdf75ee320a54",
-      "title": "Knipping ziet financiële verhoudingen verschuiven: 'Voorsprong van Ajax is wel weg'",
-      "category": "Overig",
+      "title": "Ajax raakt financieel terrein kwijt aan PSV: 'Ze kunnen ongeveer hetzelfde uitgeven'",
+      "category": "Club",
       "published": "2026-10-29T18:05:00+00:00",
       "updated": "2026-10-29T18:05:00+00:00",
       "source_count": 1,
@@ -351,14 +366,14 @@
       },
       "related_sources": [
         {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/56104/Feyenoord-en-Ajax-melden-zich-bij-Te-Kloese-voor-Mexicaans-international",
-          "via_google_news": false
-        },
-        {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGdjdUlLdnM4Q0RuTHF5UnZtRDNpNFBzRVZXOFZRb3pVSnFkMXdxQzN4OW9YZVhBdjUyZU9JUTNCX1ptY0h0a1V3clFMbmtLMEQ2SnNQWkZYWFJNSERyNEdsLV96Nks4ai0zRDE5RkYwMXNLTnkxTjJKX2hNR21FVHpnYmJHcXFRbzVqXy0yVHJSQ2xKbDhnSHlTVk1VNFZCcG13aVEzNC1yaWdOSUdfX2dRalJXdTcycG51SQ?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56104/Feyenoord-en-Ajax-melden-zich-bij-Te-Kloese-voor-Mexicaans-international",
+          "via_google_news": false
         }
       ]
     },
@@ -382,14 +397,14 @@
           "via_google_news": true
         },
         {
-          "name": "Ajax.supporters.nl",
-          "url": "https://ajax.supporters.nl/nieuws/artikel/56103/%22Inlijven-Tolu-wordt-lastig-verhaal-voor-Ajax%22",
-          "via_google_news": false
-        },
-        {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVZRT2hLeUt6bi1POC1abFBvMkxnR3JsTmtTM00tUnpuTXIxRmMwOFVTOHhoT09CdkhlbHNQN1dtOGxzbmdQb0owcElYZEtDOFhDcTB6b2xSaVJrbTV4OUJ3dXRQUGtDZU9TZW53cjlsNW0xSWpIY3VOSVdxME5pS0xKRmVGWWtoa3pIb2FYMEtHMFpNdEtpM0c2eHhxS0EtUGVLQUY5d1RqX1MxRzFVR3QwQUhaQ2ttU21nQnZn?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56103/%22Inlijven-Tolu-wordt-lastig-verhaal-voor-Ajax%22",
+          "via_google_news": false
         }
       ]
     },
@@ -663,21 +678,6 @@
         "name": "NOS",
         "url": "https://nos.nl/l/2637087",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0dc797795aad15",
-      "title": "Ajax Vrouwen verliest van Malmö FF in achtste finale UEFA Women's Europa Cup",
-      "category": "Ajax Vrouwen",
-      "published": "2026-10-28T20:50:00+00:00",
-      "updated": "2026-10-28T20:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkJvcHo5TnNidi0zTENLM1NqQl9RbHBtUTR0bDA4U1B1T0NIUjFlLTktcjFzREY3V052LTU1dlR4cXhoaFJnVlY3TVNCY3dWVER2ZWlPaFRTVFU5dUdOZWF0NlhacTlNbUk3S2wzdHM5YXVMcG1oQ0JmZ1VWVnd2QTdwS0NuSlR4dWFFRXFjLXNGcEdvZjJ4WXRzaXFWcEZUMTMwWThST3BUb2pZZFlxT2xoOGhLbFJpV3lMSEFaaWMzZ2Rs?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
