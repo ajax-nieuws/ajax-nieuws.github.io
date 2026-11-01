@@ -1,18 +1,78 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T22:51:33.615113+00:00",
+    "generated_at": "2026-11-01T02:18:49.644638+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 121,
+    "article_count": 122,
     "event_count": 40,
-    "discovered_event_count": 103,
+    "discovered_event_count": 104,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 107,
-    "excluded_video_only_count": 20,
+    "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "f40a8f27fc99e7",
+      "title": "Amrabat had het zwaar tegen AZ: \"Heb eigenlijk op één been gespeeld\"",
+      "category": "Overig",
+      "published": "2026-11-01T00:13:40+00:00",
+      "updated": "2026-11-01T00:13:40+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/240797/amrabat-had-het-zwaar-tegen-az-heb-eigenlijk-op-een-been-gespeeld",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c3c8d6011ea5cb",
+      "title": "Zorgen bij Ajax, Brandt vroeg gewisseld tegen AZ",
+      "category": "Overig",
+      "published": "2026-10-31T23:22:23+00:00",
+      "updated": "2026-10-31T23:22:23+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWRWSFg0U0ktZkFxaGRMM0hwaXlFR2hfN0d1YlU4ckdkU0kwbXFRV0U0RFZOSFVOcWFZRjBOT2pVdzRwMDZjdldxQVExdFVvc0k2ZjNZMkRPYzFKSm9iUGl0aUJtSE9xenkwMmd6R25URVJhelFNalJ6MGpfdUJpdFVTWERnVmdkT3VhU05IcWkyWUQ3cU5WSjAzUmEyY0xPQ2JZRTJPcW4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "370dc5c3f68cce",
+      "title": "Highlights Ajax - AZ | Belangrijke driepunter",
+      "category": "Overig",
+      "published": "2026-10-31T23:13:06+00:00",
+      "updated": "2026-10-31T23:13:06+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43UzlXeXdyOTIyR3J0YVdQU01KNUJEbTRJNmo2SE5YTTYya2Q0WmI0ajk5VXdCdUhIcldnTFM5X3JhUU9OcnpiaExCYUNQN3RNQzV1VXhGblRWVlpLX3ozbnpmUXZfNERqSnh0RDkxQmRXR2JMell4Ykc4SE0?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f9afe7f3e86da6",
+      "title": "Droomstart Amsterdammers in wedstrijd tegen AZ | Samenvatting Ajax - AZ",
+      "category": "Wedstrijden",
+      "published": "2026-10-31T23:01:08+00:00",
+      "updated": "2026-10-31T23:01:08+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ERU9sSGJ1R0t3anAtRFd0NWM1TER0cEtsakpRaE5NM2I1am5VRmk2VGhfREpiVlFQM0RBWE5fRlk3ZTVTQmZtT0l0WUNYdTRmOTYxOF9uUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "4a85c693d34d20",
       "title": "Míchel komt met hoopvolle update over uitgevallen Brandt",
@@ -24,6 +84,21 @@
       "primary_source": {
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/michel-komt-met-hoopvolle-update-over-uitgevallen-brandt",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ec3d3f46a52a92",
+      "title": "Opvallende statistiek over balveroveringen van Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-10-31T22:45:00+00:00",
+      "updated": "2026-10-31T22:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/opvallende-statistiek-over-balveroveringen-van-ajax",
         "via_google_news": false
       },
       "related_sources": []
@@ -80,36 +155,6 @@
       "related_sources": []
     },
     {
-      "id": "b7d51ad9682e62",
-      "title": "Droomstart Amsterdammers in wedstrijd tegen AZ | Samenvatting Ajax - AZ",
-      "category": "Wedstrijden",
-      "published": "2026-10-31T22:10:22+00:00",
-      "updated": "2026-10-31T22:10:22+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFYwWnJIcGpsSnN2dnpuU0NzdHdrVmdhNXlSUzZ4SGdBX3J1YndYVUw5UUtxWkFGUFBNeVlZUUtRRVc4MEdTV2tVUUtLellVNnpKSktSLXh1QlhuR3c1VHVpU01xMzU1eUpzbVJ6MzJMRjN6ME5VWWtZdThsQ01XcHk5UURIbTYyWnVHWmIzcEZobzg0aGRIalZBZVNWQW5EWWpsbjlMcHVGUHBtRzBaVjBn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e0423e45c84d6b",
-      "title": "VI Live: Klaassen beaamt dat Ajax werd teruggedrongen door AZ",
-      "category": "Wedstrijden",
-      "published": "2026-10-31T22:10:00+00:00",
-      "updated": "2026-10-31T22:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/vi-live-ajax-tegen-az-in-de-eredivisie",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "13fd1a04f9bec4",
       "title": "Ajax op tandvlees naar tweede plaats, AZ nipt onderuit",
       "category": "Overig",
@@ -140,12 +185,12 @@
       "related_sources": []
     },
     {
-      "id": "ddc4d242e5307c",
+      "id": "4ac816426a6d26",
       "title": "Ajax komt door Tolu van AZ-vloek af en nadert Feyenoord tot op een punt",
       "category": "Wedstrijden",
       "published": "2026-10-31T21:55:40+00:00",
       "updated": "2026-10-31T21:56:33+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -157,6 +202,11 @@
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlpybHhqMHB3U09XZUJiV2F3cEc1LVF1ejJQS3V3RGlEMHQxUVZhNGRVR2dxZElDczFhMDkxSXdOS2ZqSEJYTHo2am1jRTZWUXdjeXo1V25zOW9zQWlmczdPLWw4Yk1XeWl1TlVSTnZEZWRZTVNOaDE3UVk4R1pDejFfU3J1Mk9sN1V1REdna1JCRVdZc0F5emRMZTctWFB6VHpUaXU0Sm5MaThoOFRvQmVJdkVRYjFoVlE?oc=5",
           "via_google_news": true
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56109/Ajax-weet-eindelijk-weer-te-winnen-van-angstgegner-AZ-en-profiteert-van-gelijkspel-Feyenoord",
+          "via_google_news": false
         }
       ]
     },
@@ -278,21 +328,6 @@
       ]
     },
     {
-      "id": "c3c8d6011ea5cb",
-      "title": "Zorgen bij Ajax, Brandt vroeg gewisseld tegen AZ",
-      "category": "Overig",
-      "published": "2026-10-31T20:57:11+00:00",
-      "updated": "2026-10-31T20:57:11+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWRWSFg0U0ktZkFxaGRMM0hwaXlFR2hfN0d1YlU4ckdkU0kwbXFRV0U0RFZOSFVOcWFZRjBOT2pVdzRwMDZjdldxQVExdFVvc0k2ZjNZMkRPYzFKSm9iUGl0aUJtSE9xenkwMmd6R25URVJhelFNalJ6MGpfdUJpdFVTWERnVmdkT3VhU05IcWkyWUQ3cU5WSjAzUmEyY0xPQ2JZRTJPcW4?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "02ec13100260a5",
       "title": "Bruggink verbaast zich over keuze Míchel bij Ajax: 'Als Farioli dit had gedaan...'",
       "category": "Club",
@@ -324,7 +359,7 @@
     },
     {
       "id": "f7f24d2959ecb1",
-      "title": "Ajax - AZ (31 okt., 2026) team statistieken",
+      "title": "Ajax 1-0 AZ (31 okt., 2026) team statistieken",
       "category": "Overig",
       "published": "2026-10-31T20:03:28+00:00",
       "updated": "2026-10-31T20:03:28+00:00",
@@ -434,21 +469,6 @@
       "related_sources": []
     },
     {
-      "id": "19c639d7d9f783",
-      "title": "Luister naar Ajax - AZ via Ajax Radio",
-      "category": "Overig",
-      "published": "2026-10-31T14:05:33+00:00",
-      "updated": "2026-10-31T14:05:33+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qWldHXzBMLU4yVzM1WGlsSEdxcC1XRGVnUlkxeDYxVDB5VFhDRjdtMGJxRGNFVEctcDd5Ukk4VlYzdEFoVzM5OHlGQ3pDb0NYcVFfV3JuaHR5LTdlTVZsMUpVOWpjOGRpTDN3ZF83Skd6Z1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "0a71957dac8d7a",
       "title": "Ajacied Ávila schittert in Argentinië met opvallende productiviteit",
       "category": "Overig",
@@ -539,12 +559,12 @@
       "related_sources": []
     },
     {
-      "id": "d9cb0fec158432",
+      "id": "a75f2f3654f66e",
       "title": "García haalt zijn gram na Ajax-vertrek: 'Ik had het honderd procent beter gedaan'",
       "category": "Transfers",
-      "published": "2026-10-31T10:19:00+00:00",
+      "published": "2026-10-31T11:19:06+00:00",
       "updated": "2026-10-31T12:31:00+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
@@ -555,11 +575,6 @@
         {
           "name": "Voetbalzone",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWVWZW1QZEg0dzNxdERNVy1fQUFRbVMyaEtDMUxWZ2pjTTNqYXh5V3ZBNG00MmFvLWprWHk1OUV4VUNTenBBNG1SWlhrT1B6MFRzclZJTEhEQ1ZwTU5qY1R3LWk5OFVJWEF6elV2U3d0Yjk0RE8zMm5jUUhGQjNKUzdoR2V2U0RlVlBzOXF6R09HaERKc3lScWFWbmdTQjBzTnhwb2NGdWk2a2dnQnZ0S2k5TDN6cHZlbm9CX1lneGJtdFk0THc?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWdzSTJtem9JSUdrWjV5OVZHOEFNMGR0anVvX09fQ0phZTJtV0VhUlZ6VFRROTVRV3RkS0MyV05fZE9MTF81RmFBM1dWaWhkZUZTUXFLYURSdzV0Tk1LakU4NTJ2cWNIeUZPWjhhSXBfQ2EtSmFZZjI5RTJLNlE0RVI3Yll5eUZKLUltZWN5MHRLRlpoaGozU0N0S2RsdnRFY1VWV1Zvd1ZzNjJqVEt5VWtyXy1qMUhTMVE?oc=5",
           "via_google_news": true
         }
       ]
@@ -576,6 +591,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2153263/tolu-arokodare-looft-ajax-ploeggenoten-brandt-en-ter-stegen.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6924e344cbf20f",
+      "title": "Ajax-fans kiezen favoriete elf; dit is de favoriete Ajax-opstelling voor topper met AZ",
+      "category": "Wedstrijden",
+      "published": "2026-10-31T11:15:00+00:00",
+      "updated": "2026-10-31T11:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeVBYdnBjOTZpcFFwdGVQSEVKaWUtVDBsVmp2a2IxRU9jal9PRm9TcExTYWo4QXZ5WmpjS2FPd0JzSXEzUU1welNhVVpUNnBVZHRmSVdYOXhwRVRTV1BtQjFVcm5nZjdDNGdnbmlvVEhCSmo5cU5DWk5tNTIzQnhIWXZkUkdHdHplc2pjRGhXX0liRkpSNmN4V0N2T1JhMFhwelpacE9aa3Y4akJiT1pWbjF0OW5SN3VWdzkycnRNZVBEUTY1V0o4bVBhT3J3QjRXdlE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -621,36 +651,6 @@
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUTJVejQxeThTX3Flcy1ybnE1UTFRTWxuRVFOT2dsaHBTSkxndGdhSlVKenV6azFIWnJHMmV6TGNaaDVwMG51R3NxUmdJbDM4TVgzaEVwWFduakhHZThDZm5uSUI4SWE3SXlQN1h6QzV2S1NZZnh4YU45S1BwX2lwX3BpS21zR3ZjNlFBNGVqb1F3RjAxVVhUemxybHNKVV9lYzRqRnM1QWRtRkRleVRnaW1PN29Pdnc0RDlzejM5TUZJTVVfbUpxRFhtV2FOcjRmR2NhUktSdDh6ZlJjN3BOYmNJNk1jQQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "d27197926ef979",
-      "title": "Mooi gebaar: Ajax-verdediger doneert één procent van salaris aan goede doel",
-      "category": "Club",
-      "published": "2026-10-31T10:34:00+00:00",
-      "updated": "2026-10-31T10:34:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2153229/ajax-verdediger-rosa-doneert-een-procent-van-salaris-aan-goede-doel.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a44e13ebc93fda",
-      "title": "Amrabat lovend over Ajax-directeur Cruijff: 'Dat is fijn, dat raakt je'",
-      "category": "Club",
-      "published": "2026-10-31T10:17:00+00:00",
-      "updated": "2026-10-31T10:17:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2153223/sofyan-amrabat-looft-ajax-directeur-jordi-cruijff-na-gesprekken.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
