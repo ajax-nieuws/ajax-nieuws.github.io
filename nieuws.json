@@ -1,30 +1,87 @@
 {
   "meta": {
-    "generated_at": "2026-11-01T21:14:19.665459+00:00",
+    "generated_at": "2026-11-02T00:52:24.762926+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 115,
+    "article_count": 118,
     "event_count": 40,
-    "discovered_event_count": 98,
+    "discovered_event_count": 97,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 31,
+    "excluded_video_only_count": 47,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "61bb59afe80178",
+      "id": "c884e43a1758df",
+      "title": "Ajax-sensatie Tolu openhartig over liefdesleven: 'Dat heb ik één keer gedaan'",
+      "category": "Overig",
+      "published": "2026-11-01T23:02:00+00:00",
+      "updated": "2026-11-01T23:02:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2153589/ajax-spits-tolu-arokodare-is-nog-single-en-vertelt-over-ajax-en-amsterdam.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "bc21de7398d522",
+      "title": "Kenneth Perez wil nieuwe regel na Ajax - AZ: 'Wat zijn ze aan het doen?!'",
+      "category": "Overig",
+      "published": "2026-11-01T19:56:00+00:00",
+      "updated": "2026-11-01T22:12:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2153805/kenneth-perez-ergert-zich-aan-trainers-ajax-en-az-langs-de-lijn.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQUktejlRWGVSeGdzbjk1X1B1bk80T2MxTXZaaktCUXBRUlg1RWRrVzhaRnVtam1RSFBkYVRMeWdNcHhkcFE0RVF2YVBzYXc4WFZSS3NNeG1maFhUeWZsaV96cWs3ZVdmR2otRDlmbzJIZmVaMml4ZEJkU0lrSFhlWmpGdWNhcFp4bkdNclhYcUZGdHZrbUlhNWdLYVRLM2NjaFN4VzhWUmRFYmZobTQwSk4taDVSXzJEaFE2YkZvaWg4MVVXbVlZa09jenlOdWh4RTlwTFBHZw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "8d6850b34b0b9f",
       "title": "Van der Vaart ziet speler 'van buitencategorie' bij Ajax: 'Doen er heel weinig'",
       "category": "Overig",
       "published": "2026-11-01T20:44:13+00:00",
-      "updated": "2026-11-01T20:44:13+00:00",
-      "source_count": 1,
+      "updated": "2026-11-01T21:25:00+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2153791/van-der-vaart-prijst-ouazane-bij-ajax.html",
         "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3hMdmw0SGlOT2EyLTNramdDNjEwSG4xbF93U2paLWZjWXAyZlVfZnktN3ZuMENxdFVRek5QcjByMWFzSzV1Ri1KdkFUTTVid3pwMkdFTWVuTHN0MGtsMl80WWZGVnNqVnkyaDdqWTdmTWtUb3pYNzJqY3JDaDVmUWpiallEdFktcERCMDdXWUkxc1lCdVl3R2hSUzR3Mk1WNElHUTQtcHVyWmN2VGdZ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "44917e5bab5a4c",
+      "title": "Kees Kwakman deelt zorgwekkend gegeven bij Ajax: ‘Dit is wachten op problemen’",
+      "category": "Overig",
+      "published": "2026-11-01T20:41:00+00:00",
+      "updated": "2026-11-01T20:41:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEc2bVlsaDhFU0wyajUzOHZnLTdFajRlcWF6cy00WkNCRmNOV1NzLVNNdEszSDlfV0NudW1XU2xNWk96dm5sRm9UWU9QdkpieUZnVHBQUUNxbVhzczR5Nmo1azZnMFIxLW8ta2k4LXU0OTIzR3RyV3FMU1hwMnEwa1RVSkVITUtmdWJuaG5LZDM3M0FBbFV3R0M1UmFfYlpnVjN2alQ2dy1uNlJRZ1VjbkxBcUxhTTI1UzdtWEFFaFJMZXR1UmV2UQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -120,22 +177,22 @@
     },
     {
       "id": "91e62e5a300fc5",
-      "title": "Opluchting is groot bij Ajax na 'moeizame' zege op AZ: 'Ik ben een gelukkig man'",
+      "title": "Driessen kritisch op Ajax ondanks zege op AZ: 'Het spel was niet om aan te zien'",
       "category": "Wedstrijden",
-      "published": "2026-11-01T05:25:00+00:00",
+      "published": "2026-11-01T06:01:28+00:00",
       "updated": "2026-11-01T17:11:00+00:00",
       "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2153588/klaassen-na-afloop-van-ajax-az.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaU5Ka19xWTd3ZEtZYlhPd2czWjdsWTk2czVxMjBLQlVGSkQ2bnMwVFlMcDFBTXA0cGpJQl8yZkdWMllsdHRfdG85NXBaTS1RWTNVMWdjbHJQWW9lLUoxZV9tQnJxUHBFeVphMGgtWXoyYlF4MGM4MkYtbmVJelF5TFdQT01NX2ljQk12Zm1ldGMtQmVoQ3J5RHVVLUsxTUNvZjlMZHBLd0pCSDh5cThaN0s2OA?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaU5Ka19xWTd3ZEtZYlhPd2czWjdsWTk2czVxMjBLQlVGSkQ2bnMwVFlMcDFBTXA0cGpJQl8yZkdWMllsdHRfdG85NXBaTS1RWTNVMWdjbHJQWW9lLUoxZV9tQnJxUHBFeVphMGgtWXoyYlF4MGM4MkYtbmVJelF5TFdQT01NX2ljQk12Zm1ldGMtQmVoQ3J5RHVVLUsxTUNvZjlMZHBLd0pCSDh5cThaN0s2OA?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2153588/klaassen-na-afloop-van-ajax-az.html",
+          "via_google_news": false
         },
         {
           "name": "NU.nl",
@@ -150,16 +207,16 @@
       ]
     },
     {
-      "id": "7bacbadf881752",
-      "title": "Lucas Ocampos (ex-Ajax) gaat de wereld over met werkelijk magnifieke omhaal",
-      "category": "Overig",
-      "published": "2026-11-01T16:48:00+00:00",
-      "updated": "2026-11-01T16:48:00+00:00",
+      "id": "8e44c0c745c832",
+      "title": "AD Voetbalpodcast | ‘Ajax - AZ was een verschrikkelijke wedstrijd’ | Sport | AD.nl",
+      "category": "Wedstrijden",
+      "published": "2026-11-01T15:10:00+00:00",
+      "updated": "2026-11-01T15:10:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWG81QWJva0gzdExaV0d1Mmw5aWNtTG0xaThzNENQdS1qRmNuekhudFFmeng4dm1yQ3R5WGJORzBLNEdCaHRoa2VRWjdKTTRRcDdDa1EwbzZwTDg5T2F6Vl9FS01kX19pTTFXSjBUaU02QWpPQ0piLUVvcmxJbjZyNnF0MnB6a2RHdy02dVM5LU5fcDNERXpqU29ZLU5mTV9DbjY5SU1jSGxsS196REZxek5fbWl4ckppcC1VQWdvSFlGRWgyV2c?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjdka193Q1FZQ24tQVlOOXFUWlFiSVRUa1lwd2ZScmNfTDY1LTJoSHZWUl80WUN5bE4zc2xXWEo2aTlNVnJrN21DOFFReUExMUJNcEliZ3ZYZlJGMW1pSlE5Qmk1U0RrQVp0Ym92blZvSTNfUXdLUnhtM0FpN2hzS2liaENvWldwUTA3SjE1eXByVm9MS3JVbVhKSEpaUQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -306,6 +363,21 @@
       "related_sources": []
     },
     {
+      "id": "ad9ba2c2bcccb9",
+      "title": "FC Twente Vrouwen ziet riante voorsprong op ranglijst verder slinken na nederlaag in topper tegen Ajax",
+      "category": "Overig",
+      "published": "2026-11-01T13:08:36+00:00",
+      "updated": "2026-11-01T13:08:36+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOFJNNnRSeGJtYy1wMVJLa3RRZmp6d29aVEkxTnBOaEU5SFFSTnM3d2gySUtzMnBoRVI0WkVwWENuR3I4UFc0bWJKeFFqekVjODBvTHhESkoxVkFNMF9nZlpYQ1VzWFpyXzZxYUk1RkFiQ2lteWlpYmV6Zm9oWnFLYTBOLUxzNVZsbFl3VXlWeVd2S1ZLclpTMmdOSmlsZk9pMXNOOEc1SlFYbFJEN2t4Y2NSQV81X3NIQkI3R2lFSVBwV1ZnUDJfLVRTX0J1SlBHY2VPWU13?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "f23821f8e3c05b",
       "title": "Snoeihard oordeel over speelwijze Ajax in topper met AZ: 'Het staat heel erg ver van de Ajax-filosofie af'",
       "category": "Overig",
@@ -343,18 +415,24 @@
     },
     {
       "id": "4498566c2815a5",
-      "title": "Ten Hag bedankte vorig jaar voor Feyenoord: 'Mijn Ajax-verleden speelde een rol' - NU",
+      "title": "Erik ten Hag bedankte voor Feyenoord: ‘Daarbij speelde mijn verleden bij Ajax zeker een rol’",
       "category": "Overig",
-      "published": "2026-11-01T12:03:24+00:00",
+      "published": "2026-11-01T11:31:47+00:00",
       "updated": "2026-11-01T12:03:24+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUVJRVdfMkhEb2hvZXYyWWtkRzAxMGhMU3U2SzFqWGl6Y3N2Z3Y3NnYtN3ZzVG9rTXBIamczRHJSWkpOaW5CNWxTNzZtMnBLUURkemtCdDd4U2d1aGJRc1czUDBSeHVGU1htdmlkRHFyZTFTbU5IRWUwanlIcmJMel9WRVZtUlZjcjQ2TW90S19SMWJ6eUpQSUtTUjBpd3IxZk83cFNjNGR6S0IxNWRFaXZIajhCUE0?oc=5",
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWJzYXpaZ2I5WEZPUFF6U3BFWl9pYVduU096WFpaOWl5N0JZOU5mUHh5ellMYWl3bjQ1YVNoX1F4eDIxeFMxdEg2UGkwOEJtOTZjbVhpYUVtc2JnY2R4YXJ2WVJ2aWFZamZFS0pGT0pQQ05GQ3dPWFJ5YVRTek96WXlLb1pOeVQ4LVFQLUFvVFpSanV0a1UwUmc1LUNSUlZDVS12R3E0a3Ewc1E3QW5IMTZqSkpwXzNGNG8yeG9XNjN3c1U?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "NU.nl",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUVJRVdfMkhEb2hvZXYyWWtkRzAxMGhMU3U2SzFqWGl6Y3N2Z3Y3NnYtN3ZzVG9rTXBIamczRHJSWkpOaW5CNWxTNzZtMnBLUURkemtCdDd4U2d1aGJRc1czUDBSeHVGU1htdmlkRHFyZTFTbU5IRWUwanlIcmJMel9WRVZtUlZjcjQ2TW90S19SMWJ6eUpQSUtTUjBpd3IxZk83cFNjNGR6S0IxNWRFaXZIajhCUE0?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "107b692ae74c8b",
@@ -538,22 +616,22 @@
     },
     {
       "id": "f8c8b4dd9d9fb8",
-      "title": "Berghuis ziet Ajax worstelen met AZ: 'We konden het niveau niet vasthouden'",
+      "title": "Berghuis velt Ajax-oordeel: 'Daarna konden we het niveau niet vasthouden'",
       "category": "Overig",
       "published": "2026-11-01T07:44:00+00:00",
       "updated": "2026-11-01T09:35:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk5QZWN2QkV6SEhVUVlxVkUxakFxV19GeGY3aGdpMk1ialNSMlFuemZHZ0hEUF9sQ2t3STFoWFN3RVJHNTJURHpPakFoT2dscVVmcHNWMlc1NzFFNzhXUGc0UGFBMVBEX3YxOTJvTks5cW9YV0VRRVZSYkdlbkJlcXhBcXdaX3BTQUpUQV9SRmllcnJfcUN0d1FEUUNmMFhKNHhnZmpKZTdlNm96NW5CWHo1WQ?oc=5",
-        "via_google_news": true
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2153524/steven-berghuis-velt-oordeel-over-ajax-spel-tijdens-1-0-zege-op-az.html",
+        "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "VoetbalPrimeur",
-          "url": "https://www.voetbalprimeur.nl/nieuws/2153524/steven-berghuis-velt-oordeel-over-ajax-spel-tijdens-1-0-zege-op-az.html",
-          "via_google_news": false
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk5QZWN2QkV6SEhVUVlxVkUxakFxV19GeGY3aGdpMk1ialNSMlFuemZHZ0hEUF9sQ2t3STFoWFN3RVJHNTJURHpPakFoT2dscVVmcHNWMlc1NzFFNzhXUGc0UGFBMVBEX3YxOTJvTks5cW9YV0VRRVZSYkdlbkJlcXhBcXdaX3BTQUpUQV9SRmllcnJfcUN0d1FEUUNmMFhKNHhnZmpKZTdlNm96NW5CWHo1WQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -584,66 +662,6 @@
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3IzUEtKT1B1UTJid250OVE4ay1uVWdrRXFVRmpyeFljRmNBeUtMemtNNTJjS0NJVWp0TVNLTmFzM1AwRE9Jd3N4d3ZfR2pkREJfRk1ORUp4Q3lmVl9WLVF4WkRNX3BtX0Q1MHV0aGFUeWh3Mzl3ZE96bi1Ia2Z5VmJTbXQyWVZUQzhpa2JybF8tZGdoeVluZVNQQ1JYTGNlNTBSLXQwMVZLQ1FqblZCMw?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ee10d8c7c6b542",
-      "title": "Wijze raad Jordi Cruijff helpt Ajax na slijtageslag tegen AZ: ‘Slecht spelen en toch winnen, voelt als de loterij’",
-      "category": "Wedstrijden",
-      "published": "2026-11-01T09:00:00+00:00",
-      "updated": "2026-11-01T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSngtc0lMZjBVNUVZdXUzQTQtV0g3NWNYRVBGM3V4aE4zVmxyNk5GV3dfSVZBYk9RMXZBSDVFdWhMQzF3RGlLdkZJNXBsU2ZEekZjSDlKV1RnSmJRdXVwX0d0elFUUHdSWmVPdGVWRnliZUR6a2FBZDJWNFhQSGNqeFprbUU3SGlhQnVNWXAwb3pHUHJZWmlRVFFhQUE3LWhxbU5wYTcxaWZwVWZ1M3ZiUWVRUjcteFU0cVE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8f40ec2ed83bdc",
-      "title": "Sofyan Amrabat verpersoonlijkt het huidige Ajax: ‘Als je geen City bent, moet je kunnen lijden’",
-      "category": "Overig",
-      "published": "2026-11-01T09:00:00+00:00",
-      "updated": "2026-11-01T09:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGZWbUZMcXVZTHRpaEhxT0RzTHdfNXFEcktEbXJTZWFCWGFxaXlfOEgwdUpaOU4ydFdZRE9oVS1IQmpiMGZIeWpxZDJEaWM5bERqX3hER0piaENKRkFtR2tXWUVFRjVQOFQ1b0xDSGxBZDJMQjJlSVVOMDJHVTIwZmRvSGFCUnZFZEQ1Y3ZrX1VVbnZlc1p3Mmdsd2lsemVkQXNvWUpkRnVEMlozYXg4MDFPV1ZsVWhia2U0czNhZmY4SjY2dEE1N2JJNVR0VURMMUZNZUJXeUNRb0psM0RGRg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a5fec873f7998d",
-      "title": "Míchel ziet Ajax lijden tegen AZ: 'We hebben een grote stap gezet'",
-      "category": "Overig",
-      "published": "2026-11-01T08:45:00+00:00",
-      "updated": "2026-11-01T08:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVldpaGozX3dmMXFWT3pPaU5ZN2NMVVEzMVdvYVRBbTJlVWtXbG1OWjNkUFFMang5d2pBYUdVVEt3TFdsQ1FjcmNKVmN1aW5BRzdGS3AtZzRPa0VraVl4eHlYbjJuVjN5RkhhdjYzRDFjQWtmUTh1cmlJOV9tN3ZBTy14b180a1VLNlRwNkozMWcxamhfSEV2TXc2R0Z1UERTUEVERE5Mcw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "69d4872b055b07",
-      "title": "Kranten: 'Feyenoord betaalt rekening, topavond PSV, Ajax eindigt negatieve reeks'",
-      "category": "Wedstrijden",
-      "published": "2026-11-01T08:40:00+00:00",
-      "updated": "2026-11-01T08:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2153531/feyenoord-betaalt-rekening-topavond-voor-psv-ajax-beeindigt-negatieve-reeks.html",
-        "via_google_news": false
       },
       "related_sources": []
     }
