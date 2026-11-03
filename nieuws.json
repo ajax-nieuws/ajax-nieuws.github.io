@@ -1,18 +1,78 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T00:03:28.603008+00:00",
+    "generated_at": "2026-11-03T06:56:34.869277+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 116,
+    "article_count": 112,
     "event_count": 40,
-    "discovered_event_count": 98,
-    "source_count": 12,
+    "discovered_event_count": 96,
+    "source_count": 11,
     "feed_error_count": 0,
     "excluded_paywall_count": 104,
-    "excluded_video_only_count": 54,
+    "excluded_video_only_count": 69,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e597471da5a53c",
+      "title": "Driessen onder indruk van Ajax-spelmaker: 'Was Zidane ook niet, die stond er ook'",
+      "category": "Overig",
+      "published": "2026-11-03T06:41:41+00:00",
+      "updated": "2026-11-03T06:41:41+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2154338/driessen-prijst-ouazane-bij-ajax-en-maakt-zidane-vergelijking.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ae4e7166488662",
+      "title": "Cruijff trots op Ajax-transfer: 'Dat is altijd stilgehouden, ben ik blij mee'",
+      "category": "Transfers",
+      "published": "2026-11-03T06:13:12+00:00",
+      "updated": "2026-11-03T06:13:12+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2154325/jordi-cruijff-trots-op-komst-van-julian-brandt-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "303a25755a5fed",
+      "title": "Ajax jaagt op koploper Feyenoord, maar worstelt met wisselvalligheid",
+      "category": "Overig",
+      "published": "2026-11-03T05:55:00+00:00",
+      "updated": "2026-11-03T05:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenY2SlZ4Z0dYOVNQZWc5T1JpTXZwcVdQZ0pPaEFxRWZBTkJPclZYbHhnLWpoVEtYa1JGdVpnYzA3UHE2SlN3M1lhZ0pUQy0tdEszbUhEak5aTTh2eVk0MkNPNUZoYThpQlJNX1A5NlFTZTlQS3hXQ0pRR3RKWVJyZ2hLUkltMUx4X2NRZENxSHJmbWpBRG01ZQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "269929fa1e602c",
+      "title": "Voormalig Ajax-verdediger sluit trainerschap niet uit: 'Kijken wat bij me past'",
+      "category": "Selectie",
+      "published": "2026-11-03T05:53:27+00:00",
+      "updated": "2026-11-03T05:53:27+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2154324/emanuelson-sluit-trainerschap-niet-uit-na-jong-ajax-vitesse.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "e45338ad2f9380",
       "title": "Cruijff vol vertrouwen: 'Kwestie van tijd voordat hij loskomt bij Ajax'",
@@ -24,6 +84,21 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkpiTGF3aGd1Z3NaTXB5RUhGaWs5dnNXbmFET0FFbTRhSkpKeExSbWV6bUx6OFBDOUROdHJVZ0czRjFMQUFlMDNOQ21XS0kzNnlzT1Zpellid09XT3BpN1hKamY0OWNNUURQcmtqOGFrelNsanJuMDExblJQaVRMS0FhdWpDZi1FbnJoS0d6azNVRm9NTkYxSGQyd1JRLW9hcnd6eU03Q29xN3Fld0o3RE1VVmxiSjVEenVHUkt1Zw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c0a5568671e85b",
+      "title": "Brym in bloedvorm bij NAC, Vitesse pakt laat punt bij Jong Ajax",
+      "category": "Jong Ajax",
+      "published": "2026-11-02T22:23:59+00:00",
+      "updated": "2026-11-02T22:23:59+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVTZYbkJZb1BINklHSTRzLVdRT0xPRjhNaVNxTjRyQ3J4SUZwVFlBZGZQRVNaTzd2UlZBSlJqZ1JKSXBPUEJ5UGNRdk1KZU1XSV9aY2VSWHBtZ19hWjVKTlZzeFRBVVRGckJ4OEVCdGxDTmlwMzlCRXlVMEFHYmF1U29pUGo0blZDQVNoUFBBRlRIdUtLM2RmMFJOUVA0WEg5dnJDdGttaw?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -44,16 +119,16 @@
       "related_sources": []
     },
     {
-      "id": "c0a5568671e85b",
-      "title": "Brym in bloedvorm bij NAC, Vitesse pakt laat punt bij Jong Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-11-02T21:34:36+00:00",
-      "updated": "2026-11-02T21:34:36+00:00",
+      "id": "1eb8990e7085b3",
+      "title": "Forbs zorgt voor verbazing na vertrek bij Ajax: 'Die had ik afgeschreven'",
+      "category": "Transfers",
+      "published": "2026-11-02T21:39:02+00:00",
+      "updated": "2026-11-02T21:39:02+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVTZYbkJZb1BINklHSTRzLVdRT0xPRjhNaVNxTjRyQ3J4SUZwVFlBZGZQRVNaTzd2UlZBSlJqZ1JKSXBPUEJ5UGNRdk1KZU1XSV9aY2VSWHBtZ19hWjVKTlZzeFRBVVRGckJ4OEVCdGxDTmlwMzlCRXlVMEFHYmF1U29pUGo0blZDQVNoUFBBRlRIdUtLM2RmMFJOUVA0WEg5dnJDdGttaw?oc=5",
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXViODVJcU1tOHZmVjRtTXI1TzY0QVBxU2h3N2MwajNENXdaVTFjeVhlMEZNSlc0RC1XcU5mNU1EN3hHYkdqM3JfRFFGTm14alNSTlR1VWNDdlFyRS1jT1VhNXFhS21zUDVrTS0yRE0tZUdGMjZqZ0Z1TjVjZDA1Y1lQQ3poOVk?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -83,6 +158,21 @@
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "e6d103b25905e2",
+      "title": "Jordi Cruijff duidelijk over Marcos Leonardo bij Ajax: 'Dat moet hij doen'",
+      "category": "Overig",
+      "published": "2026-11-02T21:17:02+00:00",
+      "updated": "2026-11-02T21:17:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmIxekFvVWF2clpvRXBXUGlFaXZBN01ITGdHTzUxaHY5d1Qzd1l6eEJ3TkJBM2VjMHFOQzJNS0FrYTNVR0VsQ05panlDdDhDaHhncjdEUkhCQkE1YUIyQmJEdW1oSmVqWk41WDBmMVNSZXcyVGtKRjNHV0RpSU5EcWRSYVE4VEFnRVZOa0xSbzhfdHFieHFBdlJLX3NIMFhMZGNKQk1aeDBLZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "0ef9dc92b4ca24",
@@ -137,7 +227,7 @@
     },
     {
       "id": "56f71167a71847",
-      "title": "Vitesse heeft het moeilijk tegen de talenten van Jong Ajax, maar vindt vlak voor tijd toch nog een uitweg",
+      "title": "Hilterman laat Vitesse-bobo’s vlak voor tijd juichen op bezoek bij Jong Ajax",
       "category": "Jong Ajax",
       "published": "2026-11-02T21:08:00+00:00",
       "updated": "2026-11-02T21:08:00+00:00",
@@ -145,7 +235,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEU2MUZPLXVvdE5HRVIwUjR1M3VHZWw2MWhFb0tzZDNWOWp1YjN6ZlNNRkJGRVR6azNBbFk5SlAxUFJ4UVA5UUtnamtXeFBlLV9fNmE3WVdxTnpXdDlCY0xJSVl2cV9ZUVdBSGhIR2ZvczcxaWtYN1lUOEJpbURkd2U2NlU5YzRzNGdFZ1lsN2c3cmVxVXZVbGEtdmI2Q2lXMlRnXzR3T0pZRTlDR0lTTWhIV3hFMGZWazgxU1Vab0xnN1h2dWZ3eGRWZExyaXRWMUhsUDlB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGYtZ3dVUUg2ckJ1U3RycGFieGJVVmNoMjJvci1WRVEyWWRuRG5aTFVGbG5QVDdSOG5zODZqQ1k3NjJYOERhWHpHU0FuLXpnYk5Xc2Vuc3Y1QVI1MHZ0bjdyQzBJQXQzRk1rVlpkQlhXd3hEZ1dqVnMyMEMyaDZvRVY3clc3SDA3a3QtbVV0UXdQNXlrTnRlNGI3ZEdQdnVXTVVvbnVyLWE0LXhvSGt3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -248,7 +338,7 @@
     },
     {
       "id": "0568438a971a6f",
-      "title": "Jordi Cruijff trekt duidelijke conclusie over Ajax: 'Dat missen we momenteel'",
+      "title": "Jordi Cruijff trekt harde conclusie over Ajax: 'Dat missen we momenteel'",
       "category": "Overig",
       "published": "2026-11-02T20:20:02+00:00",
       "updated": "2026-11-02T20:20:02+00:00",
@@ -277,19 +367,25 @@
       "related_sources": []
     },
     {
-      "id": "81fa36aa4c8b79",
-      "title": "Oud trainer Ajax Óscar García in opspraak bij huidige club",
+      "id": "bdd5e9aebe9545",
+      "title": "Verbijstering na Ajax - AZ: 'Hij is de meest waardeloze voetballer die ik ken'",
       "category": "Overig",
-      "published": "2026-11-02T18:31:01+00:00",
-      "updated": "2026-11-02T18:31:01+00:00",
-      "source_count": 1,
+      "published": "2026-11-02T17:28:00+00:00",
+      "updated": "2026-11-02T18:57:00+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEoyM3YxaXlOblN6a3dPVnlUdGNMRW9HTmQ1YWNtV3R6WnJwOXRQY2xzTVlGRXRzWkVGMjJQWElQQUxnNElGb2ZjQmFkeXAxZDRyak9xQU5lNUp3TTRvSFcxTFBabXFyMlJzQmFkMUlTejJhblpEbGJtWDRIamtiWUF2T3NobnJ0TldvWDFqcTY5VXlNRkJ3end4Yw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDZsQVplYWliZzQ5amVhVUtaNDF4dGhmRVZ0NDh2VUhRazB0d21NOHNDUndwRzljZENQRHBydkxJWTE4REI0eUtxNlVhWFZwM1FFLUcxMjd6RzBFaUZPMWRtMmhIdFVKNnRLUXRTRTJxMi1XSF9pTEVhR3MzMHhxVjJVRjFRTi1zN1U4RHAzQjZncklMbHNTbTZiUQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVkwYW9Xb1B2ZjVDVXB1RzQ1OVVRVHhtUzgwNUNUTzhiT2JSY1k4NTA0M0h1emoxXzBLekhfUXBvZWFZQXhwR3Mtb0trazRMUk5kdTFiLUI3N3BENW9sZF9lUkFtYVZQa3pZSzF0NEw2RHYxVE5QSkUzdmUtVXZrWUxuOE0zNGhVU3I0bXBtTGE2bWNfSlQ5cnhuOFdhOVNzTllvTklNaXZyMm9hQnEzdThRbGFqc2VIT2pBVDNib3Y2WTVFenk0cFRnM2RlMWdHWmo3STRvekI0V2c?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "58fe9d0517bc07",
@@ -321,7 +417,7 @@
       "id": "529c935e61682e",
       "title": "Valentijn Driessen: 'Hij wordt echt onderschat bij Ajax'",
       "category": "Overig",
-      "published": "2026-11-02T17:28:00+00:00",
+      "published": "2026-11-02T17:55:00+00:00",
       "updated": "2026-11-02T17:55:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -554,96 +650,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2154145/voormalig-ajax-trainer-oscar-garcia-mag-niet-weg-bij-pogon-szczecin.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "14e55d49b4454f",
-      "title": "Jordi Cruijff te gast bij Rondo vanavond",
-      "category": "Club",
-      "published": "2026-11-02T14:00:00+00:00",
-      "updated": "2026-11-02T14:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56111/Jordi-Cruijff-te-gast-bij-Rondo-vanavond",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "098efdb323a7da",
-      "title": "Betuwse clubman Koos van Elk overleden, de man achter het historische Ajax-feest in Driel",
-      "category": "Overig",
-      "published": "2026-11-02T13:48:32+00:00",
-      "updated": "2026-11-02T13:48:32+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3o1VWNMWk1FaWtLOEpWNlZyRDhDQlFiYnJQc0FOUDJfNVVPbElxdUtxcTljWFFzbExweEVQc3hrenc1U3pBLW1zMzRZZW5zeEJneF9xVWtrOWtiSUthdVV2eXNFejB1aVBvMkRuUVFiSzUtc0t2WHBFTHdvRm9sbzNiZXlzbFVaQ2g5ZWxMdTlSRHIwMUNEby1iWjhucVlNNEp2QXlldXI5YTh2VVduU2FwdXc5S3NlUkV0WWlIVi1uTlVyTXc?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1466c67154aaa5",
-      "title": "Noa Vahle ziet 'vermaak' tijdens Ajax - AZ: 'Ik heb weer genoten van hem'",
-      "category": "Overig",
-      "published": "2026-11-02T12:52:36+00:00",
-      "updated": "2026-11-02T12:52:36+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2154098/noa-vahle-geniet-van-druktemaker-michel-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b47fb11f2174f5",
-      "title": "Schöne laat zich uit over titelstrijd: 'Al hoop ik natuurlijk op andere volgorde'",
-      "category": "Overig",
-      "published": "2026-11-02T12:10:48+00:00",
-      "updated": "2026-11-02T12:10:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2154078/schone-over-titelkansen-ajax-al-hoop-ik-op-andere-volgorde.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7988ce6612b459",
-      "title": "Daniel da Cruz Carvalho: 50 jaar",
-      "category": "Overig",
-      "published": "2026-11-02T11:43:15+00:00",
-      "updated": "2026-11-02T11:43:15+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GWnIyeFlHRHYwX3NNVnpESGFQR0VnRnI2Nm5xcHpFTEw1TXd1aE9mS2xsSF9WenRXeFpudmJLcmhXQkJad19YSG9sSTlvZ0xOdzBuLUY2TkpfM0VhbWdtT04zSWptREZTd2RCOUVZNA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "30c240dabf1f41",
-      "title": "'Ajax kijkt met ontzag naar spelers als Patati en Mees de Wit' - NU",
-      "category": "Overig",
-      "published": "2026-11-02T11:41:32+00:00",
-      "updated": "2026-11-02T11:41:32+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczIwbUdBRFUwVnAxMmVTS3c1d196bHA1R2pSR043ZlkzSC1EZHJSNkNHTWVuWV9jWkxJS0d0bVhwQ1RvcC1TMXJiTFZrRGdtbHFlTm90YnJpZzFZdkhtWWRUQ2M4S2xDWGtoSldGckF5WThJSncyTzFFNmhkWFdRWlJNWlF4VkJRTUc4SmhBd1doSkhhZnRVS3FZbFg?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
