@@ -1,24 +1,90 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T01:27:21.872138+00:00",
+    "generated_at": "2026-11-04T08:06:29.042948+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 95,
+    "article_count": 94,
     "event_count": 40,
-    "discovered_event_count": 82,
+    "discovered_event_count": 80,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 107,
-    "excluded_video_only_count": 54,
+    "excluded_paywall_count": 78,
+    "excluded_video_only_count": 60,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
+      "id": "635ea9f1116a4c",
+      "title": "Transfers Ajax: Spaanse krant koppelt Baas aan Barcelona",
+      "category": "Transfers",
+      "published": "2026-11-04T06:56:27+00:00",
+      "updated": "2026-11-04T07:53:45+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/volg-in-dit-liveblog-alle-transferperikelen-rondom-ajax-2026-27",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3lqc2NQeFE4TkdQU3A5VzhQUm9FWW1udExQY2pudkNyWjQxV0MzeENCNktkdjRTV2k1MmFxS0pULThacHRhWnlKZVJjemlqRjVCSzV1bHMzR0tKdzlpOTlQWU12QWN4RE9PTEpwVi1qeHh6NnE3WmxiX3QtMTRUVU96YTVtUS1XUGRtazVBbWxla3V4cEh6NWhTdjRoODl2eFRfTWwtaWh2VFJB?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "f0315e57b4f31f",
+      "title": "'Cruijff kan belletje uit Spanje verwachten, Barça zet vol in op Ajax-verdediger'",
+      "category": "Selectie",
+      "published": "2026-11-04T06:40:39+00:00",
+      "updated": "2026-11-04T06:40:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2154770/barcelona-zeer-gecharmeerd-van-ajax-verdediger-baas.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "af0b85db7eb100",
+      "title": "Brian Brobbey tekent tot 2031 na omweg via Ajax, topclubs op de loer",
+      "category": "Transfers",
+      "published": "2026-11-04T06:25:02+00:00",
+      "updated": "2026-11-04T06:25:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblJlRGhaNTZFUnZIeWVDM3p2ZjA4c2thaUZRbTN4ekhjUmZFSXBrVEFROFVuRFM1LWVSSFl5Nkg4S3RoTGZGckJNcmpVU3kxX18tVFhObGxVcWpBejQ0YXVIZW12a0JPRnA4QmZ0aF90VEFURmllY2hqZGFUblJxcVFaQ1lOSncxc1c0S0lmQmtnb3kzU1d4ag?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "51c498f5b700c5",
+      "title": "Ajax in lastig parket door wederopstanding van basisspeler Owen Wijndal",
+      "category": "Selectie",
+      "published": "2026-11-04T05:55:02+00:00",
+      "updated": "2026-11-04T05:55:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXFBaF9UcC1CRE5KaElzR0JZTVByRmc0M1pldi03NU5JaS15RFNEdXMwZ0JBdjhpRmxQMmNFOHNMcFJHcFBQX0QyX09GQk01X2hsTWJHQWhlYVFwcFZqZ0ZiYmhyZ2ZCY21Cd1o5RjhmcFhUWUhmcHdKRjZ6SUdwczh3dDdSWm93LVgwdVlvcmNLZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "c7d9cc9d74a5e8",
       "title": "Waarom PSV moet oppassen voor Ajax-flop Forbs, maar ook kansen ziet tegen Club Brugge",
       "category": "Overig",
-      "published": "2026-11-03T22:30:00+00:00",
-      "updated": "2026-11-03T22:30:00+00:00",
+      "published": "2026-11-04T05:53:00+00:00",
+      "updated": "2026-11-04T05:53:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -90,7 +156,7 @@
     },
     {
       "id": "7c21ed9a2c7105",
-      "title": "Ajax liep één speler mis door ontbreken van Champions League: 'Gaat lachen'",
+      "title": "Jordi Cruijf: 'Ajax liep één speler mis door ontbreken van Champions League'",
       "category": "Wedstrijden",
       "published": "2026-11-03T18:58:03+00:00",
       "updated": "2026-11-03T18:58:03+00:00",
@@ -221,8 +287,8 @@
       "related_sources": []
     },
     {
-      "id": "403896d7fa4136",
-      "title": "Goal of the Month | Wie maakte de mooiste in oktober?",
+      "id": "207f7d900158c3",
+      "title": "Goal of the Month | Wie maakte de mooiste in oktober? - Ajax",
       "category": "Overig",
       "published": "2026-11-03T16:05:35+00:00",
       "updated": "2026-11-03T16:05:35+00:00",
@@ -230,7 +296,22 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWxaOWE3WEdGMWVobHpWbjFqbWVvZzF6OW5zMlJTZFJOemRZYmRFWUV2RzZFN3FoaGdiVUhzZ3FBWWlvbDZBUS1pODJtOVh5d0RqUWNucHJCOTNhTVUwcnN3ME5fekJLNUk2NklfQnRCNkY4UG9aXzhLczhLU3lkMFQwWjlBaW1L?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUG14ZWxNal9zUTB6ZVE4dHQ1bS1rTDFmT1FUOWlNZXAxdHVDTjNhM0pQaXkxMFRxajhkSjdwa21QUU1kY3JQd2FUY2tHVFZKZEQ3STVwcGNOdk5WQkltZ0FGcnR3b0dDMDgzM2ZUaTRLUFVtTnlxYkVqN2NCSno4WlpyTEJ5SVk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "81dbe0ff82c1e4",
+      "title": "Bounida ziet Ajax als wereldtop: 'Toen ik hoorde van Ajax, hoefde ik niets meer te weten'",
+      "category": "Overig",
+      "published": "2026-11-03T16:00:00+00:00",
+      "updated": "2026-11-03T16:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR19PczdtZWpzVnVwZ09mbHZJN1JsTWViRzVlT3htR0l2Y3JWRkh1UUd4MEduTFpIZEVOS1RySzRWVkFBVGxjMVBkU25jZW0zOUVpR21hdktSTl9LX0lLSWpFNFpmdlhScUhDUVRZVmlvZm5DUThmTm42eXBnWkFEUEFKdHhZTktQWDlScmp2MHduY3hYSlU2S1BacDF2R3FjTjdYTXdJR2Q5N2NBNVF0eUsxc1JWbE01MHk1QXd5eFl1dXUydktsX1FkV3JVMlgzRnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -302,6 +383,21 @@
       "related_sources": []
     },
     {
+      "id": "fe87f4ee8f8221",
+      "title": "Wijndal komt laatste tijd steeds vaker aan spelen toe bij Ajax: 'Ben hongerig naar meer'",
+      "category": "Overig",
+      "published": "2026-11-03T14:50:00+00:00",
+      "updated": "2026-11-03T14:50:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1dLQ2tiblFUN21kMml4RGNvaVZBaklkYlhOdXlJSmlMX1Nlb0l4d3N6bXJXMWZ4UzFiN3ZqOGhkZVhuTlBaVm43aXFTdGMxV3pwcHdlb2E2WENUUzhLeG5QM1k1dlZkUWNrQWNVVzhtQzZYeWtSbjJPdUlSS3pqd2NGeVktVnJFUVRTU2J3Qmp1eXQwbFdmLVNaT1o2Y2t6ZkRCZTJR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "440e02b3d4da41",
       "title": "Wijndal onthult onverwachtse aanvoerdersband: 'Een hele goede keuze van Souf'",
       "category": "Selectie",
@@ -332,23 +428,28 @@
       "related_sources": []
     },
     {
-      "id": "6aaf354b4f6df9",
-      "title": "'Het is even afwachten, ik sta wel open voor contractverlenging bij Ajax'",
+      "id": "f4a3779a13a11e",
+      "title": "Cruijff zwijgt over contractverlenging Ouazane: 'Complimenten maken alles duurder'",
       "category": "Transfers",
       "published": "2026-11-02T20:41:56+00:00",
       "updated": "2026-11-03T13:46:00+00:00",
-      "source_count": 2,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2154537/rayane-bounida-staat-open-voor-contractverlenging-bij-ajax.html",
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/cruijff-zwijgt-over-contractverlenging-ouazane-complimenten-maken-alles-duurder",
         "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/cruijff-zwijgt-over-contractverlenging-ouazane-complimenten-maken-alles-duurder",
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2154537/rayane-bounida-staat-open-voor-contractverlenging-bij-ajax.html",
           "via_google_news": false
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM3lLZndHNGNTUVd4c25teWNxbk1MdUJ1andZSXY3RUpRWko3eV9Ibk1CZlBJOUVPb2VrVlJUTm9XOXRBeXBTdV9keURORkIwUkdFXzdoalZLVzRPb2Yyc2ZNakR1S3FNNjNIN3hYQ0J1Sm9DZjNvZWdoVGNINDZSSnF4N2FhS1JidHFaNXBJYW1kSFhWN2EzSUxfN0pNVmtCRmF3MHltd2VfakxVZ285Sm1oNDBkVThvSUxFbWhDMXBXS0RlZ3VoVDVWaHQ4YjBMelMwZUFDMmd5NjQ?oc=5",
+          "via_google_news": true
         }
       ]
     },
@@ -488,8 +589,8 @@
       "related_sources": []
     },
     {
-      "id": "c324fb076ea5f1",
-      "title": "FC Midtjylland - Ajax: zes jaar geleden",
+      "id": "7fb6c972954be4",
+      "title": "FC Midtjylland - Ajax: zes jaar geleden - Ajax",
       "category": "Overig",
       "published": "2026-11-03T09:38:22+00:00",
       "updated": "2026-11-03T09:38:22+00:00",
@@ -497,7 +598,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIeFRpVFI1SGNOaTlDall1eEgwaEZvSWsyNDdsS3B4NXhsR3ZKUDRrd053RVUwREJhZzJhQmJyLWlIck42ZE4xcURoQV83bENBbW9paEd6Tng1bWNhRl9JZ3dhd2RLbjlhNGU4RFhOeEtrRDRKR3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVXg2NGlDU1dkd3ZwN2UtZWo3NFFLWnlaVUg1b1pOUlhBdFdVeEhQT19tdVNvandUem1Ic2pEb1lZdDdRN3NIblRWSTBXcGdVeGRTaGM4LU8zdUl2OWVoNkhKc3dtZy04Zk1xRWFILTUteE9L?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -544,96 +645,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2154355/kraay-duidelijk-over-speelstijl-van-ajax-tegen-az-1-0.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c33fa85abe7af9",
-      "title": "Ajax-talent wacht op debuut: 'Ik zou er twee keer inkomen, maar ging niet door...'",
-      "category": "Selectie",
-      "published": "2026-11-03T07:19:00+00:00",
-      "updated": "2026-11-03T07:19:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2154350/ajax-talent-van-de-pavert-wacht-op-debuut-in-eerste-elftal.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "eefae3de69f53a",
-      "title": "Cruijff zwijgt over transferplannen Ajax: ‘Alles wat uitkomt, is tegen Ajax’",
-      "category": "Transfers",
-      "published": "2026-11-03T06:00:00+00:00",
-      "updated": "2026-11-03T06:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEg4VnVYVFRYb2lPaHYyUzFPZHJNdl9Cb3FXRm5oRnNHUEpqVW0tX1R4YjJuUzJqOTJRQ2R4NXdEdXpkeXJ1M1d1eEJ5NllkLUFCNW1GdTRjNWNFYXNEa3dPanRhRW9uODFLZENwQlpjN21KaThuaDFrVGpsVVNISEpJazNUUVNTdnB2Y3Y4b3pQTWNoRmNVam1zWVJLT2hRbS1IMzdzajVqRGpORC15U2dFSQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "303a25755a5fed",
-      "title": "Ajax jaagt op koploper Feyenoord, maar worstelt met wisselvalligheid",
-      "category": "Overig",
-      "published": "2026-11-03T05:55:00+00:00",
-      "updated": "2026-11-03T05:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenY2SlZ4Z0dYOVNQZWc5T1JpTXZwcVdQZ0pPaEFxRWZBTkJPclZYbHhnLWpoVEtYa1JGdVpnYzA3UHE2SlN3M1lhZ0pUQy0tdEszbUhEak5aTTh2eVk0MkNPNUZoYThpQlJNX1A5NlFTZTlQS3hXQ0pRR3RKWVJyZ2hLUkltMUx4X2NRZENxSHJmbWpBRG01ZQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e45338ad2f9380",
-      "title": "Cruijff vol vertrouwen: 'Kwestie van tijd voordat hij loskomt bij Ajax'",
-      "category": "Overig",
-      "published": "2026-11-02T22:25:00+00:00",
-      "updated": "2026-11-02T22:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkpiTGF3aGd1Z3NaTXB5RUhGaWs5dnNXbmFET0FFbTRhSkpKeExSbWV6bUx6OFBDOUROdHJVZ0czRjFMQUFlMDNOQ21XS0kzNnlzT1Zpellid09XT3BpN1hKamY0OWNNUURQcmtqOGFrelNsanJuMDExblJQaVRMS0FhdWpDZi1FbnJoS0d6azNVRm9NTkYxSGQyd1JRLW9hcnd6eU03Q29xN3Fld0o3RE1VVmxiSjVEenVHUkt1Zw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c0a5568671e85b",
-      "title": "Brym in bloedvorm bij NAC, Vitesse pakt laat punt bij Jong Ajax",
-      "category": "Jong Ajax",
-      "published": "2026-11-02T22:23:59+00:00",
-      "updated": "2026-11-02T22:23:59+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVTZYbkJZb1BINklHSTRzLVdRT0xPRjhNaVNxTjRyQ3J4SUZwVFlBZGZQRVNaTzd2UlZBSlJqZ1JKSXBPUEJ5UGNRdk1KZU1XSV9aY2VSWHBtZ19hWjVKTlZzeFRBVVRGckJ4OEVCdGxDTmlwMzlCRXlVMEFHYmF1U29pUGo0blZDQVNoUFBBRlRIdUtLM2RmMFJOUVA0WEg5dnJDdGttaw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7d666ebcc254cb",
-      "title": "Cruijff verklaart keuze voor Spaanse invloeden bij Ajax: 'De spelers begrijpen Míchel allemaal'",
-      "category": "Overig",
-      "published": "2026-11-02T22:10:00+00:00",
-      "updated": "2026-11-02T22:10:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3NYeGFuVHVaMWlLQ2VhVk1oeXZ4NmlVNy1laDQ0Ym5VeUE2cWd5cHRxRExEazBjbVBYcVFwcEJpZDJ5a1VUdXlDM3JmOGtXUHVqTl9pZHJoMDBjQlJMSHFjWDdQZkN5alplenE4eElCSnllM2pncDB0VWUxMWk5WlJCazh4eWJOSTkxUkxoTEVMYkRONHRqcG0wcmV5azhIa0MzNnR6OGNuMmlUS2ptclBDQ3hFT0JzbWthRmhDRWlVYk0xWUZUZFRzMVhQdw?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     }
