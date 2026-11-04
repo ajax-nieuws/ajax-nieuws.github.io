@@ -1,18 +1,48 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T21:07:42.931242+00:00",
+    "generated_at": "2026-11-04T01:27:21.872138+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 96,
+    "article_count": 95,
     "event_count": 40,
-    "discovered_event_count": 84,
+    "discovered_event_count": 82,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 95,
-    "excluded_video_only_count": 56,
+    "excluded_paywall_count": 107,
+    "excluded_video_only_count": 54,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "c7d9cc9d74a5e8",
+      "title": "Waarom PSV moet oppassen voor Ajax-flop Forbs, maar ook kansen ziet tegen Club Brugge",
+      "category": "Overig",
+      "published": "2026-11-03T22:30:00+00:00",
+      "updated": "2026-11-03T22:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWE9rTVBRYXVIT2pzV0RITkFtUTVMS0U1aWlyUEJ6NUhtdS1lSzRmM1J0MHV0bWlRY0VDdjFpVUdSLUJSTEw3VkZHLTM0UmNqMjJhWWozUWNrTzUwRzNINmwyUWVONmIxaDZnR2dQbUxab3lpV0I2WGJLWTNOc3ZGXzZRVk9GMU8wUDlCWlhnSUZzcU15TFpIdXY1TVdzTkg4Q0dlTXZkazFtM2lKZUdpNnFtWDVDTENIZ2xPYnRBWm1mQlJ3WU1SUnpzTFJPQ283bEdjRA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "faf79352a6c707",
+      "title": "Oude bekende van Ajax keert terug in Nederland: 'Blij dat hij niet bij PSV speelt'",
+      "category": "Overig",
+      "published": "2026-11-03T21:35:00+00:00",
+      "updated": "2026-11-03T21:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2154694/leko-prijst-forbs-voor-terugkeer-naar-nederland.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "84c45d497412dd",
       "title": "Rondom Ajax: Welke Ajacied maakte het mooiste doelpunt van de maand oktober?",
@@ -90,6 +120,27 @@
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDNCN2t0bmVNNUVNRVNvSk5jQWxRTGp1c3dvUVUzRDhIbVRidmVGQ0VoOXNCRWRNdHJyM2RDcjN1WDA0dEZTRkZLM1ltUlN4endzOENQa1BmVEVDdzRvYnJIZUM1SzdYdVhZSHB2SnNMRWNyaVlyYjR0c3c2aWVZV3pBM3VTaUtaaFBWcWlndVRJNWVRX0k3OXNuNA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "f84790d3312a9d",
+      "title": "Wijndal: 'Bloedirritant om tegen te staan, maar in mijn team zou hij top zijn'",
+      "category": "Overig",
+      "published": "2026-11-03T14:46:00+00:00",
+      "updated": "2026-11-03T17:55:02+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2154557/owen-wijndal-en-rayane-bounida-loven-anis-hadj-moussa.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdERjSVhnRkxhMUY0TjEzcUplNmNZdXZiczc4WEUtVTBIWjlKR20xc0RiTWdNcUF4bU05X3p4OGJSck5Ya0k5ek5keXNQajQ4TG5hMUFPM05QYzI3UWZ2bUpzLXU4UEhKcEpVZlJDRW14ckRGMnkwMTlxNTd0aHRjR2FCUTE5ZTZielpBcw?oc=5",
           "via_google_news": true
         }
       ]
@@ -173,28 +224,13 @@
       "id": "403896d7fa4136",
       "title": "Goal of the Month | Wie maakte de mooiste in oktober?",
       "category": "Overig",
-      "published": "2026-11-03T16:05:10+00:00",
-      "updated": "2026-11-03T16:05:10+00:00",
+      "published": "2026-11-03T16:05:35+00:00",
+      "updated": "2026-11-03T16:05:35+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWxaOWE3WEdGMWVobHpWbjFqbWVvZzF6OW5zMlJTZFJOemRZYmRFWUV2RzZFN3FoaGdiVUhzZ3FBWWlvbDZBUS1pODJtOVh5d0RqUWNucHJCOTNhTVUwcnN3ME5fekJLNUk2NklfQnRCNkY4UG9aXzhLczhLU3lkMFQwWjlBaW1L?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "81dbe0ff82c1e4",
-      "title": "Bounida ziet Ajax als wereldtop: 'Toen ik hoorde van Ajax, hoefde ik niets meer te weten'",
-      "category": "Overig",
-      "published": "2026-11-03T16:00:00+00:00",
-      "updated": "2026-11-03T16:00:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR19PczdtZWpzVnVwZ09mbHZJN1JsTWViRzVlT3htR0l2Y3JWRkh1UUd4MEduTFpIZEVOS1RySzRWVkFBVGxjMVBkU25jZW0zOUVpR21hdktSTl9LX0lLSWpFNFpmdlhScUhDUVRZVmlvZm5DUThmTm42eXBnWkFEUEFKdHhZTktQWDlScmp2MHduY3hYSlU2S1BacDF2R3FjTjdYTXdJR2Q5N2NBNVF0eUsxc1JWbE01MHk1QXd5eFl1dXUydktsX1FkV3JVMlgzRnc?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -226,21 +262,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2154550/kenneth-perez-ziet-ajax-bevoordeeld-bij-handsbal-aaron-bouwman.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c7d9cc9d74a5e8",
-      "title": "Waarom PSV moet oppassen voor Ajax-flop Forbs, maar ook kansen ziet tegen Club Brugge",
-      "category": "Overig",
-      "published": "2026-11-03T15:07:00+00:00",
-      "updated": "2026-11-03T15:07:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWE9rTVBRYXVIT2pzV0RITkFtUTVMS0U1aWlyUEJ6NUhtdS1lSzRmM1J0MHV0bWlRY0VDdjFpVUdSLUJSTEw3VkZHLTM0UmNqMjJhWWozUWNrTzUwRzNINmwyUWVONmIxaDZnR2dQbUxab3lpV0I2WGJLWTNOc3ZGXzZRVk9GMU8wUDlCWlhnSUZzcU15TFpIdXY1TVdzTkg4Q0dlTXZkazFtM2lKZUdpNnFtWDVDTENIZ2xPYnRBWm1mQlJ3WU1SUnpzTFJPQ283bEdjRA?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -277,21 +298,6 @@
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjkxSEVzcjY0OUFDTHhkeTRxXzNkcjZZemlqQllpY3MzTEQ4UER5eEFLbjBBSnlGLTEyN3dsX2h6djBBX19ycDhsODJkaThXVkplVnF1SVpTeHJzVXZTN1hoRGREdEpxMlV4c3FkV2VydmRMMHZpS0Rsb3NUWVdXUnFyRE9rMTcyUUlReTZhVXVzdDA2Q2VzQXNRWDlJX2dNQi1sS2doSFBJLVBoOUI5RTBURm5kQQ?oc=5",
         "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e990d77b07c86f",
-      "title": "Wijndal: 'Bloedirritant om tegen te staan, maar in mijn team zou hij top zijn'",
-      "category": "Overig",
-      "published": "2026-11-03T14:46:00+00:00",
-      "updated": "2026-11-03T14:46:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2154557/owen-wijndal-en-rayane-bounida-loven-anis-hadj-moussa.html",
-        "via_google_news": false
       },
       "related_sources": []
     },
@@ -407,6 +413,21 @@
       "related_sources": []
     },
     {
+      "id": "54e7e02f372a80",
+      "title": "Kristensen zag wereld opengaan bij Ajax: 'Amsterdam overdonderde me'",
+      "category": "Overig",
+      "published": "2026-11-03T11:20:00+00:00",
+      "updated": "2026-11-03T11:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlkzR1hpTWlNNXNMX3I5YzhuR0hVRmpYSHFlaS1QMldyT3lYdk11UE83ekJ0QThJbDhrb2c1YlNEa2Y3aTQ3YVIza2gyRmZjZVJWTFFZTEJwN2xtbTc1UVNNTTFMWGxlWjlaRE5OaDB2ejI5ZWNQblpyTjhodDlhWmp4QVFwcDJsUzFhdGMxSXlQSEV4cW1DazhkU3RQWHg2VUtPWGxLVGdEZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "b5bdff7c499c10",
       "title": "Ajax Insights: Amrabat gaat voorop in de strijd",
       "category": "Overig",
@@ -482,21 +503,6 @@
       "related_sources": []
     },
     {
-      "id": "4488d740e2d23d",
-      "title": "Buitenland: Oud-Ajacieden Manchester United hopen eindelijk weer eens te winnen",
-      "category": "Wedstrijden",
-      "published": "2026-11-03T09:30:00+00:00",
-      "updated": "2026-11-03T09:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUy1NNFVqU05Vckl0anR0eGwya2Q5VFpTLUZqSHRuQ2g3ZF9SSV9BbGR6alRPTDgyUU1xV05XWHJpZVNiazM3R1FRNldldDVKQjlmWmxodTBhVjY2QnJlNkxURVc5bzJDZ0dMTUd0WjVKWENESGJzLTN2MmpiRjhQaFVWOTd4TWNoRXJQMzFsc3JFakJOazlxMGtWazZXOUN6d05wQjJyV0hiYk8tdVJDOU9ZeEJtQ3RlTGpzdzdn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "b38094a83f8d02",
       "title": "Cruijff extra blij met zege Ajax op AZ: 'In Spaanse sportcultuur is dit hoe je kampioen wordt'",
       "category": "Wedstrijden",
@@ -557,17 +563,17 @@
       "related_sources": []
     },
     {
-      "id": "e597471da5a53c",
-      "title": "Driessen onder indruk van Ajax-spelmaker: 'Was Zidane ook niet, die stond er ook'",
-      "category": "Overig",
-      "published": "2026-11-03T06:41:41+00:00",
-      "updated": "2026-11-03T06:41:41+00:00",
+      "id": "eefae3de69f53a",
+      "title": "Cruijff zwijgt over transferplannen Ajax: ‘Alles wat uitkomt, is tegen Ajax’",
+      "category": "Transfers",
+      "published": "2026-11-03T06:00:00+00:00",
+      "updated": "2026-11-03T06:00:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2154338/driessen-prijst-ouazane-bij-ajax-en-maakt-zidane-vergelijking.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEg4VnVYVFRYb2lPaHYyUzFPZHJNdl9Cb3FXRm5oRnNHUEpqVW0tX1R4YjJuUzJqOTJRQ2R4NXdEdXpkeXJ1M1d1eEJ5NllkLUFCNW1GdTRjNWNFYXNEa3dPanRhRW9uODFLZENwQlpjN21KaThuaDFrVGpsVVNISEpJazNUUVNTdnB2Y3Y4b3pQTWNoRmNVam1zWVJLT2hRbS1IMzdzajVqRGpORC15U2dFSQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
