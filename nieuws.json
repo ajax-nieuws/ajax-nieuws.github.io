@@ -1,38 +1,401 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T06:14:41.495559+00:00",
+    "generated_at": "2026-11-08T13:38:24.352210+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 105,
+    "article_count": 88,
     "event_count": 40,
-    "discovered_event_count": 88,
+    "discovered_event_count": 77,
     "source_count": 12,
     "feed_error_count": 0,
-    "excluded_paywall_count": 75,
-    "excluded_video_only_count": 60,
+    "excluded_paywall_count": 97,
+    "excluded_video_only_count": 59,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "082479698b1df3",
-      "title": "Tolu betaalt boete van ESPN-cameraman: 'Ik betaal hem, want het is mijn schuld'",
-      "category": "Overig",
-      "published": "2026-11-07T17:55:00+00:00",
-      "updated": "2026-11-08T06:06:49+00:00",
-      "source_count": 2,
+      "id": "024afb57edaeed",
+      "title": "VI Live: Tolu kopt Ajax razendsnel op voorsprong tegen FC Twente",
+      "category": "Wedstrijden",
+      "published": "2026-11-08T13:36:25+00:00",
+      "updated": "2026-11-08T13:36:25+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-fc-twente-tegen-ajax-in-eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9b5a8b5270f8f9",
+      "title": "Ajax-spits Tolu brengt gebed uit in middencirkel en biedt daarna excuses aan",
+      "category": "Selectie",
+      "published": "2026-11-08T13:26:08+00:00",
+      "updated": "2026-11-08T13:26:08+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156142/tolu-betaalt-fikse-boete-voor-espn-cameraman.html",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156517/ajax-spits-tolu-biedt-excuses-aan-voor-aftrap-bij-fc-twente.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3070ed43cbb94c",
+      "title": "Míchel legt uit waarom teruggekeerde Amrabat niet start tegen FC Twente",
+      "category": "Selectie",
+      "published": "2026-11-08T13:20:00+00:00",
+      "updated": "2026-11-08T13:20:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/michel-legt-uit-waarom-teruggekeerde-amrabat-niet-start-tegen-fc-twente",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0470271e4914ed",
+      "title": "Programma, stand en topscorers eredivisie | Ajax kan koppositie overnemen na nederlaag Feyenoord: dit zijn de verschillen",
+      "category": "Wedstrijden",
+      "published": "2026-11-08T13:16:00+00:00",
+      "updated": "2026-11-08T13:16:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQVJpZ3dXenVhcDgxcW9fdExhNVplc3BNc2VvMFJ0UWZXdTdtWHlQb3dHQVhzdnhXRUJmNndtZXBqS0hXX1RPdjRUcktMbGRrOGFKYTNMYmJJa0hzVjBYYjllaUZIWnBRTU8yTkVfZTVySDFOODh3UHI2VHZlVTZEbU5kUXdLVEQxVHUzREo2aUFlb2VKaXNLQjBONnl5N2tTSjB4T1ZRMm1RTE9mZzgzRk4yN0Z0bjFpcVBxdk9sRE51cUgyNV9TZEF4LTY4d1hOazVPbXpjby12N1cyN01tUVp4TGRGemZ3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ed4afb552b145d",
+      "title": "Opmerkelijk: Tolu biedt excuses aan voorafgaand aan FC Twente - Ajax",
+      "category": "Overig",
+      "published": "2026-11-08T12:56:35+00:00",
+      "updated": "2026-11-08T12:56:35+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUR6dGk5anA0MDcyWlV5alhBbl8zNHNGanBlc2ZmZENwR1lqYUVBS0lwMXp2RVFZRngwOWxtdEd6eGk1dHlvQzR5bzRrNzl0ZzhSQU1NN0hiMzg3Y2VyZWEyRFJxWlVKVGxEbVJ5MnFCM1BqUjgyakpMZDlfT2tWY2JLUTNhdjFXUTdMRTlR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0e1b3e1da8b3e6",
+      "title": "Bissouma maakt basisdebuut voor Ajax tegen FC Twente",
+      "category": "Selectie",
+      "published": "2026-11-08T12:24:15+00:00",
+      "updated": "2026-11-08T12:45:57+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bissouma-maakt-basisdebuut-voor-ajax-tegen-fc-twente",
         "via_google_news": false
       },
       "related_sources": [
         {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/fraai-gebaar-tolu-betaalt-boete-van-cameraman",
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWRfUlpNMUdEM1BoNGxkckw3cnAzbU4yZEhpeElYdEhRTklJa0JvTnd0QUlRa09Bc0pXTFY0ZW1aNHVvSVpZY0R1VVNvekZsdHBCVVJDV2xFcFpYV3Y0YTNQakwxeEhjTnZ0WGlORHlRcE1VaXRKNmlYby0yVVcxRjBQV2dNMmdOSzZZdjRLcEtiX3U2djJzSk11MFdCdw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "9efdad9d7f6c3b",
+      "title": "Ajax-fans verbazen zich over basisdebutant: 'Hij viel nog niet echt op'",
+      "category": "Selectie",
+      "published": "2026-11-08T12:43:15+00:00",
+      "updated": "2026-11-08T12:43:15+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156499/ajax-fans-verbazen-zich-over-basisdebuut-bissouma.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "2d5b2b0b5e26f8",
+      "title": "AT5 | Dit is Ajax Rock City FC uit Kenia",
+      "category": "Overig",
+      "published": "2026-11-08T12:35:00+00:00",
+      "updated": "2026-11-08T12:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1hQN0VFMVIzYzd1OWZSNUk4MGE2UXNZS1pPb2E0Q0xNaHUwTFZCVjI5VVpiUGRkZ09nYVNfVHdJcHh3YzZGaGtvZkN0RUNpOTdEVFhLcmtUMVVNWHRRRWdmLVNqdXZOMmpCdkFuc25QZjZGblUyWWtkQlR4TEd0bmpmb09ENlF6c1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "702f71dca6f41d",
+      "title": "Arokodare zorgt voor verbazing met lovend interview: 'Hij gaat 60 minuten tekeer'",
+      "category": "Overig",
+      "published": "2026-11-08T12:16:14+00:00",
+      "updated": "2026-11-08T12:16:14+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156463/kraay-jr-verbaasd-over-lovende-woorden-arokodare-voor-michel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "26e4ede7592089",
+      "title": "Ajax-huurling Ávila gaat over de schreef in kampioensduel Rosario Central",
+      "category": "Transfers",
+      "published": "2026-11-07T23:04:00+00:00",
+      "updated": "2026-11-08T11:44:38+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/ajax-huurling-avila-gaat-over-de-schreef-in-kampioensduel-rosario-central",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjVsWUlJN3VLVTJ6eUowdXZ4eEVwcWEzaVYydkNhMFZMblh5RTA2cnQ2NDZWUFNBVXpzSXA4ejJjMmYwZXFvNTJPMS1GQWYzanVLNGdUWDBHcjQtd2NHbjg0Wm5WZGRNTE0yX19BUE1iQkJEbnY2VEFLWUlBWU9hWlAwMkJHSlZENUFDOVdGdmgwTjZzZUI0UTl1S3BxaF8xcTlmTHE1TzVONDctSjBBc3dFSWN1T25UTTFDeVF0YXZNRXl2b0VETjJkdVE1YUxwaUE?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "10024d5841ade3",
+      "title": "Ten Hag ziet 'schrijnende' situatie bij Ajax: 'Dat is grotendeels verdwenen'",
+      "category": "Club",
+      "published": "2026-11-08T11:12:30+00:00",
+      "updated": "2026-11-08T11:12:30+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156469/ten-hag-blikt-terug-op-vertrek-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b480748a232477",
+      "title": "Kraay ziet Míchel flink tekeergaan bij Ajax: 'Vergeleken met Míchel ben jij maar een dood kippetje'",
+      "category": "Overig",
+      "published": "2026-11-08T11:05:00+00:00",
+      "updated": "2026-11-08T11:05:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNREVZamM3NEEyck9oeURNaWlEZGhsS2Vrc19oVmlZbzJvZy1wRUNsWVVnNTYxQkJ6Q1AyajZZaVItbTZiZTl6VnlMVVJHN1JlR3NOU1c4WWRnTkxlYzhwWERoSVp2d1dGdkJqT2wtNXMyNl96UmQ3Z1prR05lUEt3NG12NVhkLXpPREZhN1VyOWhRU29Zb2lpTHhpTHRrX2NuZ2RWMjAxLUE4S2tUQ0pEN1FTaFo0R0NWc3VBbUx1eUlzWGdsVUVzbFNZVVk?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b6e8c63675f72e",
+      "title": "Tolu kan in Enschede bijzonder Ajax-record van Kluivert evenaren",
+      "category": "Overig",
+      "published": "2026-11-08T09:55:00+00:00",
+      "updated": "2026-11-08T09:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmR3Rmg4VWM4OVgxMEZSazVxSDFJSkJRZ2laQ2VSQWp5QmRGemhVb2R6MEFIOWphREVQQjIxdlVXR2RnR0ZnNklOWUNaMXdaWDdzemc3U2JZc0RSQ1FGV2ZDVFNnRTFnZ0hDRHhOSmVNaXpvSTJnOGVpOS1JSUVTUnBFNVNvY0VHcVhhT1hDbHY0YmI3YmVfcHdseU1fTXVra25OeWc5OW1BNUNCQTNINVFBZTVFZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ffd96f553967bc",
+      "title": "Van der Sar denkt dat Ajax nog altijd de beste opleiding van Nederland heeft",
+      "category": "Overig",
+      "published": "2026-11-08T09:52:17+00:00",
+      "updated": "2026-11-08T09:52:17+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/van-der-sar-denkt-dat-ajax-nog-altijd-de-beste-opleiding-van-nederland-heeft",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "082479698b1df3",
+      "title": "Fraai gebaar: Tolu betaalt boete van cameraman",
+      "category": "Overig",
+      "published": "2026-11-07T17:55:00+00:00",
+      "updated": "2026-11-08T09:11:59+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/fraai-gebaar-tolu-betaalt-boete-van-cameraman",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2156142/tolu-betaalt-fikse-boete-voor-espn-cameraman.html",
           "via_google_news": false
         }
       ]
+    },
+    {
+      "id": "255e1c9d629bb0",
+      "title": "Tolu mikt in de Grolsch Veste op Ajax-record van Patrick Kluivert",
+      "category": "Wedstrijden",
+      "published": "2026-11-08T08:30:19+00:00",
+      "updated": "2026-11-08T08:30:19+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/tolu-mikt-in-de-grolsch-veste-op-ajax-record-van-patrick-kluivert",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "4f6993b6cad985",
+      "title": "Ajax Legends treffen legendes van FC Barcelona: zie hier de definitieve selectie",
+      "category": "Selectie",
+      "published": "2026-11-08T08:15:00+00:00",
+      "updated": "2026-11-08T08:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNamRfbzNpTnY5NWpTSG91Y0NYZktDUEZTTEdnSjFFenRBMFVaTkdVYm1RMm5ob3pIQWREd0FJNi1LSUJSUlNHeUR4TEx1R01JX09PVzF6UF82RjlXQ2NTT2VjOHdCTVhfOUQ1TjFTazFRTUFYRTloZElSbTNYLW41Zkw1cUdtamVDTFRXVjNCYk10WFVPYVVuaUllZ2w4Wk1xNFpqbTZNN1RQZ0kwSEhDN1BMUldhamh6LVJqQw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "030f8314c0122a",
+      "title": "Ajax gewaarschuwd: 'Weghorst is in topvorm en wil zijn gram halen'",
+      "category": "Overig",
+      "published": "2026-11-08T08:08:32+00:00",
+      "updated": "2026-11-08T08:08:32+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZFY5UE1STS1qXzJUT25PQ2h0dGZXRnFOX2pUUlJkOV85UWU3VnJUSlEzaFZIRVNxU3VuNTQ4U1dqMnlVVkVNMU9nbjVWVjVlNGZYZkh6YzVxNXh1dDlTTi1Oa2VRTThiWTBrUFAxSXB3eGxNOFdkb05NcTRpZlFqcHU2bnJLNG1DX1pPNC0yc2xTZw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "386d320da039e3",
+      "title": "Vermoedelijke opstelling Ajax: start Julian Brandt tegen FC Twente?",
+      "category": "Wedstrijden",
+      "published": "2026-11-07T07:31:00+00:00",
+      "updated": "2026-11-08T08:00:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFBrclRfRUZRaENETnRqWkRXczNoSF81cFU4ZmxaOERDaV9wWHphSXRPdFdMUnhSY2R6NEppeG5OLXJJakNRRnBtZ0VSMU9SQjFFM0k4enp5dE1KdUhGaF9CX2Jycy15ZGppdUJXRkQ5YU1nVnlrMlBSRlY0ODVhS0k0Vm16LUlpRi1JWVdXMUNvQkZtMmI5MVJ4TFpITlBBcy1IbmxFR3ZST0JzZ0dMNXYwNnpRSTJoeWdF?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3BYSUE4cGxuQTZPV0NWLUtNZHhPUllkN2RnTnVXRnZWWW8zZUxQUHdVV0lQM2dOOURaVzk2TWJoQk9WeEdjOGpCakhnQ2Y5X2x3RE9wQXR4OW9uSUd4YWZnZ0l3dUgtWXJsUHBqQW90dE1rWWQzSDFic0RfRF9sZGJrZGdTZTk0OElodVNTZHQyRVBxVW9JMEtrZWFtV01MdGc?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "7359dd715d5bc1",
+      "title": "Tolu koestert bijzondere band bij Ajax: 'Na afloop lachen en knuffelen we'",
+      "category": "Overig",
+      "published": "2026-11-08T07:56:00+00:00",
+      "updated": "2026-11-08T07:56:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156413/tolu-arokodare-voelt-zich-uitstekend-op-zijn-plek-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ffbfaab3b108ab",
+      "title": "Vermoedelijke opstelling Ajax: houdt Míchel vast aan opvallende variant?",
+      "category": "Wedstrijden",
+      "published": "2026-11-08T07:26:01+00:00",
+      "updated": "2026-11-08T07:26:01+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156058/de-vermoedelijke-opstelling-van-ajax-tegen-fc-twente.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "77c995f220b7e8",
+      "title": "FC Twente en Ajax treffen elkaar opnieuw in Enschede: historie belooft spektakel",
+      "category": "Overig",
+      "published": "2026-11-08T06:45:00+00:00",
+      "updated": "2026-11-08T06:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2Y4YTNiM1pPaU1ZOHNudml1SmNfeEpHbDlzMHJJZldLNDQyREZ5M0J1dkF1Ulk4ZXg5cEpjbGNrcWxnOE1uWmxpWU5wX1dxWGUwNEdMUlFHMEtfTnBUcUFMYWVpVG5JS2w3Ni1DczY3R2FXRkFzZVgweWdsRHo2bGN3UW5ETFhlM1dfNkZHUHI5b1pKVHZDZlZCRWZBVmJDdU1VbnNIT3BfWnB5MGk0dkZ5NU5COGtCcDF5X09CZk9TanM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "05da6034afd658",
+      "title": "Parool komt met analyse: 'De strategie van Ajax om PSV bij te benen is kwetsbaar'",
+      "category": "Overig",
+      "published": "2026-11-08T05:43:00+00:00",
+      "updated": "2026-11-08T05:43:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156200/harde-analyse-over-ajax-koers-lijn-van-cruijff-is-slecht-voor-het-verdienmodel.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ea47ed7a181d53",
+      "title": "Clubicoon wil geen hoofdtrainer van Ajax meer worden: 'Dat station is voorbij'",
+      "category": "Overig",
+      "published": "2026-11-08T05:24:00+00:00",
+      "updated": "2026-11-08T05:24:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156246/frank-de-boer-duidelijk-over-mogelijke-terugkeer-bij-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
     },
     {
       "id": "1b64bb97533b3d",
@@ -51,7 +414,7 @@
     },
     {
       "id": "fdee92d81473b6",
-      "title": "Ajax O19 knokt zich terug tot een gelijkspel tegen PEC Zwolle",
+      "title": "Ajax O19 knokt zich terug tot een gelijkspel tegen PEC Zwolle - Ajax",
       "category": "Wedstrijden",
       "published": "2026-11-07T23:59:57+00:00",
       "updated": "2026-11-07T23:59:57+00:00",
@@ -60,21 +423,6 @@
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3VDanZFUXdOMzdjWm5Wd1pHeDR6VURtUVQwS2tYT1Y4TFBNSzdubmZWd1l5b0tCS2ljcnFIODRNNmMxdjVLV21lcC1HRHJ2N2RoU0RtS0g0aTh4cXhnNmlmd0xsQUZDbDR6MXNjNHNyY2hXUXpZWDdhMVByRmNJNjNDbnZHckhjb1hwb2hvZVdkN3F1bmpN?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3435d1fe4dd87d",
-      "title": "Ajax-huurling toont enorme veerkracht met twee goals na gemiste penalty",
-      "category": "Transfers",
-      "published": "2026-11-07T23:04:00+00:00",
-      "updated": "2026-11-07T23:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUG1kd1dHR29GejJvbXpnSmVpd2tzNW1FX1lOa0d0TnFrbU43eFppY2hfazh5SDY0UWpFUlRoZWhIRlkyQUF2Rmpwc0dwbGRtWm5yLVdYdTg2aVdGSkRKMG9xMWlneGhYbWhOOWJYejNkU05FU2lwZWV5SXMtWG1LZGNPVlRRNjNiVjdWQ1h1M1hubUdqR0RIdFFJWVlKWEhvQTUwVVJXUDBpUGxGWlpXTVJ4QVMwbjFSNUxSdEozbi11Qlk?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -108,27 +456,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "386d320da039e3",
-      "title": "Vermoedelijke opstelling Ajax: start Julian Brandt tegen FC Twente?",
-      "category": "Wedstrijden",
-      "published": "2026-11-07T07:31:00+00:00",
-      "updated": "2026-11-07T21:30:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFBrclRfRUZRaENETnRqWkRXczNoSF81cFU4ZmxaOERDaV9wWHphSXRPdFdMUnhSY2R6NEppeG5OLXJJakNRRnBtZ0VSMU9SQjFFM0k4enp5dE1KdUhGaF9CX2Jycy15ZGppdUJXRkQ5YU1nVnlrMlBSRlY0ODVhS0k0Vm16LUlpRi1JWVdXMUNvQkZtMmI5MVJ4TFpITlBBcy1IbmxFR3ZST0JzZ0dMNXYwNnpRSTJoeWdF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3BYSUE4cGxuQTZPV0NWLUtNZHhPUllkN2RnTnVXRnZWWW8zZUxQUHdVV0lQM2dOOURaVzk2TWJoQk9WeEdjOGpCakhnQ2Y5X2x3RE9wQXR4OW9uSUd4YWZnZ0l3dUgtWXJsUHBqQW90dE1rWWQzSDFic0RfRF9sZGJrZGdTZTk0OElodVNTZHQyRVBxVW9JMEtrZWFtV01MdGc?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "67500b0e6ac3f7",
@@ -262,21 +589,6 @@
       "related_sources": []
     },
     {
-      "id": "ea47ed7a181d53",
-      "title": "Clubicoon wil geen hoofdtrainer van Ajax meer worden: 'Dat station is voorbij'",
-      "category": "Overig",
-      "published": "2026-11-07T14:32:06+00:00",
-      "updated": "2026-11-07T14:32:06+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156246/frank-de-boer-duidelijk-over-mogelijke-terugkeer-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
       "id": "44fcb6ab9dbf93",
       "title": "Duel in Enschede onder leiding van Kooij",
       "category": "Wedstrijden",
@@ -332,333 +644,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEw5SklxcXhSOGhydkNwN250c1BkSW1qV21ZTW1DZmNtOFdnc3R1a01XWXFvT0dYTEJuNDQ3S3Z4bzZpZWZkbDk2SXFJNUMxTUpmMjNwWUQ4c2puWVpWUmU5VF9aS2lnX1RvX3NRLWhiYU9oNDY5aWE0SEc1akZ3TzJ1b3dkeWRzU1BvVmZXcVgyRXd4T1FPaHlyOEl5ODN1bHdXejhtQktiN0dhX2QtNFRjdVRHdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "05da6034afd658",
-      "title": "Parool komt met analyse: 'De strategie van Ajax om PSV bij te benen is kwetsbaar'",
-      "category": "Overig",
-      "published": "2026-11-07T12:44:35+00:00",
-      "updated": "2026-11-07T12:44:35+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156200/harde-analyse-over-ajax-koers-lijn-van-cruijff-is-slecht-voor-het-verdienmodel.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ffbfaab3b108ab",
-      "title": "Vermoedelijke opstelling Ajax: houdt Míchel vast aan opvallende variant?",
-      "category": "Wedstrijden",
-      "published": "2026-11-07T10:36:00+00:00",
-      "updated": "2026-11-07T10:36:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156058/de-vermoedelijke-opstelling-van-ajax-tegen-fc-twente.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0fa4e8a8a0f6e5",
-      "title": "LIVE 14.00 uur | Ajax O19 komt op Sportpark de Toekomst in actie tegen hekkensluiter",
-      "category": "Wedstrijden",
-      "published": "2026-11-07T10:15:00+00:00",
-      "updated": "2026-11-07T10:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFdiLTJqeFo5ZDNxZ0VFUnFVTkgtLV9iMDY1OEQtSDQ2QUx6NjVwX0hTcmpXeHNIUmg4UUR5VnUzc1FOX0NGUGRJb0RwVGtTaTlmRzBiQ1gxV3duRVFzcXNFVXRQWDZJMmZKckRqb0REZnZfZzFnTmQ1RE5BTFJ6VHpWVFNZcmZfaVJZV0ZyTmJQdzlOcGlvRzZ1NVFsanFaNDBLbGRyZjNhTHl1SWh0dEQxTWxNZE1scGRfX3M0TQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a262d219bff5f3",
-      "title": "García reageert op rode kaart bij Jong Ajax: 'Niet slim, kan resultaat beïnvloeden'",
-      "category": "Jong Ajax",
-      "published": "2026-11-07T09:50:00+00:00",
-      "updated": "2026-11-07T09:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGtoNjBlM0xXTkxWRTN5NDN6VEFaYnlzMmJ2ZndmdWpzR0s1TU45NGxia3pndy0zem11bTJHR3ZYNEtWajZhVElKcmpsVE8yUDFEd1VnRkI1N3FudHUtRW96eURWeTBGOEJ5VjhWVmpXVEJEOUlCb0ZUcGlvNWY0eGZRV0NPNDN5V3Q0Vm16THhvU2pNYWNEeEhXYUFwc0tLRG4tWEwySHZ1allveFVXa0VycnQzOGxnSTVKaWlBQl9JTHdFRE02MlVn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e7a63aff46659f",
-      "title": "'Weghorst wil zichzelf laten zien tegen Ajax, aan iedereen die aan hem twijfelde'",
-      "category": "Overig",
-      "published": "2026-11-07T09:42:38+00:00",
-      "updated": "2026-11-07T09:42:38+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156128/ronald-de-boer-kijkt-uit-naar-weghorst-weerzien-met-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "abcc4a6111d166",
-      "title": "Gijp diep onder de indruk van Nederlandse topclub: 'Zijn echt op de weg terug'",
-      "category": "Wedstrijden",
-      "published": "2026-11-07T09:04:48+00:00",
-      "updated": "2026-11-07T09:04:48+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156069/van-der-gijp-onder-de-indruk-van-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "9d608c59a848d0",
-      "title": "Van der Gijp trekt duidelijke conclusie over Ajax: 'Ze zijn echt...'",
-      "category": "Overig",
-      "published": "2026-11-07T08:50:00+00:00",
-      "updated": "2026-11-07T08:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmIxN1dGTEZxZEY3WFBySHItLV9jZG03aEhvaVA2S01hd1BDSDBMbEU4N2F6UVVXTjlMNzU3eGpRN2V0dFk3enl1M3ZOM1FRR01nc01fOFA3MWxoSDktWGhQRzViSlhOSmJJMzI3SnpQb0Npb3YwMkJyN1dRdFdFbUoxQy1jOUpfYllOQmNoYjQ1R3BUdzlhaVpqYXNHOHBXTjdXMm9WbjZYdHpo?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "80f75b9db95fd4",
-      "title": "Het Parool analyseert: 'Financiële voorsprong van Ajax op PSV staat onder druk'",
-      "category": "Overig",
-      "published": "2026-11-07T08:45:00+00:00",
-      "updated": "2026-11-07T08:45:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOalhqcDBsR0ZsOWtCX2diNVV1b3FnVHBZYVRZNlZxTlpRSVh3YkJWcU5sTGI1OHFpVGNYbko1VVd3dmwtQmJ1ZVlGR1c3dVpMN2Exdkp5RTdYeW1MVk5ORjlnVlBHMk9TUG9GZGczcDFLZEc0aXNwcjQyNmk1aWw0NTFQakktOFJFakZzN0p6ZGpYYVIwY1pyY3d6NW03cExSanR2MmMxZzBrT3NPcWppdmNDbU5UeDk0RXJxakZ3Qi14Z1R5R1E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "77bdd9b39ebb01",
-      "title": "Zwak FC Eindhoven bereikt ongekend dieptepunt tegen Jong Ajax: ‘Ronduit schandalig wat we hebben laten zien’",
-      "category": "Jong Ajax",
-      "published": "2026-11-07T08:30:00+00:00",
-      "updated": "2026-11-07T08:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUtfY2U0bDBiYjlFaHBxbnlxWUk5dktvRk84NDd3UHR3azd5N29CaTdWZDFWQWJZcHptTG5ZNlpJZWdpeXpFdWtTdDZlLUJZaFEtUjFOT2VWZWhsWGJuSlNWaHkxSGl6X1RUc1RJQnAzRDExTGFHaTRfT2JoZEYzWXkyb19uWWpwYXpJb3BZMVA1RVNBQ2x6anIwcHN0UE5BaWdoVmxMNFgzOGxFSDZCd01DeXZRczI2NmdnU0RlU3JxSDlIeUdoR3BabVZUalFEQmdJeXZTZmpvWmZnU1Rfa2JHWWZFXzl3NlE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7fff1c01760630",
-      "title": "Frank de Boer eerlijk: 'Ajax? Nee, dat is een station dat voorbij is'",
-      "category": "Overig",
-      "published": "2026-11-07T07:55:00+00:00",
-      "updated": "2026-11-07T07:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzAxQnZxYlJTeldFbkZBSVpFX1NmRXJPbW5nSzMtd2hsMUZXUzU5RTdBS2VQNVV4TzBsVlM4R2Y2TjVQa3JHaWJaRzc2eTBHLXpQYTlVRkdOcDVZYWp0V2R3YXNaREh5RkQzLWg1WFN2c0tFNHA4VEppYVpUMzdEWjE2T01CbkF4bnd0Q0FZdlZPWjVaQTBPUGdyVk5MS3RwZUNYYkhoQTVRSFFBM1FnSmZpR3FuQQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "50f1fcf78fda7a",
-      "title": "De Mos blikt vooruit op FC Twente - Ajax: 'Hij wil natuurlijk zijn gram halen'",
-      "category": "Overig",
-      "published": "2026-11-07T07:30:00+00:00",
-      "updated": "2026-11-07T07:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDdKZ3haekVxNFJVajVTMFZoNkJkMjRsd1ZSUkctVGtOVWRtcG9FOGRwOU1BMTRaRnVrXzJfcGpqM1o3b2lqSUFGUWdmUlV0dURNSUFSbGZHNHZJY2s3azNvZ01WVEVORjVVLUFxcmJ5aUp2d3I5dS1XaG5TQ2R4bGhhTkdlR0c4UjRwU3A4alpEUDRsN25qV2h6bFZzMkpXY3kxZm95Z3FGWGtoOEE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "fd1a6a31510059",
-      "title": "Programma sportweekend: FC Twente-Ajax, F1-race in Brazilië en Atlético-Barça - NU",
-      "category": "Overig",
-      "published": "2026-11-07T07:16:01+00:00",
-      "updated": "2026-11-07T07:16:01+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRlBrQ3ZfNjBwQk9SYVJmdUpGbWQ4dnlubDhmdHFXWFNwbjN5NkVra2xGeGNKcjBMNjNvMFQ5ODNDWTNNR0dtQnF5bXJqalJ3UXJ3NmNiVWRPN2E3LVR4aTR4clZSclhMbjFqSUJrYmdxTVFQSWc1WFVpcGVkZ3Q3V3pTM2p6bi1RdEx6ZGNMU2NlWVpqZlB3N0NBTE1Hbko2dEc1b1VhaDI5SDZkSV9mcmJB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "1bd17cfd80c876",
-      "title": "De Mos waarschuwt Ajax voor 'plaaggeest' bij Twente: 'Wil beter zijn dan Tolu'",
-      "category": "Overig",
-      "published": "2026-11-07T06:58:00+00:00",
-      "updated": "2026-11-07T06:58:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156097/aad-de-mos-waarschuwt-ajax-voor-wout-weghorst-in-de-wedstrijd-tegen-fc-twente.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "8a7230794f93b9",
-      "title": "Naast Owen Wijndal staan nog twee 'gehate' spelers op bij Ajax: 'Er is leven na de dood'",
-      "category": "Overig",
-      "published": "2026-11-07T06:38:00+00:00",
-      "updated": "2026-11-07T06:38:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOUVIcEp0THlCeFpORnRaUTA4NDV2d1U1OXo3eXRQS1E1a04xSXIzRVVmSzRjdU1seFFhYXlXUjNEeUM1b1BIUWxMWW04cW1adUxqeWl2bXpJemJLQ2kxdnVuZjMwX3dZOEpKTTFEX29TWUI2QW1yU3dFS3FNS3NJYkpVVmhPODRoLVFkSE03TDFJM0tqUkx6QlhYTEI0SGhOWGxuTDZWRkV6dDczMXZVUnl6cmlYb19USlV3eUZiOWttVmxscFBvMGxtSC10bnplVVhF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "22b689eea5ebc5",
-      "title": "'Dat Owen Wijndal juist nu opbloeit bij Ajax, heeft ook met hem te maken'",
-      "category": "Transfers",
-      "published": "2026-11-06T11:45:00+00:00",
-      "updated": "2026-11-07T05:45:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156074/het-parool-kans-op-contractverlenging-wijndal-bij-ajax-klein.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWpWcFR2azlWejlkLTJvdzhMWHhzZUdvdVh2eDNRdVVSMnM2Qm9nb0dvWTM2TXNkWDNDeHpuc2dDN0lmSDVQeVZUOVZZMzZ5SHJ3bVNUVnlmb3hxMlBqSzR2S0hFdV9JcWZBUXljcUFyWDNkQTlROXRLNnhJby1YRjJtYVBxRVhfckI5WGJzRDZybWpVeU91Z0JVVVk1MkdpamdiSGc4UktuX2VRNXFtSndwSHkySTNjRXFzejRkbDEzUldpcjBqeQ?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "4ecff5323b4c4f",
-      "title": "Tolu doet opmerkelijke onthulling over Míchel: 'Ik ga hem zo veel laten stressen'",
-      "category": "Overig",
-      "published": "2026-11-07T05:30:00+00:00",
-      "updated": "2026-11-07T05:30:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2156036/tolu-grapt-over-bijzondere-band-met-michel.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f114c880a3d06c",
-      "title": "Algemeen directeur Geelen vertrekt volgend jaar april bij Ajax",
-      "category": "Transfers",
-      "published": "2026-11-06T13:07:03+00:00",
-      "updated": "2026-11-07T05:25:02+00:00",
-      "source_count": 9,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2638293",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbal International",
-          "url": "https://www.vi.nl/nieuws/ajax-en-algemeen-directeur-geelen-nemen-afscheid-van-elkaar",
-          "via_google_news": false
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZU10dGZMTkZKWWp3Tm14eWZnZEs5MTd5WlhYVkJOSjNOV1BpdVJkZnhxQTlfR19oMVJwcjdKdWJhczhBZDJKeFI4b093NnhmN0N1NEhCWXp4LVNLX2luSm5UOTdHMkpudWNFVHhaaTZIV1NRd0ZVbTNDMVh2MzhYMzh4aUdxT1ZTZVBRVlhB?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMU1VREJ6ZGE0Tko2ZjBhWVRKLVNrVXpEZlpubi0zcHZVQy0zU3FySFhnb3NrUlpOOUZINWJvTmdoVThXa3p0T19uaUtMNmthMnVXWXFOazJOREZwa09NQkhMNEUxckNEQW1IM3o5RG02RXBFcThRb3FYZ2drUk53V2RxLXBaZTQxbnFLWEQtZkZ6YTBKamZ3bHRB?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AT5",
-          "url": "https://www.at5.nl/artikelen/240897/menno-geelen-vertrekt-directeur-ajax-amsterdam",
-          "via_google_news": false
-        }
-      ]
-    },
-    {
-      "id": "782c5f2338381f",
-      "title": "Negentig minuten lang: FC Midtjylland - Ajax",
-      "category": "Overig",
-      "published": "2026-11-06T23:00:40+00:00",
-      "updated": "2026-11-06T23:00:40+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WekVZN1RaNUx4OTdOb1lvcXc3eG5wWmRIYjNTcmZ2OGJZS2k4cFJ4QkZfZjJzV2pPNUhrcE5xenVtWUxrOUxwaTlvQ2VoalA0UEZRUEJhdS1XYVA2ek9sTlBjQ1JqN1pjSjg0X0dzakVJZGRQMDBRVm1ZNnY?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a1d77b9db2951d",
-      "title": "Hoe Juventus Ajax in 1996 onttroonde en later in opspraak kwam door dopingverdenkingen",
-      "category": "Overig",
-      "published": "2026-11-06T22:59:00+00:00",
-      "updated": "2026-11-06T22:59:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVUdhc0o2Nmo0aFR2Z3hKYmJJLWpwTVpHZG9md3RUNWFBdUdsZkpCYVhmaTJFVF9pVWFvZE16V3lQUXNfUnAtbU9aYzlJTFVtZFF5NDB3UDYxbXYzNVlnYTl0SG5MQ09EMk1ORXI0cHFXc3ZXR3NuRG5hVHFLMll6NFE2dnJxeVVPcWN0VVpjTVBNS1V6VVBCMllQTmk5cEFvbU4za1FUY3JtZFhWMnJzYjBPX3BNOG8yeElrMHRVN0ZiRmtGQTNHMHloc0dGM0NMblNpWTdNTFZSV0E?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "7c9fc6ebe4bfe1",
-      "title": "Ajax-spits Tolu Arokodare: 'Op een dag ga ik hem vermoorden'",
-      "category": "Selectie",
-      "published": "2026-11-06T22:56:00+00:00",
-      "updated": "2026-11-06T22:56:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXdVOXRLUGFzelVrbXJlV2dPUEg5Wi13bE9QU2xrc202bVJTcnVENkMyUlB3REJvMmtEd2FfbEJCaVZfTEFzR19lRzF2OG1WemJRZnRLbFRJRUNFOTNHME5RMWNrTWhlb1ZTV0luLVVMSXoyRUpNMmVXdFNDbE5QZHBGOXg2QjE0OWtBcGxtNkM1RFplc2ZsMWJFSTFqQVpIUlFieFRKLTZkTjJtb3NUc2o4M18?oc=5",
         "via_google_news": true
       },
       "related_sources": []
