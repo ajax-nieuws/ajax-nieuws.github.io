@@ -1,18 +1,105 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T22:30:50.334201+00:00",
+    "generated_at": "2026-11-09T02:02:22.853591+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 123,
+    "article_count": 118,
     "event_count": 40,
-    "discovered_event_count": 102,
+    "discovered_event_count": 94,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 102,
-    "excluded_video_only_count": 64,
+    "excluded_video_only_count": 46,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e1d46ab9d07cb6",
+      "title": "AD Voetbalpodcast | ‘De VAR-ingreep bij FC Twente-Ajax is niet uit te leggen’ | Sport | AD.nl",
+      "category": "Overig",
+      "published": "2026-11-08T21:50:09+00:00",
+      "updated": "2026-11-08T23:51:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjdOT3NGWld6aUJpOUp3YUFpWmFpZXd3MlZYYW5SYXFYUWVaaUhsdUNuN1g2T2d5akw2NlY5b01JbVhHcWplbmNvSGlpUFdUSGdlZk11NjhMRF9YeGhEMmh5NXQtbmdiLWhvMmdhTmpFa0k0SnZ0NzBiYU1qQngwc2p2TlEtanJOUTNZSnpBVzhzdExiSVREaVRfNzd0MkV4bDRhbDNUUUhPaEt6TlNn?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3acabdf664cd5a",
+      "title": "Samenvatting FC Twente - Ajax",
+      "category": "Overig",
+      "published": "2026-11-08T17:25:42+00:00",
+      "updated": "2026-11-08T23:03:32+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BSnpTZ0lOMS05RlZfSUdGZ3phdzdUSGJ2bjFEUmdpc2lmeW1DVEM5WDR2b1Y1LU9FNXI0Yy1YRm1Pcm1VVEhUZVlXUk5IRVpTNGVpRlhuS1dVQjExcjRuVXhzZnVndURBcEZiclNrMDZQazRHR1E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95blMzRjRBd2VVZ09hNVN1Nm9VX2Npc1hjMnlLWEVXMUZEY3ZxdGtqdlJMTDVDanM5Qkd2cWhkNXRPekZhYklOWEhXRUxHdUU0akdBUkRvUzZtRGpzd2lwc0x3TUNmVnVfVEk3YWxfc3ZCZ2IwYkRib1JZWVA?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "f089255d7bd713",
+      "title": "Negentig minuten lang: FC Twente - Ajax",
+      "category": "Overig",
+      "published": "2026-11-08T16:32:00+00:00",
+      "updated": "2026-11-08T23:03:30+00:00",
+      "source_count": 2,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjZ0NzRGdXNHWHJiNjQyMnFySTNNejdpWHphQUtSZjU3T0lLaTZseFo2YV91SUQ3R2pwWmpfemVfaF9OTm0xX2o4d3FEaWp0eTF5cUUySHpydkpmZVk0VmVzc3FnLTF1cWppTnlQZ2F6SEpraGZBN2xNSjZhMmtlX1V5R1c?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Voetbal International",
+          "url": "https://www.vi.nl/nieuws/propper-baalt-van-karakteristieke-goal-tolu-negentig-minuten-lang-gedomineerd",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "3f5cd26a373e75",
+      "title": "Perez kritisch na FC Twente - Ajax: 'Hier heb je er achttien van in Spanje'",
+      "category": "Selectie",
+      "published": "2026-11-08T22:59:55+00:00",
+      "updated": "2026-11-08T22:59:55+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2156753/kenneth-perez-twijfelt-aan-niveau-sondre-orjasaeter-na-duel-met-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fb83b9411d5f80",
+      "title": "Perez ziet beide keepers uitblinken bij Twente - Ajax: \"Voetballen geweldig mee\"",
+      "category": "Selectie",
+      "published": "2026-11-08T22:55:19+00:00",
+      "updated": "2026-11-08T22:55:19+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVdKOUNLMnpCUElCdU5Ga0gtVVYxc0RieW9zRGdGZHgwODdVZWZaQWZ3NUVpZUJFMTBmeEZiay1TOHlva3hHaEtNM2ZVYnZENUhpeDhDQlVYc1FZRDFtazVwY2NwQVlzWEVGMW1KODQ5bzhrMV9QZG1MTm4tdEZTYmZVcXRrMFF6NElSQTBBdTVlY1E5RVEw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "6de8d5f210a955",
       "title": "Perez ziet terugkerend patroon bij Ajax: 'Drie keer op rij is geen toeval'",
@@ -25,21 +112,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2156738/perez-vol-lof-over-doelpunt-tolu-bij-fc-twente-ajax.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e1d46ab9d07cb6",
-      "title": "'VAR-ingreep bij FC Twente-Ajax is niet uit te leggen'",
-      "category": "Overig",
-      "published": "2026-11-08T21:50:09+00:00",
-      "updated": "2026-11-08T21:50:09+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDRiTkZPQ2ROVGx2RlFFTGR1V19rbkRMM3I5TWNmNUdxS0hmeU9yNUJpV1JqelU1YlkyZFloZ2Q0bmxpbUxyMlIzT0dVX0R0Nl9jQ21lS2RmSjJkRkNOc0swQmozV0tKVnIzLXRlbFZPLWdYMDN3QUI3bngxTkozZ2lDb08zOU1fZ2R2aTdEaC1ucXNNQURLdEJXT2E3YS04?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -135,7 +207,7 @@
     },
     {
       "id": "5d87b6732170d6",
-      "title": "Yves Bissouma komt met duidelijke boodschap na Twente - Ajax",
+      "title": "Yves Bissouma meldt zich na Twente - Ajax op Instagram met boodschap",
       "category": "Overig",
       "published": "2026-11-08T19:44:28+00:00",
       "updated": "2026-11-08T19:44:28+00:00",
@@ -144,21 +216,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWI3c19URkkwSVpBMlVaaExwdzd5RlFyX3lSdG0yWXc1VU14b2prVkY0MUpUa0VPclBSVGwxMHBydW9nclZyTG02UkluNHVlcElzQUxsb0p1U2lDTFZsQmYtLXNtS0k0X0VWaXpTMF9pNkk0YlcwakE1VzZXSlRnem9KR0VCbDE2UzYwOXFrb3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "27aac7920a4c8e",
-      "title": "FC Twente strafte het schrijnende verval van Ajax wél af: twee pijnlijke cijfers maken het probleem duidelijk",
-      "category": "Overig",
-      "published": "2026-11-08T19:24:24+00:00",
-      "updated": "2026-11-08T19:24:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzYyTVlUM2dDYWg4WmdBV2phU1BjTFIyY0k1eC0xMk1oV1JsdW1VZndUSHhjb3JjbEdpSkR4OWlGWnp4ZHlVMl9RZHhNOVZHRjlsbTMxZVBWbTZ0ZEdrenhzN1VGd09BOWVYS3RfeXRVRkptUjlveDkwbWdXZlREenNpYVhsdGtHRmg4eGxtY0tSUllBb1JnVjBXVVF1Yk9pOEJCajJQdktON1hOVFdZcjVTNEFES2NKajhGSExmNEVDWTh1MUM0d3kwUHBGVnA1bVltMTZDVl9RX3dB?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -275,7 +332,7 @@
       "title": "Programma, stand en topscorers eredivisie | Koppositie voor PSV: dit is de voorsprong op Feyenoord, Ajax, FC Twente en AZ",
       "category": "Wedstrijden",
       "published": "2026-11-08T13:16:00+00:00",
-      "updated": "2026-11-08T18:30:00+00:00",
+      "updated": "2026-11-08T18:30:48+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
@@ -379,36 +436,6 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2156647/weghorst-vertelt-over-bijzonder-onderonsje-met-tolu.html",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c481f868643ee0",
-      "title": "Samenvatting FC Twente - Ajax",
-      "category": "Overig",
-      "published": "2026-11-08T17:25:42+00:00",
-      "updated": "2026-11-08T17:25:42+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95blMzRjRBd2VVZ09hNVN1Nm9VX2Npc1hjMnlLWEVXMUZEY3ZxdGtqdlJMTDVDanM5Qkd2cWhkNXRPekZhYklOWEhXRUxHdUU0akdBUkRvUzZtRGpzd2lwc0x3TUNmVnVfVEk3YWxfc3ZCZ2IwYkRib1JZWVA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ca13728803cf1a",
-      "title": "Joey Kooij pakt eigen collega aan en onthult inhoud gesprek met VAR tijdens FC Twente - Ajax",
-      "category": "Overig",
-      "published": "2026-11-08T17:16:00+00:00",
-      "updated": "2026-11-08T17:16:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR3VfaWFVOTNEbFU4Sjhrb0VqVDNxSzNOVk9kdGJFRGdHelFMMC1BN2xDNzJhbFdCN0E1UUxhNnM3emFaS09FekZkdnc1X1hlSGlTMndQa0I2enNwcGMzNkhzdVRnTUpuUUg3Y1VHd1FDdDlCS0k2NmpCOXpTay1UV2NFaEV6bHQwOXhrUGhBbV9pNkdYMVhLY1FYeFd6dFJEMjlXVFV4b0U0eVBqQ2ZzeDdhQTZwVEE1UG1FUXZLVEVRN21QbGVBZEVqMklSbGZYN09rQkprOWI?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -542,7 +569,7 @@
       "id": "e72fe7fd242a10",
       "title": "Joey Kooij laat van zich horen na megablunder bij FC Twente - Ajax",
       "category": "Overig",
-      "published": "2026-11-08T16:45:00+00:00",
+      "published": "2026-11-08T15:23:00+00:00",
       "updated": "2026-11-08T16:45:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -624,21 +651,6 @@
       "primary_source": {
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2156616/bounida-zeker-over-titelkansen-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "e42ed409f41ca7",
-      "title": "Pröpper baalt van karakteristieke goal Tolu: 'Negentig minuten lang gedomineerd'",
-      "category": "Overig",
-      "published": "2026-11-08T16:32:00+00:00",
-      "updated": "2026-11-08T16:32:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/propper-baalt-van-karakteristieke-goal-tolu-negentig-minuten-lang-gedomineerd",
         "via_google_news": false
       },
       "related_sources": []
