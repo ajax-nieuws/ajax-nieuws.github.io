@@ -1,38 +1,68 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T20:03:32.432075+00:00",
+    "generated_at": "2026-11-13T01:10:19.914570+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 68,
+    "article_count": 62,
     "event_count": 40,
-    "discovered_event_count": 57,
-    "source_count": 12,
+    "discovered_event_count": 53,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 60,
-    "excluded_video_only_count": 23,
+    "excluded_paywall_count": 44,
+    "excluded_video_only_count": 26,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "8d512b3a35bbf3",
-      "title": "Nonke: de droom van Vurnon Anita donderdagavond in première",
+      "id": "347f3e735c2c82",
+      "title": "Tolu vergelijkt Ajax met Nigeria: 'Daar zit een wereld van verschil in'",
+      "category": "Wedstrijden",
+      "published": "2026-11-12T22:12:14+00:00",
+      "updated": "2026-11-12T22:12:14+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2158294/ajax-spits-tolu-wil-zich-laten-zien-bij-nigeria.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "cd94754cfa9130",
+      "title": "Abdellah Ouazane nieuwe ambassadeur van de Ajax Foundation",
       "category": "Overig",
-      "published": "2026-11-12T13:34:25+00:00",
-      "updated": "2026-11-12T19:00:00+00:00",
+      "published": "2026-11-12T15:14:01+00:00",
+      "updated": "2026-11-12T20:39:49+00:00",
       "source_count": 2,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWN0TVpENUF6WGlkNlhtOHFzUFpWTWVMOERsR3JPdVNWNXVBeVFtZF9rNmc0djU3UElIMEIxbTRycExPY2ttOE1wd09rRXN6cnN5MGtpQXFuM05UdExXWEpBcUk0eUN6SV9lbFN5QmxYSEtLZVh4dnBvUmpGYVRZcmk5dk1aRWg5TXJDNjJaMklFODA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUm40Z2h0QWhXQVpvLXkyOF93Zm50bVVqV3RENHJDeWNta3k1WHl4U3ZCOTB6QjhvczVIQno5VFFHNDdNN1dyUXA2YzktNnVUMVlseTAxcVo3UU1qRmQ5Rm1rYjlEck9MT2doYmVMUWNvN1FZYXZEWXZ0aU9XRHppWmhMTGJ1YkVrbHNJcW9nR0IzQjA?oc=5",
         "via_google_news": true
       },
       "related_sources": [
         {
           "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWU2b240QlRnZktWeUxxeVd0R3F4eGxnZHRacUE0cm1sMUNBYXBhQXM5QXUyM0N2c18xQkpuMGJiTGlTTjdaV3BBTG1MWlRrTXpMQjVJUU55MllBN0pLdHlaenFqREdTYVdPYWNLeVB4UmRJSW5BclhyNmdXdndQUWJPeDZUTXJSYzhyZ2pSOF9KeWs?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFRqNW13RFRyMExDY3RaYVVWWnFRbmxpazZSc2h1cmN1V3hqV0Y3ckFDclM3ZnZHcFY3VkVuSkd6cktoT3RkSlRyWHVVdW82OTV2bk5sSUpad3Y5NDd4XzBiSHM3U0drUUJ0Wm5mVU1fVTFnbUJYYjMzT21xLUhTUmU4Mlo5TlpRc2gzUGJjdXJDVTBERzFnanRxTkFsdWc2TVdKWUMwMGRBQmVaNXpKcVNUd3lfY0tLYUlKMEZTb3Z0cG9WU05qekdBbzFrNUVNQXhPMk8tQy1PUy1BLUZ3?oc=5",
           "via_google_news": true
         }
       ]
+    },
+    {
+      "id": "8d512b3a35bbf3",
+      "title": "Ajax TV | AJAX DOC: NONKE | De Droom van Vurnon Anita 💙",
+      "category": "Overig",
+      "published": "2026-11-12T19:00:00+00:00",
+      "updated": "2026-11-12T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWU2b240QlRnZktWeUxxeVd0R3F4eGxnZHRacUE0cm1sMUNBYXBhQXM5QXUyM0N2c18xQkpuMGJiTGlTTjdaV3BBTG1MWlRrTXpMQjVJUU55MllBN0pLdHlaenFqREdTYVdPYWNLeVB4UmRJSW5BclhyNmdXdndQUWJPeDZUTXJSYzhyZ2pSOF9KeWs?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
     },
     {
       "id": "07e4bb7bfbf081",
@@ -123,27 +153,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "cd94754cfa9130",
-      "title": "Abdellah Ouazane nieuwe ambassadeur van de Ajax Foundation",
-      "category": "Overig",
-      "published": "2026-11-12T15:10:47+00:00",
-      "updated": "2026-11-12T15:14:01+00:00",
-      "source_count": 2,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUm40Z2h0QWhXQVpvLXkyOF93Zm50bVVqV3RENHJDeWNta3k1WHl4U3ZCOTB6QjhvczVIQno5VFFHNDdNN1dyUXA2YzktNnVUMVlseTAxcVo3UU1qRmQ5Rm1rYjlEck9MT2doYmVMUWNvN1FZYXZEWXZ0aU9XRHppWmhMTGJ1YkVrbHNJcW9nR0IzQjA?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFRqNW13RFRyMExDY3RaYVVWWnFRbmxpazZSc2h1cmN1V3hqV0Y3ckFDclM3ZnZHcFY3VkVuSkd6cktoT3RkSlRyWHVVdW82OTV2bk5sSUpad3Y5NDd4XzBiSHM3U0drUUJ0Wm5mVU1fVTFnbUJYYjMzT21xLUhTUmU4Mlo5TlpRc2gzUGJjdXJDVTBERzFnanRxTkFsdWc2TVdKWUMwMGRBQmVaNXpKcVNUd3lfY0tLYUlKMEZTb3Z0cG9WU05qekdBbzFrNUVNQXhPMk8tQy1PUy1BLUZ3?oc=5",
-          "via_google_news": true
-        }
-      ]
     },
     {
       "id": "8b4a2355f41251",
@@ -359,9 +368,9 @@
       "id": "dda73d6949c28e",
       "title": "Mirakel in Malmö: Ajax door in Europa door twee goals in slotfase, PSV uitgeschakeld",
       "category": "Blessures",
-      "published": "2026-11-10T20:24:00+00:00",
+      "published": "2026-11-11T20:22:04+00:00",
       "updated": "2026-11-11T21:24:45+00:00",
-      "source_count": 3,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "NOS",
@@ -372,11 +381,6 @@
         {
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3BZVjd4RGZXR2lXQXlfWjdteEd4VUw4cjhiMjFWUkdvTG1xSVlTYXBwOXY4TjRhMFVwOFJFN3FUSEkyTlRjYV96UmVpeERlNEp2UnFOSF8zQlZNMzJuZDV1UXBqNUtHQkVNOGtmYnMtNXJfXzBGSXczZ29kd19uTFhhbFJDWnUxSGlFdkNBTkdVanlwb0ZMUExxRFNRd3lqQVE?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEpWazF4WDJsc2s1cHZJcDVITTJyZG1LZ3QzT2RCd2dVNE1jZ2dqR0VLblZsRElyYk4zaFA4cVF6bmRWUElCUURGQTh1aV82anN5WnJueHgwU0dvRERFVkZfVzd2cGZjaFhXaWlYLTEyb3JxWGFfQVQ2RkttN0lIQkxiUFV6eHVYdjBfYnpjaW4tTjdxdWcxQjhWZHpyUGRTME1WbVlRY3RycFFsRmJNUXNzUDNrUQ?oc=5",
           "via_google_news": true
         }
       ]
@@ -397,34 +401,25 @@
       "related_sources": []
     },
     {
-      "id": "ef752ab659ecc6",
-      "title": "Ajax Vrouwen plaatst zich als enige Nederlandse club voor kwartfinale Europa Cup",
-      "category": "Ajax Vrouwen",
-      "published": "2026-11-11T20:20:00+00:00",
-      "updated": "2026-11-11T20:20:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHZ0YkVON2h5a2VBZFl5b0NROUhnNjFaUzhacmRjM2sxb09zV0tXZ0lNdFhaYWhIcS1nLTVnRkhRczdpR05MV0syWHZtRklvcWhhTmhwTXBCYWR1LW8tcjdtQW1Dcm4xZTJ6SldRNHFyOWpWTnF1SlZuai1XT3ZRVk82VlBsdXEwb185ek5LOWFsSWxyS0dTMzlTbU5uR1lUM3FRNHFrU0hkalc3ZG50dGdCMVNJRDF0NU9oWHpzYmUzV292bXVLd0FB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "0ff1352128d062",
       "title": "Ajax Vrouwen alsnog door in Europa na spectaculaire comeback, PSV Vrouwen uitgeschakeld",
       "category": "Ajax Vrouwen",
       "published": "2026-11-11T19:58:00+00:00",
-      "updated": "2026-11-11T19:58:39+00:00",
-      "source_count": 1,
+      "updated": "2026-11-11T20:20:00+00:00",
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "AD",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGRHb2FDVGlsREtMdERrTkpXZ0I5UHJ3ZmNYSWNWWEN6UklJWG1SeU9lSU1iMnpTc09WdFlkNWVpS1ZJN1N6MmtvNEhFUXlONG5LNjF0S1NDQTJ3c0s5UHBoZ0d6c3NtSU9MRzJnN25xbzJOUV83aFVSZVZhcW1XLTVTenpMMTh5Z2YzeWJBd0cxT3Fqck1RV2E1NjJHNE9mMDNWTWplVklWdzQ0MTEtdFBQNV9hMEJnaVMyTVZXRQ?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHZ0YkVON2h5a2VBZFl5b0NROUhnNjFaUzhacmRjM2sxb09zV0tXZ0lNdFhaYWhIcS1nLTVnRkhRczdpR05MV0syWHZtRklvcWhhTmhwTXBCYWR1LW8tcjdtQW1Dcm4xZTJ6SldRNHFyOWpWTnF1SlZuai1XT3ZRVk82VlBsdXEwb185ek5LOWFsSWxyS0dTMzlTbU5uR1lUM3FRNHFrU0hkalc3ZG50dGdCMVNJRDF0NU9oWHpzYmUzV292bXVLd0FB?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "d85765980f2431",
