@@ -1,22 +1,208 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T08:06:18.399314+00:00",
+    "generated_at": "2026-11-13T16:31:21.905117+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 60,
+    "article_count": 52,
     "event_count": 40,
-    "discovered_event_count": 52,
-    "source_count": 12,
+    "discovered_event_count": 47,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 61,
-    "excluded_video_only_count": 14,
+    "excluded_paywall_count": 44,
+    "excluded_video_only_count": 13,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "74168c9dc91984",
-      "title": "Bouwman hoopt op primeur met Ajax: 'Ik ben zelf nog nooit kampioen geworden'",
+      "id": "6371fdfb5af846",
+      "title": "Megafan van Anton Gaaei met tattoo van Anton Gaaei ontmoet Anton Gaaei",
+      "category": "Transfers",
+      "published": "2026-11-13T14:30:00+00:00",
+      "updated": "2026-11-13T14:30:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AT5",
+        "url": "https://www.at5.nl/artikelen/241018/megafan-van-anton-gaaei-met-tattoo-van-anton-gaaei-ontmoet-anton-gaaei",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "993a069f8141bd",
+      "title": "Reiziger verklaart oproepen 'ongelukkige' Jong Oranje-klant: 'Zie de kwaliteiten'",
       "category": "Overig",
+      "published": "2026-11-13T13:54:42+00:00",
+      "updated": "2026-11-13T13:54:42+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2158467/michael-reiziger-verklaart-de-keuze-voor-joeri-heerkens-bij-jong-oranje.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "49802e6298d170",
+      "title": "Reiziger verdedigt opvallende keuze voor Heerkens: 'Wij weten wat hij kan'",
+      "category": "Overig",
+      "published": "2026-11-13T11:10:00+00:00",
+      "updated": "2026-11-13T13:46:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/reiziger-verdedigt-opvallende-keuze-voor-heerkens-wij-weten-wat-hij-kan",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV19ZTDNGWnladG5uUkxYVTNMczkwWFNGOHBkNnB5alY5WmpjcHYyOFhBR1NVMDFmUTBDNTYyd2N0U1JXVlROUk9tUWlqWHBNYmdzeUNTVmZyWDN3MzJlaE1XSmF6S1lJVVZnTWREYXpFZmV6NzREczFlM2QwRnBycEJQTmREUlZQNXVMcU1DRldaV3FKZEJYaUdsZXU?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "dc75f90ee914fb",
+      "title": "Blind doet Ajax-boekje open: 'Ik stond niet achter die miljoenentransfers'",
+      "category": "Transfers",
+      "published": "2026-11-13T13:11:00+00:00",
+      "updated": "2026-11-13T13:11:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2158487/danny-blind-was-het-niet-eens-met-de-transfers-van-itakura-dolberg-en-mcconnell.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "d763b1a96f83b5",
+      "title": "'Ik speelde bij Ajax, maar wilde niet weg. Drie dagen later was ik verkocht'",
+      "category": "Transfers",
+      "published": "2026-11-13T12:45:00+00:00",
+      "updated": "2026-11-13T12:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2158489/demy-de-zeeuw-doet-ajax-boekje-open-ik-wilde-niet-weg-drie-dagen-later.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a2acb8a2b1065c",
+      "title": "Bouwman onderstreept meerwaarde Tolu",
+      "category": "Overig",
+      "published": "2026-11-13T12:16:00+00:00",
+      "updated": "2026-11-13T12:16:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56140/Bouwman-onderstreept-meerwaarde-Tolu",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "36de8ce5112dd5",
+      "title": "De Zeeuw: 'Speelde bij Ajax, wilde niet weg; drie dagen later was ik verkocht aan Spartak Moskou'",
+      "category": "Transfers",
+      "published": "2026-11-13T11:15:00+00:00",
+      "updated": "2026-11-13T11:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYnZXaGVFZFNqWi1mR0Jjb0ptUUR3M1NMcTNpZjRxUmlFZlRhUjByZkdkYWlaVXNvV1JsaHZZWFNVelNhdjZUZXhOWWN6cEVWbmMxSVlycDlYR1c4c3BhVjVMQ2NhNHVVeGR2RG5oTWgtdEFPYmNTVmlDR1UwbGZKVDZYV2Z6dlBDTUgxblNjbzhfQ2lNTVc1cTA5TFJ0TnBSYV9wWEtJb096d0pUMUlrV0dKandYMjd3Y3lCX1RkamZzcThNUWNkT2FoUXo1M0xLb1JiUHNNN1lobG8?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "95e89f724c222b",
+      "title": "Ajax-spits Tolu slaat alarm over eigen cijfers: 'Werk ik hard aan'",
+      "category": "Selectie",
+      "published": "2026-11-13T11:12:04+00:00",
+      "updated": "2026-11-13T11:12:04+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2JMWEtCQk5zQmtxS2RoVVNqZ3ozdUhvMXo4aTRVdVdkdmhzelNOTHBIR290dkxtajlvRm1lanFvMGxkUWtEaUliblhlQ0taaF81Ymx3aTRlZ0pRdi1yTG5iaHVZb1l2NmJKNl8xREdiSTVNVkhBcTNZTXl5VDRiZkJEeUNWNVlQYkY3T1pjS2VTYUpUQUdUaHQ5QUxkX0ZTd3J3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "64bd1988e5616b",
+      "title": "Legacy Match zondag live te volgen via Ajax Radio",
+      "category": "Wedstrijden",
+      "published": "2026-11-13T11:06:23+00:00",
+      "updated": "2026-11-13T11:06:23+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3R6d0NnclBnN2lwNTdwTzZrMHpsT25oM2RtWm02bHhLTmVvMENlSUFuR0VTeHVFa1F5VlVlOUtlaXpKamRQUk1uMWMxeDUxNmNfajI0ZDRhSE80R1o1RUlSRjI3Tlo5SDFhblNOWEVZZjdNd3JDUlZVcmhvZ3RZYlJ1ZF9DalU?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "0ad43e898f69af",
+      "title": "Dit is het speelschema van Ajax en FC Twente in de Conference League",
+      "category": "Wedstrijden",
+      "published": "2026-11-13T10:36:26+00:00",
+      "updated": "2026-11-13T10:36:26+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9zZmRDVHBzaEZHMF9lS1B2d1VFMER5WmQ2SUtHUFUwZDRGREVyZ1BBR0ZyUEVCTm55MXdrSmZzT29WMTIzMVFXMjREV2o1RFNwMk1lQWtVa2RZeDhCbVVYUFhLSHVSQnh3MS1tU05oOHEzSFVPcS1LaHkzU3JaaFdFNlczMzBIZ1R4c0lTX0NBWlY0V0JLY0N1cjFlOEctR1EyUG53WXRlMGh1XzNKbHlqb2ZsdG9sZnc?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "32d172d9c6a5a8",
+      "title": "Terugkeer bij Ajax niet uitgesloten: 'Het is zeker een optie'",
+      "category": "Overig",
+      "published": "2026-11-13T10:31:28+00:00",
+      "updated": "2026-11-13T10:31:28+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekxPajJpcTl1SlpNRjJ2Wlc4dThWRGVvSXJWMjFCQmZCYjBVMWh4XzdnblMwU2Y4N1VKZUI0Q3YydWNyM1N4dUE5TkJYNFptWS02eER3YVpYZlhfY002MDNSNnAzQVppYUdLZjhYWTJHSW9XZkJPY1FOWUwtQ3dENkVBdzU1ZzBLckstMmNnNWRvdXNKNU9Wem1uNzB3UG9CbHNvYmZqTGFIYXRDU3dUS2F3?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "9a41967079e9e3",
+      "title": "'Ajax is het risico gaan lopen een club als Manchester United te worden'",
+      "category": "Overig",
+      "published": "2026-11-13T08:39:53+00:00",
+      "updated": "2026-11-13T08:39:53+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2158209/ajax-gewaarschuwd-voor-united-scenario-een-been-in-verleden.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "74168c9dc91984",
+      "title": "Bouwman is niet bezig met Engelse interesse en legt focus op Ajax: 'Nog nooit kampioen geworden'",
+      "category": "Transfers",
       "published": "2026-11-13T07:25:00+00:00",
       "updated": "2026-11-13T07:25:00+00:00",
       "source_count": 1,
@@ -44,6 +230,21 @@
       "related_sources": []
     },
     {
+      "id": "a14a9a96ef2dca",
+      "title": "Bouwman duelleert veel met Tolu op trainingsveld Ajax: 'Leuk als je daarna nog even iets kan zeggen'",
+      "category": "Selectie",
+      "published": "2026-11-13T06:40:00+00:00",
+      "updated": "2026-11-13T06:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdzNaVV8zVlpkZzZjcG1tVGNYbnZUM0s1U3FWbnVMbWFsNGpXSUVKMnRwVzFrNU5HT29ibnNtbzlGZ1NNVVBGUFRldXNSQnpFTDhwZDQwSU15TktERXFleDhub0NtUFNTQ2FjWlhxX011WkRORzVoMmJ5TGJBdl9mRDFHMWpMNXQzOFJ1M3g0OXE0RXJoRjJPQWlhREtzQ1djUXRxNGdhcmc1dXVPSEtWV2Jxc1JuU3BCQlRDdlVfb2duZ0d1bDBJZHZLVXZuYTJBTDk2aU1SNlQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "51e4c45bef7af8",
       "title": "Voormalig jeugdspelers Ajax opgelet: reünie vindt plaats op 23 mei 2027!",
       "category": "Jeugd",
@@ -59,8 +260,8 @@
       "related_sources": []
     },
     {
-      "id": "14108534dcf2fd",
-      "title": "Aaron Bouwman (19) breekt door bij Ajax: 'Ik leer van duels met Tolu' - NU",
+      "id": "65768e106b8000",
+      "title": "Aaron Bouwman (19) breekt door bij Ajax: 'Virgil van Dijk is mijn voorbeeld' - NU",
       "category": "Overig",
       "published": "2026-11-13T05:43:36+00:00",
       "updated": "2026-11-13T05:43:36+00:00",
@@ -68,22 +269,7 @@
       "official_confirmation": false,
       "primary_source": {
         "name": "NU.nl",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmxzQkFzV3VZSjNiR2hXY1VfZGlhVzdWOHRvVzB6NDBlbEZfN0Q5UFBMd1pHTGUwOGlPNm5oRi12MVlYNVRTU3RteGs4UXF3U3BtbjlTYlN6UTg1TE9oYXJlNG5iX0U2U0FERkpnRG82bVJiMlloeUo4dVNxSkxXYnZTVnVRZGxXNmZieXdTc2d2QXhfNlJMRG11eWFjekRKZ2ZUZkhn?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0ad43e898f69af",
-      "title": "Dit is het speelschema van Ajax en FC Twente in de Conference League",
-      "category": "Wedstrijden",
-      "published": "2026-11-13T00:52:33+00:00",
-      "updated": "2026-11-13T00:52:33+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWW9zZmRDVHBzaEZHMF9lS1B2d1VFMER5WmQ2SUtHUFUwZDRGREVyZ1BBR0ZyUEVCTm55MXdrSmZzT29WMTIzMVFXMjREV2o1RFNwMk1lQWtVa2RZeDhCbVVYUFhLSHVSQnh3MS1tU05oOHEzSFVPcS1LaHkzU3JaaFdFNlczMzBIZ1R4c0lTX0NBWlY0V0JLY0N1cjFlOEctR1EyUG53WXRlMGh1XzNKbHlqb2ZsdG9sZnc?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTTRXdnhlVUJ6Qmpycnp2ZWdtblBUUjdxcno2UFJVdTZWSExsQno4REU2dF9rWHdOM0YtblAtXzdLM2REck8tZGNvTHdPdHZLTURES01yRlNZcTF4LWJOTHhBaWJuMUZ5eVMyODR3b0doVmw4V195UEdTNFdWRWd6SUVGT2NLWFg4ODJfRGdfS1NMTXlpaE0xOUNmRnhnZkUzcTNualFBa2pnN09xRGd3?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -119,25 +305,19 @@
       "related_sources": []
     },
     {
-      "id": "cd94754cfa9130",
+      "id": "74260d79c7263e",
       "title": "Abdellah Ouazane nieuwe ambassadeur van de Ajax Foundation",
       "category": "Overig",
-      "published": "2026-11-12T15:14:01+00:00",
+      "published": "2026-11-12T20:39:49+00:00",
       "updated": "2026-11-12T20:39:49+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUm40Z2h0QWhXQVpvLXkyOF93Zm50bVVqV3RENHJDeWNta3k1WHl4U3ZCOTB6QjhvczVIQno5VFFHNDdNN1dyUXA2YzktNnVUMVlseTAxcVo3UU1qRmQ5Rm1rYjlEck9MT2doYmVMUWNvN1FZYXZEWXZ0aU9XRHppWmhMTGJ1YkVrbHNJcW9nR0IzQjA?oc=5",
         "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFRqNW13RFRyMExDY3RaYVVWWnFRbmxpazZSc2h1cmN1V3hqV0Y3ckFDclM3ZnZHcFY3VkVuSkd6cktoT3RkSlRyWHVVdW82OTV2bk5sSUpad3Y5NDd4XzBiSHM3U0drUUJ0Wm5mVU1fVTFnbUJYYjMzT21xLUhTUmU4Mlo5TlpRc2gzUGJjdXJDVTBERzFnanRxTkFsdWc2TVdKWUMwMGRBQmVaNXpKcVNUd3lfY0tLYUlKMEZTb3Z0cG9WU05qekdBbzFrNUVNQXhPMk8tQy1PUy1BLUZ3?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "99e7ad1092ada4",
@@ -185,17 +365,17 @@
       "related_sources": []
     },
     {
-      "id": "9a41967079e9e3",
-      "title": "'Ajax is het risico gaan lopen een club als Manchester United te worden'",
+      "id": "0f9e9f4c55c7b9",
+      "title": "Sneijder begint aan eerste trainersklus: oud-Ajacied duikt op bij vierdeklasser",
       "category": "Overig",
-      "published": "2026-11-12T17:59:36+00:00",
-      "updated": "2026-11-12T17:59:36+00:00",
+      "published": "2026-11-12T17:25:00+00:00",
+      "updated": "2026-11-12T17:25:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2158209/ajax-gewaarschuwd-voor-united-scenario-een-been-in-verleden.html",
-        "via_google_news": false
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjlTTTlmY08xSVhzTW9fclZ5bzBlRXg2RXhFQkhmVjFlb2c3MFctcEt3QUlFTHd1X2ZTT2lCdll6OE5IQTBoRXh4UlhmRVNtaHJEVDlHaElvaUk2Q3VTeFAwN1l1ZmlKQm1xR0tWMTRqYW5aUlZZVzhPS2lkNUFXaF90RlJVQi0zdDc1MkNsWUVuTl9lQWdDYi04UEx0eXhvbms5T1pDaS1JQnRQWUhJNnhsZnVzXzFFSVZZMmlB?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -426,222 +606,18 @@
     },
     {
       "id": "dda73d6949c28e",
-      "title": "Mirakel in Malmö: Ajax door in Europa door twee goals in slotfase, PSV uitgeschakeld",
+      "title": "Twee late goals redden Ajax in Europa Cup, PSV uitgeschakeld",
       "category": "Blessures",
-      "published": "2026-11-11T20:22:04+00:00",
+      "published": "2026-11-11T21:24:45+00:00",
       "updated": "2026-11-11T21:24:45+00:00",
-      "source_count": 2,
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2639062",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3BZVjd4RGZXR2lXQXlfWjdteEd4VUw4cjhiMjFWUkdvTG1xSVlTYXBwOXY4TjRhMFVwOFJFN3FUSEkyTlRjYV96UmVpeERlNEp2UnFOSF8zQlZNMzJuZDV1UXBqNUtHQkVNOGtmYnMtNXJfXzBGSXczZ29kd19uTFhhbFJDWnUxSGlFdkNBTkdVanlwb0ZMUExxRFNRd3lqQVE?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "871fca216dd11e",
-      "title": "Highlights Malmö FF - Ajax Vrouwen | Magische ontknoping in Malmö",
-      "category": "Ajax Vrouwen",
-      "published": "2026-11-11T19:41:15+00:00",
-      "updated": "2026-11-11T20:43:41+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT1ZPSzB5SjU4VnliN1JQR1lrbmR0bjBrZzhpUlV4LVA2VXFVTkdULUNqaTdDdGZVWlNyZnFKZjgycVZTaFJHTnFWNGFjdldiSUNVLTNIQTRwTHg2cl9fYXFraU9fTEowdTNITmhPOW9oMk4tMHBaZDRkcy1tblIzN0pPc3Z4LWJnRDVjOS1HUEJmNHBCSEtEOUhB?oc=5",
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3BZVjd4RGZXR2lXQXlfWjdteEd4VUw4cjhiMjFWUkdvTG1xSVlTYXBwOXY4TjRhMFVwOFJFN3FUSEkyTlRjYV96UmVpeERlNEp2UnFOSF8zQlZNMzJuZDV1UXBqNUtHQkVNOGtmYnMtNXJfXzBGSXczZ29kd19uTFhhbFJDWnUxSGlFdkNBTkdVanlwb0ZMUExxRFNRd3lqQVE?oc=5",
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "0ff1352128d062",
-      "title": "Ajax Vrouwen alsnog door in Europa na spectaculaire comeback, PSV Vrouwen uitgeschakeld",
-      "category": "Ajax Vrouwen",
-      "published": "2026-11-11T19:58:00+00:00",
-      "updated": "2026-11-11T20:20:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGRHb2FDVGlsREtMdERrTkpXZ0I5UHJ3ZmNYSWNWWEN6UklJWG1SeU9lSU1iMnpTc09WdFlkNWVpS1ZJN1N6MmtvNEhFUXlONG5LNjF0S1NDQTJ3c0s5UHBoZ0d6c3NtSU9MRzJnN25xbzJOUV83aFVSZVZhcW1XLTVTenpMMTh5Z2YzeWJBd0cxT3Fqck1RV2E1NjJHNE9mMDNWTWplVklWdzQ0MTEtdFBQNV9hMEJnaVMyTVZXRQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHZ0YkVON2h5a2VBZFl5b0NROUhnNjFaUzhacmRjM2sxb09zV0tXZ0lNdFhaYWhIcS1nLTVnRkhRczdpR05MV0syWHZtRklvcWhhTmhwTXBCYWR1LW8tcjdtQW1Dcm4xZTJ6SldRNHFyOWpWTnF1SlZuai1XT3ZRVk82VlBsdXEwb185ek5LOWFsSWxyS0dTMzlTbU5uR1lUM3FRNHFrU0hkalc3ZG50dGdCMVNJRDF0NU9oWHpzYmUzV292bXVLd0FB?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "d85765980f2431",
-      "title": "Ajax Vrouwen draaien het in slotfase volledig om en overwinteren in Europa",
-      "category": "Ajax Vrouwen",
-      "published": "2026-11-11T19:48:00+00:00",
-      "updated": "2026-11-11T19:48:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56139/Ajax-Vrouwen-draaien-het-in-slotfase-volledig-om-en-overwinteren-in-Europa",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "450c9f85c8d619",
-      "title": "Louis van Gaal 'bespioneerd' door Peter Bosz: 'Ik reed naar Ajax en daar ging ik stiekem...'",
-      "category": "Overig",
-      "published": "2026-11-11T19:25:00+00:00",
-      "updated": "2026-11-11T19:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOTM0ZUVWRDhyNmlldkp0akJyZFUwNGZoUTQtQ0pfLU9QOFU2SjhJc0VOdU9ETmNncF92NEk5SjJONnVTbU13WnZvTGR0WGRfX1lqT00tMjRZZm1kYmpNVTlsQXNSdDJ6UXhiS3dGbHVRdFhxYTlqUDd1SXlucXBTY2dfYU1oaTh1Z2Z6aHgzZ3dsa1lhV0ZaWl9neXJhdG1vWEo1X0ZZREZ2cG4zSkgwYXhzX3JpSEVQMGd0RDJxd0kyYVhsdFlDN3MxT0JaUkd2eWJjbQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "96396b596d9553",
-      "title": "Ajax-talenten winnen allemaal tijdens EK-kwalificatiewedstrijden; Ayyildiz scoort",
-      "category": "Wedstrijden",
-      "published": "2026-11-11T18:55:00+00:00",
-      "updated": "2026-11-11T18:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZC1idkw5UkItcU5YaWpPY2Z3T05sdGx6aTFOUzJPWHZaZ0VheVVuNEFaS3lKQ185TkxzUVNnQndFTkR0bTlqTlp6cTlqb2J2UVlWLUJiY1Y5enJjcmNuUy16c0ZrSk9kTlcyUlZncTN2SVJ2d2lrb21MX1VfVkNPd1lvVzl3WVRFUzA5TkxsMG1oallzOWRJ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bbcec25ed54ac4",
-      "title": "Verhuurde Ajax-speler maakt naam in België: 'Dan kan je niet degraderen'",
-      "category": "Transfers",
-      "published": "2026-11-11T17:58:00+00:00",
-      "updated": "2026-11-11T17:58:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2157826/ajax-huurling-don-angelo-konadu-maakt-indruk-bij-lommel-sk.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "18a401bcb35ad3",
-      "title": "Sneijder hekelt ex-Ajax-spits: 'Hij is knettergek, kom op joh, overdreven'",
-      "category": "Selectie",
-      "published": "2026-11-11T17:52:57+00:00",
-      "updated": "2026-11-11T17:52:57+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2157823/sneijder-over-weghorst-na-actie-tegen-ajax-hij-is-knettergek.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "95e7fd7549b394",
-      "title": "Ajax-primeur aanstaande? 'De weg ligt open'",
-      "category": "Overig",
-      "published": "2026-11-11T15:50:00+00:00",
-      "updated": "2026-11-11T15:50:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTVJZDV5U2dCLUEyS2d3SkRybHZZX0ZSejFLQzVoS205X2RNSzlqQ1B6djJkMnBVYkgzUWxKQ2l2Q1RzZkFvbG1QN0Z3ek1YSURJdXkteHVvVF9HdEpDYU1zZXp4X3llemJDbzJ1eVlNOXQwb0o4T3RieWtqbFBic3k3a1lHbDBGV3pRQmJ0aEdGOWRxcnNRWV9R?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0e6a1924ff4cf2",
-      "title": "Ter Stegen over contact met Barcelona tijdens Ajax-periode: 'Hem spreek ik niet'",
-      "category": "Overig",
-      "published": "2026-11-11T15:04:05+00:00",
-      "updated": "2026-11-11T15:04:05+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2157783/ter-stegen-sluit-barcelona-terugkeer-niet-uit.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "42d46daf0e2886",
-      "title": "'Ajax verlangt dit torenhoge bedrag van Barça voor Youri Baas'",
-      "category": "Overig",
-      "published": "2026-11-11T14:26:32+00:00",
-      "updated": "2026-11-11T14:26:32+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEFWNFYtRXlZZlF2MHpxaHI1bTJZUHVHajd6UmdyWkkweUtGZXowZ2FHUF9zcDE3Y1JTRFdaVTFTd0ZfQmswMTlWQ0hQUEFFZ19KX0hlWVVJUVZSQ0ROU1lnR1dkcml2SU5rRDZwWHlrQTY2Y1hlQlVNaWtFcTYzX2ZXb1JRcklpZ2VLMVlJd1MtWV9pVkFYQjJrSklFdzV4RnU4VXpvU0p4ZkpvOU1FUWJUUXI?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "08f6c551d6406f",
-      "title": "Ajax-huurling Konadu sluit terugkeer niet uit: 'Het kan dat ik terugga naar Ajax'",
-      "category": "Transfers",
-      "published": "2026-11-11T13:21:42+00:00",
-      "updated": "2026-11-11T14:04:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODNQMzZPUVotcHY1elJmNVd3MWxHNDJpQXVudzhPaUZPYXdiNmNPOG56cm95U3N6R01wNlh5YS1TTXh6UFpFcUMtU093YlpNMjFCNWMyNk5pcXBadUc1dUxzV1dONnl6SUl2TXk1MGlYbFoxTlJDd0MtR2Vhd244NVAwRzVFYW85UlRjM1lvNVZxSUl6MXhBRmpEZHBJek9VUkpNUkhCYXd1R0RnZkRvcl9NNmVPX3ktdXd3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTl4OUF1VHpSdzhpM2dKQnJXOVBQajM2U0psT0h5RHhYa1lLXzZqbEFnaDc5REhiZjVFcXFDQjZtbkZLZzE5WFNzNXRyLXlmNXZpUGhmb1JKV2RRNE9YZXpVRFkyTWR6eTJsT3FNYXNmQV9ONWtBUDFsNU9xM1hUc1drVG8?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "e300ec471d0fdd",
-      "title": "Ajax zoekt nieuwe algemeen directeur: 15 mogelijke opvolgers van Geelen",
-      "category": "Transfers",
-      "published": "2026-11-11T13:15:00+00:00",
-      "updated": "2026-11-11T13:45:00+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2157694/ajax-zoekt-algemeen-directeur-15-mogelijke-opvolgers-van-geelen.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVFk4RXdwUFRFVXhudXZmRmlJSkFsWWxnOFZIakVqc0QwMXhJU3BqRTV3VUY3aW9iem5pNUt2UU9lNGVpUC1VTURpVjdRS1l3YTZzQm5ibHEwZGdhX3hCc2JPZnVQMlp3OWJYenZYYUFjN0syUWw1aTY2TXpILVpzVzZmSzZiNWxPWjNkbk0xZDlJOTJBM1pPTGs0eFRFMlJDdDNDMkhqal9mTHh2WjEzUDJ2UHA2X1Q0TmlhT1Ffd2VuVEpTZDlLbFlEYzRPOHlLaFZWVmdUb3A?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
