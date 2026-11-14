@@ -1,32 +1,38 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T22:14:16.452008+00:00",
+    "generated_at": "2026-11-14T02:29:57.010534+00:00",
     "generator": "Ajax Nieuws collector 1.7",
     "article_count": 55,
     "event_count": 40,
-    "discovered_event_count": 54,
-    "source_count": 12,
+    "discovered_event_count": 53,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 48,
+    "excluded_paywall_count": 41,
     "excluded_video_only_count": 14,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "f5067d3c3d6b02",
+      "id": "86d10ca57c14f2",
       "title": "Bouwman moet schakelen bij Jong Oranje: 'Bij Ajax niet gewend om dan door te stappen'",
       "category": "Overig",
-      "published": "2026-11-13T20:55:00+00:00",
+      "published": "2026-11-13T19:28:00+00:00",
       "updated": "2026-11-13T20:55:00+00:00",
-      "source_count": 1,
+      "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUXFzOTgyS3pkZ2lMdFE5ZEw0dkVRYVlBQWdXX05FTkFDd2tSX3Q2Q3pPQU5CYldPUDludnJXbXZ5OWRJM3pSM2dpUjV4T2d5ZTVKM05EOVRoUXlWS29HV0VOaVU1bzNHcUdZeWVIR3J6T0tXZHB3QnBnN05hdmtJY1E2MXhmd1NncTk1ektfX2h1elAwNXBIN3FrczJ1TXpxd2ZUTWRlcVN1eEtZRUdxR0s0WkZDTEdJNXFENEFiOUNGT1U0UUMxY1Q0RGtfZw?oc=5",
         "via_google_news": true
       },
-      "related_sources": []
+      "related_sources": [
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56141/Janse-en-Bouwman-met-Jong-Oranje-dichtbij-EK",
+          "via_google_news": false
+        }
+      ]
     },
     {
       "id": "1cb7c2a3ecbf22",
@@ -74,31 +80,16 @@
       "related_sources": []
     },
     {
-      "id": "a5096e2ae9f15f",
-      "title": "Gaaei hervat groepstraining bij Ajax en voelt zich nu echt 'thuis' in Amsterdam",
-      "category": "Selectie",
-      "published": "2026-11-13T19:00:00+00:00",
-      "updated": "2026-11-13T19:00:00+00:00",
+      "id": "be36a212fb09f4",
+      "title": "Invaller Tolu ook trefzeker voor Nigeria",
+      "category": "Overig",
+      "published": "2026-11-13T18:50:00+00:00",
+      "updated": "2026-11-13T18:50:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcG1pZFBRYXJWQjkyTnNRSllIa1R6RWJxaFZON2hNYW1KLVZKNWtzb050M2hWQzVJdDZZcG5EOWhWUXh5ai1OYl8zMEg3VUh2clo3X2wwX1lxdUQzcFA4M1lZSTdkbk54SFhZQ2Z3ZXV6VG5YVWFBVzlVTTMxbWlCbkxuU1l0UUtVUmt3RmxVNnZSSmJBV3QxX2NiN3d3UEl6WWRxellWU0hXZVFtVmR5eWhmMTZhY1A4dEE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "b278b58cb17cb6",
-      "title": "Ajax-spits Tolu op dreef bij Nigeria, PSV'er Santos scoort voor Kaapverdië",
-      "category": "Selectie",
-      "published": "2026-11-13T18:47:58+00:00",
-      "updated": "2026-11-13T18:47:58+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "NOS",
-        "url": "https://nos.nl/l/2639369",
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56142/Invaller-Tolu-ook-trefzeker-voor-Nigeria",
         "via_google_news": false
       },
       "related_sources": []
@@ -239,6 +230,21 @@
       "related_sources": []
     },
     {
+      "id": "7a801d1b9db698",
+      "title": "Rondom Ajax: UEFA licht technisch hoogstandje van Ouazane uit",
+      "category": "Wedstrijden",
+      "published": "2026-11-13T16:35:00+00:00",
+      "updated": "2026-11-13T16:35:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa2NMbHk3S0pPajZKXzRfekNwTjhBX3lEOVNTMVhlalQtU0FMMG1HMkJ5MDFPcTlvWXRqeDFGVkZwWVJJNEVKNHgybG1reVh1aFFjUV9tUXltMVdMWm9RZS1EWkJVbTF3Ulc4N0FIUjBVMUNXN0FESHdEZW5idFYtUTc0dTRTNHdweWQyU0lscGRfRHprS2JqempNN1dpcXBiWVpiT292cFVLUnIzUlphdg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "6371fdfb5af846",
       "title": "Megafan van Anton Gaaei met tattoo van Anton Gaaei ontmoet Anton Gaaei",
       "category": "Transfers",
@@ -250,21 +256,6 @@
         "name": "AT5",
         "url": "https://www.at5.nl/artikelen/241018/megafan-van-anton-gaaei-met-tattoo-van-anton-gaaei-ontmoet-anton-gaaei",
         "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c6ab298b161877",
-      "title": "Voormalig Ajax-trainer Steijn keert terug als hoofdtrainer bij ADO Den Haag",
-      "category": "Overig",
-      "published": "2026-11-13T14:25:00+00:00",
-      "updated": "2026-11-13T14:25:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWpxRUtHaGJMYmlveDlleHVzZVpzUUw2Mm9GTVRlSUxSLVctaHBJeUJGVG84RjdOZGtZZXpGYXdMbTg2UDVxX1NHMy01eTBfcFJzM1RmQ2ZWS21WdjRDdUd6V1BnRkRRTDc2MS05Z0lGeHNKSkdkMnpMWmxTclZKcnVuZ3Q3WWZKaFlwc1R4SlJiTGxWeEQ5bHJxUEVoNXVfR0k3SWpkelBSdHZWZ21hTDU3WTdlRHg2dmc?oc=5",
-        "via_google_news": true
       },
       "related_sources": []
     },
@@ -331,6 +322,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2158489/demy-de-zeeuw-doet-ajax-boekje-open-ik-wilde-niet-weg-drie-dagen-later.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "eab607a14183c2",
+      "title": "Selectie Legends FC Barcelona bekend: meerdere oud-Ajacieden; verder geen grote namen",
+      "category": "Selectie",
+      "published": "2026-11-13T12:40:00+00:00",
+      "updated": "2026-11-13T12:40:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT0wtNkY0Ym9lWm9WRDJCN1hRdHQ0dlFoRWt0Z1dWbzJCV1U3XzByRjVLUjFSc0lyQ2hQNWNKUUdRYlFrTjFfSG9uRXN3U19JOTdPTnJnOVNicnVNRktEQ0g0bHREaEFqbXFWWEJ2WTFROGN6a2VhNnh2Yk9qQXNyWWZ6ZTdHYkNKbmpTQUFKd0lhaTdNazVZVTExTUkyVEZXeHAzQ19IM1BPTUFfSTJYazNCdzFhcFZXckZqa29iOW04eS1EZVE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -405,21 +411,6 @@
       "primary_source": {
         "name": "Voetbalzone",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekxPajJpcTl1SlpNRjJ2Wlc4dThWRGVvSXJWMjFCQmZCYjBVMWh4XzdnblMwU2Y4N1VKZUI0Q3YydWNyM1N4dUE5TkJYNFptWS02eER3YVpYZlhfY002MDNSNnAzQVppYUdLZjhYWTJHSW9XZkJPY1FOWUwtQ3dENkVBdzU1ZzBLckstMmNnNWRvdXNKNU9Wem1uNzB3UG9CbHNvYmZqTGFIYXRDU3dUS2F3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "41e08e4177767b",
-      "title": "GVB test omstreden metrowijziging tijdens Ajax-Barcelona: metro 53 rijdt dit weekend niet",
-      "category": "Overig",
-      "published": "2026-11-13T10:03:00+00:00",
-      "updated": "2026-11-13T10:03:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1FERXJBN1J2ZGx6dDBFNWVobWZXZkZDWXZSTXZhWkZYZ201TjdqeC12NGVyblVlX25wdk5lV3hmNHlsNlYxV1lvUWhhMElNWHNCWE5LMUhPWVZZVlFFMFNOVDAyTWpIbXBpelFzVzRPbWEzdzdVcVAxcHc5ekV5ZFAxMkdPMEJ4MVdpU28zN3A5eU5lVGpYOGhMYTF0RUE1YnpXQ3ZQMVFldjIxTDdUZkVXVFZIamlBeG1VbFZlYXZTOW9h?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -615,6 +606,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjlTTTlmY08xSVhzTW9fclZ5bzBlRXg2RXhFQkhmVjFlb2c3MFctcEt3QUlFTHd1X2ZTT2lCdll6OE5IQTBoRXh4UlhmRVNtaHJEVDlHaElvaUk2Q3VTeFAwN1l1ZmlKQm1xR0tWMTRqYW5aUlZZVzhPS2lkNUFXaF90RlJVQi0zdDc1MkNsWUVuTl9lQWdDYi04UEx0eXhvbms5T1pDaS1JQnRQWUhJNnhsZnVzXzFFSVZZMmlB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "f9f1dd2aa3ffa5",
+      "title": "Tolu evenaart Kluivert met 13 goals in 14 duels: is 20 miljoen voor Ajax nu een koopje?",
+      "category": "Transfers",
+      "published": "2026-11-12T17:00:00+00:00",
+      "updated": "2026-11-12T17:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnhmS3RSblkybUVOWHJCaEJrZF9vN3lJOXBaQlNXOFVLdjZDbU11NklEck9CNUF3MnMzNUJlc1lFZ0dRc3dDRjNzWVN6S0VpWGQzU0xRRmRiWU4tbVRyRFJpWGY2UXEyRHJieEVKZXhqU1A4MjJManJvb3FIWmRNRUFvMTRMSWJnVTBKZ2lzODlBTnlTMUxJa1lCYmFGSlFnWjJlYzkwaHdSZTZPRUlyRFNTQVViY1dTQkw0SQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
