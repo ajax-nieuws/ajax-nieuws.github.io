@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T00:25:57.286380+00:00",
+    "generated_at": "2026-11-15T07:15:07.818094+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 65,
+    "article_count": 63,
     "event_count": 40,
-    "discovered_event_count": 60,
+    "discovered_event_count": 56,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 41,
+    "excluded_paywall_count": 55,
     "excluded_video_only_count": 10,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "8665bf165ca1bd",
+      "title": "Laporta roemt band van Barça met Ajax: 'Vandaag zet Frenkie dat voort'",
+      "category": "Overig",
+      "published": "2026-11-15T06:55:00+00:00",
+      "updated": "2026-11-15T06:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2158972/laporta-relatie-tussen-ajax-en-barca-gaat-veel-verder.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
     {
       "id": "5fd18dad608402",
       "title": "Ajax-verdediger Wijndal ziet misverstand: 'Het niveauverschil is niet zo groot'",
@@ -104,21 +119,6 @@
       "related_sources": []
     },
     {
-      "id": "3c6da231733e61",
-      "title": "Blind diep onder de indruk van Ajax-talent als middenvelder: 'Is daar fantastisch'",
-      "category": "Selectie",
-      "published": "2026-11-14T20:15:00+00:00",
-      "updated": "2026-11-14T20:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWNyQS1QSllteDhUVFRmZUFlTFUxNHRHbFlQcG9ZQXRfb2RXamw5WUVCRFB4WFRHUVYyN1FjQjZMdXhraS1NX1c1bHRoQmNkS3BGWVJoXzdveDNGS18xQ3hjWmhnYjh4Z19WN245dl82YmNFcXc2VlFvTlAzQm9LX3VLeWdxWHRjX2dHMzJKdFROTXA5R3BPVXN1TF8tTzNVb284alNTTkRtaHFoXzlXZERmWDJlWUVfSHZCYjJndDAxNEdyTWNfeW9B?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "d2bbc9bfff9701",
       "title": "Blind voorzichtig positief over Ajax: 'Je vist in groep spelers waar iets mee is'",
       "category": "Selectie",
@@ -200,7 +200,7 @@
       "related_sources": []
     },
     {
-      "id": "d9518c1f41c127",
+      "id": "83d7cb8daeb929",
       "title": "Kritiek op jeugdopleiding Ajax: 'Kunnen er meer uithalen met betere trainers'",
       "category": "Jeugd",
       "published": "2026-11-14T18:55:00+00:00",
@@ -364,7 +364,7 @@
       "id": "b6aed1cb160b8c",
       "title": "Nigeriaanse bondscoach verbaast met lof voor Ajax-spits Tolu Arokodare",
       "category": "Selectie",
-      "published": "2026-11-14T12:27:00+00:00",
+      "published": "2026-11-13T17:52:18+00:00",
       "updated": "2026-11-14T12:27:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
@@ -622,16 +622,16 @@
       "related_sources": []
     },
     {
-      "id": "f9a60e3eabff63",
-      "title": "Zien: Ajax-spits Tolu Arokodare maakt wereldgoal bij Nigeria",
-      "category": "Selectie",
-      "published": "2026-11-13T17:52:18+00:00",
-      "updated": "2026-11-13T17:52:18+00:00",
+      "id": "2398e4cd1c44eb",
+      "title": "Jan Joost van Gangelen onthult gesprek met Ajax-speler: 'Ik dacht: jij bent wel héél aardig'",
+      "category": "Overig",
+      "published": "2026-11-13T17:45:35+00:00",
+      "updated": "2026-11-13T17:45:35+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjdQRzY0cVpkdHdHQUFSVzZuc1BQYjEtLVo1UXdqYVBvcDlJaFJKN1UwNzV5bnFIVDQ3TDdiY1cxUTZDbkZzVmhSWW5lcEh6ZU12NVpmT2pTTmdZVzJhSVlCVC04dy1VVDhyS0RXLS1VU2Q2WEsxUkZkUl9wX2ZGOGdwZ3F1XzNLVHRUNTZBWkExV0YyWkpwWFRoREhKY2Q3NVFsU3l2ckk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdW53SVQ0WHVMbDZUN3hud2VPSVYtVHZtdjE0ZXBQVkR0SHdGZmcyV3VuN1FYc3V5QkhENGpDZXc4dTQwX3RnakFyWWgxT0FXNGpoclI3UGRfN0ZfX0NfejBKcVJsc3NnNS1Ta3N1YmlqaEttX1dXZWlwZl9uOTVtNWVOT3pxanBqdWdzSHI5THgzYm1zeHNQbldhLUtkUjE5RGJjQ3g1OWxhd25yeTNHc1A3MGprbUNzUHdYc3JnWlE5aTFuYzRxQllxblpxMTg?oc=5",
         "via_google_news": true
       },
       "related_sources": []
