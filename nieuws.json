@@ -1,29 +1,177 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T18:46:03.944072+00:00",
+    "generated_at": "2026-11-18T01:21:42.208993+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 67,
+    "article_count": 69,
     "event_count": 40,
-    "discovered_event_count": 59,
-    "source_count": 10,
+    "discovered_event_count": 57,
+    "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 29,
-    "excluded_video_only_count": 38,
+    "excluded_paywall_count": 60,
+    "excluded_video_only_count": 37,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "b751d59f371159",
-      "title": "Ajax Legend had 9 jaar geleden niet kunnen meedoen: 'Ik woog 150 kilo'",
+      "id": "79fdafa2a10d1b",
+      "title": "'Taylor kan binnenlandse transfer maken: bod van 40 miljoen wordt voorbereid'",
+      "category": "Transfers",
+      "published": "2026-11-17T11:40:00+00:00",
+      "updated": "2026-11-17T22:55:00+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2159833/juve-wil-kenneth-taylor-en-bereidt-bod-van-40-miljoen-voor-goed-nieuws-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHZBM0dUTzJZVXB2R2dtRTRxUFFZVV91ZFJYOWdMTWg0and2Uk9FU0RkU3hab3RIcXUtZW1uSmlvV0trQWVqYlA0VkMtbTVRQkFDNlp6OFN5SWlBMnlaaTYxUzBjVmhCczFlT0UwWU5QUlNId2g3THFmZUNIOEFhbzFMcm5KYWlBY3BaOGx6dFd4YUZyRlBCblBUUXZDYk5Ielc2NTFaLUh4c1lIRlJUR2N2LUduWDRVT2c?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjRRZWlQSEkzV3Axb0NnN0J0Q1dBYTNnMnJYNVZhMEUzQUlQcHVkLTF5ckxZZlpVdEx3UVdsT0N2OFhyVDZzd1MtUnhPLTZyLUk1cWhfSUNic1hYbjlVRmxmSDVTZUpqNVdBQ2pRYW9tRFB3clpHRnhLc0JVel9IRlJoZ2s0dw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "9ec5db3d1058d3",
+      "title": "Ajax-talent Ouazane scoort en is jongste doelpuntenmaker ooit voor Marokko",
+      "category": "Wedstrijden",
+      "published": "2026-11-17T20:48:24+00:00",
+      "updated": "2026-11-17T22:44:38+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbkVvTFFaODRNdVhhSkxsYU9Eb0JNZllHSEZzSGZVT0R3M3J4RG93TmNTSkpteVdvQ1VEdGp6MV8yX0dpUEF4Slk0NmtmZDFNU0d3V2VaNzN1SURZbkM1NkJFVWpJbTUyZFFleUU1UXdRbk9ad0R2dEh3WEJkM2pxRkh4QWlnTUtzQnFyRkQ3TFBld0E?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaUhGN0JqVzl4MlMtdnhXV1BaLWY2NVVxeFVLT3dNeFhfNDNqQVdqMlN5SWF0X1EybG1mdDQtT19CU0pOeTFCalU0WURFZGdsVjlvQ2t2Z3B4VHJRQ1B3U05aVS1tYTczbGpUSE1wVGhMVGFQUHc0c09uRVQ4cFI2UmlPSkNXRlJxTUdMaHZqTk9XOElyZjB5S2VsUWgzbUhkLS1NMjBycTJUeEIwY3l6Y05vRl8wMnJZMy1Rb184Y1p5eUZOWTR4djRsRWh5NHJsbVQ4Wg?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2160012/ouazane-imponeert-bij-basisdebuut-voor-marokko-met-fraaie-treffer.html",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "30a8f3a7b454ef",
+      "title": "Ajax-talent Ouazane beleeft droomavond met eerste interlandgoal voor Marokko - NU",
       "category": "Overig",
-      "published": "2026-11-17T17:55:36+00:00",
-      "updated": "2026-11-17T17:55:36+00:00",
+      "published": "2026-11-17T22:35:47+00:00",
+      "updated": "2026-11-17T22:35:47+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUtBUDhtU251SzhLbVZWREYwQUU3Q0hCdWRKTUgyLTI3dE9mUnExSzFaSm5KM1Vsa2pqUklHTWEyZjFYcGVUNk5lc1otbm1RczJ6aGU4M05RVFZ1VHlVNUk0U1dzZng2TlNjTi1JMm1JM0FENUtObGh6cTlLdmRwUmxpb09rVGV0S1BHZVByQmV3TFJ3RVVWbWx1bE5zSk9aMThzZ0dvYUdGUi04S0F2MEpvUjZ0QQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "69b46e06879fc5",
+      "title": "Sneijder pissig tijdens duel Ajax Legends: 'Vond dat helemaal niets'",
+      "category": "Overig",
+      "published": "2026-11-17T22:30:39+00:00",
+      "updated": "2026-11-17T22:30:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2160034/sneijder-pissig-bij-ajax-legends-vond-dat-helemaal-niets.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "1e75adeaaa5943",
+      "title": "Ajacied Ouazane schiet Marokko bij basisdebuut naar eindtoernooi Afrika Cup",
+      "category": "Selectie",
+      "published": "2026-11-17T22:27:39+00:00",
+      "updated": "2026-11-17T22:27:39+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NOS",
+        "url": "https://nos.nl/l/2639946",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b82795ba634dbb",
+      "title": "Sean Steur: 'Bij Ajax wordt wel iets gedaan, maar in Engeland nog specifieker'",
+      "category": "Overig",
+      "published": "2026-11-17T20:31:33+00:00",
+      "updated": "2026-11-17T20:31:33+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
         "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkVMRFJvZXdnUkRyUDNQUl9ReTZPd0t0YlA4aDI2ZnR0UjNwNk1YaVEzb2h0Qm9BQnhJeDhoM0kwdUlNTUlUMGxCQjlMdy03cG53YWNSY0xYZWkwYnpEeURHY1NxM214U3JPTi15TEVKc0dZdTRNM2pqZi1kVjZORWU3VHRfSm93LThwdThZZ2lOaGZ5?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHVveHVYWl82LUJxdC11ZXNHc3lQTGhVSGFMamhoakNxYlpwMVBGNG9STDIzWW1NMVFQT0UzeEtVQ0xVME4zMFZ4ZzVZMFBTcHM4UGpZWW9rNmlRNFZUMzZ0NEhiWndpRktUT3pjTm9CdmhEbkktQm5jNE5lc0E3cEhOY080VW5wazdBbmwzeHdSVXFBSGJ1UVpMeUh0M3d3U3g5UGpWdjRWUQ?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b6f39ce56f28df",
+      "title": "Ajax-talenten maken indruk tijdens vriendschappelijke zege Oranje O18",
+      "category": "Wedstrijden",
+      "published": "2026-11-17T18:55:00+00:00",
+      "updated": "2026-11-17T18:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVS1pa21BUThFT045UTkxeXlSYmJfNDY4NDY3b1NEVkpLdndaUkZCR0c2VVV2OGMtRTBNeFg5bG5yb0lTRUplT0RHcTdBWFhmNHNqb2ZOLWFvRkhQUjFtM29GYVgyTWowQ0RPNGZFWGplZWZuQUhRYmFnM1pCbWpfLUt4WlFYSVhXT29saXdOdHdQTXRXcEM5VDJ5c1NxZ1FtVmFWc0ZCUUpCZDFLWnY1eUwwNzI5a3dtMzY4Sg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "b751d59f371159",
+      "title": "'Ajax Legend' woog 150 kilo: 'Trainer zijn is moeilijk, gezondheid was in gevaar'",
+      "category": "Overig",
+      "published": "2026-11-17T17:55:36+00:00",
+      "updated": "2026-11-17T18:48:04+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2159972/ajax-legend-mido-woog-150-kilo-mijn-gezondheid-was-in-gevaar.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkVMRFJvZXdnUkRyUDNQUl9ReTZPd0t0YlA4aDI2ZnR0UjNwNk1YaVEzb2h0Qm9BQnhJeDhoM0kwdUlNTUlUMGxCQjlMdy03cG53YWNSY0xYZWkwYnpEeURHY1NxM214U3JPTi15TEVKc0dZdTRNM2pqZi1kVjZORWU3VHRfSm93LThwdThZZ2lOaGZ5?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "ad91f9d25e002e",
+      "title": "Vink zag Ajax-verdediger kwetsbaar worden: 'Kwam in een grote ruimte te voetballen'",
+      "category": "Selectie",
+      "published": "2026-11-17T18:15:00+00:00",
+      "updated": "2026-11-17T18:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWm1aSmhlT0NhYjVPdVlndDE2a3BkZFY3WWtOT3ZtdnUyQUdWY1ZSY3JoaTRneEVCNG9iODJKN1NoUVljdEtHRERkekFxOUFUZVk2VnN4eUgwd21XQndxMWtpd0dfTjFCLVpBZEFxUHI5b1lPVWdKcHFVQlhYRVdxUWZDV2c3UWtERDBJbjRVSlJETnRiSGx2YjNVR19HejZGMVI3dHRleDgxelhxUGxkdGxJbHFWNzg?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -125,32 +273,6 @@
       "related_sources": []
     },
     {
-      "id": "79fdafa2a10d1b",
-      "title": "'Taylor kan binnenlandse transfer maken: bod van 40 miljoen wordt voorbereid'",
-      "category": "Transfers",
-      "published": "2026-11-17T11:40:00+00:00",
-      "updated": "2026-11-17T14:33:55+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2159833/juve-wil-kenneth-taylor-en-bereidt-bod-van-40-miljoen-voor-goed-nieuws-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHZBM0dUTzJZVXB2R2dtRTRxUFFZVV91ZFJYOWdMTWg0and2Uk9FU0RkU3hab3RIcXUtZW1uSmlvV0trQWVqYlA0VkMtbTVRQkFDNlp6OFN5SWlBMnlaaTYxUzBjVmhCczFlT0UwWU5QUlNId2g3THFmZUNIOEFhbzFMcm5KYWlBY3BaOGx6dFd4YUZyRlBCblBUUXZDYk5Ielc2NTFaLUh4c1lIRlJUR2N2LUduWDRVT2c?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjRRZWlQSEkzV3Axb0NnN0J0Q1dBYTNnMnJYNVZhMEUzQUlQcHVkLTF5ckxZZlpVdEx3UVdsT0N2OFhyVDZzd1MtUnhPLTZyLUk1cWhfSUNic1hYbjlVRmxmSDVTZUpqNVdBQ2pRYW9tRFB3clpHRnhLc0JVel9IRlJoZ2s0dw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
       "id": "30395c3acabee7",
       "title": "'Ajax blijft altijd bijzonder voor me, een terugkeer zou heel mooi zijn'",
       "category": "Overig",
@@ -227,6 +349,21 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXNiV2pSWVYwU0NaZEJLRHhpUWVaTnVmUWFUSG5Ob1pubWRQRll5RG9hNGY5Q1RodHN6UmNkUHZjUVctTHRWUVFFbVdPcWt0OGN4bV9zT0tyMWstTjRhOHY2UDNuQk9sUnJlelF6c1o0QkVIaDRfMzJLaWQ3dmZ3aTFVZ0FTWTgycHM1UkZUNXp1ZFdyajdybHJiX05XWGl3SW16N0R5MWFBSDJHNENxaTZVLWh6d2VHNl9qUg?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "249cc8fefeac86",
+      "title": "Rondom Ajax: Luister mee met Babel tijdens wedstrijd Ajax Legends",
+      "category": "Wedstrijden",
+      "published": "2026-11-17T12:22:47+00:00",
+      "updated": "2026-11-17T12:22:47+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ240bHM4VFhqUVJwVlAyNXZ2NHNtLUhZLXVnNFRTN1BQbEtrbG1ERkhveDcyNVVGa0s4S0F4ZzIyd2hLVVVyaGkycjFsaUpwMVA2b2FEWkxJTE5EeEgzNU0xUUdmZjlZQnd6NmtaamZyaXVzSS1aNzNFQ0dxcVpHeU1KZDBITFJjZTVMWlJTNWVhcTZCWGQwXzExNXpYWTQyQXVnbUNoa1kzVWNSakhJNTkzNm5HUQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -521,132 +658,6 @@
         "via_google_news": true
       },
       "related_sources": []
-    },
-    {
-      "id": "54d259ce109c11",
-      "title": "Sephus (79) trainde zijn broertje Simon tot Ajax hem kwam halen: maar de hele familie Tahamata is voetbalgek",
-      "category": "Overig",
-      "published": "2026-11-16T14:11:00+00:00",
-      "updated": "2026-11-16T14:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWdVRUxjVFB4dndCMzlOZmhHZU9DaFVaeEh5RXNjUDNMZmt5SnpTSlYwaF94Yl9WTXQxTW5qSmhuTmU4dERnbTdDMk1mcHJVOVc5Z1B4dEZNQjVIbl9jWHk3WWdPUnVheVJEZ0NvbWlZS2RTMy1kdTNDUlFXZ1B3a0xIMU91MFpUZ3ZzWXBYdmstaGtVX0RRcVplSl9oaFZaLXN1eTNERzNMb0duM2pmSnJZbGVJak1kLW16SDJTLUE2V0hiNWFLNW5hM1QzWFNWSFBFeQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "768602ef2f51fd",
-      "title": "Van een woedende Johan Cruijff tot één bevlieging van Marco van Basten: hoe VV Rheden het Ajax in 1986 heel lastig maakte",
-      "category": "Overig",
-      "published": "2026-11-16T14:00:51+00:00",
-      "updated": "2026-11-16T14:00:51+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkppRklVOGxBX0g4YkhhVGQ0MW05eHJqR3FaWXpEQWJqaEJDNmUyMkdKY2Q4ZHB2dDJsUjhRRjJTc3YwSmRPQ1A5Tm90YlFvMkJfUU0xRHZReXNrbTJqTFkxSXNfYkI1aDR2TDFmdEUxQ3BNSnI5Si1oaXBJTFhVRHY4bTJ6SWFqTVY1S181aUp4YXpHcUc5X0hYanhlbEhMbFowbkxmMnhTUVExU3FFc1NnaVA3SHRkYkNRTWJLY0dlU0NaVXVYZWtjTW1mV3dxRDJKOF9rNXFxSUVFYzFHclBIX0hrbVQzTTVF?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bd5200b41d0db9",
-      "title": "Rondom Ajax: Ajax hoort scheidsrechter voor eerste thuisduel na interlandperiode",
-      "category": "Wedstrijden",
-      "published": "2026-11-16T13:59:39+00:00",
-      "updated": "2026-11-16T13:59:39+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaS1sLV9maFRoYVdfUmZLbTI4NHlueGkzNnlXUXU1cDBGVC0tY29VZGYzQ2lHRWRlTDJ2YURQQVplN1BCWXJxekdnbWYyT3gxN1lYZS12cDZJVGx0b1pLMVZic0hUMngxVjlNWUlJcU5WSDZLYnpvUkstWGdRT2JhN1lsdWxnMUV1SUNFbjZ4Vkp6SS1aNlJfZ2V5ZU5DdDNxRmIzSzRiNnNWYmRoYzd2ZlQ1aGQ4Q18yN3RpZjlPMzJoaG9LZGVYUmp3?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "656ab927acd341",
-      "title": "Rondom Ajax: Kluivert krijgt keuze tussen grote FC Barcelona-spitsen voorgeschoteld",
-      "category": "Selectie",
-      "published": "2026-11-16T13:59:39+00:00",
-      "updated": "2026-11-16T13:59:39+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeW5wUGdUZjUtX3VIRWgyZk5uOWVXTzVpbkhMSUk5dlZ0WVJUVG9JNzRaQklvUGIxX1A4bFdZN2FRczNBRHhRM2dkRFdwT0xxTHYtd2ZuVVlIVHRvS1NFd1A1QVkwTXlkRm05ZzVjTkItdXBfTVhmR0hRQVp3VWM5QnlnNDUxald2ODczVnp0QXZidUtxZ0gtZU1KcGFPX1JhVk9TaE5SZ2l4MDZOSm1HU09DVXJJY1VOS2cxX1BXUUdmTURsVl9ZX09Pb19tZw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "4fb4d579c7e9f5",
-      "title": "Ter Stegen mogelijk op weg naar vertrek bij FC Barcelona: huurperiode Ajax cruciaal",
-      "category": "Transfers",
-      "published": "2026-11-16T13:40:24+00:00",
-      "updated": "2026-11-16T13:40:24+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUHB5SnVpSmpBdnBHcmIxeUhQaUJVRm1EamxIS3hURmFld0k4dl9MenhsS3d2ci1wNVBvLWZoSmxPVHk4cU45aFFpbGdjeU1vUHlMUi1zcm5SbzFSbDdta3BTTVR2Mzd3N0M5RjVMOVpYUVBPR1FSMmZOblc0a2hWTGxKQ2Y1WlRnek1teFdPbEU3S2FmX3ZnWV9mR2twRDNPc2QwTUR4THU3V2VUMWRDNTBZZHBQMk03cXlCZ0xTdVUwc1gtdlBLdVZrY2RFdw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bd604566038267",
-      "title": "Litmanen velt duidelijk oordeel: 'Dat heeft Ajax kapot gemaakt'",
-      "category": "Overig",
-      "published": "2026-11-16T13:36:20+00:00",
-      "updated": "2026-11-16T13:36:20+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2159449/clublegende-jari-litmanen-dat-heeft-ajax-kapot-gemaakt.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "0aa1f75df8f596",
-      "title": "De Boer: 'Het gaat beter met Ajax, maar PSV is nog steeds favoriet voor de titel'",
-      "category": "Overig",
-      "published": "2026-11-16T13:20:14+00:00",
-      "updated": "2026-11-16T13:20:14+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2159439/huntelaar-over-burn-out-in-mentaal-opzicht-enkele-stappen-te-zetten.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a801d145fe4f5c",
-      "title": "Jari Litmanen weet het zeker: 'Dat heeft Ajax kapotgemaakt'",
-      "category": "Overig",
-      "published": "2026-11-16T10:05:14+00:00",
-      "updated": "2026-11-16T13:05:01+00:00",
-      "source_count": 2,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmlwRjlzNVQ2OVM3S2FYVVZsd2ZHSTQ5SGs3eVFCZmpTeEkxdndDSWNXc2VDYUpKYUNsQ1BPWnNTdEh4VGdLajBleEMzT0lJVm9KVDhsSVRyNFlsdHZXTkdrbGZKRHhwR1NUWE93VFVuS1JYcTR2NEtXU0lUbFZHTXY2am1uOFZMczNOYVdaMDk3UHJoelFuSURZYmlpVF9qajlWM2J5alpYRkxnOHln?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmxwMzhPNVgtemlpVWJ4cEJWSUlwZ2dmYVBIXzZqQnFpdUVfM2dSbkRpbTFSc2JBMWFQMElDdXQycy13YUcxUFRpZzRwVW5DSlhnNHNJOVI3cklEU3JZS21MYk9fVUxFZEU0V1U1WWM3QnFITVBxUTQtaVBqbGhaZjZFRDJiR3V0?oc=5",
-          "via_google_news": true
-        }
-      ]
     }
   ]
 }
