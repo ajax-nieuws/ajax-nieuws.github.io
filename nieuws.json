@@ -1,18 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T23:54:23.192218+00:00",
+    "generated_at": "2026-11-20T07:26:59.328341+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 90,
+    "article_count": 89,
     "event_count": 40,
-    "discovered_event_count": 75,
+    "discovered_event_count": 73,
     "source_count": 11,
     "feed_error_count": 0,
-    "excluded_paywall_count": 54,
-    "excluded_video_only_count": 22,
+    "excluded_paywall_count": 45,
+    "excluded_video_only_count": 23,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "ab7a3e1582f122",
+      "title": "Pascal Jansen naar Ajax? Waarom hij de ideale kandidaat is",
+      "category": "Transfers",
+      "published": "2026-11-20T06:25:02+00:00",
+      "updated": "2026-11-20T06:25:02+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2xYUWV3bmpWaVZ5RTNPd21GaGlnXzBHODBscjNMQmtzRnotV0dQdV9SemhkT0FybUhpNXhEVmRPZDZQTEUyM2ZXRS12YTVNV3doZVVxUjc0VkNpR3BYWVQtXzFCTWhvNU5iTm02NGxtMzdtTmNnY0p4QmNaYWY2dnRmZFExclRLelpz?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "03883f8aba8947",
       "title": "Blind zag 'spontane' verdwijnen bij Ajax: 'Speaking terms, maar bepaald gevoel'",
@@ -25,6 +40,21 @@
         "name": "VoetbalPrimeur",
         "url": "https://www.voetbalprimeur.nl/nieuws/2160727/danny-blind-bepaalde-houding-naar-mensen-na-ajax-revolutie.html",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "3dd0ec4c45321e",
+      "title": "Ajax traint voor thuisduel met ADO en wil jaar goed afsluiten - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-11-19T21:20:31+00:00",
+      "updated": "2026-11-19T21:20:31+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDEwOTBUUC1fY2NCOW5XaUZvZTctYzdITV9UQ09ndDFVX1V1WEd3ZGt6YkdEaTA1LUZEbUFlWGFiTWlEcFJRcm9zZjc5ZXR1RFd2emcxMGVWV1ZOWFVLZG1nZTJJSEF3em9MZTFaVS1JM3JZYU1IYjkxQ3Qxc0NHeWJhQ2UwQ3VUY09rSXlURG44cnhsSVE?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -181,21 +211,6 @@
       "related_sources": []
     },
     {
-      "id": "58bc94107a57d7",
-      "title": "Ajax traint voor thuisduel met ADO en wil jaar goed afsluiten - Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-11-19T16:32:07+00:00",
-      "updated": "2026-11-19T16:32:07+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMDNONDFKOUllcmNlMTdiR1Z6S25UcXpZbkJDVXRhbGhhNzI0a3FHMkN0WjFwYU9lQ3NvSXktVXk0Q0RHbF9vREFiYThveTZRN2RmZGpvQVdWN2QyVzRCbzZCUjdCbVBoTzc0WUx4dkIxMGl1U1FBelE3aUdNczdXTWRxU0R3ZlI3ay1vZGNacUNFQTlNVW00?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "da2caaa5954710",
       "title": "'Opvallend: seizoenkaarthouder verliest kort geding in rechtszaal van Ajax'",
       "category": "Wedstrijden",
@@ -258,6 +273,21 @@
         "name": "Voetbal International",
         "url": "https://www.vi.nl/nieuws/opvallend-kort-geding-ajax-en-seizoenkaarthouder-tegenover-elkaar-voor-de-rechter",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "19bd77cce88234",
+      "title": "Geruchtenmolen: 'Ter Stegen prefereert nieuwe stap in LaLiga boven langer verblijf bij Ajax'",
+      "category": "Overig",
+      "published": "2026-11-19T15:29:00+00:00",
+      "updated": "2026-11-19T15:29:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2p0MDVkak5WLU94bkNMUHJSSmwtVEM4LVdqX0JxWlVrc0VvMExNSk4za3o0WlpuWkxsUVJhN1E1UkZQbGtaYlVzSTNwWHBkNWlRSUZJb2ZRdUdMUl93WnI1WmhfUXdPTUYzRFdGMzdUOEs2QURKbkpTSEFKRF9IS1FNUDNaLVcza2FiekxZVGtNdVVlQXZrY0R6cklKb3kwSkxBQU1WWThsUklrYWZPZjhTMEl1ZHVFT0lCXzNIUl9oTS1kQ2FpN1l4ZTNyb3dfZXlUSXA4VQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -367,6 +397,32 @@
       "related_sources": []
     },
     {
+      "id": "bcc0947138cea5",
+      "title": "'Ajax-leden laten onvrede blijken: naam van Pascal Jansen geopperd in Amsterdam'",
+      "category": "Overig",
+      "published": "2026-11-19T13:11:00+00:00",
+      "updated": "2026-11-19T13:26:56+00:00",
+      "source_count": 3,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2160568/pascal-jansen-en-jan-olde-riekerink-geopperd-als-hoofd-jeugdopleiding-van-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V4VVdXUGs3LUF5alpsSnV0OWVvR2hHaFRuSDVmZmw3U0h1dEsxd1NUVklrNUJraGlqaEJDSTJtRzNmcjNPSUZYWjY1NmRSdTBINVVkR3J4R0IzWXhzQjJUY0JpSU9rY1VVVU9ZeXp0cmtqWHpxdEVJYWxTYjlFdHpPTnFiN1NQS1VLMTRFTFhXTWNSSHFXNnpMUW9Hd0xFSEw2V0hvMk8zcW1zSDVr?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "FCUpdate",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHRmdnBQLTBDTzh3YWl0d2FKYl84T3ZVSy1laThnTXR4aVo3TVRqVWFEaEdlcGR6SXBqNWpaOW5UVUp6RmdxalF1a0FMNG5IalhtS0FwcVVON05SSjUwQVJ1aUdBMmpnMUJRbkNpUTJEMzV4SWNJWXA2d0dBYUgtREVtTFhLcEIzQ3pVVWpyT0QtM21sbXJESkxSdVlQMV9Tcm9lWQ?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "c8f2f458ecff5b",
       "title": "Er is nog onduidelijkheid bij Ajax over Julian Brandt",
       "category": "Overig",
@@ -392,36 +448,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzhqZjdKM1hWVUFjVTJydGhiREdDWTNKWTJwQXM4UVkyZlhLZkVhQkItaEgxVWk0aG9NQmF5eEltUWVPaXJXYnBJY0F5bGcxaHljSFg1VkxkUUU4d0xWbnI5UzRZYjgzR1VzUlRCejc2cXg0UE8wUUpVUXFJcHBFS0ZnQjZTcXdoZEJDbjREQ3NNb1pPZmc5NktZYjVIM0hnNHRwOTJ6OUdxdmhROF9XMW9Nczl3SWd2S0U2T2RoOVJ3WXZvcG5rSQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c9dfe32f7475bc",
-      "title": "'Ajax-leden laten onvrede blijken: naam van Pascal Jansen geopperd in Amsterdam'",
-      "category": "Overig",
-      "published": "2026-11-19T13:15:00+00:00",
-      "updated": "2026-11-19T13:15:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2160568/pascal-jansen-en-jan-olde-riekerink-geopperd-als-hoofd-jeugdopleiding-van-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "bcc0947138cea5",
-      "title": "Pascal Jansen genoemd voor klus bij Ajax",
-      "category": "Overig",
-      "published": "2026-11-19T13:11:00+00:00",
-      "updated": "2026-11-19T13:11:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaHRmdnBQLTBDTzh3YWl0d2FKYl84T3ZVSy1laThnTXR4aVo3TVRqVWFEaEdlcGR6SXBqNWpaOW5UVUp6RmdxalF1a0FMNG5IalhtS0FwcVVON05SSjUwQVJ1aUdBMmpnMUJRbkNpUTJEMzV4SWNJWXA2d0dBYUgtREVtTFhLcEIzQ3pVVWpyT0QtM21sbXJESkxSdVlQMV9Tcm9lWQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -584,43 +610,43 @@
     },
     {
       "id": "e00dd30309ae6c",
-      "title": "Van der Vaart deelt 'grootste frustratie' na duel Ajax-legends: 'Schande'",
+      "title": "Ook Rafael van der Vaart is woest na duel Ajax Legends: 'Een schande!'",
       "category": "Overig",
       "published": "2026-11-19T06:54:00+00:00",
       "updated": "2026-11-19T07:30:38+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2160417/rafael-van-der-vaart-en-wesley-sneijder-boos-op-ajax-legends-duel.html",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEI1MVp4MVowR0ZQQWU1YUpVdXhXcElKbUNPX0Q1RVVzM1dwSHpjbUo5a0xnSDRVT3lrSWs5S2V3MUJzYXl2bktpcHpDeTB0Y1I5dkhQOTl0WWlxaXFUUWRiUlpOZjhINXZmcDFpTktQbnBNV0RtR1VVZjlqcWE1d1pwcDJ6Y09ULVBqWHJ0WWl4cHlxZ3lxb25JSFZabjMzVG9WY0F1UDVrSzZpTWpoTDJ6ZHR2LWlrQlNaOQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEI1MVp4MVowR0ZQQWU1YUpVdXhXcElKbUNPX0Q1RVVzM1dwSHpjbUo5a0xnSDRVT3lrSWs5S2V3MUJzYXl2bktpcHpDeTB0Y1I5dkhQOTl0WWlxaXFUUWRiUlpOZjhINXZmcDFpTktQbnBNV0RtR1VVZjlqcWE1d1pwcDJ6Y09ULVBqWHJ0WWl4cHlxZ3lxb25JSFZabjMzVG9WY0F1UDVrSzZpTWpoTDJ6ZHR2LWlrQlNaOQ?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2160417/rafael-van-der-vaart-en-wesley-sneijder-boos-op-ajax-legends-duel.html",
+          "via_google_news": false
         }
       ]
     },
     {
       "id": "9417b809730221",
-      "title": "Leonardo niet bezig met vertrek bij Ajax",
+      "title": "Ajax-aanvaller Marcos Leonardo reageert op geruchten over vertrek",
       "category": "Transfers",
       "published": "2026-11-18T22:00:00+00:00",
       "updated": "2026-11-19T07:08:00+00:00",
       "source_count": 2,
       "official_confirmation": false,
       "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56153/Leonardo-niet-bezig-met-vertrek-bij-Ajax",
-        "via_google_news": false
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUdMRTlRcXBsd25oSzlyUU92bDZuZzNxbXJTWko5ZWRFalZpNHFBa3lGbFdBbEgzdS10UjZEMW9RSEVnMmhOb0dDSEdfcTg3YXRQNTNCVC1xaHF2WjEtNGpZbVdkdkowNnhHVWR3VFlaVzJ4clU2dURPZm9ZVEZZS2EybldtQzVXdXZCbDN3?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "FCUpdate",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUdMRTlRcXBsd25oSzlyUU92bDZuZzNxbXJTWko5ZWRFalZpNHFBa3lGbFdBbEgzdS10UjZEMW9RSEVnMmhOb0dDSEdfcTg3YXRQNTNCVC1xaHF2WjEtNGpZbVdkdkowNnhHVWR3VFlaVzJ4clU2dURPZm9ZVEZZS2EybldtQzVXdXZCbDN3?oc=5",
-          "via_google_news": true
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56153/Leonardo-niet-bezig-met-vertrek-bij-Ajax",
+          "via_google_news": false
         }
       ]
     },
@@ -664,21 +690,6 @@
           "via_google_news": true
         }
       ]
-    },
-    {
-      "id": "094fec29829ea3",
-      "title": "Marcos Leonardo gaat in op moeizame start bij Ajax: 'Het is een proces'",
-      "category": "Overig",
-      "published": "2026-11-19T06:39:49+00:00",
-      "updated": "2026-11-19T06:39:49+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/marcos-leonardo-wil-vlammen-bij-ajax-en-sluit-terugkeer-naar-brazilie-uit",
-        "via_google_news": false
-      },
-      "related_sources": []
     }
   ]
 }
