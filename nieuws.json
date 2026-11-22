@@ -1,18 +1,114 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T00:24:07.540548+00:00",
+    "generated_at": "2026-11-22T07:31:09.946507+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 77,
+    "article_count": 82,
     "event_count": 40,
-    "discovered_event_count": 66,
+    "discovered_event_count": 69,
     "source_count": 10,
     "feed_error_count": 0,
-    "excluded_paywall_count": 55,
-    "excluded_video_only_count": 33,
+    "excluded_paywall_count": 44,
+    "excluded_video_only_count": 32,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "e0dc1b6313aa8a",
+      "title": "Vermoedelijke opstelling Ajax: Míchel moet beslissen over terugkerende Brandt",
+      "category": "Wedstrijden",
+      "published": "2026-11-21T14:30:00+00:00",
+      "updated": "2026-11-22T07:00:00+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2161071/vermoedelijk-opstelling-ajax-voor-duel-met-ado.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1NPdkxqMVhHUEswWVhlbHRLOXNnVWJObEdKd2ExSFgzbTh3anB4d1FneEVZTG56TGkxclpmVTlsMWZJeF9TYzlrWjJZMHkwZ3h5SldDQ1Q5ODNKYlJqZU1nQ1ZPck9LdEl4R3BYT25tVklYZjFUYlFMaHg4M0cwVzRJNUZidlM5aU5zRnBOWFlZTU4zalNLbmtkV2tqdmkyLU5JNzA3M18yRXplc1RnanVpd0k3cGdKdVRNRHlUd04xUmM?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
+      "id": "0e383b4e9cf127",
+      "title": "Luister naar Ajax - ADO Den Haag via Ajax Radio - Ajax",
+      "category": "Overig",
+      "published": "2026-11-22T06:31:59+00:00",
+      "updated": "2026-11-22T06:31:59+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDhMOTZJeWZVMXlsdHB0NEwxYXFJZjNaQkNXWGVkRmtiRDRxYmI0dmNqWUxITmJDQkEtdDlXUVJPZE4tZlp0am5mdmsxR29XclBXTHNaTDc0Z2hoUkFGM3kxZjlBMFpCU1F2aXNLcXpoeUhjRFVOMFlIVi1oS3lwZA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "49df739cbc5a9e",
+      "title": "VI Live: Ajax laatste edities steeds behoorlijk trefzeker tegen ADO Den Haag",
+      "category": "Wedstrijden",
+      "published": "2026-11-22T06:15:00+00:00",
+      "updated": "2026-11-22T06:15:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/vi-live-ajax-tegen-ado-den-haag-in-de-eredivisie",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "ea86b55b4eff22",
+      "title": "Bissouma onder de indruk van Ajax-ploeggenoot Bounida: 'I love him so much'",
+      "category": "Overig",
+      "published": "2026-11-22T06:00:00+00:00",
+      "updated": "2026-11-22T06:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbal International",
+        "url": "https://www.vi.nl/nieuws/bissouma-onder-de-indruk-van-ajax-ploeggenoot-bounida-i-love-him-so-much",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "33b1c78ed2d4cf",
+      "title": "LIVE eredivisie | Ajax krijgt bezoek van oude bekende: Maurice Steijn keert even terug in Arena",
+      "category": "Wedstrijden",
+      "published": "2026-11-22T05:00:06+00:00",
+      "updated": "2026-11-22T05:00:06+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "AD",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSE9sZk92bUtIenV3N1YxbV9WTmNWUl83VE8zMjJIeEhua3otbThhUVNsS1lsZ3BJTTNLbHRMTFVYOUNXOF9jNW95ZHFFWkRqSDVTRUZwR2Y4S2lYSzRGcWFWMkRIakw1M2lwdm9BVUJuVTZPR1ZzNGR4Q1ExbHhLN2Noc1M3amxzQlduOThRWTBsOUF4SVZzbzV3c01SaV9teEoxWG50N1VMbmRFdkJZLVFEY3pFclVKemZJOFVnV0wyaHZYT3BN?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "fe607afb40e77a",
+      "title": "Volendam 1-2 Jong Ajax (20 nov., 2026) speler statistieken",
+      "category": "Jong Ajax",
+      "published": "2026-11-20T19:04:08+00:00",
+      "updated": "2026-11-22T00:23:17+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vc2ZMamo0M2xQc005WmRaaVJNTTg0bnJtTWVzUUZKVzhjd2VuMGZDVDJIRlJnTnNHTFhvX1EtSjQzVHVDWEdHdnlxYnNKV1otTlJITHhMS1hvend5UzR3bkxUYnNSZHVKemlvZFptUE4za0hwenlCcjhhYw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "373396d198a7e5",
       "title": "Engeland in de ban van harde behandeling Ajax: 'Zijn parkeerplaats werd geschrapt'",
@@ -89,21 +185,6 @@
       "related_sources": []
     },
     {
-      "id": "fe607afb40e77a",
-      "title": "Volendam 1-2 Jong Ajax (20 nov., 2026) team statistieken",
-      "category": "Jong Ajax",
-      "published": "2026-11-20T19:04:08+00:00",
-      "updated": "2026-11-21T18:43:34+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTUwxTUpjY3AzMHZDRDNJRXFJTGVjY282RjQ1clVsREZWZ3pHQ1VMZ19EcFpBRDFzOVBkU3ljOXRndXU3UDhtTEdfMEZsMkZCalZkcThiUWZqZUhUaVdtVUk0d0FPcTRsTW1GeDZaazNXTk9lTkpQaWRTaDZvRXhDNGwwZTZLMGpYdmdVb3JtWQ?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "3ade080804c542",
       "title": "Blik op de Toekomst | Ajax O17 wint mini-Klassieker - Ajax",
       "category": "Wedstrijden",
@@ -170,25 +251,19 @@
       "related_sources": []
     },
     {
-      "id": "e0dc1b6313aa8a",
-      "title": "Vermoedelijke opstelling Ajax: Míchel moet beslissen over terugkerende Brandt",
+      "id": "296d48036b505b",
+      "title": "Ajax vs ADO Den Haag live kijken: tv-kanaal, livestream en aftrap Eredivisie",
       "category": "Wedstrijden",
-      "published": "2026-11-21T09:32:00+00:00",
-      "updated": "2026-11-21T14:30:00+00:00",
-      "source_count": 2,
+      "published": "2026-11-21T13:30:00+00:00",
+      "updated": "2026-11-21T13:30:00+00:00",
+      "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2161071/vermoedelijk-opstelling-ajax-voor-duel-met-ado.html",
-        "via_google_news": false
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMS1pRVBFWEowSU1KTVl2VDhOMHhjSldpaEZWZTRUeDMxNlM1ZFMxbHpZWlV1b0RWWUtMN3F0SzlLYkpCNmktM052RDFmX0VWenVfRnNka2dkOWtiWlVyOVBtQmNuMEJqWm5tb0duMy05eWxUaENIMGpPX1Z3RWFQN2FVd25YOWRHMzlrU1RxVzVId2lvaEhmMjBYaUVnc3ZPa0ZVRG1WZ0VXb1NRNmY5YTJhQUNva3g0S2lTVl9Oa1FVRFVmZm1pblJ2cnpHckhpLUNIeXNwMkd0UHp0MUFvU1BkZ1E5MHQ4aUJXSnlteE5KUjJVbms4U3JUYTg4S0VvbldfakRn?oc=5",
+        "via_google_news": true
       },
-      "related_sources": [
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1NPdkxqMVhHUEswWVhlbHRLOXNnVWJObEdKd2ExSFgzbTh3anB4d1FneEVZTG56TGkxclpmVTlsMWZJeF9TYzlrWjJZMHkwZ3h5SldDQ1Q5ODNKYlJqZU1nQ1ZPck9LdEl4R3BYT25tVklYZjFUYlFMaHg4M0cwVzRJNUZidlM5aU5zRnBOWFlZTU4zalNLbmtkV2tqdmkyLU5JNzA3M18yRXplc1RnanVpd0k3cGdKdVRNRHlUd04xUmM?oc=5",
-          "via_google_news": true
-        }
-      ]
+      "related_sources": []
     },
     {
       "id": "4a855066bb609a",
@@ -234,6 +309,32 @@
         "via_google_news": true
       },
       "related_sources": []
+    },
+    {
+      "id": "18dbbe85c495fa",
+      "title": "Sánchez kijkt uit naar thuisduel met ADO Den Haag en weerzien fans - Ajax",
+      "category": "Wedstrijden",
+      "published": "2026-11-20T15:44:08+00:00",
+      "updated": "2026-11-21T09:10:00+00:00",
+      "source_count": 3,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZTdIY2dGZzRfaUlXX3l3emVPb3Noc3VKZTFJdHNxOUVKdmN1TlRmVmpmcVFJdjRmX19QM0ZWbDZ5bWNiUTIzYkU3NENVVUxpQnA0aTYzejBjQjI2YkEtcnYzMU5CWjAtYWgtZWRDTXd2eXVhQXpSYWFaMGxHNGJXZjR3eUp3SWM2bS1sdkIwT3dwek5Bc2hyNXU5SHM?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "Ajax Showtime",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ0NvYnluZHN6cjVzMlBhXzBXVGhMb2QtRVlSeEZweFZDUzdVbTBFX0pBWmhja2JJMHpWclZGTUVHWkg1SHZEejdnV2ZldTVmX1JvYWxjcEV3emlndnBhdDc0Qk1KMG5wS0tMTFMweVJ5NGhiT08wZzdaYUhrbVAtZHl4TzFKSG1YQ0UxNXBuVExjNHNpVmpfcjlORW5ZYTN3SExOWGw4LVcxcXdKMnZoWXp6UVV0TUloTkpLcG9VRThLbnRJd055MmZzbw?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdHhKR1ZXcGtFS045bnN3alJyU1VaVHlWU1VzakFQd3dpcUpmVkZMSDZEajJqeFRnbDRRbGo3SEp0WWpkWnBzU0M5bmUyRmQwbG5UYThib1ZYV1RSRkpoTk02a2poc2IxNU8wS2szZE9sQktMUHc3NnpUQ1Iyb1YxX3Q4SEg0Q25tTTVic1dfR3F6djJXUy1xY2ItNDFsajY5Mk5xSnp0NXBHQ3ZmaDlNOVBLV2owZE1OZ0FvbTlBSmF2aHRndHNxeA?oc=5",
+          "via_google_news": true
+        }
+      ]
     },
     {
       "id": "bf2e76e588c29c",
@@ -537,107 +638,6 @@
       "primary_source": {
         "name": "FCUpdate",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzA4SUlyMlNPX0FOS3JVLUVuT19uTmZhNjBDOXllNDlsZWpZclhTbGh3Y0NLZmh5Y0VUX3NoRV9zQm1LTmpNZnJSMUpoUFJRLU1yMUVtQ1U0akYyTmNhTC1mQUJKWVMxRmIwU3F3TVExQ1JsSkxhSVVIOVJtY19tNHhzTUg0RkNpTTBndg?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "2333b69ad794cc",
-      "title": "Verhuurd: koopoptie lonkt voor meerdere Ajax-spelers, maar niet iedereen overtuigt",
-      "category": "Transfers",
-      "published": "2026-11-20T20:55:00+00:00",
-      "updated": "2026-11-20T20:55:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMkw0SFhmYVZUb0Z0SEY4ZGNkWmhuRk5pdi00OFB6eW5GUVUtODk2REQ3a2R0TGpUTkpnYUlRbnc5RndLeXpoUXI2M3JJallIbkY3VkpjRG1LT0Nnd2phSFV2VU5ocjNpbzlkUmNhWENRa2FEQjhPZmZzWk1fWDdCaktfQkFlWW8xNTF6WlBwRmx1NTYySnkxTUtOZmlvMkxVN2VheWNicEEwRGE3dzBvWWpQMGNRYXlobVpTRjl0SXBHYzAyd3c?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "3665e73417fd8f",
-      "title": "Jong Ajax wint zeer knap bij FC Volendam",
-      "category": "Jong Ajax",
-      "published": "2026-11-20T20:51:00+00:00",
-      "updated": "2026-11-20T20:51:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax.supporters.nl",
-        "url": "https://ajax.supporters.nl/nieuws/artikel/56156/Jong-Ajax-wint-zeer-knap-bij-FC-Volendam",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6f2a322297c7eb",
-      "title": "Centrumverdediger bij Ajax en aanvallende middenvelder in Turkije: 'Goed voor mijn ontwikkeling'",
-      "category": "Selectie",
-      "published": "2026-11-20T20:40:00+00:00",
-      "updated": "2026-11-20T20:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY1ZGTUhoWkZidUdmcC03NjNobkFlZmNDaDRUcFBPZFgyOHlMTDJWRmMwbjBiaVY1dWpDRk11RncweFRER3FkWlI5VFhFNWtqaTdaVHk1WDBUNUhEUXpGcFBEZWcweUhGVkdqQl9jUG0zSmxUVlZSdXM1TGRyeG5jQnlxcjZTZ1BNVlZ2MzVtd0RwVXJCaVZ1NjllWWJOWU1JVlUxMGhhSG1oX19lcmJWZHNuS0tmOFB6SUpDQ1ZXam1LMUhTaFpTTDZuU1JBMHhfb0hsVE1KWEh1dw?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "c1a6a7052db8dc",
-      "title": "Ajax-talenten kennen wervelende start van het WK Onder 17 in Qatar",
-      "category": "Jeugd",
-      "published": "2026-11-20T20:38:32+00:00",
-      "updated": "2026-11-20T20:38:32+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb01ZdnA2UXRBUFZvSzlrbU41eTRpUTdIa3Q4ZzZEdkxyeFRHakFzdWFwR041SVRlR0Jhb2Z6WTZQbGZ5WlBTZUNKejhQQ3hsQ3ZxLWxRYXE3d3VURWpIdW5iSmtLcEVObkoxN0lVQTNHbjRRYnVVVXVTcjdQR0NoazZ0eGdlSmZaSjhwS2F3SlpDdWV4WDk1M1VnN19kaHZTdWdDYWRRQmUzTUJkTWhxMDgtZDVraTFM?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "f1e300db18488b",
-      "title": "Steijn: 'Of ik met de huidige Ajax-selectie raad had geweten? Ja, zeker'",
-      "category": "Selectie",
-      "published": "2026-11-20T17:15:05+00:00",
-      "updated": "2026-11-20T20:30:41+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjhyRV9uQUxqMjNXWDBqQVBfbEZ4Wm1TaG1kUXJjSWpOVGxULUp2TkhIbnFQVXJUNGRteGhISklLRER1c1YxUlBxTDBjbG5ob0RTX3ZhdlhjbW5NVDFkLTlSZHpjSGRNbDZXcE91MVo4M1k4WGZxdmpnbFUtU2JKU0gxaVBGQ3lnQXQxVFptSGsxZmpTbm05NTV3QTBITjdBdGtFcUhPUEd4bS1ZMk5veWN3Z0ZkQzZSSUE?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnppbVFINk9aVTh4VV9lbnNNVEEya19xT1JjWUN4NzJncTktei1ES3BRSVVoTXJjc08xVG1JT0Zfdnc2UGhSMjN1MXY4bF9sZmEwVHBhMzc3SzdWLVNOSThaLUVIUld3TnhVUEZpcWNHdkh2OU5WTExMNVQ5OHJNaUpMWnYzYTlYYjFpTHJQS1JuVUkwZi1PMnRoUVkwRnR6N0xjQW51RUNSRDllQ3p3?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVUhqajc5Wjd2aWZLaG9sZzBaY2xEbExnR3JlLWw5ZHpxZThJS2Nhc3BFNE9xT0ZOTmptS01FS0N5VWpqanJkaklJOTdaV3JkT0ExcXpzN0xLZ2lha2RvRS1lclk1NEh2ZEtOZUZhWHZaclFFY1JsQ2lDRmY4T1B5TkdSTU5ielRIU1M4VWJjMDdTWTFYTjBjem5nQXZKd1VzRTdTblIySVlIRHlDVk8xeUFMMzRwOUlEZnNwbVZhcmtLREg2Z0E?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "a90f014ebc2a26",
-      "title": "Ajax-spits Tolu onthult: 'Osimhen sprak met de voorzitter'",
-      "category": "Selectie",
-      "published": "2026-11-20T20:17:00+00:00",
-      "updated": "2026-11-20T20:17:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0M3cGlnc0ZJbkxXampWcE5CdFE0UWJHbkZfazIydDR2Y25haDZXOUNmYUc4UFVmRjN3OGVXTHczUVlrcXlWS1VTNTc1REN6ZjJ0MzA0MTNzeENUODNxN1piXzUxZ1ZOVGQySTM4Mm1WdXV0RnhOOXpZSE5ZZ1pZZ2ZaeE5tUUdRbWNhLXFGRlVBaFJIN2puajdKMA?oc=5",
         "via_google_news": true
       },
       "related_sources": []
