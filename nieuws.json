@@ -1,25 +1,131 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T22:42:55.809430+00:00",
+    "generated_at": "2026-11-24T06:28:56.018079+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 136,
+    "article_count": 139,
     "event_count": 40,
-    "discovered_event_count": 109,
+    "discovered_event_count": 110,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 18,
+    "excluded_video_only_count": 17,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
+    {
+      "id": "7998c0a7bd5845",
+      "title": "Jordi Cruijff, opgelet: Newcastle United aast na Steur op volgende Ajax-parel",
+      "category": "Overig",
+      "published": "2026-11-24T05:55:00+00:00",
+      "updated": "2026-11-24T05:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "FCUpdate",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnVEOXAtNkcxQzVWUTlXejhYT2lCdVJONm1WdHJ2VGd3ZTFVbi11RzNYY2VBLURIM1VMN0pDZkFSRFFISE9GZ2lxeXhfb1ZJRDZNNzdRZkZPaXNDSXljYVNCVFhZVWRBU09LalMwLW5nLU9vVjdERDRoZHRPMU5TY1pHT0k?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6461fcbc848598",
+      "title": "Alfred Schreuder doet boekje open over Ajax-tijd: 'Toen wilde iedereen weg'",
+      "category": "Overig",
+      "published": "2026-11-24T05:51:00+00:00",
+      "updated": "2026-11-24T05:51:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2162239/alfred-schreuder-hekelt-gebrek-aan-geduld-en-transferbeleid-ajax.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "527a4179110f62",
+      "title": "ABN AMRO lijkt na bijna twintig jaar terug te keren als hoofdsponsor van Ajax - NU",
+      "category": "Wedstrijden",
+      "published": "2026-11-23T20:54:00+00:00",
+      "updated": "2026-11-24T05:47:20+00:00",
+      "source_count": 4,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "NU.nl",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWR6bkFQM3MtSzhPdENkTS1IZ0hSUEg4Q1otcjBPLXFiOHZ1VW1vZ1hoSG1jaUEzV0pHUVJhV2MyaUJIekpZSFBxeHE5dUpzT3k4Rm9XdDVURHltZVp3bVdXcWo1Rm1JX3pueEtMNFEySFlmdExXdC1ndWIwSzExUUFLYkh0OEI3OW9Vb1EtSllQQ0kzSnY3OWtVbFJaaE1PX0dWcnI1d3pHV2xqTTNtUmdQMTZDR2s?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": [
+        {
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFhRRDJMVk9adkRkeW9vUXk0VmNKekZuUkcxVDRRNEEtdUZwYlBxMGR2YXVTZDJueW8taUhrOE5HOWZmUmhOaDVSM2tlLUsxV292NXZqMWpjYWNiSlEtMGpvZ2ZNcGhrQzdMSGFvRldZRmtMbmc3UWFhOHVZM3dBUlhSMGVhNTB5WG1VTDFPeXB4Q1FFQzZNdnRhdzRTYzJmcEE?oc=5",
+          "via_google_news": true
+        },
+        {
+          "name": "AT5",
+          "url": "https://www.at5.nl/artikelen/241221/abn-amro-keert-hoogstwaarschijnlijk-terug-als-hoofdsponsor-van-ajax",
+          "via_google_news": false
+        },
+        {
+          "name": "Ajax.supporters.nl",
+          "url": "https://ajax.supporters.nl/nieuws/artikel/56160/ABN-AMRO-lijkt-terug-te-keren-als-hoofdsponsor-Ajax",
+          "via_google_news": false
+        }
+      ]
+    },
+    {
+      "id": "17e9d23b1a96c8",
+      "title": "Voetbalzone Team van de Week: naast Davy Klaassen nog een uitblinker van Ajax",
+      "category": "Selectie",
+      "published": "2026-11-23T22:55:00+00:00",
+      "updated": "2026-11-23T22:55:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUNRZE1uNkpOSFo1VWVBUEZfQWVKMEF4VlhrdlJLdEhkTDI3ZGI1OWRab3U5UUdjOUYtYUtkM180R0NQMEV2V2N5VXRZTlVsdWhSRUl1Ui1LbERzSklCeVRsSU1yRER6aDNqWDVhYkw3NFpLbVAtN245RWZwbkhNZ0ktd1JPN3pYa2tQRU1rSXRVSHJndWZNVTFGNVJ0T0I2M3o0SVVNNWNlaTZTOGp6a2xhY0tyRXU2M01iTXZxOEpuVzlMRXJnMVdB?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "c554ec6974c474",
+      "title": "Rondom Ajax: Ajax hoort scheidsrechter voor uitduel met Feyenoord",
+      "category": "Wedstrijden",
+      "published": "2026-11-23T22:25:00+00:00",
+      "updated": "2026-11-23T22:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEtaZTdudVV4UFFjeTJkVHM0NVVTQkI5UEQ2NVFwRi0xc2pNZUw1TkJQRkRKZlJRRU51SThpZ0xrWGZ2cUdlUm9kejJGeEFqVnpXeTZCdzlWaFR3bVd2N1BoV0RYc2N6djJ5OGVUclNkNUhrR2ItYV9wbklTaTVjSUZsQ3VYZ1l5U2VxU3Y4eWJBTUdfQVNMN19HZlpTZzRKaUd3T2UyaUNpUnRkQlFzZWNoVjE5dw?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "6f858f805dd33b",
+      "title": "Rafael van der Vaart kraakt Ajax ondanks 3-0 overwinning",
+      "category": "Overig",
+      "published": "2026-11-23T22:25:00+00:00",
+      "updated": "2026-11-23T22:25:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVVMSG5nSHU4OHJCZDd2X0IxYTU2RmxjbUFLaFAxNHh1NGZuWlh6QU1VUXFRZWNNNzhEeEo5Z29lZEdadklMSmVveHl1M3pHV3g1VzBxX1ZfT0xWaGRJSjJKLVZxajRBQ0ZoODhmVlhBX1hTWmtEelE5b1ItdWJKeklrSGEyT2lXOFU3ZmZtamk2VThaUzk4ZndJbVNSZnNWeEhWVkJnSGs5cXBPZjFR?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
     {
       "id": "451626b04ab9f0",
       "title": "ABN AMRO staat voor terugkeer als hoofdsponsor van Ajax",
       "category": "Club",
       "published": "2026-11-23T20:40:00+00:00",
       "updated": "2026-11-23T22:23:08+00:00",
-      "source_count": 4,
+      "source_count": 3,
       "official_confirmation": false,
       "primary_source": {
         "name": "Voetbal International",
@@ -31,11 +137,6 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2VRUlR0d0pGNjYyV01iZzhDQ2JUdjU2Ti1FWW5HRDJ0MW8xUGlCSkxqWFVZVEFaRXMzRUpiWEE4Z0FGdl9qbHI5STkwa09uajZhVGR0WmZpZko1d3hJT2ZWdkw1YnN4YkN2UjdfNktjZC1PRDJ2akdsNmdlREg0bkZ3?oc=5",
           "via_google_news": true
-        },
-        {
-          "name": "AT5",
-          "url": "https://www.at5.nl/artikelen/241221/abn-amro-keert-hoogstwaarschijnlijk-terug-als-hoofdsponsor-van-ajax",
-          "via_google_news": false
         },
         {
           "name": "Ajax Showtime",
@@ -75,47 +176,6 @@
       "related_sources": []
     },
     {
-      "id": "d7283de0dee813",
-      "title": "Update: Ajax bevestigt 'verregaande onderhandelingen' met nieuwe hoofdsponsor",
-      "category": "Transfers",
-      "published": "2026-11-23T20:48:36+00:00",
-      "updated": "2026-11-23T22:10:01+00:00",
-      "source_count": 3,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2162205/ajax-dicht-bij-vijfjarige-sponsordeal-met-abn-amro-van-60-miljoen.html",
-        "via_google_news": false
-      },
-      "related_sources": [
-        {
-          "name": "NU.nl",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1dxYlVZckgzMjNFR1VzUHRXSlQ2R3h3MlphN0F5OExpMUNZQ1N3RjY4bUpUWkVIMkM5UVpzaWRCbkdSbGs1RGpZbUUxbG9MZkVfS1RJOFNmY2NRdUtGY3FmR2tKTW1hM0hZSk1NUTBtN2oxSVZBaEpnNWVJbUpmZ1dNd055QzBaZnI4N0JOV25wQnpUU19QSEZWRkNYaWFoNkdVekxyemxQVnlrQTBIT01pcUxka1lO?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "Voetbalzone",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHdGdE1ya2QzcThQX01ERW5heEU2RlY0NHBheEhndGwtRFZRV0Uxd244MHRCQnZkZTktOHdDQnp1TDRBcll3ZDNrNFg0VGRSZ09vWHZXcjdTRWtTSWdZbnI3d3BiTFJPWEVoQnRUYzZQdjdPRnJEbU83Z09vNkhUTGJfdjFwYnNYMDZGQUdnNjFNaV95Smk4NHNFVUk3cEtZalYwTEFNQnp4VWVw?oc=5",
-          "via_google_news": true
-        }
-      ]
-    },
-    {
-      "id": "2450ed561647e7",
-      "title": "García over de wil om bij Ajax te spelen: \"Ik denk dat dit de mentaliteit moet zijn\"",
-      "category": "Overig",
-      "published": "2026-11-23T22:09:22+00:00",
-      "updated": "2026-11-23T22:09:22+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHg1ZXIteVRRLWNlX09FdzJhX3BlZ2Q1c05wVy1jMFhRaUZ0VUhBWVRpTU00X3RfSXo0TjQ5YnBNWFJLS2szaDcwRU5KbWx5RDc2ZXZfSmpmVDVPT3RyNzZvdENCYTIyY2ZDQlBzeTV4UnR2M1AxM0tla2cwQ01nZWZzUE0xdXVDemFFZF9ldFRhN1BXMU5KOWNtMkphd2lCSHAxMjVndzBLdndGQm85WHBZUGM1M25qX3hrSjJQU3lURnFS?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "440002efef4d48",
       "title": "'Ajax moet wéér vrezen voor Newcastle: Engelse club scout volgende verdediger'",
       "category": "Selectie",
@@ -131,11 +191,32 @@
       "related_sources": []
     },
     {
+      "id": "d7283de0dee813",
+      "title": "Update: Ajax bevestigt 'verregaande onderhandelingen' met nieuwe hoofdsponsor",
+      "category": "Transfers",
+      "published": "2026-11-23T20:48:36+00:00",
+      "updated": "2026-11-23T21:22:23+00:00",
+      "source_count": 2,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2162205/ajax-dicht-bij-vijfjarige-sponsordeal-met-abn-amro-van-60-miljoen.html",
+        "via_google_news": false
+      },
+      "related_sources": [
+        {
+          "name": "Voetbalzone",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHdGdE1ya2QzcThQX01ERW5heEU2RlY0NHBheEhndGwtRFZRV0Uxd244MHRCQnZkZTktOHdDQnp1TDRBcll3ZDNrNFg0VGRSZ09vWHZXcjdTRWtTSWdZbnI3d3BiTFJPWEVoQnRUYzZQdjdPRnJEbU83Z09vNkhUTGJfdjFwYnNYMDZGQUdnNjFNaV95Smk4NHNFVUk3cEtZalYwTEFNQnp4VWVw?oc=5",
+          "via_google_news": true
+        }
+      ]
+    },
+    {
       "id": "3b43ce20e92b4b",
       "title": "Jong PSV wint doelpuntenfestijn, Jong Ajax zet ongeslagen reeks voort",
       "category": "Jong Ajax",
-      "published": "2026-11-23T21:08:02+00:00",
-      "updated": "2026-11-23T21:08:02+00:00",
+      "published": "2026-11-23T21:09:57+00:00",
+      "updated": "2026-11-23T21:09:57+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
@@ -146,32 +227,32 @@
       "related_sources": []
     },
     {
-      "id": "9e620ac2613c3d",
+      "id": "058bfdfb0f79df",
       "title": "Jong Ajax maakt na rust het verschil tegen Jong AZ - Ajax",
       "category": "Jong Ajax",
-      "published": "2026-11-23T20:58:31+00:00",
-      "updated": "2026-11-23T20:58:31+00:00",
+      "published": "2026-11-23T21:01:46+00:00",
+      "updated": "2026-11-23T21:01:46+00:00",
       "source_count": 1,
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUtfRk1yUERjVHB0UEZaQ2NIaUtVTDNybmNYVFZWQTZlajRuMEJPVW9pWWJIYjJKTHYtWk51WXJLSFk0NzdDTTJxRjhvZUI0ZXluNEEtdl9kUm1IdG1vaUFudHV3MThWVk80dC0yWDZxQmNtb2J3MVdXUzFOQ3hXRjhvT1gxNWNz?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUtSbURWMTdfamdOdk1vVEN1RnpESkhKdktMTFJvTHpjQkpBTlEwTGJMV3ZoMnkwNFFDRWRoMC10bWtkZDFnR0VIVkJFLWRHZnJWM2FXa3lHejF0SEZMUXJjWTFQcTdBSXNRSkswbXhyWVF5eEpESHJTYWxrMjZpaGVCZkE5MWM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
     },
     {
-      "id": "6d8caa4bc31224",
-      "title": "ABN Amro keert na bijna twintig jaar terug als hoofdsponsor Ajax",
-      "category": "Wedstrijden",
-      "published": "2026-11-23T20:54:00+00:00",
-      "updated": "2026-11-23T20:54:00+00:00",
+      "id": "603928cd2d72b6",
+      "title": "Jong Ajax wint eenvoudig en ruim van Jong AZ",
+      "category": "Jong Ajax",
+      "published": "2026-11-23T20:53:00+00:00",
+      "updated": "2026-11-23T20:53:00+00:00",
       "source_count": 1,
       "official_confirmation": false,
       "primary_source": {
-        "name": "AD",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFhRRDJMVk9adkRkeW9vUXk0VmNKekZuUkcxVDRRNEEtdUZwYlBxMGR2YXVTZDJueW8taUhrOE5HOWZmUmhOaDVSM2tlLUsxV292NXZqMWpjYWNiSlEtMGpvZ2ZNcGhrQzdMSGFvRldZRmtMbmc3UWFhOHVZM3dBUlhSMGVhNTB5WG1VTDFPeXB4Q1FFQzZNdnRhdzRTYzJmcEE?oc=5",
-        "via_google_news": true
+        "name": "Ajax.supporters.nl",
+        "url": "https://ajax.supporters.nl/nieuws/artikel/56159/Jong-Ajax-wint-eenvoudig-en-ruim-van-Jong-AZ",
+        "via_google_news": false
       },
       "related_sources": []
     },
@@ -266,21 +347,6 @@
       "related_sources": []
     },
     {
-      "id": "17e9d23b1a96c8",
-      "title": "Voetbalzone Team van de Week: naast Davy Klaassen nog een uitblinker van Ajax",
-      "category": "Selectie",
-      "published": "2026-11-23T18:04:00+00:00",
-      "updated": "2026-11-23T18:04:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUNRZE1uNkpOSFo1VWVBUEZfQWVKMEF4VlhrdlJLdEhkTDI3ZGI1OWRab3U5UUdjOUYtYUtkM180R0NQMEV2V2N5VXRZTlVsdWhSRUl1Ui1LbERzSklCeVRsSU1yRER6aDNqWDVhYkw3NFpLbVAtN245RWZwbkhNZ0ktd1JPN3pYa2tQRU1rSXRVSHJndWZNVTFGNVJ0T0I2M3o0SVVNNWNlaTZTOGp6a2xhY0tyRXU2M01iTXZxOEpuVzlMRXJnMVdB?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
       "id": "39196a847d20fd",
       "title": "Valentijn Driessen totaal verbijsterd: 'Waar is de speler van Ajax gebleven?'",
       "category": "Overig",
@@ -352,7 +418,7 @@
       "related_sources": []
     },
     {
-      "id": "4aa07b5c5ba5df",
+      "id": "ae3db62398c972",
       "title": "Ajax Insights: Bissouma verbinder op het middenveld - Ajax",
       "category": "Overig",
       "published": "2026-11-23T15:58:11+00:00",
@@ -361,7 +427,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVYzWkIxeUhMN0o5OHFoRGQySXpwcG00MFJaVkwzLUtRM19QSklnaEhMbVVDam83aE1WdzFaUjV0dkJMMUtVZnpOTTNzV3hvRHAyTmFRQmE1aGw4MWhNeWtHYm5TZlZDaUFBRHFQVm10S0FzY3hsT1lGVWFIdG9ETVB4N19tbUlI?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZWtOX0pwUUp2ZU53MFo5MUdvMl81THc1clVpbFY2QUpEQ0NvMkc2X0JZQXlGVlIyY2w3R0oyMHpOT3RjM0J3a3k0RVljU2pFZjZTcnVJaVEzLTk5cURMUlA3bHgxTmZYYzlyck0wZVIwU1FrYWc4V3Bzai1NNHpnNEQtMjB3UnM?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -383,36 +449,31 @@
     },
     {
       "id": "535240a8b74c31",
-      "title": "Mokio laat van zich horen na Ajax-blessure: 'Minor setback, major comeback'",
+      "title": "Ajax-trainer Míchel Sánchez: \"Blessure Mokio lijkt ernstig\"",
       "category": "Blessures",
       "published": "2026-11-22T16:14:27+00:00",
       "updated": "2026-11-23T15:28:11+00:00",
-      "source_count": 5,
+      "source_count": 4,
       "official_confirmation": false,
       "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2162020/mokio-blijft-strijdbaar-na-ajax-blessure-minor-setback.html",
-        "via_google_news": false
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnc0THZudi1scW9ybUdEeGlhclBsQXlLckt4bldpbU1CYkEwN2JTLTRxQl9tNjJIc3NqT2oxMXNMRExKS3BMb213SHpnMWREZ29TZ3FpRm9QeVota3FrV2dJUUZ0cjdpX2JtQ1E1N0N4Nk9XN2RLUlpJb3FWZ3RCX1Eydzhmbm1JVDZsc1RiaVo4MThjV21hS1luTGx1X2lHOE9xdFZR?oc=5",
+        "via_google_news": true
       },
       "related_sources": [
         {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnc0THZudi1scW9ybUdEeGlhclBsQXlLckt4bldpbU1CYkEwN2JTLTRxQl9tNjJIc3NqT2oxMXNMRExKS3BMb213SHpnMWREZ29TZ3FpRm9QeVota3FrV2dJUUZ0cjdpX2JtQ1E1N0N4Nk9XN2RLUlpJb3FWZ3RCX1Eydzhmbm1JVDZsc1RiaVo4MThjV21hS1luTGx1X2lHOE9xdFZR?oc=5",
-          "via_google_news": true
+          "name": "VoetbalPrimeur",
+          "url": "https://www.voetbalprimeur.nl/nieuws/2162020/mokio-blijft-strijdbaar-na-ajax-blessure-minor-setback.html",
+          "via_google_news": false
         },
         {
-          "name": "Ajax Showtime",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1BpTkJnZnlkSHIwQ0dYdXNZMkxzWVBjeXQ4M0N4UFdLNzBDYkpXRTZ6eHlpVUxEODZxZU8wekVyOEtiamd0bXBobGllU0tKYW9rWVBOaU1RN1FRZHhFbFpBZzVNcXZ0SXFTZGNUTk4wX29zS0tpcDlodWM4UjBOZ1hKNFRIUVBnR1hHcm00R3dyLXFOcldSQ1BBUTlqZkQxOEdGRkVmdGVWNEJTeXRTM3U4WQ?oc=5",
+          "name": "AD",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa296UlNtTVd5WnFlT09YZjZ0elp6QXg2UFVvM0dQQUJmUHNhMngzYzFEX01nRDY4b2tELVRDcUxhTGJEM2ZRT1UyeVBwbTA1NUpaVVVSX0ZmM2p6OS1DSUU3S2ZlT3NlLXVVN0hDUjQ2RjdYWjM3dnQtN3pyVjZTUklmOVo2cTNaTC1zMllGaW1qbEJlbngxRWRtWG5HUTA1SW9pMllPTG1tQlBTckxmSlhZUkhZQ1RCWFdpWlZUenY?oc=5",
           "via_google_news": true
         },
         {
           "name": "FCUpdate",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWtWeV9wcnpvc3VfdDJ6aHhmTGVneVN0d0FPajRFOG9GS3hYMWZLWnhrS1NLT3B5QkpPOGZQUjNycFVLM3I0Wk5RV0dyVlp5TW4xT1dPcDZzTmFWV0ExN0JpYWFQUURDdkpKcnNyQkhRNTlXamxRd3BXbGRBUkNHbjliNnJxSXBOYUFOSQ?oc=5",
-          "via_google_news": true
-        },
-        {
-          "name": "AD",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa296UlNtTVd5WnFlT09YZjZ0elp6QXg2UFVvM0dQQUJmUHNhMngzYzFEX01nRDY4b2tELVRDcUxhTGJEM2ZRT1UyeVBwbTA1NUpaVVVSX0ZmM2p6OS1DSUU3S2ZlT3NlLXVVN0hDUjQ2RjdYWjM3dnQtN3pyVjZTUklmOVo2cTNaTC1zMllGaW1qbEJlbngxRWRtWG5HUTA1SW9pMllPTG1tQlBTckxmSlhZUkhZQ1RCWFdpWlZUenY?oc=5",
           "via_google_news": true
         }
       ]
@@ -594,6 +655,21 @@
       "related_sources": []
     },
     {
+      "id": "c746555bb362ef",
+      "title": "Negentig minuten lang: Ajax - ADO Den Haag - Ajax",
+      "category": "Overig",
+      "published": "2026-11-23T09:39:11+00:00",
+      "updated": "2026-11-23T09:39:11+00:00",
+      "source_count": 1,
+      "official_confirmation": true,
+      "primary_source": {
+        "name": "Ajax.nl",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBndzFEc3ZFQzNmWHA4ZHFsREVaajFmcUwtX19GZlcyLVYzTlY0Q0RLSHZPX0c2Ym10NjVjZWhDY1VZcF9lRUhSQll4LWVTZ3RDb2hNRWxmT1RuRzhzd3ZrdjRhWGlWakVkMUtxWTRQWUFkVDZjSS1XcA?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
       "id": "bedda59a300723",
       "title": "Ajax moet Jorthy Mokio voorlopig missen: heeft de club wel een een-op-een vervanger?",
       "category": "Overig",
@@ -604,81 +680,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnJRSDZkWWdGU3BiZW85T3l6Nm12S01lR2dDN3NCTW5iMUVFTDZWaWQ4azdkMXBmeDdWM1N6bWFwSTZGME5xaFFMUzhHaVBTeTFycXBvSTZxUUJIN1ZvcVY3SGJYSExvRWVDY3V0aGhHQ3p0b1dmSnRKZF9GRTVDdmdlQ1I3dG5ZV1B4cTBvYUZ3TnJZVTVCcWx2T2hTd2FoTHdZc0RMYVFvcmlRZ3hPcmpwNDRPeWs?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "50a376398f4acd",
-      "title": "Betrouwbare leider Dušan Tadić vierde successen in Amsterdam - Ajax",
-      "category": "Overig",
-      "published": "2026-11-23T09:09:59+00:00",
-      "updated": "2026-11-23T09:09:59+00:00",
-      "source_count": 1,
-      "official_confirmation": true,
-      "primary_source": {
-        "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlVQME9JeGp6aExob285Yl9GZXg5RmhNNGpKNUV2YXAxaDU3ZkVYSnhSRVl5Z3RsYTJfMHRMZldEV0xrc3YwNXdkRnRyVkxlT1hoX0NUOWJMRnV5WWsweUpST2owRm1YbGt3MWhJUF9Qa0xGc1RfS2NiMzJqU1hJMmxZTXI4SkpzeUFCbVdiekdwWWlv?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "5fb827d2d477c2",
-      "title": "Klaassen ziet teamgenoot 'grote stappen' maken bij Ajax: 'En hoe oud is hij?'",
-      "category": "Overig",
-      "published": "2026-11-23T09:07:27+00:00",
-      "updated": "2026-11-23T09:07:27+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2161848/klaassen-en-michel-prijzen-mokio-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ece52063bf3d8a",
-      "title": "Klassieker tussen Feyenoord en Ajax zondag voor meeste mensen gratis te zien",
-      "category": "Overig",
-      "published": "2026-11-23T09:01:20+00:00",
-      "updated": "2026-11-23T09:01:20+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbal International",
-        "url": "https://www.vi.nl/nieuws/klassieker-tussen-feyenoord-en-ajax-zondag-voor-meeste-mensen-gratis-te-zien",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "a5117bcc8617f9",
-      "title": "Ajax en Feyenoord zorgen voor opvallende 'aardverschuiving' in Eredivisie: 'Wetende dat..'",
-      "category": "Wedstrijden",
-      "published": "2026-11-23T08:54:01+00:00",
-      "updated": "2026-11-23T08:54:01+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDBqZlloamp6OVJMSnR5d21XeldSUEpod0xHZ2FqamFtblZqX1ExTm1ZaVpSTWNNS1piZ1JuYjhPRVNUM1RoQi1GeWJUWjNna2pLcERrNWdlRVRpUmdUZmV6M01LcnctNEtYNDZkeTdyOU80SGtRX1NSVFpHUWlsZmVCNkJPNWxHcFRRMG1wSHNQMXAy?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "97b662cbddb210",
-      "title": "Woede om harde overtreding op Mokio bij Ajax – ADO: 'Schorsen die gast!'",
-      "category": "Overig",
-      "published": "2026-11-23T08:23:21+00:00",
-      "updated": "2026-11-23T08:23:21+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Voetbalzone",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORC0ySXhublkwMU1wOEVVTEozeVlOUTFid1pTc2xnMDNwNnpKMkZlQXVaVlNDRTdiYzd1dDRqWG5xNWczaDIzM1RpcUE1YXJYeDZCWjFuOVRLUThKWHVzcVVIejNtWldHVnFrSFNFbGdtNzRHS2cySUd6emhBNXR0cWFDVmVyMUhkN295MFZHOUpPSXJZUG8wemVoZUEyZXFKVy1YRzJPdk9JbXZUVFBCeG9CRHBaYkdKVkE1LQ?oc=5",
         "via_google_news": true
       },
       "related_sources": []
