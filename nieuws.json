@@ -1,20 +1,50 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T22:36:28.589625+00:00",
+    "generated_at": "2026-11-26T04:29:33.705794+00:00",
     "generator": "Ajax Nieuws collector 1.7",
-    "article_count": 100,
+    "article_count": 99,
     "event_count": 40,
     "discovered_event_count": 78,
     "source_count": 12,
     "feed_error_count": 0,
     "excluded_paywall_count": 105,
-    "excluded_video_only_count": 24,
+    "excluded_video_only_count": 60,
     "max_age_hours": 48,
     "note": "Onafhankelijke nieuwsaggregator. Niet verbonden aan AFC Ajax."
   },
   "events": [
     {
-      "id": "07e2ec2efd487c",
+      "id": "7d32da6401e078",
+      "title": "'Ajax-spits Tolu is net als een basketballer onder de basket die alles erin knalt'",
+      "category": "Selectie",
+      "published": "2026-11-25T22:52:09+00:00",
+      "updated": "2026-11-25T22:52:09+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "VoetbalPrimeur",
+        "url": "https://www.voetbalprimeur.nl/nieuws/2163098/youri-mulder-vergelijkt-tolu-met-een-basketballer.html",
+        "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "e579fa8a8cd515",
+      "title": "Ünüvar kijkt niet te ver vooruit: 'Natuurlijk hoop ik in Ajax 1 te komen, maar stap voor stap'",
+      "category": "Overig",
+      "published": "2026-11-25T21:45:00+00:00",
+      "updated": "2026-11-25T21:45:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Ajax Showtime",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQamJuYllJOG4xS3lzQ2ZjS2VRa0FDazFaRFZleFBwQkFUa3dobTk5TzFWV2lZLTFhay1DdVkzdUVhTFJBYXlWbTB1MGZUdUlMak1keVBUdENmOVp2bVN1ZS1ITnBUdFpxVFExWnF1NnRVSkNGUjZCN2VmbFF0NkpMR2NpZ290OFZENnRkcTB5azNsY0tzTHpuOU8yNEw4U2xIRURDdlMtaGRFS21DeFk3UkotZ3dYeHByZkxSaXdYUXhNVmRsQVdBMTBocVNuRFp3dmIxTVpzaW4?oc=5",
+        "via_google_news": true
+      },
+      "related_sources": []
+    },
+    {
+      "id": "a93ecc8b4413f4",
       "title": "Sánchez en Amrabat over FC Thun: 'competitief en gefocust zijn' - Ajax",
       "category": "Overig",
       "published": "2026-11-25T20:58:46+00:00",
@@ -23,7 +53,7 @@
       "official_confirmation": true,
       "primary_source": {
         "name": "Ajax.nl",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGVPUjcySXpVZk0tZGxFZTF5Z0JaQklFZEVrTHlHQTdINVI3S2RMY1lBZXY0dGxrTDNtZXVVTnpWcVNaTDVLTGJ3cmdrcUUzZWw4RXJLa2d6U1EweFFUYXJPbHJmMWM3RlYzczBBaXNITW95V0R5TWtVaWdsakRQZ3JSNFJiYnE0WC16cVJ4SG16UkYxSkE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmZxMG1ZQkhicHRBU3BVam5qdjdKdFg1QUNmUVZyd1UwQjFFcU9iMlJySFR3T0VaX0pmeWJLLW92dk96ZXQ5Ui1pQUttT0NkdUxVak41TmpvcnAyV3dfVFpiLWpDTld5UXUwZXhwWVAwcUZxbzBfYkVEU2Q1WEY4TWxnN1p3SV95NHlmSXBxMHAtcHlF?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -96,6 +126,21 @@
         "name": "AT5",
         "url": "https://www.at5.nl/artikelen/241256/goed-ingepakte-ajax-spelers-bereiden-zich-voor-op-fc-thun-wil-geen-pijn-aan-de-handjes",
         "via_google_news": false
+      },
+      "related_sources": []
+    },
+    {
+      "id": "862c705ad53330",
+      "title": "Generale repetitie voor Amsterdammers in de Conference League!",
+      "category": "Wedstrijden",
+      "published": "2026-11-25T19:00:00+00:00",
+      "updated": "2026-11-25T19:00:00+00:00",
+      "source_count": 1,
+      "official_confirmation": false,
+      "primary_source": {
+        "name": "Voetbalzone",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVk3cUt6NEVBTS1IeU50RFZ4bWdaeE5EcVZCU1RCY3gyaXFNSHJpeGlSUEJ4dG1HSzFFRmNmU2F1RDN4S0p3ekh1WWIyMkhtNENzSWRWTkx6cTN1aE5xc0U3ZmIzWDdNc3U1cjRwWEdwaENkMzhkeHRLdURjdUc5Qk5kNHlsMEFnZVZGbkUwdjNZWkJGQjdwVDJocHJnOXFHMlNHZVF6X1VubjNoenA4THFOWHB6QQ?oc=5",
+        "via_google_news": true
       },
       "related_sources": []
     },
@@ -317,21 +362,6 @@
       "primary_source": {
         "name": "NU.nl",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3JkZG93ekxmX29sYm5CLU1rMU5wN1Y1WVhvU2hYRFNMQXVvMDE0REh2Q0piSGlZS2o4UzBqVXk0VzZfbktjVkxpNmRULTgtRXRvMGhZYnZnSVItLVdWSktQQ0dwaExMYkprd1Vja2hXVGhCN0g2bmZKSHR1bjNlY2JaOS02RzYydUpEQWIweHc0ZWRNSFNtOHhrTktvbHdZS0J4OTMxal9EV2ZwTFZmQVg2a3cydW8?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "6b658e064a5873",
-      "title": "Geelen blij met 'perfecte match' ABN AMRO; Ajax-directeur geeft al iets weg over nieuwe thuisshirt",
-      "category": "Club",
-      "published": "2026-11-25T15:40:00+00:00",
-      "updated": "2026-11-25T15:40:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "Ajax Showtime",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0xaUlVQX2hWNEhwc1lxTXVqSXVnSlNCZkFBTE80aDQ0OWJoWUtIc0loU1o0WHQwa2tQeW5XVkJRVkM5bkNWNFRZQ0xfR3BQQVhJZHJBS1JjSUxiSUFVWGtiSkpBWG5WOE1pUWNKa0hNZ3NWNzZRWWZGdzlobFVWeFZxRmtSOHAyaEUteVZNQl9yYUIxMFZoeGZWQnlyNnBKc00tTnN4ei1zM3V3alQwcnRJU0xtN3Jo?oc=5",
         "via_google_news": true
       },
       "related_sources": []
@@ -608,36 +638,6 @@
       "primary_source": {
         "name": "Ajax Showtime",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcE93VUxzYjBaTUxXdlpPMmFfczAwZmc3b1VGaXpqek1SQnpyLS1WOWh5Y3had2hmcjJQeTlUQ1FmckxzQTZLYzJ2LWFvQlpZSXItbTFnTHNQdmI5Slo3M1dpUHdfdklPNUxTbGo0Y3gwQy03ekE2VDBlMEVUOFZ0YWpCTmo1SHJtTGhoVjZSX3BKNEQyNXpiYjNYQVpuSHc2ckVFQXlEdUhSY2VrYmF4Nm8tR19qMDN4NGJ4SXVVaU51R2g0NXhkNTZSMWI2b2hWMWJxb29OSWF1X3M?oc=5",
-        "via_google_news": true
-      },
-      "related_sources": []
-    },
-    {
-      "id": "ec3e791bba6705",
-      "title": "Dubbele opsteker uit de ziekenboeg voor Ajax: tweetal is op de weg terug",
-      "category": "Wedstrijden",
-      "published": "2026-11-25T10:44:37+00:00",
-      "updated": "2026-11-25T10:44:37+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "VoetbalPrimeur",
-        "url": "https://www.voetbalprimeur.nl/nieuws/2162802/adingra-en-tsygankov-trainen-weer-mee-bij-ajax.html",
-        "via_google_news": false
-      },
-      "related_sources": []
-    },
-    {
-      "id": "dc8b57805e3454",
-      "title": "Shaqueel van Persie is duidelijk en deelt waarschuwing uit aan Ajax",
-      "category": "Overig",
-      "published": "2026-11-25T10:44:00+00:00",
-      "updated": "2026-11-25T10:44:00+00:00",
-      "source_count": 1,
-      "official_confirmation": false,
-      "primary_source": {
-        "name": "FCUpdate",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdF9pbFpxTU41N24xMTJ1MHRFeU41dXRyMWx1UmZFMmQ5WnRwX1BwRm5RejJmZ0xnakxrd1V5Ujd6enB4UElwa0pLWXhXRkh6QVMzQWFobU15N3QteXJ4c2ZxemdXMG42WDRJTnB3MFlKX1VYX0N1Y1hPYi16b1lXSkt1N3NqbkRz?oc=5",
         "via_google_news": true
       },
       "related_sources": []
